@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/80f425f2-2106-4648-962e-88aecd8df51e.jpg", 
+   "width": 30, 
+   "id": 104608, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/19512c6b-e210-48ce-b6dc-29dbe183c2b7.jpg", 
+   "width": 60, 
+   "id": 104609, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/19512c6b-e210-48ce-b6dc-29dbe183c2b7.jpg", 
+   "id": 104609
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "plastic-operator", 
+   "id": 10863, 
+   "name": "Plastic Operator"
+  }
+ ], 
+ "duration": {
+  "minutes": "3:39", 
+  "milliseconds": 219226
+ }, 
+ "id": 299473, 
+ "genres": [
+  {
+   "slug": "electronica-downtempo", 
+   "id": 3, 
+   "name": "Electronica / Downtempo"
+  }
+ ], 
+ "title": "Why Don't You? (Original Mix)", 
+ "label": {
+  "slug": "fine-day-records", 
+  "id": 5775, 
+  "name": "Fine Day Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/f9d63f57-bc66-4ecf-b368-be2f684f7eae.LOFI.mp4", 
+   "offset": {
+    "start": 87690, 
+    "end": 207690
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/f9d63f57-bc66-4ecf-b368-be2f684f7eae.LOFI.mp3", 
+   "offset": {
+    "start": 87690, 
+    "end": 207690
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F maj", 
+ "date": {
+  "released": "2007-05-18", 
+  "published": "2007-05-18"
+ }, 
+ "active": true, 
+ "slug": "why-dont-you-original-mix", 
+ "preorder": false, 
+ "name": "Why Don't You?", 
+ "component_type": null, 
+ "bpm": 113, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "different-places", 
+  "id": 57278, 
+  "name": "Different Places"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/0e0fffa0-6edf-4c1a-8e31-e444dffb05a0.png", 
+   "width": 1500, 
+   "id": 2537620, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

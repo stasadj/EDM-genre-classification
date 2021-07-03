@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/50f88fea-797d-49a6-9314-054aff735ae3.jpg", 
+   "width": 500, 
+   "id": 5882702, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/ab433f0b-9785-4b4c-a437-caaf54bd86a4.jpg", 
+   "width": 30, 
+   "id": 5882700, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/ac3bc067-e165-42ce-9282-b9cae14222a4.jpg", 
+   "width": 60, 
+   "id": 5882701, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/50f88fea-797d-49a6-9314-054aff735ae3.jpg", 
+   "id": 5882702
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "whydyem", 
+   "id": 284220, 
+   "name": "Whydyem"
+  }
+ ], 
+ "duration": {
+  "minutes": "4:33", 
+  "milliseconds": 273601
+ }, 
+ "id": 3737315, 
+ "genres": [
+  {
+   "slug": "drum-and-bass", 
+   "id": 1, 
+   "name": "Drum & Bass"
+  }
+ ], 
+ "title": "Forgotten Souls (Original Mix)", 
+ "label": {
+  "slug": "dream-machine", 
+  "id": 24984, 
+  "name": "Dream Machine"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/eadfb81a-044b-4139-ad42-764694efc30a.LOFI.mp3", 
+   "offset": {
+    "start": 109440, 
+    "end": 229704
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F maj", 
+ "date": {
+  "released": "2012-09-01", 
+  "published": "2012-09-01"
+ }, 
+ "active": true, 
+ "slug": "forgotten-souls-original-mix", 
+ "preorder": false, 
+ "name": "Forgotten Souls", 
+ "component_type": null, 
+ "bpm": 100, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "in-loving-memory", 
+  "id": 957869, 
+  "name": "In Loving Memory"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/b41fb4c2-80e5-4866-b3a7-4237e9382f6a.png", 
+   "width": 1500, 
+   "id": 5884332, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/b41fb4c2-80e5-4866-b3a7-4237e9382f6a.png", 
+   "id": 5884332
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

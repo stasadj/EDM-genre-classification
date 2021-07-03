@@ -1,0 +1,133 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/180d554a-3206-4bdf-9604-8113794645b8.jpg", 
+   "width": 30, 
+   "id": 104746, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/ca5c572d-f44e-464b-9798-f2950f655563.jpg", 
+   "width": 60, 
+   "id": 104747, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/ca5c572d-f44e-464b-9798-f2950f655563.jpg", 
+   "id": 104747
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "starecase", 
+   "id": 2175, 
+   "name": "Starecase"
+  }
+ ], 
+ "duration": {
+  "minutes": "10:00", 
+  "milliseconds": 600333
+ }, 
+ "id": 299834, 
+ "genres": [
+  {
+   "slug": "progressive-house", 
+   "id": 15, 
+   "name": "Progressive House"
+  }
+ ], 
+ "title": "See (Timo Maas Remix)", 
+ "label": {
+  "slug": "hope-recordings", 
+  "id": 235, 
+  "name": "Hope Recordings"
+ }, 
+ "mix": "Timo Maas Remix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/4967edda-7c28-4962-b3f8-02f69ab57fb6.LOFI.mp4", 
+   "offset": {
+    "start": 240133, 
+    "end": 360133
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/4967edda-7c28-4962-b3f8-02f69ab57fb6.LOFI.mp3", 
+   "offset": {
+    "start": 240133, 
+    "end": 360133
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "timo-maas", 
+   "id": 2640, 
+   "name": "Timo Maas"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.56", 
+  "value": 1.56
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C\u266f maj", 
+ "date": {
+  "released": "2002-07-29", 
+  "published": "2002-07-29"
+ }, 
+ "active": true, 
+ "slug": "see-timo-maas-remix", 
+ "preorder": false, 
+ "name": "See", 
+ "component_type": null, 
+ "bpm": 127, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "see", 
+  "id": 57344, 
+  "name": "See"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/059ad32c-c6d3-44be-a5c7-3d5df84fd071.png", 
+   "width": 1500, 
+   "id": 2234095, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

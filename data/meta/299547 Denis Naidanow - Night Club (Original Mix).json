@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/8e070351-d871-4289-b0ca-c7b752f9e418.jpg", 
+   "width": 30, 
+   "id": 104630, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/262aae3e-30b8-404b-8ff1-4a75343e7922.jpg", 
+   "width": 60, 
+   "id": 104631, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/262aae3e-30b8-404b-8ff1-4a75343e7922.jpg", 
+   "id": 104631
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "denis-naidanow", 
+   "id": 9661, 
+   "name": "Denis Naidanow"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:28", 
+  "milliseconds": 448560
+ }, 
+ "id": 299547, 
+ "genres": [
+  {
+   "slug": "house", 
+   "id": 5, 
+   "name": "House"
+  }
+ ], 
+ "title": "Night Club (Original Mix)", 
+ "label": {
+  "slug": "chateau-funk", 
+  "id": 4813, 
+  "name": "Chateau Funk"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/8e892af1-8b30-4a42-bd9d-d51ba819b602.LOFI.mp4", 
+   "offset": {
+    "start": 179424, 
+    "end": 299424
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/8e892af1-8b30-4a42-bd9d-d51ba819b602.LOFI.mp3", 
+   "offset": {
+    "start": 179424, 
+    "end": 299424
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A maj", 
+ "date": {
+  "released": "2002-09-16", 
+  "published": "2002-09-16"
+ }, 
+ "active": true, 
+ "slug": "night-club-original-mix", 
+ "preorder": false, 
+ "name": "Night Club", 
+ "component_type": null, 
+ "bpm": 130, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "pavillon-rouge", 
+  "id": 57289, 
+  "name": "Pavillon Rouge"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/bf041e59-9632-4c62-b790-439d69890740.png", 
+   "width": 1500, 
+   "id": 2234574, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

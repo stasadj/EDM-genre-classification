@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/e0e10619-4f25-4bdd-bee7-4979589b5286.jpg", 
+   "width": 500, 
+   "id": 4005845, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/a5a7be2f-01da-475c-9ef3-a72b50b9a3a3.jpg", 
+   "width": 30, 
+   "id": 4005843, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/0c7e9c16-36e5-4309-9579-4e86937edb10.jpg", 
+   "width": 60, 
+   "id": 4005844, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/e0e10619-4f25-4bdd-bee7-4979589b5286.jpg", 
+   "id": 4005845
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "jaunty-beatz", 
+   "id": 172603, 
+   "name": "Jaunty Beatz"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:53", 
+  "milliseconds": 413257
+ }, 
+ "id": 2702217, 
+ "genres": [
+  {
+   "slug": "drum-and-bass", 
+   "id": 1, 
+   "name": "Drum & Bass"
+  }
+ ], 
+ "title": "Invader From Outer Space (Special Long Version)", 
+ "label": {
+  "slug": "quebolarecords", 
+  "id": 12373, 
+  "name": "Quebolarecords"
+ }, 
+ "mix": "Special Long Version", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/04c36fcc-65bf-41c4-b437-d445276d90e0.LOFI.mp3", 
+   "offset": {
+    "start": 165302, 
+    "end": 285376
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C\u266f maj", 
+ "date": {
+  "released": "2011-10-29", 
+  "published": "2011-10-29"
+ }, 
+ "active": true, 
+ "slug": "invader-from-outer-space-special-long-version", 
+ "preorder": false, 
+ "name": "Invader From Outer Space", 
+ "component_type": null, 
+ "bpm": 169, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "sweep-the-drum-and-bass", 
+  "id": 673556, 
+  "name": "Sweep The Drum & Bass"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/399fe665-8f05-43bf-9cc9-74d066f4e8ef.png", 
+   "width": 1500, 
+   "id": 4011368, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/399fe665-8f05-43bf-9cc9-74d066f4e8ef.png", 
+   "id": 4011368
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

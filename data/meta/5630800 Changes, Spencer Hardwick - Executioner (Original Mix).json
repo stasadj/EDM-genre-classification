@@ -1,0 +1,132 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/c26ad3dc-ab12-47fb-8866-cd3bfca975d4.jpg", 
+   "width": 500, 
+   "id": 9802040, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/31be9f3a-e768-4954-808f-c77b2c791674.jpg", 
+   "width": 30, 
+   "id": 8927424, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/55814d16-a83e-4616-88a9-f09673d666c9.jpg", 
+   "width": 60, 
+   "id": 8927425, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/c26ad3dc-ab12-47fb-8866-cd3bfca975d4.jpg", 
+   "id": 9802040
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "changes", 
+   "id": 307490, 
+   "name": "Changes"
+  }, 
+  {
+   "slug": "spencer-hardwick", 
+   "id": 391153, 
+   "name": "Spencer Hardwick"
+  }
+ ], 
+ "duration": {
+  "minutes": "8:56", 
+  "milliseconds": 536484
+ }, 
+ "id": 5630800, 
+ "genres": [
+  {
+   "slug": "psy-trance", 
+   "id": 13, 
+   "name": "Psy-Trance"
+  }
+ ], 
+ "title": "Executioner (Original Mix)", 
+ "label": {
+  "slug": "tangled-audio", 
+  "id": 38564, 
+  "name": "Tangled Audio"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/c4449131-708b-4ce4-a969-aaf018f55a8f.LOFI.mp4", 
+   "offset": {
+    "start": 214593, 
+    "end": 334593
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/c4449131-708b-4ce4-a969-aaf018f55a8f.LOFI.mp3", 
+   "offset": {
+    "start": 214593, 
+    "end": 334593
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "B maj", 
+ "date": {
+  "released": "2014-07-28", 
+  "published": "2014-07-28"
+ }, 
+ "active": true, 
+ "slug": "executioner-original-mix", 
+ "preorder": false, 
+ "name": "Executioner", 
+ "component_type": null, 
+ "bpm": 136, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "executioner", 
+  "id": 1343926, 
+  "name": "Executioner"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/0dc6e20f-8128-4a44-9946-af4f347f87ff.png", 
+   "width": 1500, 
+   "id": 9802840, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/0dc6e20f-8128-4a44-9946-af4f347f87ff.png", 
+   "id": 9802840
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

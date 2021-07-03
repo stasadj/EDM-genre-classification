@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/e94b24b6-c9bb-46a3-8a40-882124a891dd.jpg", 
+   "width": 30, 
+   "id": 103600, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/a5e6dcd9-ca97-4c31-9372-8c0ade40c2f2.jpg", 
+   "width": 60, 
+   "id": 103601, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/a5e6dcd9-ca97-4c31-9372-8c0ade40c2f2.jpg", 
+   "id": 103601
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "goldfish-und-der-dulz", 
+   "id": 6508, 
+   "name": "Goldfish Und Der Dulz"
+  }
+ ], 
+ "duration": {
+  "minutes": "8:42", 
+  "milliseconds": 522266
+ }, 
+ "id": 297534, 
+ "genres": [
+  {
+   "slug": "techno", 
+   "id": 6, 
+   "name": "Techno"
+  }
+ ], 
+ "title": "Closer (Original Mix)", 
+ "label": {
+  "slug": "boxer-recordings", 
+  "id": 1465, 
+  "name": "Boxer Recordings"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/03e69a84-f99c-40f4-a738-25dc3f5e997a.LOFI.mp4", 
+   "offset": {
+    "start": 208906, 
+    "end": 328906
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/03e69a84-f99c-40f4-a738-25dc3f5e997a.LOFI.mp3", 
+   "offset": {
+    "start": 208906, 
+    "end": 328906
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D\u266f maj", 
+ "date": {
+  "released": "2007-05-20", 
+  "published": "2007-05-20"
+ }, 
+ "active": true, 
+ "slug": "closer-original-mix", 
+ "preorder": false, 
+ "name": "Closer", 
+ "component_type": null, 
+ "bpm": 124, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "closer", 
+  "id": 56874, 
+  "name": "Closer"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/aac2a09f-4f81-4dda-937a-639cbe0dbab2.png", 
+   "width": 1500, 
+   "id": 2237349, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

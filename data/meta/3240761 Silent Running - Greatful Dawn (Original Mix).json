@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/540291e4-0ef9-4dc1-901e-33822b39928c.jpg", 
+   "width": 500, 
+   "id": 4910479, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/67818b4b-9e37-4f2b-8543-4294e0596d6b.jpg", 
+   "width": 30, 
+   "id": 4910477, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/3c639fa0-fae8-48ef-b573-267e7af6f74f.jpg", 
+   "width": 60, 
+   "id": 4910478, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/540291e4-0ef9-4dc1-901e-33822b39928c.jpg", 
+   "id": 4910479
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "silent-running", 
+   "id": 152783, 
+   "name": "Silent Running"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:50", 
+  "milliseconds": 470539
+ }, 
+ "id": 3240761, 
+ "genres": [
+  {
+   "slug": "electronica-downtempo", 
+   "id": 3, 
+   "name": "Electronica / Downtempo"
+  }
+ ], 
+ "title": "Greatful Dawn (Original Mix)", 
+ "label": {
+  "slug": "wakyo-records", 
+  "id": 3715, 
+  "name": "Wakyo Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/d4fc7ad6-824a-46a3-beed-5f89237ec893.LOFI.mp3", 
+   "offset": {
+    "start": 188215, 
+    "end": 308352
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A\u266f maj", 
+ "date": {
+  "released": "2012-02-08", 
+  "published": "2012-02-08"
+ }, 
+ "active": true, 
+ "slug": "greatful-dawn-original-mix", 
+ "preorder": false, 
+ "name": "Greatful Dawn", 
+ "component_type": null, 
+ "bpm": 102, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "amethyst-eyes", 
+  "id": 860240, 
+  "name": "Amethyst Eyes"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/adcb55e0-e5b1-418c-9ada-49d9b5aafe87.png", 
+   "width": 1500, 
+   "id": 4911493, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/adcb55e0-e5b1-418c-9ada-49d9b5aafe87.png", 
+   "id": 4911493
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

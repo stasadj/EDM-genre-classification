@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/afe2bbc8-7302-43db-83dd-160c74cb8598.jpg", 
+   "width": 500, 
+   "id": 7295772, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/e57ea6b6-c634-487b-bb6a-fb2776dd3784.jpg", 
+   "width": 30, 
+   "id": 7295770, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/328601b2-caf0-4c3a-a901-9734e036dd9d.jpg", 
+   "width": 60, 
+   "id": 7295771, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/afe2bbc8-7302-43db-83dd-160c74cb8598.jpg", 
+   "id": 7295772
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "bk", 
+   "id": 4336, 
+   "name": "BK"
+  }
+ ], 
+ "duration": {
+  "minutes": "8:41", 
+  "milliseconds": 521351
+ }, 
+ "id": 4334231, 
+ "genres": [
+  {
+   "slug": "hard-dance", 
+   "id": 8, 
+   "name": "Hard Dance"
+  }
+ ], 
+ "title": "Playing With Knives (Original Mix)", 
+ "label": {
+  "slug": "traffic-records", 
+  "id": 2267, 
+  "name": "Traffic Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/e48a3011-7da3-4d09-8f73-365935083cca.LOFI.mp4", 
+   "offset": {
+    "start": 208540, 
+    "end": 328540
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/e48a3011-7da3-4d09-8f73-365935083cca.LOFI.mp3", 
+   "offset": {
+    "start": 208540, 
+    "end": 328540
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D maj", 
+ "date": {
+  "released": "2013-05-06", 
+  "published": "2013-05-06"
+ }, 
+ "active": true, 
+ "slug": "playing-with-knives-original-mix", 
+ "preorder": false, 
+ "name": "Playing With Knives", 
+ "component_type": null, 
+ "bpm": 142, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "biggest-baddest-hard-dance-volume-1", 
+  "id": 1078580, 
+  "name": "Biggest Baddest Hard Dance Volume 1"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/087ec1ea-cc85-41c6-85dd-f614951ccde0.png", 
+   "width": 1500, 
+   "id": 7295846, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/087ec1ea-cc85-41c6-85dd-f614951ccde0.png", 
+   "id": 7295846
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

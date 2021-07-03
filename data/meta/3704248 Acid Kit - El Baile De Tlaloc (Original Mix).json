@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/8c619ec6-f227-4ca6-94a5-643eeb3941f1.jpg", 
+   "width": 500, 
+   "id": 5821564, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/ee8b0f47-843f-4c6b-ba81-6f15a3b6e89c.jpg", 
+   "width": 30, 
+   "id": 5821562, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/69fb6cb9-e606-4f26-af4f-0286b78ece52.jpg", 
+   "width": 60, 
+   "id": 5821563, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/8c619ec6-f227-4ca6-94a5-643eeb3941f1.jpg", 
+   "id": 5821564
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "acid-kit", 
+   "id": 77624, 
+   "name": "Acid Kit"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:13", 
+  "milliseconds": 433763
+ }, 
+ "id": 3704248, 
+ "genres": [
+  {
+   "slug": "minimal-deep-tech", 
+   "id": 14, 
+   "name": "Minimal / Deep Tech"
+  }
+ ], 
+ "title": "El Baile De Tlaloc (Original Mix)", 
+ "label": {
+  "slug": "we-love-techno", 
+  "id": 26569, 
+  "name": "We Love Techno"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/8f72a139-cd23-4893-9f2b-cb76740291fe.LOFI.mp3", 
+   "offset": {
+    "start": 173505, 
+    "end": 293716
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A maj", 
+ "date": {
+  "released": "2012-08-16", 
+  "published": "2012-08-16"
+ }, 
+ "active": true, 
+ "slug": "el-baile-de-tlaloc-original-mix", 
+ "preorder": false, 
+ "name": "El Baile De Tlaloc", 
+ "component_type": null, 
+ "bpm": 124, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "el-baile-de-tlaloc", 
+  "id": 951667, 
+  "name": "El Baile De Tlaloc"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/0cd5b831-267b-4b9f-bd28-22f19071f53a.png", 
+   "width": 1500, 
+   "id": 5822376, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/0cd5b831-267b-4b9f-bd28-22f19071f53a.png", 
+   "id": 5822376
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

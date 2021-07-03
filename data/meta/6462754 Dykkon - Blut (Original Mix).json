@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/b022d95d-d660-483a-a05d-eacb80dcded7.jpg", 
+   "width": 500, 
+   "id": 11237926, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/13eb0e81-c580-4617-81fb-1599a49f5887.jpg", 
+   "width": 30, 
+   "id": 9592382, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/844594ae-54f5-404f-96ec-a6b44a94d86b.jpg", 
+   "width": 60, 
+   "id": 9592383, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/b022d95d-d660-483a-a05d-eacb80dcded7.jpg", 
+   "id": 11237926
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "dykkon", 
+   "id": 405572, 
+   "name": "Dykkon"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:36", 
+  "milliseconds": 396190
+ }, 
+ "id": 6462754, 
+ "genres": [
+  {
+   "slug": "techno", 
+   "id": 6, 
+   "name": "Techno"
+  }
+ ], 
+ "title": "Blut (Original Mix)", 
+ "label": {
+  "slug": "reload-black-label", 
+  "id": 41625, 
+  "name": "Reload Black Label"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/96c016ea-56e8-40f7-a836-68a9d2951965.LOFI.mp4", 
+   "offset": {
+    "start": 158476, 
+    "end": 278476
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/96c016ea-56e8-40f7-a836-68a9d2951965.LOFI.mp3", 
+   "offset": {
+    "start": 158476, 
+    "end": 278476
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A\u266f maj", 
+ "date": {
+  "released": "2015-05-11", 
+  "published": "2015-05-11"
+ }, 
+ "active": true, 
+ "slug": "blut-original-mix", 
+ "preorder": false, 
+ "name": "Blut", 
+ "component_type": null, 
+ "bpm": 126, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "diagnostic-ep", 
+  "id": 1494654, 
+  "name": "Diagnostic EP"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/83ffd513-4eb1-4f14-91b3-00bc2efe2f40.png", 
+   "width": 1500, 
+   "id": 11238038, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/83ffd513-4eb1-4f14-91b3-00bc2efe2f40.png", 
+   "id": 11238038
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

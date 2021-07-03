@@ -1,0 +1,133 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/d3929daa-9d6f-4131-b7a4-fdfb79b8c693.jpg", 
+   "width": 500, 
+   "id": 12925947, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/2f6f6a3e-6730-4cdd-a63d-61d9bfdfc4f1.jpg", 
+   "width": 30, 
+   "id": 491534, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/ac4edcbf-8823-46d1-89f0-cadee2cc7d29.jpg", 
+   "width": 60, 
+   "id": 12925945, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/d3929daa-9d6f-4131-b7a4-fdfb79b8c693.jpg", 
+   "id": 12925947
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "dj-icey", 
+   "id": 11440, 
+   "name": "DJ Icey"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:12", 
+  "milliseconds": 372626
+ }, 
+ "id": 297890, 
+ "genres": [
+  {
+   "slug": "electro-house", 
+   "id": 17, 
+   "name": "Electro House"
+  }
+ ], 
+ "title": "What It Is (Jokkumm La Coste Mix)", 
+ "label": {
+  "slug": "zone-records", 
+  "id": 1565, 
+  "name": "Zone Records"
+ }, 
+ "mix": "Jokkumm La Coste Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/2c9b58a5-cf3c-4bab-a122-1885cd5f8f58.LOFI.mp4", 
+   "offset": {
+    "start": 149050, 
+    "end": 269050
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/2c9b58a5-cf3c-4bab-a122-1885cd5f8f58.LOFI.mp3", 
+   "offset": {
+    "start": 149050, 
+    "end": 269050
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "jokkumm-la-coste", 
+   "id": 40423, 
+   "name": "Jokkumm La Coste"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F maj", 
+ "date": {
+  "released": "2007-05-29", 
+  "published": "2007-05-29"
+ }, 
+ "active": true, 
+ "slug": "what-it-is-jokkumm-la-coste-mix", 
+ "preorder": false, 
+ "name": "What It Is", 
+ "component_type": null, 
+ "bpm": 129, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "zone-077", 
+  "id": 56969, 
+  "name": "Zone 077"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/a7f3c211-7f48-4d55-9635-ac3193b2d5d7.png", 
+   "width": 1500, 
+   "id": 2236761, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/a7f3c211-7f48-4d55-9635-ac3193b2d5d7.png", 
+   "id": 2236761
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

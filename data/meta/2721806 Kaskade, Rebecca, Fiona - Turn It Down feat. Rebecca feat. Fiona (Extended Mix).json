@@ -1,0 +1,134 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/392806ac-cbd2-4650-92d3-4b67f0d7c6af.jpg", 
+   "width": 500, 
+   "id": 4046005, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/79eb9c3b-b295-467f-8cc3-1d8b0650fca5.jpg", 
+   "width": 30, 
+   "id": 4046003, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/498b550a-30c1-4825-9c33-4f32c06d184d.jpg", 
+   "width": 60, 
+   "id": 4046004, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/392806ac-cbd2-4650-92d3-4b67f0d7c6af.jpg", 
+   "id": 4046005
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "kaskade", 
+   "id": 370, 
+   "name": "Kaskade"
+  }, 
+  {
+   "slug": "rebecca", 
+   "id": 18582, 
+   "name": "Rebecca"
+  }, 
+  {
+   "slug": "fiona", 
+   "id": 57877, 
+   "name": "Fiona"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:06", 
+  "milliseconds": 426140
+ }, 
+ "id": 2721806, 
+ "genres": [
+  {
+   "slug": "big-room", 
+   "id": 79, 
+   "name": "Big Room"
+  }
+ ], 
+ "title": "Turn It Down feat. Rebecca feat. Fiona (Extended Mix)", 
+ "label": {
+  "slug": "ultra", 
+  "id": 907, 
+  "name": "Ultra"
+ }, 
+ "mix": "Extended Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/d7c29219-ae26-4f5b-89d5-4649d77dec79.LOFI.mp3", 
+   "offset": {
+    "start": 170456, 
+    "end": 290495
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "G\u266f maj", 
+ "date": {
+  "released": "2011-09-13", 
+  "published": "2011-09-13"
+ }, 
+ "active": true, 
+ "slug": "turn-it-down-feat-rebecca-feat-fiona-extended-mix", 
+ "preorder": false, 
+ "name": "Turn It Down feat. Rebecca feat. Fiona", 
+ "component_type": null, 
+ "bpm": 127, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "turn-it-down-with-rebecca-and-fiona", 
+  "id": 680241, 
+  "name": "Turn It Down (with Rebecca & Fiona)"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/9ecccc14-ec6e-49a6-b1c2-2be7760f0114.png", 
+   "width": 1500, 
+   "id": 4046052, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/9ecccc14-ec6e-49a6-b1c2-2be7760f0114.png", 
+   "id": 4046052
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

@@ -1,0 +1,130 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/c0f284c5-cc38-4f3f-9265-7736bd379924.jpg", 
+   "width": 500, 
+   "id": 5877056, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/ad553a15-9782-45cb-9e76-c221dba6014b.jpg", 
+   "width": 30, 
+   "id": 5877054, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/1326c7db-1745-4092-94b6-026fa7318bb5.jpg", 
+   "width": 60, 
+   "id": 5877055, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/c0f284c5-cc38-4f3f-9265-7736bd379924.jpg", 
+   "id": 5877056
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "nathan-hadley", 
+   "id": 196959, 
+   "name": "Nathan Hadley"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:46", 
+  "milliseconds": 346874
+ }, 
+ "id": 3733853, 
+ "genres": [
+  {
+   "slug": "electro-house", 
+   "id": 17, 
+   "name": "Electro House"
+  }
+ ], 
+ "title": "Monster (Ryan R Remix)", 
+ "label": {
+  "slug": "nu-style-records", 
+  "id": 13822, 
+  "name": "Nu Style Records"
+ }, 
+ "mix": "Ryan R Remix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/1bec19e3-ddd1-493e-bce8-7490ebc80e90.LOFI.mp3", 
+   "offset": {
+    "start": 138749, 
+    "end": 259052
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "ryan-r", 
+   "id": 196583, 
+   "name": "Ryan R"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C maj", 
+ "date": {
+  "released": "2012-08-27", 
+  "published": "2012-08-27"
+ }, 
+ "active": true, 
+ "slug": "monster-ryan-r-remix", 
+ "preorder": false, 
+ "name": "Monster", 
+ "component_type": null, 
+ "bpm": 128, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "monster", 
+  "id": 957113, 
+  "name": "Monster"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/26d68b8f-bd30-4fdc-9085-17452cda5c0a.png", 
+   "width": 1500, 
+   "id": 5877846, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/26d68b8f-bd30-4fdc-9085-17452cda5c0a.png", 
+   "id": 5877846
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

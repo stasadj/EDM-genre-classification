@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/290f9f06-2c88-48f1-8311-241daaee4f9d.jpg", 
+   "width": 500, 
+   "id": 10867008, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/2f6f6a3e-6730-4cdd-a63d-61d9bfdfc4f1.jpg", 
+   "width": 30, 
+   "id": 491534, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/7ef48869-125e-4177-96fa-68000347200f.jpg", 
+   "width": 60, 
+   "id": 16177026, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/290f9f06-2c88-48f1-8311-241daaee4f9d.jpg", 
+   "id": 10867008
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "fractal-architect", 
+   "id": 404882, 
+   "name": "Fractal Architect"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:28", 
+  "milliseconds": 448780
+ }, 
+ "id": 6247002, 
+ "genres": [
+  {
+   "slug": "progressive-house", 
+   "id": 15, 
+   "name": "Progressive House"
+  }
+ ], 
+ "title": "Skysurfing (Original Mix)", 
+ "label": {
+  "slug": "abstract-space-records", 
+  "id": 37225, 
+  "name": "Abstract Space Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/e988875c-f415-4941-a274-8d4dc75364a4.LOFI.mp4", 
+   "offset": {
+    "start": 179512, 
+    "end": 299512
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/e988875c-f415-4941-a274-8d4dc75364a4.LOFI.mp3", 
+   "offset": {
+    "start": 179512, 
+    "end": 299512
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "G\u266f maj", 
+ "date": {
+  "released": "2015-02-04", 
+  "published": "2015-02-04"
+ }, 
+ "active": true, 
+ "slug": "skysurfing-original-mix", 
+ "preorder": false, 
+ "name": "Skysurfing", 
+ "component_type": null, 
+ "bpm": 123, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "supernova-1-0", 
+  "id": 1455733, 
+  "name": "Supernova 1.0"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/4d2aefcb-dd4f-4665-bf32-a668c28690b7.png", 
+   "width": 1500, 
+   "id": 10867016, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/4d2aefcb-dd4f-4665-bf32-a668c28690b7.png", 
+   "id": 10867016
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

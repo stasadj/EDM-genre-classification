@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/1362bd9d-8805-40a5-a72b-3472addcaa65.jpg", 
+   "width": 30, 
+   "id": 103832, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/97ebea28-4efd-4fe0-9a97-544844965d5b.jpg", 
+   "width": 60, 
+   "id": 103833, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/97ebea28-4efd-4fe0-9a97-544844965d5b.jpg", 
+   "id": 103833
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "atnarko", 
+   "id": 132, 
+   "name": "Atnarko"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:16", 
+  "milliseconds": 376346
+ }, 
+ "id": 298080, 
+ "genres": [
+  {
+   "slug": "tech-house", 
+   "id": 11, 
+   "name": "Tech House"
+  }
+ ], 
+ "title": "Don\u2019t Ya Know (Original Mix)", 
+ "label": {
+  "slug": "nightshift-recordings", 
+  "id": 1503, 
+  "name": "Nightshift Recordings"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/07af7363-8151-4a6f-ba64-ccf294deabd9.LOFI.mp4", 
+   "offset": {
+    "start": 150538, 
+    "end": 270538
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/07af7363-8151-4a6f-ba64-ccf294deabd9.LOFI.mp3", 
+   "offset": {
+    "start": 150538, 
+    "end": 270538
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A\u266f maj", 
+ "date": {
+  "released": "2007-05-18", 
+  "published": "2007-05-18"
+ }, 
+ "active": true, 
+ "slug": "don-t-ya-know-original-mix", 
+ "preorder": false, 
+ "name": "Don\u2019t Ya Know", 
+ "component_type": null, 
+ "bpm": 124, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "dont-ya-know", 
+  "id": 57017, 
+  "name": "Don't Ya Know"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/81dcb488-448b-47d5-bef3-a7cceff177a1.png", 
+   "width": 1500, 
+   "id": 2236435, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

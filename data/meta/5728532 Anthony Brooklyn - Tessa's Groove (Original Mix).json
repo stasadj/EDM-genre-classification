@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/2949383e-c88d-4f6b-b066-d8c97b600d6d.jpg", 
+   "width": 500, 
+   "id": 9967065, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/aa8811c2-bf41-49c2-9b67-df3c5b4b17ec.jpg", 
+   "width": 30, 
+   "id": 5214933, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/092594cc-fe30-488e-98ac-0ce4d0b03518.jpg", 
+   "width": 60, 
+   "id": 5214934, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/2949383e-c88d-4f6b-b066-d8c97b600d6d.jpg", 
+   "id": 9967065
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "anthony-brooklyn", 
+   "id": 428775, 
+   "name": "Anthony Brooklyn"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:48", 
+  "milliseconds": 348035
+ }, 
+ "id": 5728532, 
+ "genres": [
+  {
+   "slug": "deep-house", 
+   "id": 12, 
+   "name": "Deep House"
+  }
+ ], 
+ "title": "Tessa's Groove (Original Mix)", 
+ "label": {
+  "slug": "tomorrow-is-now-kid!", 
+  "id": 20498, 
+  "name": "Tomorrow Is Now, Kid!"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/2f54ae5f-f3e2-4eaf-a55e-e64db9854a5f.LOFI.mp4", 
+   "offset": {
+    "start": 139214, 
+    "end": 259214
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/2f54ae5f-f3e2-4eaf-a55e-e64db9854a5f.LOFI.mp3", 
+   "offset": {
+    "start": 139214, 
+    "end": 259214
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A maj", 
+ "date": {
+  "released": "2014-09-22", 
+  "published": "2014-09-22"
+ }, 
+ "active": true, 
+ "slug": "tessas-groove-original-mix", 
+ "preorder": false, 
+ "name": "Tessa's Groove", 
+ "component_type": null, 
+ "bpm": 122, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "in-my-ghetto", 
+  "id": 1363042, 
+  "name": "In My Ghetto"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ae33cfcc-d26d-4aba-9d76-b716f56fcf91.png", 
+   "width": 1500, 
+   "id": 9967116, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/ae33cfcc-d26d-4aba-9d76-b716f56fcf91.png", 
+   "id": 9967116
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

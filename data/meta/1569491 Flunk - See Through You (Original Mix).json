@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/6c78f60d-42ec-49c6-a3e5-082f5d7f5190.jpg", 
+   "width": 500, 
+   "id": 889001, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/140b3d65-4be0-4ea6-a35a-a041019821e8.jpg", 
+   "width": 30, 
+   "id": 888999, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/a241266b-14ee-4a83-8645-ebf67d4fd762.jpg", 
+   "width": 60, 
+   "id": 889000, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/6c78f60d-42ec-49c6-a3e5-082f5d7f5190.jpg", 
+   "id": 889001
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "flunk", 
+   "id": 889, 
+   "name": "Flunk"
+  }
+ ], 
+ "duration": {
+  "minutes": "3:58", 
+  "milliseconds": 238866
+ }, 
+ "id": 1569491, 
+ "genres": [
+  {
+   "slug": "electronica-downtempo", 
+   "id": 3, 
+   "name": "Electronica / Downtempo"
+  }
+ ], 
+ "title": "See Through You (Original Mix)", 
+ "label": {
+  "slug": "beatservice", 
+  "id": 13335, 
+  "name": "Beatservice"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/4b77c48e-8b4e-4200-8f25-df2375bc2d7b.LOFI.mp3", 
+   "offset": {
+    "start": 95546, 
+    "end": 215982
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A\u266f maj", 
+ "date": {
+  "released": "2002-07-01", 
+  "published": "2002-07-01"
+ }, 
+ "active": true, 
+ "slug": "see-through-you-original-mix", 
+ "preorder": false, 
+ "name": "See Through You", 
+ "component_type": null, 
+ "bpm": 153, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "friendly-selection-vol-1", 
+  "id": 307839, 
+  "name": "Friendly Selection Vol.1"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/6c0a770a-4fb6-4c19-9a69-2be30295dad5.png", 
+   "width": 1500, 
+   "id": 1358490, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/6c0a770a-4fb6-4c19-9a69-2be30295dad5.png", 
+   "id": 1358490
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

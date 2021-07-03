@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/4f516851-0562-4796-9987-aad21b6dd19e.jpg", 
+   "width": 500, 
+   "id": 2917538, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/95f91714-16c0-4721-a402-9e82ce4dc551.jpg", 
+   "width": 30, 
+   "id": 2917536, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/d90062d5-9cf1-4efc-acd6-c1aabad84e78.jpg", 
+   "width": 60, 
+   "id": 2917537, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/4f516851-0562-4796-9987-aad21b6dd19e.jpg", 
+   "id": 2917538
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "chilled-cquence", 
+   "id": 197325, 
+   "name": "Chilled C'Quence"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:18", 
+  "milliseconds": 438012
+ }, 
+ "id": 1958760, 
+ "genres": [
+  {
+   "slug": "psy-trance", 
+   "id": 13, 
+   "name": "Psy-Trance"
+  }
+ ], 
+ "title": "Levels of Rythms (Original Mix)", 
+ "label": {
+  "slug": "spectral-records", 
+  "id": 17371, 
+  "name": "Spectral Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/3cb5f979-d166-4da4-8448-054276288719.LOFI.mp3", 
+   "offset": {
+    "start": 175204, 
+    "end": 295207
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A\u266f min", 
+ "date": {
+  "released": "2008-02-15", 
+  "published": "2008-02-15"
+ }, 
+ "active": true, 
+ "slug": "levels-of-rythms-original-mix", 
+ "preorder": false, 
+ "name": "Levels of Rythms", 
+ "component_type": null, 
+ "bpm": 125, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "collapsed-generations", 
+  "id": 380399, 
+  "name": "Collapsed Generations"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/0d68e13b-9319-4d7a-aa46-d4215ddbb7b0.png", 
+   "width": 1500, 
+   "id": 2917694, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/0d68e13b-9319-4d7a-aa46-d4215ddbb7b0.png", 
+   "id": 2917694
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

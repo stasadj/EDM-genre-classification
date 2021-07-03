@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/11018019-6323-4eb7-8a54-c7dfaca4cdf9.jpg", 
+   "width": 500, 
+   "id": 5842587, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/7fcaceff-b032-4742-86c0-7266e6ef6258.jpg", 
+   "width": 30, 
+   "id": 5842585, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/25d10c6f-6751-4309-8951-832be5ee259c.jpg", 
+   "width": 60, 
+   "id": 5842586, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/11018019-6323-4eb7-8a54-c7dfaca4cdf9.jpg", 
+   "id": 5842587
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "alexander-nedelenko", 
+   "id": 267134, 
+   "name": "Alexander Nedelenko"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:17", 
+  "milliseconds": 437066
+ }, 
+ "id": 3715704, 
+ "genres": [
+  {
+   "slug": "minimal-deep-tech", 
+   "id": 14, 
+   "name": "Minimal / Deep Tech"
+  }
+ ], 
+ "title": "Old Tree Play This (Original Mix)", 
+ "label": {
+  "slug": "kaze-records", 
+  "id": 24222, 
+  "name": "KAZE Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/c40de813-8153-409e-8b41-b525f99c35cd.LOFI.mp3", 
+   "offset": {
+    "start": 174826, 
+    "end": 294844
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A maj", 
+ "date": {
+  "released": "2012-08-31", 
+  "published": "2012-08-31"
+ }, 
+ "active": true, 
+ "slug": "old-tree-play-this-original-mix", 
+ "preorder": false, 
+ "name": "Old Tree Play This", 
+ "component_type": null, 
+ "bpm": 123, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "particle-wood-ep", 
+  "id": 953962, 
+  "name": "Particle Wood EP"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/04a4edb9-62d8-41fc-8cb2-54a1d7f515ad.png", 
+   "width": 1500, 
+   "id": 5844702, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/04a4edb9-62d8-41fc-8cb2-54a1d7f515ad.png", 
+   "id": 5844702
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

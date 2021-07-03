@@ -1,0 +1,133 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/4e1638ee-cf5a-4eff-a0af-ab02d1518c27.jpg", 
+   "width": 500, 
+   "id": 6177969, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/245e6342-3c98-44a8-b1c0-cb62e7521fac.jpg", 
+   "width": 30, 
+   "id": 20495, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/4b16e808-cfaa-4364-8a0e-f94941b024c9.jpg", 
+   "width": 60, 
+   "id": 4789, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/4e1638ee-cf5a-4eff-a0af-ab02d1518c27.jpg", 
+   "id": 6177969
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "neurotron", 
+   "id": 2383, 
+   "name": "Neurotron"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:09", 
+  "milliseconds": 369552
+ }, 
+ "id": 30278, 
+ "genres": [
+  {
+   "slug": "house", 
+   "id": 5, 
+   "name": "House"
+  }
+ ], 
+ "title": "Indigo (Alectric Mix)", 
+ "label": {
+  "slug": "night-drive-music", 
+  "id": 333, 
+  "name": "Night Drive Music"
+ }, 
+ "mix": "Alectric Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/3409ed16-9892-460b-8279-2fedb6332ffd.LOFI.mp4", 
+   "offset": {
+    "start": 147820, 
+    "end": 267820
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/3409ed16-9892-460b-8279-2fedb6332ffd.LOFI.mp3", 
+   "offset": {
+    "start": 147820, 
+    "end": 267820
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "alectric", 
+   "id": 3445, 
+   "name": "Alectric"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D maj", 
+ "date": {
+  "released": "2005-04-05", 
+  "published": "2005-04-05"
+ }, 
+ "active": true, 
+ "slug": "indigo-alectric-mix", 
+ "preorder": false, 
+ "name": "Indigo", 
+ "component_type": null, 
+ "bpm": 126, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "neurotron-indigo-remix-ep", 
+  "id": 5569, 
+  "name": "Neurotron - Indigo Remix EP"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/6d77111b-ac83-4180-a09e-52a4df5160a0.png", 
+   "width": 1500, 
+   "id": 2478569, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/6d77111b-ac83-4180-a09e-52a4df5160a0.png", 
+   "id": 2478569
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

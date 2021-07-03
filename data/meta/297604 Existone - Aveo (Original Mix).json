@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/cc3fee6a-5920-4f4d-af71-1e7d85cc8018.jpg", 
+   "width": 500, 
+   "id": 11334098, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/8f4ac427-5c0a-45a8-a9e6-d2d8f0c07172.jpg", 
+   "width": 30, 
+   "id": 103638, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/36011130-11e4-439b-ad11-14335f83a66a.jpg", 
+   "width": 60, 
+   "id": 103639, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/cc3fee6a-5920-4f4d-af71-1e7d85cc8018.jpg", 
+   "id": 11334098
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "existone", 
+   "id": 23541, 
+   "name": "Existone"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:38", 
+  "milliseconds": 458823
+ }, 
+ "id": 297604, 
+ "genres": [
+  {
+   "slug": "trance", 
+   "id": 7, 
+   "name": "Trance"
+  }
+ ], 
+ "title": "Aveo (Original Mix)", 
+ "label": {
+  "slug": "emotive-sounds", 
+  "id": 1695, 
+  "name": "Emotive Sounds"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/f2e68051-6576-421a-b0b0-d06630ab4ded.LOFI.mp4", 
+   "offset": {
+    "start": 183529, 
+    "end": 303529
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/f2e68051-6576-421a-b0b0-d06630ab4ded.LOFI.mp3", 
+   "offset": {
+    "start": 183529, 
+    "end": 303529
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A maj", 
+ "date": {
+  "released": "2007-05-17", 
+  "published": "2007-05-17"
+ }, 
+ "active": true, 
+ "slug": "aveo-original-mix", 
+ "preorder": false, 
+ "name": "Aveo", 
+ "component_type": null, 
+ "bpm": 136, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "aveo", 
+  "id": 56894, 
+  "name": "Aveo"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/fee3a4c8-c2ed-485c-8a4d-6b3921ec1268.png", 
+   "width": 1500, 
+   "id": 2237240, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/fee3a4c8-c2ed-485c-8a4d-6b3921ec1268.png", 
+   "id": 2237240
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

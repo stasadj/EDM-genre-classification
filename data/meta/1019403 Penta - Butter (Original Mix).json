@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/15193f3d-057b-4b57-8b41-7b8df4b283fa.jpg", 
+   "width": 500, 
+   "id": 536821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/e611a0a6-8383-4328-ad2d-197f3c4f0bad.jpg", 
+   "width": 30, 
+   "id": 536819, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/13a92b4c-8a39-42e6-9b45-856257cc89ab.jpg", 
+   "width": 60, 
+   "id": 536820, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/15193f3d-057b-4b57-8b41-7b8df4b283fa.jpg", 
+   "id": 536821
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "penta", 
+   "id": 18780, 
+   "name": "Penta"
+  }
+ ], 
+ "duration": {
+  "minutes": "8:39", 
+  "milliseconds": 519306
+ }, 
+ "id": 1019403, 
+ "genres": [
+  {
+   "slug": "psy-trance", 
+   "id": 13, 
+   "name": "Psy-Trance"
+  }
+ ], 
+ "title": "Butter (Original Mix)", 
+ "label": {
+  "slug": "avatar-records", 
+  "id": 4782, 
+  "name": "Avatar Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/84024911-524a-4fc9-8e2a-22bf42500595.LOFI.mp3", 
+   "offset": {
+    "start": 207722, 
+    "end": 327792
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A\u266f min", 
+ "date": {
+  "released": "2006-08-28", 
+  "published": "2006-08-28"
+ }, 
+ "active": true, 
+ "slug": "butter-original-mix", 
+ "preorder": false, 
+ "name": "Butter", 
+ "component_type": null, 
+ "bpm": 145, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "towards-the-one", 
+  "id": 205717, 
+  "name": "Towards The One"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/a4f74e15-e5b6-4627-a810-1855057c5729.png", 
+   "width": 1500, 
+   "id": 1565796, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/a4f74e15-e5b6-4627-a810-1855057c5729.png", 
+   "id": 1565796
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

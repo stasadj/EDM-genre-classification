@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/edced3b1-cf1d-4adf-8c41-4f59cfef8fa1.jpg", 
+   "width": 30, 
+   "id": 205598, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/3ed9422e-e850-4fd9-a83a-9390da553d42.jpg", 
+   "width": 60, 
+   "id": 205599, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/3ed9422e-e850-4fd9-a83a-9390da553d42.jpg", 
+   "id": 205599
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "rufige-kru", 
+   "id": 45781, 
+   "name": "Rufige Kru"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:27", 
+  "milliseconds": 447813
+ }, 
+ "id": 497517, 
+ "genres": [
+  {
+   "slug": "drum-and-bass", 
+   "id": 1, 
+   "name": "Drum & Bass"
+  }
+ ], 
+ "title": "Vip Riders Chost (The Origin) (Original Mix)", 
+ "label": {
+  "slug": "metalheadz", 
+  "id": 6564, 
+  "name": "Metalheadz"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/9145eeda-28ad-4e8a-ade3-788a42a54936.LOFI.mp4", 
+   "offset": {
+    "start": 179125, 
+    "end": 299125
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/9145eeda-28ad-4e8a-ade3-788a42a54936.LOFI.mp3", 
+   "offset": {
+    "start": 179125, 
+    "end": 299125
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.56", 
+  "value": 1.56
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D maj", 
+ "date": {
+  "released": "1996-01-01", 
+  "published": "1996-01-01"
+ }, 
+ "active": true, 
+ "slug": "vip-riders-chost-the-origin-original-mix", 
+ "preorder": false, 
+ "name": "Vip Riders Chost (The Origin)", 
+ "component_type": null, 
+ "bpm": 111, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "vip-riders-ghost-the-origin", 
+  "id": 97648, 
+  "name": "VIP Riders Ghost (The Origin)"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/9afbfddb-20de-49ad-bdaf-2cbe739fcb68.png", 
+   "width": 1500, 
+   "id": 2658628, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

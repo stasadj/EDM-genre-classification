@@ -1,0 +1,130 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/db559940-6152-485c-b528-6309a3a73444.jpg", 
+   "width": 500, 
+   "id": 2827258, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/26807eb6-0991-4b18-9fc2-1e0594609113.jpg", 
+   "width": 30, 
+   "id": 2827256, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/7038989a-1a79-4b64-9c6f-ec39a241626d.jpg", 
+   "width": 60, 
+   "id": 2827257, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/db559940-6152-485c-b528-6309a3a73444.jpg", 
+   "id": 2827258
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "starsystem", 
+   "id": 55007, 
+   "name": "Starsystem"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:10", 
+  "milliseconds": 430500
+ }, 
+ "id": 1905079, 
+ "genres": [
+  {
+   "slug": "house", 
+   "id": 5, 
+   "name": "House"
+  }
+ ], 
+ "title": "The Vibes (Simon Faz Ibiza Dub Mix)", 
+ "label": {
+  "slug": "prismatikone-records", 
+  "id": 13215, 
+  "name": "Prismatikone Records"
+ }, 
+ "mix": "Simon Faz Ibiza Dub Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/80ee92a9-44a6-4dae-85c8-d40bec710b17.LOFI.mp3", 
+   "offset": {
+    "start": 172200, 
+    "end": 292339
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "simon-faz", 
+   "id": 110090, 
+   "name": "Simon Faz"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A\u266f maj", 
+ "date": {
+  "released": "2011-05-24", 
+  "published": "2011-05-24"
+ }, 
+ "active": true, 
+ "slug": "the-vibes-simon-faz-ibiza-dub-mix", 
+ "preorder": false, 
+ "name": "The Vibes", 
+ "component_type": null, 
+ "bpm": 128, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "club-experience-session-three", 
+  "id": 369591, 
+  "name": "Club Experience Session Three"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/c02539ad-554b-40c2-ac33-4ee6a5334733.png", 
+   "width": 1500, 
+   "id": 2827285, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/c02539ad-554b-40c2-ac33-4ee6a5334733.png", 
+   "id": 2827285
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/38b6060d-e2dd-4966-b956-6f6697963dfb.jpg", 
+   "width": 30, 
+   "id": 103630, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/d8a38e09-229a-4633-b271-9fb5c37b0d69.jpg", 
+   "width": 60, 
+   "id": 103631, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/d8a38e09-229a-4633-b271-9fb5c37b0d69.jpg", 
+   "id": 103631
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "kelly-holiday", 
+   "id": 35276, 
+   "name": "Kelly Holiday"
+  }
+ ], 
+ "duration": {
+  "minutes": "8:53", 
+  "milliseconds": 533091
+ }, 
+ "id": 297579, 
+ "genres": [
+  {
+   "slug": "electro-house", 
+   "id": 17, 
+   "name": "Electro House"
+  }
+ ], 
+ "title": "Moscow Time (Electro Mix)", 
+ "label": {
+  "slug": "doctormusik-records", 
+  "id": 3633, 
+  "name": "Doctormusik Records"
+ }, 
+ "mix": "Electro Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/a2a0c1fa-e5f3-4c1d-bb79-b59ed589884c.LOFI.mp4", 
+   "offset": {
+    "start": 213236, 
+    "end": 333236
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/a2a0c1fa-e5f3-4c1d-bb79-b59ed589884c.LOFI.mp3", 
+   "offset": {
+    "start": 213236, 
+    "end": 333236
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A maj", 
+ "date": {
+  "released": "2007-05-17", 
+  "published": "2007-05-17"
+ }, 
+ "active": true, 
+ "slug": "moscow-time-electro-mix", 
+ "preorder": false, 
+ "name": "Moscow Time", 
+ "component_type": null, 
+ "bpm": 131, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "moscow-time", 
+  "id": 56889, 
+  "name": "Moscow Time"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/bf6e5bdc-f713-48f2-9997-0f3638d26e8d.png", 
+   "width": 1500, 
+   "id": 2237280, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/5d87008f-edb2-4786-b337-f36a36a0f179.jpg", 
+   "width": 500, 
+   "id": 4635902, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/c807aa94-ae4b-4fa1-a3ee-3ebfa21d1a63.jpg", 
+   "width": 30, 
+   "id": 4635900, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/52248cf1-51ca-4d8f-83e7-d510fb91e6a9.jpg", 
+   "width": 60, 
+   "id": 4635901, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/5d87008f-edb2-4786-b337-f36a36a0f179.jpg", 
+   "id": 4635902
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "douglas-palmer", 
+   "id": 99685, 
+   "name": "Douglas Palmer"
+  }
+ ], 
+ "duration": {
+  "minutes": "3:07", 
+  "milliseconds": 187385
+ }, 
+ "id": 3078576, 
+ "genres": [
+  {
+   "slug": "house", 
+   "id": 5, 
+   "name": "House"
+  }
+ ], 
+ "title": "Electronic (Sunset Mix Edit)", 
+ "label": {
+  "slug": "mental-madness-records", 
+  "id": 2690, 
+  "name": "Mental Madness Records"
+ }, 
+ "mix": "Sunset Mix Edit", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/e3db2b31-07d3-4b4c-b435-7c5ea0fa6b0b.LOFI.mp4", 
+   "offset": {
+    "start": 67385, 
+    "end": 187385
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/e3db2b31-07d3-4b4c-b435-7c5ea0fa6b0b.LOFI.mp3", 
+   "offset": {
+    "start": 67385, 
+    "end": 187385
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D maj", 
+ "date": {
+  "released": "2011-12-02", 
+  "published": "2011-12-02"
+ }, 
+ "active": true, 
+ "slug": "electronic-sunset-mix-edit", 
+ "preorder": false, 
+ "name": "Electronic", 
+ "component_type": null, 
+ "bpm": 126, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "bounce!-christmas-edition-vol-5-the-finest-in-house-electro-dance-and-trance", 
+  "id": 830571, 
+  "name": "Bounce! Christmas Edition Vol. 5 (The Finest in House, Electro, Dance & Trance)"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/0d52073e-ad2c-4997-bc3b-d6880c4b7838.png", 
+   "width": 1500, 
+   "id": 14802579, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/0d52073e-ad2c-4997-bc3b-d6880c4b7838.png", 
+   "id": 14802579
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

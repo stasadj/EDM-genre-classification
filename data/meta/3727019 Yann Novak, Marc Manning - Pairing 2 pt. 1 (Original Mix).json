@@ -1,0 +1,129 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/19d4ee47-b1f6-46e6-a7c8-a07c36107ae1.jpg", 
+   "width": 500, 
+   "id": 5860792, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/11475f91-e3f5-4bd6-a87a-0050826eb386.jpg", 
+   "width": 30, 
+   "id": 5860790, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/9d327913-94a1-4bab-9bb2-79992cd14862.jpg", 
+   "width": 60, 
+   "id": 5860791, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/19d4ee47-b1f6-46e6-a7c8-a07c36107ae1.jpg", 
+   "id": 5860792
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "yann-novak", 
+   "id": 128968, 
+   "name": "Yann Novak"
+  }, 
+  {
+   "slug": "marc-manning", 
+   "id": 283409, 
+   "name": "Marc Manning"
+  }
+ ], 
+ "duration": {
+  "minutes": "9:47", 
+  "milliseconds": 587186
+ }, 
+ "id": 3727019, 
+ "genres": [
+  {
+   "slug": "electronica-downtempo", 
+   "id": 3, 
+   "name": "Electronica / Downtempo"
+  }
+ ], 
+ "title": "Pairing 2 pt. 1 (Original Mix)", 
+ "label": {
+  "slug": "dragons-eye-recordings", 
+  "id": 21920, 
+  "name": "Dragon's Eye Recordings"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/18c4aa54-e234-4989-a3b5-ca4b40df6a50.LOFI.mp3", 
+   "offset": {
+    "start": 234874, 
+    "end": 354912
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D maj", 
+ "date": {
+  "released": "2011-04-01", 
+  "published": "2011-04-01"
+ }, 
+ "active": true, 
+ "slug": "pairing-2-pt-1-original-mix", 
+ "preorder": false, 
+ "name": "Pairing 2 pt. 1", 
+ "component_type": null, 
+ "bpm": 128, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "pairings", 
+  "id": 955836, 
+  "name": "Pairings"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/9fc24518-6243-4620-bda5-6750c658ae08.png", 
+   "width": 1500, 
+   "id": 5865024, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/9fc24518-6243-4620-bda5-6750c658ae08.png", 
+   "id": 5865024
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

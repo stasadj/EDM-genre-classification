@@ -1,0 +1,130 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/6858089e-ce16-4eb4-9d18-f08cfa1e509d.jpg", 
+   "width": 500, 
+   "id": 5478882, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/a46ae3ba-0582-4daf-bb12-513f74dba3e0.jpg", 
+   "width": 30, 
+   "id": 5478880, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/6644468b-4449-42d9-8578-50d4e454daaa.jpg", 
+   "width": 60, 
+   "id": 5478881, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/6858089e-ce16-4eb4-9d18-f08cfa1e509d.jpg", 
+   "id": 5478882
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "nickynutz", 
+   "id": 245767, 
+   "name": "Nickynutz"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:33", 
+  "milliseconds": 333913
+ }, 
+ "id": 3528734, 
+ "genres": [
+  {
+   "slug": "drum-and-bass", 
+   "id": 1, 
+   "name": "Drum & Bass"
+  }
+ ], 
+ "title": "Kill Dem Sound (The Mighty Dreadnaut Remix)", 
+ "label": {
+  "slug": "future-tone-recordings", 
+  "id": 21993, 
+  "name": "Future Tone Recordings"
+ }, 
+ "mix": "The Mighty Dreadnaut Remix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/26a9ec4d-2568-4299-92d5-cc673ea3d88a.LOFI.mp3", 
+   "offset": {
+    "start": 133565, 
+    "end": 253894
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "the-mighty-dreadnaut", 
+   "id": 267049, 
+   "name": "The Mighty Dreadnaut"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "B maj", 
+ "date": {
+  "released": "2012-07-09", 
+  "published": "2012-07-09"
+ }, 
+ "active": true, 
+ "slug": "kill-dem-sound-the-mighty-dreadnaut-remix", 
+ "preorder": false, 
+ "name": "Kill Dem Sound", 
+ "component_type": null, 
+ "bpm": 92, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "soundsystem-worldwide", 
+  "id": 917151, 
+  "name": "Soundsystem Worldwide"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/f453d7c8-e71a-4372-b894-dde68245c63f.png", 
+   "width": 1500, 
+   "id": 5482475, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/f453d7c8-e71a-4372-b894-dde68245c63f.png", 
+   "id": 5482475
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

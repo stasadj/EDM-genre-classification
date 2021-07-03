@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/79ff85b2-5ae5-4c19-a616-97f27178171b.jpg", 
+   "width": 500, 
+   "id": 946195, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/1a99e12f-8e80-4a96-a5fd-d63de3e7307b.jpg", 
+   "width": 30, 
+   "id": 946193, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/8707409a-59dc-4705-9e5d-335b980ee01d.jpg", 
+   "width": 60, 
+   "id": 946194, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/79ff85b2-5ae5-4c19-a616-97f27178171b.jpg", 
+   "id": 946195
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "marian-deckman", 
+   "id": 139384, 
+   "name": "Marian Deckman"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:43", 
+  "milliseconds": 343196
+ }, 
+ "id": 1660225, 
+ "genres": [
+  {
+   "slug": "electro-house", 
+   "id": 17, 
+   "name": "Electro House"
+  }
+ ], 
+ "title": "iFlash (Original Mix)", 
+ "label": {
+  "slug": "trident-music", 
+  "id": 11127, 
+  "name": "Trident Music"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/872c684b-6b2f-4a0a-a2ab-661a4351836b.LOFI.mp3", 
+   "offset": {
+    "start": 137278, 
+    "end": 257346
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F\u266f maj", 
+ "date": {
+  "released": "2011-01-24", 
+  "published": "2011-01-24"
+ }, 
+ "active": true, 
+ "slug": "iflash-original-mix", 
+ "preorder": false, 
+ "name": "iFlash", 
+ "component_type": null, 
+ "bpm": 128, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "best-of-2010", 
+  "id": 324495, 
+  "name": "Best of 2010"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/9762b14e-7239-499b-b500-50912692e2bc.png", 
+   "width": 1500, 
+   "id": 989053, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/9762b14e-7239-499b-b500-50912692e2bc.png", 
+   "id": 989053
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

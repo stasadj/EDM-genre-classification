@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/d1d1829d-edce-4fd3-8c76-4e06b81fa95a.jpg", 
+   "width": 500, 
+   "id": 8386660, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/46699535-4229-452e-9d44-cc5a8a69c498.jpg", 
+   "width": 30, 
+   "id": 8386658, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/3566d9b0-5c93-4cb6-850a-f4d97dc9e943.jpg", 
+   "width": 60, 
+   "id": 8386659, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/d1d1829d-edce-4fd3-8c76-4e06b81fa95a.jpg", 
+   "id": 8386660
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "whatshesaid", 
+   "id": 303520, 
+   "name": "Whatshesaid"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:41", 
+  "milliseconds": 401331
+ }, 
+ "id": 4838183, 
+ "genres": [
+  {
+   "slug": "deep-house", 
+   "id": 12, 
+   "name": "Deep House"
+  }
+ ], 
+ "title": "Music Makers (Original Mix)", 
+ "label": {
+  "slug": "get-physical-music", 
+  "id": 586, 
+  "name": "Get Physical Music"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/f96123cc-646f-4683-8c2b-bbcbf1651ffe.LOFI.mp4", 
+   "offset": {
+    "start": 160532, 
+    "end": 280532
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/f96123cc-646f-4683-8c2b-bbcbf1651ffe.LOFI.mp3", 
+   "offset": {
+    "start": 160532, 
+    "end": 280532
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F maj", 
+ "date": {
+  "released": "2013-11-08", 
+  "published": "2013-11-08"
+ }, 
+ "active": true, 
+ "slug": "music-makers-original-mix", 
+ "preorder": false, 
+ "name": "Music Makers", 
+ "component_type": null, 
+ "bpm": 116, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "get-physical-tracks-volume-4", 
+  "id": 1181844, 
+  "name": "Get Physical Tracks Volume 4"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/0460bf12-772d-4e9f-9fc0-6fe9bdf193b8.png", 
+   "width": 1500, 
+   "id": 8466083, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/0460bf12-772d-4e9f-9fc0-6fe9bdf193b8.png", 
+   "id": 8466083
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

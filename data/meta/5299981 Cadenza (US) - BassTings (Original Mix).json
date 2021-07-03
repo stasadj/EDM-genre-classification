@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/f4983d3c-c4a5-4051-a956-4a7501f0c38e.jpg", 
+   "width": 500, 
+   "id": 9236645, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/2f6f6a3e-6730-4cdd-a63d-61d9bfdfc4f1.jpg", 
+   "width": 30, 
+   "id": 491534, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/55b6063c-c8f7-4966-84dc-1d91a72ecf25.jpg", 
+   "width": 60, 
+   "id": 15038643, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/f4983d3c-c4a5-4051-a956-4a7501f0c38e.jpg", 
+   "id": 9236645
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "cadenza-us", 
+   "id": 399489, 
+   "name": "Cadenza (US)"
+  }
+ ], 
+ "duration": {
+  "minutes": "3:54", 
+  "milliseconds": 234870
+ }, 
+ "id": 5299981, 
+ "genres": [
+  {
+   "slug": "dubstep", 
+   "id": 18, 
+   "name": "Dubstep"
+  }
+ ], 
+ "title": "BassTings (Original Mix)", 
+ "label": {
+  "slug": "dubtrxx", 
+  "id": 29815, 
+  "name": "DUBTRXX"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/9b2c8fc6-5b44-44da-aa61-cc0490e58c72.LOFI.mp4", 
+   "offset": {
+    "start": 93948, 
+    "end": 213948
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/9b2c8fc6-5b44-44da-aa61-cc0490e58c72.LOFI.mp3", 
+   "offset": {
+    "start": 93948, 
+    "end": 213948
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "G maj", 
+ "date": {
+  "released": "2014-04-02", 
+  "published": "2014-04-02"
+ }, 
+ "active": true, 
+ "slug": "basstings-original-mix", 
+ "preorder": false, 
+ "name": "BassTings", 
+ "component_type": null, 
+ "bpm": 140, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "basstings", 
+  "id": 1275199, 
+  "name": "BassTings"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ba7ed47c-ef67-4f1a-a346-9044b701758e.png", 
+   "width": 1500, 
+   "id": 9238507, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/ba7ed47c-ef67-4f1a-a346-9044b701758e.png", 
+   "id": 9238507
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

@@ -1,0 +1,133 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/d79bc646-89d3-47e3-b6dc-28528bbc9af6.jpg", 
+   "width": 500, 
+   "id": 10713564, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/3699343c-9070-4d38-9308-58b607295290.jpg", 
+   "width": 30, 
+   "id": 9589078, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/bc5fbcff-fdb0-49f3-ab14-087f25756ea7.jpg", 
+   "width": 60, 
+   "id": 9589079, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/d79bc646-89d3-47e3-b6dc-28528bbc9af6.jpg", 
+   "id": 10713564
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "ryan-starbuck", 
+   "id": 426405, 
+   "name": "Ryan Starbuck"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:42", 
+  "milliseconds": 342742
+ }, 
+ "id": 6165907, 
+ "genres": [
+  {
+   "slug": "trance", 
+   "id": 7, 
+   "name": "Trance"
+  }
+ ], 
+ "title": "Belearica (Finn Sunset Remix)", 
+ "label": {
+  "slug": "one-division", 
+  "id": 40592, 
+  "name": "One Division"
+ }, 
+ "mix": "Finn Sunset Remix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/75633071-3193-4f37-8d4d-ec5f177969f9.LOFI.mp4", 
+   "offset": {
+    "start": 137096, 
+    "end": 257096
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/75633071-3193-4f37-8d4d-ec5f177969f9.LOFI.mp3", 
+   "offset": {
+    "start": 137096, 
+    "end": 257096
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "finn", 
+   "id": 110197, 
+   "name": "Finn"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F\u266f maj", 
+ "date": {
+  "released": "2015-01-12", 
+  "published": "2015-01-12"
+ }, 
+ "active": true, 
+ "slug": "belearica-finn-sunset-remix", 
+ "preorder": false, 
+ "name": "Belearica", 
+ "component_type": null, 
+ "bpm": 128, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "belearica-one-day-in-paradise", 
+  "id": 1440167, 
+  "name": "Belearica - One Day In Paradise"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/8515780e-bf2d-4fb2-b6e8-743c63270b54.png", 
+   "width": 1500, 
+   "id": 10714232, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/8515780e-bf2d-4fb2-b6e8-743c63270b54.png", 
+   "id": 10714232
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

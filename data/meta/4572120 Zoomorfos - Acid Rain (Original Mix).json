@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/d9c33c73-63db-4450-960d-6e433d7fd874.jpg", 
+   "width": 500, 
+   "id": 7815261, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/bb403b46-bf7a-4125-b4db-8eeb9a03396e.jpg", 
+   "width": 30, 
+   "id": 7815259, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/19a39f82-b1a8-4bd0-8fba-75d5c9f81826.jpg", 
+   "width": 60, 
+   "id": 7815260, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/d9c33c73-63db-4450-960d-6e433d7fd874.jpg", 
+   "id": 7815261
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "zoomorfos", 
+   "id": 348193, 
+   "name": "Zoomorfos"
+  }
+ ], 
+ "duration": {
+  "minutes": "8:03", 
+  "milliseconds": 483000
+ }, 
+ "id": 4572120, 
+ "genres": [
+  {
+   "slug": "psy-trance", 
+   "id": 13, 
+   "name": "Psy-Trance"
+  }
+ ], 
+ "title": "Acid Rain (Original Mix)", 
+ "label": {
+  "slug": "digital-drugs-coalition", 
+  "id": 12265, 
+  "name": "Digital Drugs Coalition"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/9dbc6c50-6c85-45ef-b737-822190b360d2.LOFI.mp4", 
+   "offset": {
+    "start": 193200, 
+    "end": 313200
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/9dbc6c50-6c85-45ef-b737-822190b360d2.LOFI.mp3", 
+   "offset": {
+    "start": 193200, 
+    "end": 313200
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A maj", 
+ "date": {
+  "released": "2013-07-19", 
+  "published": "2013-07-19"
+ }, 
+ "active": true, 
+ "slug": "acid-rain-original-mix", 
+ "preorder": false, 
+ "name": "Acid Rain", 
+ "component_type": null, 
+ "bpm": 107, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "rape-my-mind", 
+  "id": 1129025, 
+  "name": "Rape My Mind"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/75d0ccab-0263-4dc1-964f-424443c1ed9f.png", 
+   "width": 1500, 
+   "id": 7815291, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/75d0ccab-0263-4dc1-964f-424443c1ed9f.png", 
+   "id": 7815291
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

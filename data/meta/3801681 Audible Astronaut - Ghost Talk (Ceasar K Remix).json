@@ -1,0 +1,130 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/b3c7dc8c-5898-4d54-bd41-4fbb00f95b2f.jpg", 
+   "width": 500, 
+   "id": 6011182, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/5592512a-a1c5-4032-9d0b-70186bc2d2c0.jpg", 
+   "width": 30, 
+   "id": 6011180, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/c78a9953-2670-49f2-91f8-5092bb2c8472.jpg", 
+   "width": 60, 
+   "id": 6011181, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/b3c7dc8c-5898-4d54-bd41-4fbb00f95b2f.jpg", 
+   "id": 6011182
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "audible-astronaut", 
+   "id": 198339, 
+   "name": "Audible Astronaut"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:43", 
+  "milliseconds": 343004
+ }, 
+ "id": 3801681, 
+ "genres": [
+  {
+   "slug": "breaks", 
+   "id": 9, 
+   "name": "Breaks"
+  }
+ ], 
+ "title": "Ghost Talk (Ceasar K Remix)", 
+ "label": {
+  "slug": "vl-records", 
+  "id": 6418, 
+  "name": "VL Records"
+ }, 
+ "mix": "Ceasar K Remix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/15d1a752-d69f-4933-ab12-c1d32d3be0b4.LOFI.mp3", 
+   "offset": {
+    "start": 137201, 
+    "end": 257202
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "ceasar-k", 
+   "id": 45577, 
+   "name": "Ceasar K"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F\u266f maj", 
+ "date": {
+  "released": "2012-09-27", 
+  "published": "2012-09-27"
+ }, 
+ "active": true, 
+ "slug": "ghost-talk-ceasar-k-remix", 
+ "preorder": false, 
+ "name": "Ghost Talk", 
+ "component_type": null, 
+ "bpm": 128, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "free-fall-summer-compilation", 
+  "id": 971079, 
+  "name": "Free Fall Summer Compilation"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/1d66c52a-0224-4429-b569-945d56e56f45.png", 
+   "width": 1500, 
+   "id": 6011804, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/1d66c52a-0224-4429-b569-945d56e56f45.png", 
+   "id": 6011804
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

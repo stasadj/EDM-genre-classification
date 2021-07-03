@@ -1,0 +1,133 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/6cb7dec4-3c9c-4ec8-a891-5a8077074c36.jpg", 
+   "width": 30, 
+   "id": 104278, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/ce255611-261a-47e1-9929-4f77e584ece9.jpg", 
+   "width": 60, 
+   "id": 104279, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/ce255611-261a-47e1-9929-4f77e584ece9.jpg", 
+   "id": 104279
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "martin-bonansea", 
+   "id": 40531, 
+   "name": "Martin Bonansea"
+  }
+ ], 
+ "duration": {
+  "minutes": "9:36", 
+  "milliseconds": 576831
+ }, 
+ "id": 298795, 
+ "genres": [
+  {
+   "slug": "progressive-house", 
+   "id": 15, 
+   "name": "Progressive House"
+  }
+ ], 
+ "title": "Spirit Of Force (Bs As Deep Remix)", 
+ "label": {
+  "slug": "existence-records", 
+  "id": 177, 
+  "name": "Existence Records"
+ }, 
+ "mix": "Bs As Deep Remix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/01e765d2-1e69-47f1-b46e-7c11496be266.LOFI.mp4", 
+   "offset": {
+    "start": 230732, 
+    "end": 350732
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/01e765d2-1e69-47f1-b46e-7c11496be266.LOFI.mp3", 
+   "offset": {
+    "start": 230732, 
+    "end": 350732
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "bs-as-deep", 
+   "id": 21045, 
+   "name": "Bs As Deep"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F maj", 
+ "date": {
+  "released": "2007-05-29", 
+  "published": "2007-05-29"
+ }, 
+ "active": true, 
+ "slug": "spirit-of-force-bs-as-deep-remix", 
+ "preorder": false, 
+ "name": "Spirit Of Force", 
+ "component_type": null, 
+ "bpm": 128, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "spirit-of-force", 
+  "id": 57119, 
+  "name": "Spirit Of Force"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/3f84288d-8d55-4a2b-836b-64432387b943.png", 
+   "width": 1500, 
+   "id": 2235711, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

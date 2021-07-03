@@ -1,0 +1,130 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/a51b57f5-6b0c-4c51-a35d-f098136942c0.jpg", 
+   "width": 500, 
+   "id": 4716607, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/16496af7-887a-4435-b6d3-a16aad5b178d.jpg", 
+   "width": 30, 
+   "id": 4716605, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/f41389a8-1946-4205-8480-407282038c39.jpg", 
+   "width": 60, 
+   "id": 4716606, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/a51b57f5-6b0c-4c51-a35d-f098136942c0.jpg", 
+   "id": 4716607
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "carlo-ruetz", 
+   "id": 184654, 
+   "name": "Carlo Ruetz"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:17", 
+  "milliseconds": 377284
+ }, 
+ "id": 3126447, 
+ "genres": [
+  {
+   "slug": "tech-house", 
+   "id": 11, 
+   "name": "Tech House"
+  }
+ ], 
+ "title": "Life Goes By (Nico Pusch Remix)", 
+ "label": {
+  "slug": "ecologico-records", 
+  "id": 19818, 
+  "name": "Ecologico Records"
+ }, 
+ "mix": "Nico Pusch Remix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/404367b7-aeb3-456d-be93-beac7e2370bf.LOFI.mp3", 
+   "offset": {
+    "start": 150913, 
+    "end": 271003
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "nico-pusch", 
+   "id": 160107, 
+   "name": "Nico Pusch"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F\u266f maj", 
+ "date": {
+  "released": "2011-11-30", 
+  "published": "2011-11-30"
+ }, 
+ "active": true, 
+ "slug": "life-goes-by-nico-pusch-remix", 
+ "preorder": false, 
+ "name": "Life Goes By", 
+ "component_type": null, 
+ "bpm": 125, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "life-goes-by-ep", 
+  "id": 839884, 
+  "name": "Life Goes By Ep"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/d2ab1e29-5307-4166-9e84-cabb9a434ed3.png", 
+   "width": 1500, 
+   "id": 6857315, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/d2ab1e29-5307-4166-9e84-cabb9a434ed3.png", 
+   "id": 6857315
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

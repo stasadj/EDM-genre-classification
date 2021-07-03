@@ -1,0 +1,133 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/2d1e4568-fa5c-4b4f-84a4-43a9b1e74457.jpg", 
+   "width": 30, 
+   "id": 104614, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/9abbbad3-401b-4467-bed7-1225d2f89246.jpg", 
+   "width": 60, 
+   "id": 104615, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/9abbbad3-401b-4467-bed7-1225d2f89246.jpg", 
+   "id": 104615
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "dj-rilla", 
+   "id": 40628, 
+   "name": "DJ Rilla"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:53", 
+  "milliseconds": 353880
+ }, 
+ "id": 299497, 
+ "genres": [
+  {
+   "slug": "drum-and-bass", 
+   "id": 1, 
+   "name": "Drum & Bass"
+  }
+ ], 
+ "title": "Jah Hear Me (Original Mix)", 
+ "label": {
+  "slug": "dub-chamber-recordings", 
+  "id": 2177, 
+  "name": "Dub Chamber Recordings"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/42c67ff5-2b2f-46c6-ae5a-a2f27762a186.LOFI.mp4", 
+   "offset": {
+    "start": 141552, 
+    "end": 261552
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/42c67ff5-2b2f-46c6-ae5a-a2f27762a186.LOFI.mp3", 
+   "offset": {
+    "start": 141552, 
+    "end": 261552
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A maj", 
+ "date": {
+  "released": "2007-05-18", 
+  "published": "2007-05-18"
+ }, 
+ "active": true, 
+ "slug": "jah-hear-me-original-mix", 
+ "preorder": false, 
+ "name": "Jah Hear Me", 
+ "component_type": null, 
+ "bpm": 175, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "dubplate-soldiers-pre-release", 
+  "id": 57281, 
+  "name": "Dubplate Soldiers Pre Release"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/e2b0dbb3-141c-4793-b67a-f3faccc646a0.png", 
+   "width": 1500, 
+   "id": 2234665, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": [
+  {
+   "slug": "jungle", 
+   "id": 66, 
+   "name": "Jungle"
+  }
+ ]
+}

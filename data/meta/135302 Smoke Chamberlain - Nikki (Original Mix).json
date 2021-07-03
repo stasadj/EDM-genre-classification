@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/2df22733-7012-40c0-a538-ec7aea0b8b23.jpg", 
+   "width": 30, 
+   "id": 31030, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/d317a414-6953-4ff0-be91-e0d8fe2b4474.jpg", 
+   "width": 60, 
+   "id": 15301, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/d317a414-6953-4ff0-be91-e0d8fe2b4474.jpg", 
+   "id": 15301
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "smoke-chamberlain", 
+   "id": 18033, 
+   "name": "Smoke Chamberlain"
+  }
+ ], 
+ "duration": {
+  "minutes": "4:30", 
+  "milliseconds": 270826
+ }, 
+ "id": 135302, 
+ "genres": [
+  {
+   "slug": "hip-hop-r-and-b", 
+   "id": 38, 
+   "name": "Hip-Hop / R&B"
+  }
+ ], 
+ "title": "Nikki (Original Mix)", 
+ "label": {
+  "slug": "profit-records", 
+  "id": 2414, 
+  "name": "Profit Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/147c649c-1c75-49d8-a3d4-aaa2338c3fa5.LOFI.mp4", 
+   "offset": {
+    "start": 108330, 
+    "end": 228330
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/147c649c-1c75-49d8-a3d4-aaa2338c3fa5.LOFI.mp3", 
+   "offset": {
+    "start": 108330, 
+    "end": 228330
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F maj", 
+ "date": {
+  "released": "2005-06-25", 
+  "published": "2005-06-25"
+ }, 
+ "active": true, 
+ "slug": "nikki-original-mix", 
+ "preorder": false, 
+ "name": "Nikki", 
+ "component_type": null, 
+ "bpm": 92, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "the-legend", 
+  "id": 27039, 
+  "name": "The Legend"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/a8c5d008-5587-4133-b246-2374bdfd08a9.png", 
+   "width": 1500, 
+   "id": 2403948, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

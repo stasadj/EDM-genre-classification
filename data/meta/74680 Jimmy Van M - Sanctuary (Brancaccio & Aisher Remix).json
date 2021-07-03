@@ -1,0 +1,133 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/471f3a21-6bd3-43b7-9d91-9e57910eca92.jpg", 
+   "width": 500, 
+   "id": 15525868, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/36082d60-c7e9-4669-9ee5-a186862f034d.jpg", 
+   "width": 30, 
+   "id": 27076, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/d1e5bafd-34c9-49b1-90a4-705e2f4580da.jpg", 
+   "width": 60, 
+   "id": 11353, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/471f3a21-6bd3-43b7-9d91-9e57910eca92.jpg", 
+   "id": 15525868
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "jimmy-van-m", 
+   "id": 11547, 
+   "name": "Jimmy Van M"
+  }
+ ], 
+ "duration": {
+  "minutes": "8:38", 
+  "milliseconds": 518866
+ }, 
+ "id": 74680, 
+ "genres": [
+  {
+   "slug": "progressive-house", 
+   "id": 15, 
+   "name": "Progressive House"
+  }
+ ], 
+ "title": "Sanctuary (Brancaccio & Aisher Remix)", 
+ "label": {
+  "slug": "bedrock-records", 
+  "id": 63, 
+  "name": "Bedrock Records"
+ }, 
+ "mix": "Brancaccio & Aisher Remix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/5e48a1d6-9c47-4422-a1a9-6d42f8ad1b36.LOFI.mp4", 
+   "offset": {
+    "start": 207546, 
+    "end": 327546
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/5e48a1d6-9c47-4422-a1a9-6d42f8ad1b36.LOFI.mp3", 
+   "offset": {
+    "start": 207546, 
+    "end": 327546
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "brancaccio-and-aisher", 
+   "id": 219, 
+   "name": "Brancaccio & Aisher"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A maj", 
+ "date": {
+  "released": "2001-07-25", 
+  "published": "2001-07-25"
+ }, 
+ "active": true, 
+ "slug": "sanctuary-brancaccio-and-aisher-remix", 
+ "preorder": false, 
+ "name": "Sanctuary", 
+ "component_type": null, 
+ "bpm": 130, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "sanctuary", 
+  "id": 1028, 
+  "name": "Sanctuary"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/9a32fa0a-4b98-45c4-9968-e70018fd5a48.png", 
+   "width": 1500, 
+   "id": 2443613, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/9a32fa0a-4b98-45c4-9968-e70018fd5a48.png", 
+   "id": 2443613
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

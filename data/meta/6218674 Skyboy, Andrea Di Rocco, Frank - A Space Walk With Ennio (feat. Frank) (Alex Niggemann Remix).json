@@ -1,0 +1,143 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/2ad085cc-301d-4c33-add8-3b3c0617177e.jpg", 
+   "width": 500, 
+   "id": 10813023, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/6a003433-00cc-4837-8255-a398b98a2773.jpg", 
+   "width": 30, 
+   "id": 8926344, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/20a58f91-ea38-4f73-b4cf-05396552eff4.jpg", 
+   "width": 60, 
+   "id": 8926345, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/2ad085cc-301d-4c33-add8-3b3c0617177e.jpg", 
+   "id": 10813023
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "skyboy", 
+   "id": 39051, 
+   "name": "Skyboy"
+  }, 
+  {
+   "slug": "andrea-di-rocco", 
+   "id": 43712, 
+   "name": "Andrea Di Rocco"
+  }, 
+  {
+   "slug": "frank", 
+   "id": 49678, 
+   "name": "Frank"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:12", 
+  "milliseconds": 432618
+ }, 
+ "id": 6218674, 
+ "genres": [
+  {
+   "slug": "deep-house", 
+   "id": 12, 
+   "name": "Deep House"
+  }
+ ], 
+ "title": "A Space Walk With Ennio (feat. Frank) (Alex Niggemann Remix)", 
+ "label": {
+  "slug": "m-o-h", 
+  "id": 38561, 
+  "name": "M.O.H."
+ }, 
+ "mix": "Alex Niggemann Remix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/0d3bc298-a004-467c-88ea-26b108e7b120.LOFI.mp4", 
+   "offset": {
+    "start": 173047, 
+    "end": 293047
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/0d3bc298-a004-467c-88ea-26b108e7b120.LOFI.mp3", 
+   "offset": {
+    "start": 173047, 
+    "end": 293047
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "alex-niggemann", 
+   "id": 68968, 
+   "name": "Alex Niggemann"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F maj", 
+ "date": {
+  "released": "2015-02-09", 
+  "published": "2015-02-09"
+ }, 
+ "active": true, 
+ "slug": "a-space-walk-with-ennio-feat-frank-alex-niggemann-remix", 
+ "preorder": false, 
+ "name": "A Space Walk With Ennio (feat. Frank)", 
+ "component_type": null, 
+ "bpm": 120, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "monsters-of-house-vol-2", 
+  "id": 1449899, 
+  "name": "Monsters Of House Vol.2"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/45183e72-074d-45ce-9e3c-00d45192d42c.png", 
+   "width": 1500, 
+   "id": 10813767, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/45183e72-074d-45ce-9e3c-00d45192d42c.png", 
+   "id": 10813767
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

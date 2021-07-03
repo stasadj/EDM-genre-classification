@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/26645d6b-759d-454c-844d-e0b64f1b9804.jpg", 
+   "width": 500, 
+   "id": 16490930, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/a9344476-9202-4ab6-b678-dd641f58c055.jpg", 
+   "width": 30, 
+   "id": 22227, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/46e66363-ff16-407d-90b4-1a364504b5a0.jpg", 
+   "width": 60, 
+   "id": 6512, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/26645d6b-759d-454c-844d-e0b64f1b9804.jpg", 
+   "id": 16490930
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "king-kong-crew", 
+   "id": 8330, 
+   "name": "King Kong Crew"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:02", 
+  "milliseconds": 362373
+ }, 
+ "id": 49721, 
+ "genres": [
+  {
+   "slug": "tech-house", 
+   "id": 11, 
+   "name": "Tech House"
+  }
+ ], 
+ "title": "Make Me Acid (Original Mix)", 
+ "label": {
+  "slug": "king-kong-records", 
+  "id": 725, 
+  "name": "King Kong Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/bbcae458-b739-48fc-9060-232abca5794b.LOFI.mp4", 
+   "offset": {
+    "start": 144949, 
+    "end": 264949
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/bbcae458-b739-48fc-9060-232abca5794b.LOFI.mp3", 
+   "offset": {
+    "start": 144949, 
+    "end": 264949
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.56", 
+  "value": 1.56
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C maj", 
+ "date": {
+  "released": "2005-07-28", 
+  "published": "2005-07-28"
+ }, 
+ "active": true, 
+ "slug": "make-me-acid-original-mix", 
+ "preorder": false, 
+ "name": "Make Me Acid", 
+ "component_type": null, 
+ "bpm": 130, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "make-em-acid", 
+  "id": 11330, 
+  "name": "Make 'Em Acid"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/640cac29-9653-4e71-acda-bf766aee6060.png", 
+   "width": 1500, 
+   "id": 2463102, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/640cac29-9653-4e71-acda-bf766aee6060.png", 
+   "id": 2463102
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

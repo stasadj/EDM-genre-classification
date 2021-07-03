@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/797d56c7-e24b-4c81-9340-cae6cc31410e.jpg", 
+   "width": 500, 
+   "id": 809685, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/c079921c-b847-46af-b5de-04d5cca28e1a.jpg", 
+   "width": 30, 
+   "id": 809683, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/e8de1ba7-c52a-4b69-9b97-60bb7d915935.jpg", 
+   "width": 60, 
+   "id": 809684, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/797d56c7-e24b-4c81-9340-cae6cc31410e.jpg", 
+   "id": 809685
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "marco-resmann", 
+   "id": 32355, 
+   "name": "Marco Resmann"
+  }
+ ], 
+ "duration": {
+  "minutes": "1:17:49", 
+  "milliseconds": 4669586
+ }, 
+ "id": 1435514, 
+ "genres": [
+  {
+   "slug": "tech-house", 
+   "id": 11, 
+   "name": "Tech House"
+  }
+ ], 
+ "title": "Diary No. 1 (Continuous DJ Mix)", 
+ "label": {
+  "slug": "upon-you-records", 
+  "id": 4609, 
+  "name": "Upon You Records"
+ }, 
+ "mix": "Continuous DJ Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/851454ee-af9c-4527-a77a-8926f377d738.LOFI.mp3", 
+   "offset": {
+    "start": 1867834, 
+    "end": 1987849
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "mixOnly", 
+ "purchase": 4, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A\u266f maj", 
+ "date": {
+  "released": "2010-10-04", 
+  "published": "2010-10-04"
+ }, 
+ "active": true, 
+ "slug": "diary-no-1-continuous-dj-mix", 
+ "preorder": false, 
+ "name": "Diary No. 1", 
+ "component_type": null, 
+ "bpm": 124, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "diary-no-1", 
+  "id": 284399, 
+  "name": "Diary No. 1"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/67eb990c-0018-4413-a413-955d9e8ccaa4.png", 
+   "width": 1500, 
+   "id": 1594374, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/67eb990c-0018-4413-a413-955d9e8ccaa4.png", 
+   "id": 1594374
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

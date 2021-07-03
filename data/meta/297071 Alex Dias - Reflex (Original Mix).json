@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/db965578-0bc2-41db-b79f-f954e383bb6b.jpg", 
+   "width": 30, 
+   "id": 57380, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/89e1611a-d6c2-4b4d-9a07-43684125ec87.jpg", 
+   "width": 60, 
+   "id": 57379, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/89e1611a-d6c2-4b4d-9a07-43684125ec87.jpg", 
+   "id": 57379
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "alex-dias", 
+   "id": 32759, 
+   "name": "Alex Dias"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:01", 
+  "milliseconds": 361879
+ }, 
+ "id": 297071, 
+ "genres": [
+  {
+   "slug": "tech-house", 
+   "id": 11, 
+   "name": "Tech House"
+  }
+ ], 
+ "title": "Reflex (Original Mix)", 
+ "label": {
+  "slug": "the-b-side-records", 
+  "id": 3910, 
+  "name": "The B Side Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/1b35fafe-5a8e-4d22-9ed6-2eed2d67b019.LOFI.mp4", 
+   "offset": {
+    "start": 144751, 
+    "end": 264751
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/1b35fafe-5a8e-4d22-9ed6-2eed2d67b019.LOFI.mp3", 
+   "offset": {
+    "start": 144751, 
+    "end": 264751
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "E maj", 
+ "date": {
+  "released": "2007-06-01", 
+  "published": "2007-05-18"
+ }, 
+ "active": true, 
+ "slug": "reflex-original-mix", 
+ "preorder": false, 
+ "name": "Reflex", 
+ "component_type": null, 
+ "bpm": 128, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "reflex", 
+  "id": 56779, 
+  "name": "Reflex"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/750a0667-139f-4722-a1a7-4535f6cb0215.png", 
+   "width": 1500, 
+   "id": 2237964, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

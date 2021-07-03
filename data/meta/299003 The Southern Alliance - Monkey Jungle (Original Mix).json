@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/8cde392a-6847-4207-98ad-e26cd4fd9bcc.jpg", 
+   "width": 30, 
+   "id": 104384, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/374ae8bf-a754-489a-8dc0-45d597b64edd.jpg", 
+   "width": 60, 
+   "id": 104385, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/374ae8bf-a754-489a-8dc0-45d597b64edd.jpg", 
+   "id": 104385
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "the-southern-alliance", 
+   "id": 41431, 
+   "name": "The Southern Alliance"
+  }
+ ], 
+ "duration": {
+  "minutes": "8:15", 
+  "milliseconds": 495915
+ }, 
+ "id": 299003, 
+ "genres": [
+  {
+   "slug": "minimal-deep-tech", 
+   "id": 14, 
+   "name": "Minimal / Deep Tech"
+  }
+ ], 
+ "title": "Monkey Jungle (Original Mix)", 
+ "label": {
+  "slug": "autist-records", 
+  "id": 3192, 
+  "name": "Autist Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/5fd354c9-8028-4ea3-8222-4c027e2cf56f.LOFI.mp4", 
+   "offset": {
+    "start": 198366, 
+    "end": 318366
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/5fd354c9-8028-4ea3-8222-4c027e2cf56f.LOFI.mp3", 
+   "offset": {
+    "start": 198366, 
+    "end": 318366
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A maj", 
+ "date": {
+  "released": "2007-05-18", 
+  "published": "2007-05-18"
+ }, 
+ "active": true, 
+ "slug": "monkey-jungle-original-mix", 
+ "preorder": false, 
+ "name": "Monkey Jungle", 
+ "component_type": null, 
+ "bpm": 127, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "3-week-ep", 
+  "id": 57176, 
+  "name": "3 Week EP"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/c102f7d9-8614-4d4a-8ab4-0703a2b3b895.png", 
+   "width": 1500, 
+   "id": 2235351, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/84d37041-c293-4519-9021-b2ae08cd0203.jpg", 
+   "width": 500, 
+   "id": 7448544, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/3f8f1096-9c8c-41ef-b9c0-0eb357baec7b.jpg", 
+   "width": 30, 
+   "id": 7448542, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/13125b0c-2982-4e4f-b960-f5952742512d.jpg", 
+   "width": 60, 
+   "id": 7448543, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/84d37041-c293-4519-9021-b2ae08cd0203.jpg", 
+   "id": 7448544
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "modeselektor", 
+   "id": 6256, 
+   "name": "Modeselektor"
+  }
+ ], 
+ "duration": {
+  "minutes": "3:21", 
+  "milliseconds": 201733
+ }, 
+ "id": 65102, 
+ "genres": [
+  {
+   "slug": "electronica-downtempo", 
+   "id": 3, 
+   "name": "Electronica / Downtempo"
+  }
+ ], 
+ "title": "Fake Emotion feat. Paul St.Hillaire (Original Mix)", 
+ "label": {
+  "slug": "bpitch-control", 
+  "id": 788, 
+  "name": "Bpitch Control"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/a0ffd2a8-be2b-479a-9460-bb74bb3474f5.LOFI.mp4", 
+   "offset": {
+    "start": 80693, 
+    "end": 200693
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/a0ffd2a8-be2b-479a-9460-bb74bb3474f5.LOFI.mp3", 
+   "offset": {
+    "start": 80693, 
+    "end": 200693
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C maj", 
+ "date": {
+  "released": "2005-10-24", 
+  "published": "2005-10-24"
+ }, 
+ "active": true, 
+ "slug": "fake-emotion-feat-paul-st-hillaire-original-mix", 
+ "preorder": false, 
+ "name": "Fake Emotion feat. Paul St.Hillaire", 
+ "component_type": null, 
+ "bpm": 90, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "camping-2", 
+  "id": 12255, 
+  "name": "Camping 2"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/46725c91-b8e1-4987-9305-c28d3e307606.png", 
+   "width": 1500, 
+   "id": 2451737, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/46725c91-b8e1-4987-9305-c28d3e307606.png", 
+   "id": 2451737
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

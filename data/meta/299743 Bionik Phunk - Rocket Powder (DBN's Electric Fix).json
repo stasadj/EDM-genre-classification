@@ -1,0 +1,133 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/9ac66bb2-d015-420e-a942-c589c62b7c7e.jpg", 
+   "width": 30, 
+   "id": 104706, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/c9589ddd-9ac7-4f93-ac15-e79708fb046b.jpg", 
+   "width": 60, 
+   "id": 104707, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/c9589ddd-9ac7-4f93-ac15-e79708fb046b.jpg", 
+   "id": 104707
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "bionik-phunk", 
+   "id": 18154, 
+   "name": "Bionik Phunk"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:08", 
+  "milliseconds": 368259
+ }, 
+ "id": 299743, 
+ "genres": [
+  {
+   "slug": "progressive-house", 
+   "id": 15, 
+   "name": "Progressive House"
+  }
+ ], 
+ "title": "Rocket Powder (DBN's Electric Fix)", 
+ "label": {
+  "slug": "audiophonica", 
+  "id": 4857, 
+  "name": "Audiophonica"
+ }, 
+ "mix": "DBN's Electric Fix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/988a013a-c1cb-474c-befc-e5fe476e543d.LOFI.mp4", 
+   "offset": {
+    "start": 147303, 
+    "end": 267303
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/988a013a-c1cb-474c-befc-e5fe476e543d.LOFI.mp3", 
+   "offset": {
+    "start": 147303, 
+    "end": 267303
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "dbn", 
+   "id": 18168, 
+   "name": "DBN"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A maj", 
+ "date": {
+  "released": "2007-07-01", 
+  "published": "2007-05-22"
+ }, 
+ "active": true, 
+ "slug": "rocket-powder-dbns-electric-fix", 
+ "preorder": false, 
+ "name": "Rocket Powder", 
+ "component_type": null, 
+ "bpm": 128, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "pure-electro-filth-vol-2", 
+  "id": 57325, 
+  "name": "Pure Electro Filth Vol. 2"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/5d7eba7a-f748-48e7-ae02-c33bfe1e14bd.png", 
+   "width": 1500, 
+   "id": 2537544, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

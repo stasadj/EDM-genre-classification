@@ -1,0 +1,133 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/a3387fa4-75a7-44d2-bfca-2d3173e2286d.jpg", 
+   "width": 500, 
+   "id": 7403964, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/95e3a6c5-85b1-4a9b-97db-5e6af329158e.jpg", 
+   "width": 30, 
+   "id": 73183, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/dfd5c367-fd0b-4ee7-bb8f-d625e89aae81.jpg", 
+   "width": 60, 
+   "id": 73184, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/a3387fa4-75a7-44d2-bfca-2d3173e2286d.jpg", 
+   "id": 7403964
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "cck", 
+   "id": 31878, 
+   "name": "CCK"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:21", 
+  "milliseconds": 381013
+ }, 
+ "id": 239698, 
+ "genres": [
+  {
+   "slug": "hard-dance", 
+   "id": 8, 
+   "name": "Hard Dance"
+  }
+ ], 
+ "title": "Close To Me (Commercial Club Crew Remix)", 
+ "label": {
+  "slug": "andorfine-records", 
+  "id": 3521, 
+  "name": "Andorfine Records"
+ }, 
+ "mix": "Commercial Club Crew Remix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/4dd0deb3-2e45-4c53-92eb-4828e555c860.LOFI.mp4", 
+   "offset": {
+    "start": 152405, 
+    "end": 272405
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/4dd0deb3-2e45-4c53-92eb-4828e555c860.LOFI.mp3", 
+   "offset": {
+    "start": 152405, 
+    "end": 272405
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "commercial-club-crew", 
+   "id": 31880, 
+   "name": "Commercial Club Crew"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D maj", 
+ "date": {
+  "released": "2006-11-13", 
+  "published": "2006-11-13"
+ }, 
+ "active": true, 
+ "slug": "close-to-me-commercial-club-crew-remix", 
+ "preorder": false, 
+ "name": "Close To Me", 
+ "component_type": null, 
+ "bpm": 140, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "close-to-me", 
+  "id": 44124, 
+  "name": "Close To Me"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/d6a7d21c-09a9-469d-b557-92afd0c0f30b.png", 
+   "width": 1500, 
+   "id": 2318167, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/d6a7d21c-09a9-469d-b557-92afd0c0f30b.png", 
+   "id": 2318167
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

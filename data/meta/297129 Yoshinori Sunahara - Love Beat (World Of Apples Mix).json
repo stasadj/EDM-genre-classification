@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/eb16f9d8-7169-4999-84d5-fdbadf1c6cec.jpg", 
+   "width": 500, 
+   "id": 11324382, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/2f6f6a3e-6730-4cdd-a63d-61d9bfdfc4f1.jpg", 
+   "width": 30, 
+   "id": 491534, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/bf1fc789-2431-47d2-8d35-3fe6b74a91cc.jpg", 
+   "width": 60, 
+   "id": 11324380, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/eb16f9d8-7169-4999-84d5-fdbadf1c6cec.jpg", 
+   "id": 11324382
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "yoshinori-sunahara", 
+   "id": 37782, 
+   "name": "Yoshinori Sunahara"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:00", 
+  "milliseconds": 420120
+ }, 
+ "id": 297129, 
+ "genres": [
+  {
+   "slug": "electronica-downtempo", 
+   "id": 3, 
+   "name": "Electronica / Downtempo"
+  }
+ ], 
+ "title": "Love Beat (World Of Apples Mix)", 
+ "label": {
+  "slug": "soma-records", 
+  "id": 446, 
+  "name": "Soma Records"
+ }, 
+ "mix": "World Of Apples Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/3ecfd7f4-089d-4f6e-b2b5-427ee3553df5.LOFI.mp4", 
+   "offset": {
+    "start": 168048, 
+    "end": 288048
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/3ecfd7f4-089d-4f6e-b2b5-427ee3553df5.LOFI.mp3", 
+   "offset": {
+    "start": 168048, 
+    "end": 288048
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D maj", 
+ "date": {
+  "released": "2005-07-17", 
+  "published": "2005-07-17"
+ }, 
+ "active": true, 
+ "slug": "love-beat-world-of-apples-mix", 
+ "preorder": false, 
+ "name": "Love Beat", 
+ "component_type": null, 
+ "bpm": 92, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "small-change", 
+  "id": 56794, 
+  "name": "Small Change"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/00b528bf-3bd4-49e4-b436-51ff5e416ff3.png", 
+   "width": 1500, 
+   "id": 2237879, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/00b528bf-3bd4-49e4-b436-51ff5e416ff3.png", 
+   "id": 2237879
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

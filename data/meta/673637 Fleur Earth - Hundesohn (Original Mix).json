@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/e878d9ee-0558-4ba1-a955-d0a6bbb2af34.jpg", 
+   "width": 30, 
+   "id": 300846, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/b08380c1-07ea-4261-8352-dd49b6826413.jpg", 
+   "width": 60, 
+   "id": 300847, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/b08380c1-07ea-4261-8352-dd49b6826413.jpg", 
+   "id": 300847
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "fleur-earth", 
+   "id": 89140, 
+   "name": "Fleur Earth"
+  }
+ ], 
+ "duration": {
+  "minutes": "1:57", 
+  "milliseconds": 117253
+ }, 
+ "id": 673637, 
+ "genres": [
+  {
+   "slug": "hip-hop-r-and-b", 
+   "id": 38, 
+   "name": "Hip-Hop / R&B"
+  }
+ ], 
+ "title": "Hundesohn (Original Mix)", 
+ "label": {
+  "slug": "melting-pot-music", 
+  "id": 6294, 
+  "name": "Melting Pot Music"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/eb594f83-6151-4e49-8193-3bf1c81a45df.LOFI.mp3", 
+   "offset": {
+    "start": 0, 
+    "end": 117253
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C\u266f maj", 
+ "date": {
+  "released": "2008-09-12", 
+  "published": "2008-09-12"
+ }, 
+ "active": true, 
+ "slug": "hundesohn-original-mix", 
+ "preorder": false, 
+ "name": "Hundesohn", 
+ "component_type": null, 
+ "bpm": 143, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "skurreal", 
+  "id": 133866, 
+  "name": "Skurreal"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/db845e6f-1dff-4a8b-91e2-fd9aba7e5efb.png", 
+   "width": 1500, 
+   "id": 2316534, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

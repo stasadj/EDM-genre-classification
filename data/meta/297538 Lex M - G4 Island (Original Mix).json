@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/7e6ca28d-e578-40d6-8533-7b7f037ab0c6.jpg", 
+   "width": 500, 
+   "id": 9211787, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/8f57156d-e061-4471-b44c-6320aa08d1eb.jpg", 
+   "width": 30, 
+   "id": 103604, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/3c3ffc98-3cb7-46c4-b629-2e9033cb9637.jpg", 
+   "width": 60, 
+   "id": 103605, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/7e6ca28d-e578-40d6-8533-7b7f037ab0c6.jpg", 
+   "id": 9211787
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "lex-m", 
+   "id": 40372, 
+   "name": "Lex M"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:44", 
+  "milliseconds": 404408
+ }, 
+ "id": 297538, 
+ "genres": [
+  {
+   "slug": "techno", 
+   "id": 6, 
+   "name": "Techno"
+  }
+ ], 
+ "title": "G4 Island (Original Mix)", 
+ "label": {
+  "slug": "sk-recordings", 
+  "id": 3634, 
+  "name": "SK Recordings"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/5d810cf8-3841-4d80-8615-4d463137bbb3.LOFI.mp4", 
+   "offset": {
+    "start": 161763, 
+    "end": 281763
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/5d810cf8-3841-4d80-8615-4d463137bbb3.LOFI.mp3", 
+   "offset": {
+    "start": 161763, 
+    "end": 281763
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C maj", 
+ "date": {
+  "released": "2007-05-24", 
+  "published": "2007-05-24"
+ }, 
+ "active": true, 
+ "slug": "g4-island-original-mix", 
+ "preorder": false, 
+ "name": "G4 Island", 
+ "component_type": null, 
+ "bpm": 126, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "g4-island", 
+  "id": 56876, 
+  "name": "G4 Island"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/b512d2ca-eb01-4d2e-907f-b532115506ef.png", 
+   "width": 1500, 
+   "id": 2237353, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/b512d2ca-eb01-4d2e-907f-b532115506ef.png", 
+   "id": 2237353
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

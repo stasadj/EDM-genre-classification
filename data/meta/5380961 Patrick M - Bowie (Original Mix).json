@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ad9901b8-2aeb-4b45-adb1-14f9350298e1.jpg", 
+   "width": 500, 
+   "id": 9378604, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/deaeef34-f15f-40cf-95e1-d341c75a0a16.jpg", 
+   "width": 30, 
+   "id": 4909030, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/053473fd-036f-4925-851c-6c92f2922457.jpg", 
+   "width": 60, 
+   "id": 4909031, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/ad9901b8-2aeb-4b45-adb1-14f9350298e1.jpg", 
+   "id": 9378604
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "patrick-m", 
+   "id": 5116, 
+   "name": "Patrick M"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:41", 
+  "milliseconds": 461102
+ }, 
+ "id": 5380961, 
+ "genres": [
+  {
+   "slug": "house", 
+   "id": 5, 
+   "name": "House"
+  }
+ ], 
+ "title": "Bowie (Original Mix)", 
+ "label": {
+  "slug": "house-of-house", 
+  "id": 24349, 
+  "name": "House Of House"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/5aac4077-8aeb-410c-a574-22f9add6f2cd.LOFI.mp4", 
+   "offset": {
+    "start": 184440, 
+    "end": 304440
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/5aac4077-8aeb-410c-a574-22f9add6f2cd.LOFI.mp3", 
+   "offset": {
+    "start": 184440, 
+    "end": 304440
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A\u266f maj", 
+ "date": {
+  "released": "2014-05-01", 
+  "published": "2014-05-01"
+ }, 
+ "active": true, 
+ "slug": "bowie-original-mix", 
+ "preorder": false, 
+ "name": "Bowie", 
+ "component_type": null, 
+ "bpm": 127, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "my-house-is-your-house-edition-6", 
+  "id": 1292960, 
+  "name": "My House Is Your House - Edition 6"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/4e15a729-5e7d-4ceb-b335-818c4d1d5c48.png", 
+   "width": 1500, 
+   "id": 9378932, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/4e15a729-5e7d-4ceb-b335-818c4d1d5c48.png", 
+   "id": 9378932
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

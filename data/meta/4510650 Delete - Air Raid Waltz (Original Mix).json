@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/f57e0c37-c9ec-4bc4-9249-830c65c3b5eb.jpg", 
+   "width": 500, 
+   "id": 7680286, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/984168fc-19be-439a-87d9-38fdaa2558d6.jpg", 
+   "width": 30, 
+   "id": 7680284, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/9ba3cd90-67ce-4921-826c-32221ab213eb.jpg", 
+   "width": 60, 
+   "id": 7680285, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/f57e0c37-c9ec-4bc4-9249-830c65c3b5eb.jpg", 
+   "id": 7680286
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "delete", 
+   "id": 328672, 
+   "name": "Delete"
+  }
+ ], 
+ "duration": {
+  "minutes": "4:13", 
+  "milliseconds": 253283
+ }, 
+ "id": 4510650, 
+ "genres": [
+  {
+   "slug": "dubstep", 
+   "id": 18, 
+   "name": "Dubstep"
+  }
+ ], 
+ "title": "Air Raid Waltz (Original Mix)", 
+ "label": {
+  "slug": "mindtrick-records", 
+  "id": 11679, 
+  "name": "Mindtrick Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/48451f2f-c7d9-4e77-bc1c-3a42a1c1fc2b.LOFI.mp4", 
+   "offset": {
+    "start": 101313, 
+    "end": 221313
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/48451f2f-c7d9-4e77-bc1c-3a42a1c1fc2b.LOFI.mp3", 
+   "offset": {
+    "start": 101313, 
+    "end": 221313
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "B maj", 
+ "date": {
+  "released": "2013-07-15", 
+  "published": "2013-07-15"
+ }, 
+ "active": true, 
+ "slug": "air-raid-waltz-original-mix", 
+ "preorder": false, 
+ "name": "Air Raid Waltz", 
+ "component_type": null, 
+ "bpm": 117, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "neva-ep", 
+  "id": 1116061, 
+  "name": "Neva EP"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/16f3e1bb-cc33-4275-85b5-7eeadab431a1.png", 
+   "width": 1500, 
+   "id": 7680303, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/16f3e1bb-cc33-4275-85b5-7eeadab431a1.png", 
+   "id": 7680303
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

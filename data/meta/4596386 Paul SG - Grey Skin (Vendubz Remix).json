@@ -1,0 +1,133 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/d3e5fa7d-fceb-4750-9296-84cabc9ace02.jpg", 
+   "width": 500, 
+   "id": 7868699, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/c9e03e0c-9aea-455b-82db-9440aaf970d1.jpg", 
+   "width": 30, 
+   "id": 7868697, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/d4f43f7e-ca84-4158-90b4-09ced4e248ef.jpg", 
+   "width": 60, 
+   "id": 7868698, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/d3e5fa7d-fceb-4750-9296-84cabc9ace02.jpg", 
+   "id": 7868699
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "paul-sg", 
+   "id": 73974, 
+   "name": "Paul SG"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:34", 
+  "milliseconds": 334098
+ }, 
+ "id": 4596386, 
+ "genres": [
+  {
+   "slug": "drum-and-bass", 
+   "id": 1, 
+   "name": "Drum & Bass"
+  }
+ ], 
+ "title": "Grey Skin (Vendubz Remix)", 
+ "label": {
+  "slug": "influenza-media", 
+  "id": 12510, 
+  "name": "Influenza Media"
+ }, 
+ "mix": "Vendubz Remix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/b516eb6d-b14c-4107-985c-d4363f1042c4.LOFI.mp4", 
+   "offset": {
+    "start": 133639, 
+    "end": 253639
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/b516eb6d-b14c-4107-985c-d4363f1042c4.LOFI.mp3", 
+   "offset": {
+    "start": 133639, 
+    "end": 253639
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "vendubz", 
+   "id": 349941, 
+   "name": "Vendubz"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C\u266f maj", 
+ "date": {
+  "released": "2013-07-29", 
+  "published": "2013-07-29"
+ }, 
+ "active": true, 
+ "slug": "grey-skin-vendubz-remix", 
+ "preorder": false, 
+ "name": "Grey Skin", 
+ "component_type": null, 
+ "bpm": 175, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "grey-skin-timeless", 
+  "id": 1133810, 
+  "name": "Grey Skin / Timeless"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ad5abe13-28b7-46e8-9e74-82a9bbbfb5f2.png", 
+   "width": 1500, 
+   "id": 7868711, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/ad5abe13-28b7-46e8-9e74-82a9bbbfb5f2.png", 
+   "id": 7868711
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

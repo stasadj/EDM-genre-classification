@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/4915fa99-d3f5-4d95-afcc-318e94bb7beb.jpg", 
+   "width": 500, 
+   "id": 2768828, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/2c0c80c7-b27b-494e-b508-7bfdd0117c50.jpg", 
+   "width": 30, 
+   "id": 2768826, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/7187745c-81c9-4d0c-bbfb-e1facf303267.jpg", 
+   "width": 60, 
+   "id": 2768827, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/4915fa99-d3f5-4d95-afcc-318e94bb7beb.jpg", 
+   "id": 2768828
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "tayce", 
+   "id": 189142, 
+   "name": "Tayce"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:32", 
+  "milliseconds": 392573
+ }, 
+ "id": 1868905, 
+ "genres": [
+  {
+   "slug": "drum-and-bass", 
+   "id": 1, 
+   "name": "Drum & Bass"
+  }
+ ], 
+ "title": "Ghost House (Original Mix)", 
+ "label": {
+  "slug": "intrinsic-recordings", 
+  "id": 3592, 
+  "name": "Intrinsic Recordings"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/4281adce-2e5b-4d78-b988-3bad6736e655.LOFI.mp3", 
+   "offset": {
+    "start": 157029, 
+    "end": 277204
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "G min", 
+ "date": {
+  "released": "2011-01-01", 
+  "published": "2011-01-01"
+ }, 
+ "active": true, 
+ "slug": "ghost-house-original-mix", 
+ "preorder": false, 
+ "name": "Ghost House", 
+ "component_type": null, 
+ "bpm": 116, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "drum-and-bass-incision-vol-9", 
+  "id": 363015, 
+  "name": "Drum & Bass Incision Vol. 9"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/d68d88c6-9547-4c22-9033-49df47ed11df.png", 
+   "width": 1500, 
+   "id": 2768863, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/d68d88c6-9547-4c22-9033-49df47ed11df.png", 
+   "id": 2768863
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

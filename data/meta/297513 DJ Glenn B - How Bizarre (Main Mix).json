@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/b5f8607f-5aae-4408-8337-9513f9fe6fc6.jpg", 
+   "width": 30, 
+   "id": 103586, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/6080a8fd-729c-47a0-b080-f86713def1e9.jpg", 
+   "width": 60, 
+   "id": 103587, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/6080a8fd-729c-47a0-b080-f86713def1e9.jpg", 
+   "id": 103587
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "dj-glenn-b", 
+   "id": 40369, 
+   "name": "DJ Glenn B"
+  }
+ ], 
+ "duration": {
+  "minutes": "4:56", 
+  "milliseconds": 296800
+ }, 
+ "id": 297513, 
+ "genres": [
+  {
+   "slug": "house", 
+   "id": 5, 
+   "name": "House"
+  }
+ ], 
+ "title": "How Bizarre (Main Mix)", 
+ "label": {
+  "slug": "big-boss-records", 
+  "id": 5306, 
+  "name": "Big Boss Records"
+ }, 
+ "mix": "Main Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/b2171f72-e9b5-4e35-91b8-008d4af27362.LOFI.mp4", 
+   "offset": {
+    "start": 118720, 
+    "end": 238720
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/b2171f72-e9b5-4e35-91b8-008d4af27362.LOFI.mp3", 
+   "offset": {
+    "start": 118720, 
+    "end": 238720
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C maj", 
+ "date": {
+  "released": "2007-05-16", 
+  "published": "2007-05-16"
+ }, 
+ "active": true, 
+ "slug": "how-bizarre-main-mix", 
+ "preorder": false, 
+ "name": "How Bizarre", 
+ "component_type": null, 
+ "bpm": 127, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "how-bizarre", 
+  "id": 56867, 
+  "name": "How Bizarre"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ea9d9e92-a2f4-4c1e-8eee-2e6540acd428.png", 
+   "width": 1500, 
+   "id": 2237389, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/9dc53f39-4e8b-499b-80f5-78ca1d76e04c.jpg", 
+   "width": 500, 
+   "id": 11845000, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/a7153daf-1e5d-4732-ab66-e2017913bfe2.jpg", 
+   "width": 30, 
+   "id": 22420, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/14ef1527-b9a4-4259-b1bd-811d93dac09e.jpg", 
+   "width": 60, 
+   "id": 6705, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/9dc53f39-4e8b-499b-80f5-78ca1d76e04c.jpg", 
+   "id": 11845000
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "break-3000", 
+   "id": 8650, 
+   "name": "Break 3000"
+  }
+ ], 
+ "duration": {
+  "minutes": "11:18", 
+  "milliseconds": 678920
+ }, 
+ "id": 51936, 
+ "genres": [
+  {
+   "slug": "techno", 
+   "id": 6, 
+   "name": "Techno"
+  }
+ ], 
+ "title": "Flash 1 (Original Mix)", 
+ "label": {
+  "slug": "mbf-ltd", 
+  "id": 9230, 
+  "name": "MBF ltd"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/ca2d7808-a0da-401b-a206-218b27588041.LOFI.mp4", 
+   "offset": {
+    "start": 271568, 
+    "end": 391568
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/ca2d7808-a0da-401b-a206-218b27588041.LOFI.mp3", 
+   "offset": {
+    "start": 271568, 
+    "end": 391568
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "G maj", 
+ "date": {
+  "released": "2005-01-26", 
+  "published": "2005-01-26"
+ }, 
+ "active": true, 
+ "slug": "flash-1-original-mix", 
+ "preorder": false, 
+ "name": "Flash 1", 
+ "component_type": null, 
+ "bpm": 125, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "flash", 
+  "id": 16370, 
+  "name": "Flash"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/f3509987-b8ad-4fb0-bc28-684c3f7841aa.png", 
+   "width": 1500, 
+   "id": 2461565, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/f3509987-b8ad-4fb0-bc28-684c3f7841aa.png", 
+   "id": 2461565
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

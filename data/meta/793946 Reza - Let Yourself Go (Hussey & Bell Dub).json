@@ -1,0 +1,138 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/40a5a233-6ecf-4411-95ca-52b865499c1c.jpg", 
+   "width": 500, 
+   "id": 373432, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/434b37e1-bb7d-4194-9553-e40c035e542e.jpg", 
+   "width": 30, 
+   "id": 373430, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/0875240d-608e-4ea8-bf7e-d8795495e218.jpg", 
+   "width": 60, 
+   "id": 373431, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/40a5a233-6ecf-4411-95ca-52b865499c1c.jpg", 
+   "id": 373432
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "reza", 
+   "id": 2124, 
+   "name": "Reza"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:48", 
+  "milliseconds": 408189
+ }, 
+ "id": 793946, 
+ "genres": [
+  {
+   "slug": "electro-house", 
+   "id": 17, 
+   "name": "Electro House"
+  }
+ ], 
+ "title": "Let Yourself Go (Hussey & Bell Dub)", 
+ "label": {
+  "slug": "slammin-muzik", 
+  "id": 3794, 
+  "name": "Slammin Muzik"
+ }, 
+ "mix": "Hussey & Bell Dub", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/4f2d74bb-4f38-4aae-b1cd-b93f9d7e2e7a.LOFI.mp4", 
+   "offset": {
+    "start": 163275, 
+    "end": 283275
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/4f2d74bb-4f38-4aae-b1cd-b93f9d7e2e7a.LOFI.mp3", 
+   "offset": {
+    "start": 163275, 
+    "end": 283275
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "nick-hussey", 
+   "id": 8242, 
+   "name": "Nick Hussey"
+  }, 
+  {
+   "slug": "jimmy-bell", 
+   "id": 209185, 
+   "name": "Jimmy Bell"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A\u266f maj", 
+ "date": {
+  "released": "2009-03-05", 
+  "published": "2009-03-05"
+ }, 
+ "active": true, 
+ "slug": "let-yourself-go-hussey-and-bell-dub", 
+ "preorder": false, 
+ "name": "Let Yourself Go", 
+ "component_type": null, 
+ "bpm": 127, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "let-yourself-go-pt-2", 
+  "id": 159308, 
+  "name": "Let Yourself Go, Pt. 2"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ca61bc68-8985-4c5d-847b-dcc5b738dfca.png", 
+   "width": 1500, 
+   "id": 14665000, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/ca61bc68-8985-4c5d-847b-dcc5b738dfca.png", 
+   "id": 14665000
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

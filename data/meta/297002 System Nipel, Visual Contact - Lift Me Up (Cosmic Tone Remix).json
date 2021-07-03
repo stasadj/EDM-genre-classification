@@ -1,0 +1,138 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/b3799420-7843-48d1-be5b-afd6405a9be8.jpg", 
+   "width": 30, 
+   "id": 103391, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/a9315a74-0e03-4975-ae73-47b0cd3cff5f.jpg", 
+   "width": 60, 
+   "id": 103392, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/a9315a74-0e03-4975-ae73-47b0cd3cff5f.jpg", 
+   "id": 103392
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "system-nipel", 
+   "id": 33086, 
+   "name": "System Nipel"
+  }, 
+  {
+   "slug": "visual-contact", 
+   "id": 40276, 
+   "name": "Visual Contact"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:44", 
+  "milliseconds": 464353
+ }, 
+ "id": 297002, 
+ "genres": [
+  {
+   "slug": "psy-trance", 
+   "id": 13, 
+   "name": "Psy-Trance"
+  }
+ ], 
+ "title": "Lift Me Up (Cosmic Tone Remix)", 
+ "label": {
+  "slug": "com-pact-records", 
+  "id": 5762, 
+  "name": "Com.Pact Records"
+ }, 
+ "mix": "Cosmic Tone Remix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/c28c1bbd-0a2d-4d11-ab38-cb571747035d.LOFI.mp4", 
+   "offset": {
+    "start": 185741, 
+    "end": 305741
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/c28c1bbd-0a2d-4d11-ab38-cb571747035d.LOFI.mp3", 
+   "offset": {
+    "start": 185741, 
+    "end": 305741
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "cosmic-tone", 
+   "id": 28436, 
+   "name": "Cosmic Tone"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F maj", 
+ "date": {
+  "released": "2007-03-24", 
+  "published": "2007-03-24"
+ }, 
+ "active": true, 
+ "slug": "lift-me-up-cosmic-tone-remix", 
+ "preorder": false, 
+ "name": "Lift Me Up", 
+ "component_type": null, 
+ "bpm": 142, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "over-beat-plug-n-play-volume-2", 
+  "id": 56768, 
+  "name": "Over Beat - Plug N' Play Volume 2"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/10b75913-89c2-4ba8-8d96-ab0394995ed8.png", 
+   "width": 1500, 
+   "id": 2238087, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

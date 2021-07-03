@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/4ddeadbe-5fe1-4696-8c27-9d6ac1eeb834.jpg", 
+   "width": 30, 
+   "id": 28223, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/eadbc7b3-5133-41af-9412-7abd3731c254.jpg", 
+   "width": 60, 
+   "id": 12501, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/eadbc7b3-5133-41af-9412-7abd3731c254.jpg", 
+   "id": 12501
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "musica-charlista", 
+   "id": 15348, 
+   "name": "Musica Charlista"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:16", 
+  "milliseconds": 376279
+ }, 
+ "id": 110504, 
+ "genres": [
+  {
+   "slug": "minimal-deep-tech", 
+   "id": 14, 
+   "name": "Minimal / Deep Tech"
+  }
+ ], 
+ "title": "Juan Y Alex (Original Mix)", 
+ "label": {
+  "slug": "apnea", 
+  "id": 2102, 
+  "name": "Apnea"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/0f03eb3b-892d-4d64-915a-ade669fa282c.LOFI.mp4", 
+   "offset": {
+    "start": 150511, 
+    "end": 270511
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/0f03eb3b-892d-4d64-915a-ade669fa282c.LOFI.mp3", 
+   "offset": {
+    "start": 150511, 
+    "end": 270511
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A\u266f maj", 
+ "date": {
+  "released": "2006-04-03", 
+  "published": "2006-04-03"
+ }, 
+ "active": true, 
+ "slug": "juan-y-alex-original-mix", 
+ "preorder": false, 
+ "name": "Juan Y Alex", 
+ "component_type": null, 
+ "bpm": 129, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "aperto-piscina-ballare-pulire-spesa-binario-bucato-pesce-spettacolo-bere-posta", 
+  "id": 25068, 
+  "name": "Aperto, Piscina, Ballare, Pulire, Spesa, Binario, Bucato, Pesce, Spettacolo, Bere, Posta"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ee2e341c-4f9a-45e1-a866-a5cfc812e58c.png", 
+   "width": 1500, 
+   "id": 2415774, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

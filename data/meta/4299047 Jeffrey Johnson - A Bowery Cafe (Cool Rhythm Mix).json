@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/94e17e98-deeb-4877-846c-cbdb7862ede8.jpg", 
+   "width": 500, 
+   "id": 7218652, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/4d78761e-0458-413b-a4f1-9248ce87a66d.jpg", 
+   "width": 30, 
+   "id": 7218650, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/9e67ae9d-5358-4ec6-b85b-423b62c5b9ad.jpg", 
+   "width": 60, 
+   "id": 7218651, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/94e17e98-deeb-4877-846c-cbdb7862ede8.jpg", 
+   "id": 7218652
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "jeffrey-johnson", 
+   "id": 228454, 
+   "name": "Jeffrey Johnson"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:40", 
+  "milliseconds": 340320
+ }, 
+ "id": 4299047, 
+ "genres": [
+  {
+   "slug": "deep-house", 
+   "id": 12, 
+   "name": "Deep House"
+  }
+ ], 
+ "title": "A Bowery Cafe (Cool Rhythm Mix)", 
+ "label": {
+  "slug": "pink-nails", 
+  "id": 27917, 
+  "name": "Pink Nails"
+ }, 
+ "mix": "Cool Rhythm Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/a45c1592-f4bd-44ab-9f76-d68c2ca26844.LOFI.mp4", 
+   "offset": {
+    "start": 136128, 
+    "end": 256128
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/a45c1592-f4bd-44ab-9f76-d68c2ca26844.LOFI.mp3", 
+   "offset": {
+    "start": 136128, 
+    "end": 256128
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D\u266f maj", 
+ "date": {
+  "released": "2013-03-08", 
+  "published": "2013-03-08"
+ }, 
+ "active": true, 
+ "slug": "a-bowery-cafe-cool-rhythm-mix", 
+ "preorder": false, 
+ "name": "A Bowery Cafe", 
+ "component_type": null, 
+ "bpm": 125, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "lust-vol-4-a-collection-of-25-great-deep-house-tracks", 
+  "id": 1070919, 
+  "name": "Lust, Vol. 4: A Collection of 25 Great Deep House Tracks"
+ }, 
+ "waveform": {
+  "large": {
+   "url": null, 
+   "width": null, 
+   "id": null, 
+   "height": null
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

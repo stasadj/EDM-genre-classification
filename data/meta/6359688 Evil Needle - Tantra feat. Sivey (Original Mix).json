@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/f7b154cf-0141-4e57-bd86-f6be44088f26.jpg", 
+   "width": 500, 
+   "id": 11056436, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/2f6f6a3e-6730-4cdd-a63d-61d9bfdfc4f1.jpg", 
+   "width": 30, 
+   "id": 491534, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/dc2fae1b-1023-4d48-b232-6bb3fc32358d.jpg", 
+   "width": 60, 
+   "id": 10940847, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/f7b154cf-0141-4e57-bd86-f6be44088f26.jpg", 
+   "id": 11056436
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "evil-needle", 
+   "id": 243756, 
+   "name": "Evil Needle"
+  }
+ ], 
+ "duration": {
+  "minutes": "3:36", 
+  "milliseconds": 216293
+ }, 
+ "id": 6359688, 
+ "genres": [
+  {
+   "slug": "hip-hop-r-and-b", 
+   "id": 38, 
+   "name": "Hip-Hop / R&B"
+  }
+ ], 
+ "title": "Tantra feat. Sivey (Original Mix)", 
+ "label": {
+  "slug": "hw-and-w-recordings", 
+  "id": 46597, 
+  "name": "HW&W Recordings"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/01ba5202-af04-4d97-b17a-6b93c533afb8.LOFI.mp4", 
+   "offset": {
+    "start": 86517, 
+    "end": 206517
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/01ba5202-af04-4d97-b17a-6b93c533afb8.LOFI.mp3", 
+   "offset": {
+    "start": 86517, 
+    "end": 206517
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "albumOnly", 
+ "purchase": 2, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C maj", 
+ "date": {
+  "released": "2012-06-05", 
+  "published": "2012-06-05"
+ }, 
+ "active": true, 
+ "slug": "tantra-feat-sivey-original-mix", 
+ "preorder": false, 
+ "name": "Tantra feat. Sivey", 
+ "component_type": null, 
+ "bpm": 77, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "equilibrium", 
+  "id": 1475402, 
+  "name": "Equilibrium"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/0eb9dbbf-eca9-4d0a-ac0a-951bdcc8b943.png", 
+   "width": 1500, 
+   "id": 11056523, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/0eb9dbbf-eca9-4d0a-ac0a-951bdcc8b943.png", 
+   "id": 11056523
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

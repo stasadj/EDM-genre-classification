@@ -1,0 +1,130 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/c0c984f5-794c-4b92-bbc4-3bac2dd914e9.jpg", 
+   "width": 500, 
+   "id": 788568, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/cab4336b-4894-4795-a3fc-b842bc02d396.jpg", 
+   "width": 30, 
+   "id": 788566, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/b96d16a9-0d8e-4b75-8c01-fcda33976cf0.jpg", 
+   "width": 60, 
+   "id": 788567, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/c0c984f5-794c-4b92-bbc4-3bac2dd914e9.jpg", 
+   "id": 788568
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "phantom-lord", 
+   "id": 129719, 
+   "name": "Phantom Lord"
+  }
+ ], 
+ "duration": {
+  "minutes": "4:41", 
+  "milliseconds": 281538
+ }, 
+ "id": 1398692, 
+ "genres": [
+  {
+   "slug": "breaks", 
+   "id": 9, 
+   "name": "Breaks"
+  }
+ ], 
+ "title": "Stay Puft (XUL Mix)", 
+ "label": {
+  "slug": "jobseekers", 
+  "id": 14942, 
+  "name": "Jobseekers"
+ }, 
+ "mix": "XUL Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/4e772aa8-67c5-4ad3-b140-e853520ed067.LOFI.mp3", 
+   "offset": {
+    "start": 112615, 
+    "end": 232844
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "xul", 
+   "id": 152785, 
+   "name": "xul"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D\u266f maj", 
+ "date": {
+  "released": "2010-09-20", 
+  "published": "2010-09-20"
+ }, 
+ "active": true, 
+ "slug": "stay-puft-xul-mix", 
+ "preorder": false, 
+ "name": "Stay Puft", 
+ "component_type": null, 
+ "bpm": 130, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "stay-puft", 
+  "id": 278299, 
+  "name": "Stay Puft"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/4a046a1b-30b8-4929-a144-4d02ef8574de.png", 
+   "width": 1500, 
+   "id": 1985170, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/4a046a1b-30b8-4929-a144-4d02ef8574de.png", 
+   "id": 1985170
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/f4e1cd7a-5552-4d96-9f57-7f14b23abbf4.jpg", 
+   "width": 500, 
+   "id": 10675130, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/6d5b2aac-56be-4eb1-a1a5-42ee5fdac4b5.jpg", 
+   "width": 30, 
+   "id": 7404394, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/08485430-7f8a-48fa-9d22-37450dc8bc8b.jpg", 
+   "width": 60, 
+   "id": 7404395, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/f4e1cd7a-5552-4d96-9f57-7f14b23abbf4.jpg", 
+   "id": 10675130
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "pano-manara", 
+   "id": 339547, 
+   "name": "Pano Manara"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:14", 
+  "milliseconds": 374633
+ }, 
+ "id": 6144221, 
+ "genres": [
+  {
+   "slug": "deep-house", 
+   "id": 12, 
+   "name": "Deep House"
+  }
+ ], 
+ "title": "Speed Up (Original Mix)", 
+ "label": {
+  "slug": "flipside-recordings", 
+  "id": 32701, 
+  "name": "Flipside Recordings"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/14910a61-4b0e-4d3a-9f46-142ef433bc64.LOFI.mp4", 
+   "offset": {
+    "start": 149853, 
+    "end": 269853
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/14910a61-4b0e-4d3a-9f46-142ef433bc64.LOFI.mp3", 
+   "offset": {
+    "start": 149853, 
+    "end": 269853
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "E maj", 
+ "date": {
+  "released": "2014-12-26", 
+  "published": "2014-12-26"
+ }, 
+ "active": true, 
+ "slug": "speed-up-original-mix", 
+ "preorder": false, 
+ "name": "Speed Up", 
+ "component_type": null, 
+ "bpm": 123, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "the-flipside-of-deep-kiwi-edition", 
+  "id": 1436621, 
+  "name": "The Flipside of Deep - Kiwi Edition"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/cf6b6b65-1a8f-483f-af5c-8791b7e01fe7.png", 
+   "width": 1500, 
+   "id": 10677425, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/cf6b6b65-1a8f-483f-af5c-8791b7e01fe7.png", 
+   "id": 10677425
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

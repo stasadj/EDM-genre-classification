@@ -1,0 +1,130 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/7f8ef80c-a2a4-4cf3-b4aa-d04d8b2acef9.jpg", 
+   "width": 500, 
+   "id": 393835, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/9dd99951-ce0e-49f7-bf17-440c5f728fc4.jpg", 
+   "width": 30, 
+   "id": 393833, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/d5930e11-d951-4abc-aad0-7fba43e58c39.jpg", 
+   "width": 60, 
+   "id": 393834, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/7f8ef80c-a2a4-4cf3-b4aa-d04d8b2acef9.jpg", 
+   "id": 393835
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "david-scaloni", 
+   "id": 80007, 
+   "name": "David Scaloni"
+  }
+ ], 
+ "duration": {
+  "minutes": "8:17", 
+  "milliseconds": 497613
+ }, 
+ "id": 821091, 
+ "genres": [
+  {
+   "slug": "tech-house", 
+   "id": 11, 
+   "name": "Tech House"
+  }
+ ], 
+ "title": "Talkin (Roberto Procaccini Remix)", 
+ "label": {
+  "slug": "empro-music", 
+  "id": 9524, 
+  "name": "Empro Music"
+ }, 
+ "mix": "Roberto Procaccini Remix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/0b84a7c0-e198-43ff-9843-259400117e41.LOFI.mp3", 
+   "offset": {
+    "start": 199045, 
+    "end": 319193
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "roberto-procaccini", 
+   "id": 69851, 
+   "name": "Roberto Procaccini"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D maj", 
+ "date": {
+  "released": "2009-04-09", 
+  "published": "2009-04-09"
+ }, 
+ "active": true, 
+ "slug": "talkin-roberto-procaccini-remix", 
+ "preorder": false, 
+ "name": "Talkin", 
+ "component_type": null, 
+ "bpm": 126, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "talkin-ep", 
+  "id": 165183, 
+  "name": "Talkin EP"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/f18ba183-48b2-4816-8612-0fb496921dcb.png", 
+   "width": 1500, 
+   "id": 1219988, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/f18ba183-48b2-4816-8612-0fb496921dcb.png", 
+   "id": 1219988
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

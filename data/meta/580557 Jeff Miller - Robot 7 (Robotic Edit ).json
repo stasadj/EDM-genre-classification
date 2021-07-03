@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/44aefb8f-2511-4384-9dd2-9b664692f1c4.jpg", 
+   "width": 500, 
+   "id": 9769090, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/12726ac9-442e-4e58-9c3a-d300b8d58cf0.jpg", 
+   "width": 30, 
+   "id": 250421, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/b8845105-106f-4db9-99b5-ff1bb58e9541.jpg", 
+   "width": 60, 
+   "id": 250422, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/44aefb8f-2511-4384-9dd2-9b664692f1c4.jpg", 
+   "id": 9769090
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "jeff-miller", 
+   "id": 12932, 
+   "name": "Jeff Miller"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:36", 
+  "milliseconds": 396606
+ }, 
+ "id": 580557, 
+ "genres": [
+  {
+   "slug": "techno", 
+   "id": 6, 
+   "name": "Techno"
+  }
+ ], 
+ "title": "Robot 7 (Robotic Edit\t\t\t)", 
+ "label": {
+  "slug": "telepathy", 
+  "id": 1351, 
+  "name": "Telepathy"
+ }, 
+ "mix": "Robotic Edit\t\t\t", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/92040752-52df-47f2-83f0-65ff52c0cf89.LOFI.mp3", 
+   "offset": {
+    "start": 158642, 
+    "end": 278825
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A\u266f maj", 
+ "date": {
+  "released": "2008-05-22", 
+  "published": "2008-05-22"
+ }, 
+ "active": true, 
+ "slug": "robot-7-robotic-edit", 
+ "preorder": false, 
+ "name": "Robot 7", 
+ "component_type": null, 
+ "bpm": 133, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "godsfave-ep", 
+  "id": 114941, 
+  "name": "Godsfave EP"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/7dee6abd-7e08-4647-8ab8-02f8158e72f8.png", 
+   "width": 1500, 
+   "id": 2572966, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/7dee6abd-7e08-4647-8ab8-02f8158e72f8.png", 
+   "id": 2572966
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

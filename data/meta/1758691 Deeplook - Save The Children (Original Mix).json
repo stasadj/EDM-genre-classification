@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/c00df8c9-1dc6-482e-b08a-497168187d40.jpg", 
+   "width": 500, 
+   "id": 1140591, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/c0a271b2-078d-43b6-88ce-577cfd6eccc5.jpg", 
+   "width": 30, 
+   "id": 1140589, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/4ded9343-bb03-4fbb-99ec-d0f76ceb8edc.jpg", 
+   "width": 60, 
+   "id": 1140590, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/c00df8c9-1dc6-482e-b08a-497168187d40.jpg", 
+   "id": 1140591
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "deeplook", 
+   "id": 179708, 
+   "name": "Deeplook"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:38", 
+  "milliseconds": 398877
+ }, 
+ "id": 1758691, 
+ "genres": [
+  {
+   "slug": "psy-trance", 
+   "id": 13, 
+   "name": "Psy-Trance"
+  }
+ ], 
+ "title": "Save The Children (Original Mix)", 
+ "label": {
+  "slug": "geomagnetic", 
+  "id": 2525, 
+  "name": "Geomagnetic"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/04a2e2a7-c0e2-4af8-9df4-a69e739bbc5c.LOFI.mp3", 
+   "offset": {
+    "start": 159550, 
+    "end": 279814
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A maj", 
+ "date": {
+  "released": "2011-02-25", 
+  "published": "2011-02-25"
+ }, 
+ "active": true, 
+ "slug": "save-the-children-original-mix", 
+ "preorder": false, 
+ "name": "Save The Children", 
+ "component_type": null, 
+ "bpm": 142, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "fe5tival-ep", 
+  "id": 341503, 
+  "name": "Fe5tival EP"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/a6b3fbf8-4447-4529-8ab1-c34c2d1c52ce.png", 
+   "width": 1500, 
+   "id": 1140723, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/a6b3fbf8-4447-4529-8ab1-c34c2d1c52ce.png", 
+   "id": 1140723
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

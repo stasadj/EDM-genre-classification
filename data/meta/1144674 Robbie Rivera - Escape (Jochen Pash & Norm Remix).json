@@ -1,0 +1,135 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/a1b24858-7b3f-4147-b1c1-0dc4b0819b41.jpg", 
+   "width": 500, 
+   "id": 623589, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/8a1be986-3eb1-4d7c-8e6e-2fb2582a02fb.jpg", 
+   "width": 30, 
+   "id": 623587, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/0ce3ebdf-086e-40d8-8ad9-9b71f23ef27e.jpg", 
+   "width": 60, 
+   "id": 623588, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/a1b24858-7b3f-4147-b1c1-0dc4b0819b41.jpg", 
+   "id": 623589
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "robbie-rivera", 
+   "id": 557, 
+   "name": "Robbie Rivera"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:56", 
+  "milliseconds": 416000
+ }, 
+ "id": 1144674, 
+ "genres": [
+  {
+   "slug": "electro-house", 
+   "id": 17, 
+   "name": "Electro House"
+  }
+ ], 
+ "title": "Escape (Jochen Pash & Norm Remix)", 
+ "label": {
+  "slug": "le-bien-et-le-mal-recordings", 
+  "id": 3278, 
+  "name": "Le Bien Et Le Mal Recordings"
+ }, 
+ "mix": "Jochen Pash & Norm Remix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/1fb8e71f-6d14-4673-a857-968f06081ac4.LOFI.mp3", 
+   "offset": {
+    "start": 166400, 
+    "end": 286399
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "norm", 
+   "id": 15407, 
+   "name": "Norm"
+  }, 
+  {
+   "slug": "jochen-pash", 
+   "id": 19953, 
+   "name": "Jochen Pash"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A\u266f maj", 
+ "date": {
+  "released": "2008-09-04", 
+  "published": "2008-09-04"
+ }, 
+ "active": true, 
+ "slug": "escape-jochen-pash-and-norm-remix", 
+ "preorder": false, 
+ "name": "Escape", 
+ "component_type": null, 
+ "bpm": 125, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "hot-kandy-disco-volume-1-the-house-edition", 
+  "id": 230540, 
+  "name": "Hot Kandy Disco - Volume 1 - The House Edition"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/47c6af70-cc09-4fd5-a5c9-f21e15261bc3.png", 
+   "width": 1500, 
+   "id": 1338152, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/47c6af70-cc09-4fd5-a5c9-f21e15261bc3.png", 
+   "id": 1338152
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

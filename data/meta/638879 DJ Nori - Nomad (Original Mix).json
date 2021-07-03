@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/31d40a43-de62-464b-ac2e-5d945d7fa71a.jpg", 
+   "width": 30, 
+   "id": 281864, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/ea610265-909c-416c-8af3-0daf4c2c4a74.jpg", 
+   "width": 60, 
+   "id": 281865, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/ea610265-909c-416c-8af3-0daf4c2c4a74.jpg", 
+   "id": 281865
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "dj-nori", 
+   "id": 84598, 
+   "name": "DJ Nori"
+  }
+ ], 
+ "duration": {
+  "minutes": "8:59", 
+  "milliseconds": 539395
+ }, 
+ "id": 638879, 
+ "genres": [
+  {
+   "slug": "deep-house", 
+   "id": 12, 
+   "name": "Deep House"
+  }
+ ], 
+ "title": "Nomad (Original Mix)", 
+ "label": {
+  "slug": "flower-records", 
+  "id": 6743, 
+  "name": "Flower Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/8f4a110a-4cad-45d4-89df-781da28c615b.LOFI.mp3", 
+   "offset": {
+    "start": 215758, 
+    "end": 335845
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D maj", 
+ "date": {
+  "released": "2008-07-31", 
+  "published": "2008-07-31"
+ }, 
+ "active": true, 
+ "slug": "nomad-original-mix", 
+ "preorder": false, 
+ "name": "Nomad", 
+ "component_type": null, 
+ "bpm": 124, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "flower-records-classics-volume-1", 
+  "id": 126877, 
+  "name": "Flower Records Classics Volume 1"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/be3f96e5-4722-4ec7-a9c2-68dc041e1f09.png", 
+   "width": 1500, 
+   "id": 2474286, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

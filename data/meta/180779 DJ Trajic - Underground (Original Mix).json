@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/282ea6c3-38da-4476-a965-1ac1eb528ba5.jpg", 
+   "width": 30, 
+   "id": 40588, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/d351fede-fd2c-49fe-b063-55fba4a21781.jpg", 
+   "width": 60, 
+   "id": 40589, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/d351fede-fd2c-49fe-b063-55fba4a21781.jpg", 
+   "id": 40589
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "dj-trajic", 
+   "id": 7548, 
+   "name": "DJ Trajic"
+  }
+ ], 
+ "duration": {
+  "minutes": "3:49", 
+  "milliseconds": 229616
+ }, 
+ "id": 180779, 
+ "genres": [
+  {
+   "slug": "hard-dance", 
+   "id": 8, 
+   "name": "Hard Dance"
+  }
+ ], 
+ "title": "Underground (Original Mix)", 
+ "label": {
+  "slug": "nemek-music", 
+  "id": 2086, 
+  "name": "Nemek Music"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/cda74d4f-5645-490f-ba59-da66dabc61e1.LOFI.mp4", 
+   "offset": {
+    "start": 91846, 
+    "end": 211846
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/cda74d4f-5645-490f-ba59-da66dabc61e1.LOFI.mp3", 
+   "offset": {
+    "start": 91846, 
+    "end": 211846
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A\u266f maj", 
+ "date": {
+  "released": "2006-08-25", 
+  "published": "2006-08-25"
+ }, 
+ "active": true, 
+ "slug": "underground-original-mix", 
+ "preorder": false, 
+ "name": "Underground", 
+ "component_type": null, 
+ "bpm": 134, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "record-players-2", 
+  "id": 30338, 
+  "name": "Record Players 2"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/6f06248f-2327-436e-b0a3-f363d8cf7431.png", 
+   "width": 1500, 
+   "id": 2380606, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

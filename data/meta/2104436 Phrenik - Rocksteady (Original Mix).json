@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/4306ecf9-5607-4ca5-a6d0-4cac7feef69d.jpg", 
+   "width": 500, 
+   "id": 3145051, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/13a7b6af-9399-4a37-8e7c-82cb9d0316bc.jpg", 
+   "width": 30, 
+   "id": 3145049, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/d549676a-25ca-4f20-8f69-32b3153a04ae.jpg", 
+   "width": 60, 
+   "id": 3145050, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/4306ecf9-5607-4ca5-a6d0-4cac7feef69d.jpg", 
+   "id": 3145051
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "phrenik", 
+   "id": 151429, 
+   "name": "Phrenik"
+  }
+ ], 
+ "duration": {
+  "minutes": "4:14", 
+  "milliseconds": 254400
+ }, 
+ "id": 2104436, 
+ "genres": [
+  {
+   "slug": "dubstep", 
+   "id": 18, 
+   "name": "Dubstep"
+  }
+ ], 
+ "title": "Rocksteady (Original Mix)", 
+ "label": {
+  "slug": "simplify", 
+  "id": 13209, 
+  "name": "Simplify."
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/2991f47a-ac5f-4580-806a-120854ad1b8e.LOFI.mp3", 
+   "offset": {
+    "start": 101760, 
+    "end": 221948
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F maj", 
+ "date": {
+  "released": "2011-08-10", 
+  "published": "2011-08-10"
+ }, 
+ "active": true, 
+ "slug": "rocksteady-original-mix", 
+ "preorder": false, 
+ "name": "Rocksteady", 
+ "component_type": null, 
+ "bpm": 140, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "exodus-ep", 
+  "id": 407236, 
+  "name": "Exodus EP"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/aaf54bca-3d03-476f-bb2f-65ec7baf7f07.png", 
+   "width": 1500, 
+   "id": 3165862, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/aaf54bca-3d03-476f-bb2f-65ec7baf7f07.png", 
+   "id": 3165862
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

@@ -1,0 +1,139 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/f7ff1ecd-5ef2-42dd-8473-8089bc09ae05.jpg", 
+   "width": 30, 
+   "id": 51388, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/b8b85587-64d2-4b66-8fb3-e0aae04b5dcf.jpg", 
+   "width": 60, 
+   "id": 51389, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/b8b85587-64d2-4b66-8fb3-e0aae04b5dcf.jpg", 
+   "id": 51389
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "m-i-k-e", 
+   "id": 594, 
+   "name": "M.I.K.E."
+  }
+ ], 
+ "duration": {
+  "minutes": "7:45", 
+  "milliseconds": 465919
+ }, 
+ "id": 200573, 
+ "genres": [
+  {
+   "slug": "trance", 
+   "id": 7, 
+   "name": "Trance"
+  }
+ ], 
+ "title": "Salvation (Valentino Kanzyani JLY Remix)", 
+ "label": {
+  "slug": "club-elite-armada", 
+  "id": 106, 
+  "name": "Club Elite (Armada)"
+ }, 
+ "mix": "Valentino Kanzyani JLY Remix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/42360075-de87-4bf9-96ad-62f68e1111e7.LOFI.mp4", 
+   "offset": {
+    "start": 186367, 
+    "end": 306367
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/42360075-de87-4bf9-96ad-62f68e1111e7.LOFI.mp3", 
+   "offset": {
+    "start": 186367, 
+    "end": 306367
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "valentino-kanzyani", 
+   "id": 1915, 
+   "name": "Valentino Kanzyani"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.56", 
+  "value": 1.56
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C\u266f maj", 
+ "date": {
+  "released": "2006-10-19", 
+  "published": "2006-10-19"
+ }, 
+ "active": true, 
+ "slug": "salvation-valentino-kanzyani-jly-remix", 
+ "preorder": false, 
+ "name": "Salvation", 
+ "component_type": null, 
+ "bpm": 134, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "salvation", 
+  "id": 35062, 
+  "name": "Salvation"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/1aeededa-ad07-49e9-9d8a-9462029a41f1.png", 
+   "width": 1500, 
+   "id": 2365032, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": [
+  {
+   "slug": "tech", 
+   "id": 29, 
+   "name": "Tech"
+  }
+ ]
+}

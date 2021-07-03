@@ -1,0 +1,132 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/f3002d75-53f2-4ba7-bb94-dbe928d6060f.jpg", 
+   "width": 500, 
+   "id": 6971511, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/6a3700ed-9bd1-42f2-9d54-637133c8e3d8.jpg", 
+   "width": 30, 
+   "id": 6971509, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/080fabd0-02d6-4788-b734-fc5eb62028c4.jpg", 
+   "width": 60, 
+   "id": 6971510, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/f3002d75-53f2-4ba7-bb94-dbe928d6060f.jpg", 
+   "id": 6971511
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "haze", 
+   "id": 30913, 
+   "name": "Haze"
+  }, 
+  {
+   "slug": "true-facts", 
+   "id": 317997, 
+   "name": "True Facts"
+  }
+ ], 
+ "duration": {
+  "minutes": "3:53", 
+  "milliseconds": 233482
+ }, 
+ "id": 4188360, 
+ "genres": [
+  {
+   "slug": "hip-hop-r-and-b", 
+   "id": 38, 
+   "name": "Hip-Hop / R&B"
+  }
+ ], 
+ "title": "Fresh (Original Mix)", 
+ "label": {
+  "slug": "mondotunes", 
+  "id": 27122, 
+  "name": "Mondotunes"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/b2e1407c-5016-482b-b028-7311a817b97f.LOFI.mp4", 
+   "offset": {
+    "start": 93392, 
+    "end": 213392
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/b2e1407c-5016-482b-b028-7311a817b97f.LOFI.mp3", 
+   "offset": {
+    "start": 93392, 
+    "end": 213392
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "B maj", 
+ "date": {
+  "released": "2013-03-10", 
+  "published": "2013-03-10"
+ }, 
+ "active": true, 
+ "slug": "fresh-original-mix", 
+ "preorder": false, 
+ "name": "Fresh", 
+ "component_type": null, 
+ "bpm": 140, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "fresh-single", 
+  "id": 1048321, 
+  "name": "Fresh - Single"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ef85e4a9-8e69-4b67-9160-60cfa6781b18.png", 
+   "width": 1500, 
+   "id": 6971560, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/ef85e4a9-8e69-4b67-9160-60cfa6781b18.png", 
+   "id": 6971560
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

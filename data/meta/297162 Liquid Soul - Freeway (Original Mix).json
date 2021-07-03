@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/7e3cfb7f-f3eb-4175-880a-4816de97d241.jpg", 
+   "width": 500, 
+   "id": 8998906, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/27c7e93c-5bd4-4172-aa2f-14275f68da3f.jpg", 
+   "width": 30, 
+   "id": 103451, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/98a735a6-31c1-4e2b-87e0-8866f8118c78.jpg", 
+   "width": 60, 
+   "id": 103452, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/7e3cfb7f-f3eb-4175-880a-4816de97d241.jpg", 
+   "id": 8998906
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "liquid-soul", 
+   "id": 8938, 
+   "name": "Liquid Soul"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:57", 
+  "milliseconds": 477600
+ }, 
+ "id": 297162, 
+ "genres": [
+  {
+   "slug": "trance", 
+   "id": 7, 
+   "name": "Trance"
+  }
+ ], 
+ "title": "Freeway (Original Mix)", 
+ "label": {
+  "slug": "iboga-records", 
+  "id": 919, 
+  "name": "Iboga Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/040aeebc-07f1-4d0e-9748-acc9197c768a.LOFI.mp4", 
+   "offset": {
+    "start": 191040, 
+    "end": 311040
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/040aeebc-07f1-4d0e-9748-acc9197c768a.LOFI.mp3", 
+   "offset": {
+    "start": 191040, 
+    "end": 311040
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A maj", 
+ "date": {
+  "released": "2007-05-15", 
+  "published": "2007-05-15"
+ }, 
+ "active": true, 
+ "slug": "freeway-original-mix", 
+ "preorder": false, 
+ "name": "Freeway", 
+ "component_type": null, 
+ "bpm": 135, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "freeway-single", 
+  "id": 56806, 
+  "name": "Freeway Single"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/b626ab09-423e-4ead-9b16-d8d4bdbca37d.png", 
+   "width": 1500, 
+   "id": 9399716, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/b626ab09-423e-4ead-9b16-d8d4bdbca37d.png", 
+   "id": 9399716
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

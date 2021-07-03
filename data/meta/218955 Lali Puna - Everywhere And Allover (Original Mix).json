@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/3cc7a36e-88ec-40f7-9089-2ab9a8f1f5d7.jpg", 
+   "width": 30, 
+   "id": 62877, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/180e4fa3-77b1-4a0e-8647-45a11719841d.jpg", 
+   "width": 60, 
+   "id": 62878, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/180e4fa3-77b1-4a0e-8647-45a11719841d.jpg", 
+   "id": 62878
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "lali-puna", 
+   "id": 27842, 
+   "name": "Lali Puna"
+  }
+ ], 
+ "duration": {
+  "minutes": "4:43", 
+  "milliseconds": 283573
+ }, 
+ "id": 218955, 
+ "genres": [
+  {
+   "slug": "electronica-downtempo", 
+   "id": 3, 
+   "name": "Electronica / Downtempo"
+  }
+ ], 
+ "title": "Everywhere And Allover (Original Mix)", 
+ "label": {
+  "slug": "morr-music", 
+  "id": 4012, 
+  "name": "Morr Music"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/69bbd4b3-29ba-437a-b8b7-6a6c9a1ea1d9.LOFI.mp4", 
+   "offset": {
+    "start": 113429, 
+    "end": 233429
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/69bbd4b3-29ba-437a-b8b7-6a6c9a1ea1d9.LOFI.mp3", 
+   "offset": {
+    "start": 113429, 
+    "end": 233429
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.56", 
+  "value": 1.56
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D maj", 
+ "date": {
+  "released": "1999-09-01", 
+  "published": "1999-09-01"
+ }, 
+ "active": true, 
+ "slug": "everywhere-and-allover-original-mix", 
+ "preorder": false, 
+ "name": "Everywhere And Allover", 
+ "component_type": null, 
+ "bpm": 128, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "tridecoder", 
+  "id": 39625, 
+  "name": "Tridecoder"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/613d4ced-3ccd-43c2-9312-39a82d669c99.png", 
+   "width": 1500, 
+   "id": 2350918, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

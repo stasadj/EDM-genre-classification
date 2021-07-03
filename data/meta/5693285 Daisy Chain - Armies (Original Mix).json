@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/69fb2284-a2d3-4324-a90a-875a333839c5.jpg", 
+   "width": 500, 
+   "id": 9910191, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/a3db1e03-04ab-4d4e-886b-4c5e26eb461c.jpg", 
+   "width": 30, 
+   "id": 10027796, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/3031f66f-1ac2-4b79-b523-8359a952fdde.jpg", 
+   "width": 60, 
+   "id": 10027797, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/69fb2284-a2d3-4324-a90a-875a333839c5.jpg", 
+   "id": 9910191
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "daisy-chain", 
+   "id": 224898, 
+   "name": "Daisy Chain"
+  }
+ ], 
+ "duration": {
+  "minutes": "4:48", 
+  "milliseconds": 288017
+ }, 
+ "id": 5693285, 
+ "genres": [
+  {
+   "slug": "dubstep", 
+   "id": 18, 
+   "name": "Dubstep"
+  }
+ ], 
+ "title": "Armies (Original Mix)", 
+ "label": {
+  "slug": "escence-audio", 
+  "id": 41106, 
+  "name": "Escence Audio"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/b74f8693-451b-4002-bf2b-cc53aef3e263.LOFI.mp4", 
+   "offset": {
+    "start": 115206, 
+    "end": 235206
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/b74f8693-451b-4002-bf2b-cc53aef3e263.LOFI.mp3", 
+   "offset": {
+    "start": 115206, 
+    "end": 235206
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C\u266f maj", 
+ "date": {
+  "released": "2014-08-25", 
+  "published": "2014-08-25"
+ }, 
+ "active": true, 
+ "slug": "armies-original-mix", 
+ "preorder": false, 
+ "name": "Armies", 
+ "component_type": null, 
+ "bpm": 140, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "recommended-by-duploc-vol-3", 
+  "id": 1356026, 
+  "name": "Recommended by DUPLOC Vol.3"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/c2c4ffba-7e34-4ef8-899b-0fd66fd48583.png", 
+   "width": 1500, 
+   "id": 9910211, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/c2c4ffba-7e34-4ef8-899b-0fd66fd48583.png", 
+   "id": 9910211
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

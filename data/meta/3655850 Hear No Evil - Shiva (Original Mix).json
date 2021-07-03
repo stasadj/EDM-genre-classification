@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/4702d1b9-9e07-4f0c-b2ba-201dec6d58d0.jpg", 
+   "width": 500, 
+   "id": 5730033, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/66deda44-580b-45cd-af0c-040c6956b5fe.jpg", 
+   "width": 30, 
+   "id": 5730031, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/9c38eb5c-a2c0-4f17-817d-160eeeb07900.jpg", 
+   "width": 60, 
+   "id": 5730032, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/4702d1b9-9e07-4f0c-b2ba-201dec6d58d0.jpg", 
+   "id": 5730033
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "hear-no-evil", 
+   "id": 100110, 
+   "name": "Hear No Evil"
+  }
+ ], 
+ "duration": {
+  "minutes": "8:57", 
+  "milliseconds": 537230
+ }, 
+ "id": 3655850, 
+ "genres": [
+  {
+   "slug": "tech-house", 
+   "id": 11, 
+   "name": "Tech House"
+  }
+ ], 
+ "title": "Shiva (Original Mix)", 
+ "label": {
+  "slug": "angry-monkey-productions", 
+  "id": 9486, 
+  "name": "Angry Monkey Productions"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/b7812b8d-b6a2-4d4a-86ad-2d7947162fd1.LOFI.mp3", 
+   "offset": {
+    "start": 214892, 
+    "end": 334943
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "G\u266f maj", 
+ "date": {
+  "released": "2012-07-25", 
+  "published": "2012-07-25"
+ }, 
+ "active": true, 
+ "slug": "shiva-original-mix", 
+ "preorder": false, 
+ "name": "Shiva", 
+ "component_type": null, 
+ "bpm": 130, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "monkey-trax-volume-4", 
+  "id": 942484, 
+  "name": "Monkey Trax Volume 4"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/7ab0bc67-c32c-4a2c-8d79-2aedd352fd3c.png", 
+   "width": 1500, 
+   "id": 5730246, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/7ab0bc67-c32c-4a2c-8d79-2aedd352fd3c.png", 
+   "id": 5730246
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

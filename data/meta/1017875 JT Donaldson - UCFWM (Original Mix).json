@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/2ae9441f-3892-4158-8444-87c09156fc7a.jpg", 
+   "width": 500, 
+   "id": 535750, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/b7d0c12c-79c5-480d-8584-a48b64a6e969.jpg", 
+   "width": 30, 
+   "id": 535748, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/7a1859eb-b884-409c-8c3e-8f1e72d17427.jpg", 
+   "width": 60, 
+   "id": 535749, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/2ae9441f-3892-4158-8444-87c09156fc7a.jpg", 
+   "id": 535750
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "jt-donaldson", 
+   "id": 1636, 
+   "name": "JT Donaldson"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:16", 
+  "milliseconds": 436535
+ }, 
+ "id": 1017875, 
+ "genres": [
+  {
+   "slug": "deep-house", 
+   "id": 12, 
+   "name": "Deep House"
+  }
+ ], 
+ "title": "UCFWM (Original Mix)", 
+ "label": {
+  "slug": "oomph", 
+  "id": 354, 
+  "name": "Oomph"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/897584b2-c32c-4b71-bc38-3456c370d7c8.LOFI.mp3", 
+   "offset": {
+    "start": 174614, 
+    "end": 294761
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "E maj", 
+ "date": {
+  "released": "2009-12-07", 
+  "published": "2009-12-07"
+ }, 
+ "active": true, 
+ "slug": "ucfwm-original-mix", 
+ "preorder": false, 
+ "name": "UCFWM", 
+ "component_type": null, 
+ "bpm": 127, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "on-the-downlow", 
+  "id": 205400, 
+  "name": "On The Downlow"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/03a672ae-fd28-4e0f-a908-08e5e2229564.png", 
+   "width": 1500, 
+   "id": 1568767, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/03a672ae-fd28-4e0f-a908-08e5e2229564.png", 
+   "id": 1568767
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

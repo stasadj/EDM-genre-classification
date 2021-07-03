@@ -1,0 +1,133 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/3d0cd13d-059b-4150-bebe-9db0cd4140d0.jpg", 
+   "width": 500, 
+   "id": 7131350, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/9330296b-a50c-45fc-9fde-0f3100cefe78.jpg", 
+   "width": 30, 
+   "id": 118430, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/7edd6eee-3d29-468f-8a75-185dee7ac668.jpg", 
+   "width": 60, 
+   "id": 118431, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/3d0cd13d-059b-4150-bebe-9db0cd4140d0.jpg", 
+   "id": 7131350
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "the-rurals", 
+   "id": 7798, 
+   "name": "The Rurals"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:13", 
+  "milliseconds": 373426
+ }, 
+ "id": 297675, 
+ "genres": [
+  {
+   "slug": "deep-house", 
+   "id": 12, 
+   "name": "Deep House"
+  }
+ ], 
+ "title": "Up to You (Deejaykul's Freebass Remix)", 
+ "label": {
+  "slug": "peng", 
+  "id": 1079, 
+  "name": "Peng"
+ }, 
+ "mix": "Deejaykul's Freebass Remix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/9d87eb5a-1e75-44e1-884f-5922a040cb00.LOFI.mp4", 
+   "offset": {
+    "start": 149370, 
+    "end": 269370
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/9d87eb5a-1e75-44e1-884f-5922a040cb00.LOFI.mp3", 
+   "offset": {
+    "start": 149370, 
+    "end": 269370
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "deejaykul", 
+   "id": 47242, 
+   "name": "Deejaykul"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A maj", 
+ "date": {
+  "released": "2007-06-15", 
+  "published": "2007-06-15"
+ }, 
+ "active": true, 
+ "slug": "up-to-you-deejaykuls-freebass-remix", 
+ "preorder": false, 
+ "name": "Up to You", 
+ "component_type": null, 
+ "bpm": 120, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "up-to-you-remixes", 
+  "id": 56914, 
+  "name": "Up to You (Remixes)"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/0740157f-0736-4326-9bcc-4c364690d99c.png", 
+   "width": 1500, 
+   "id": 7131363, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/0740157f-0736-4326-9bcc-4c364690d99c.png", 
+   "id": 7131363
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/4adcc3d4-549e-4b0f-8b11-222bcfdc1739.jpg", 
+   "width": 30, 
+   "id": 21877, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/e4ead878-2568-442b-80e0-93e695b77a1a.jpg", 
+   "width": 60, 
+   "id": 6165, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/e4ead878-2568-442b-80e0-93e695b77a1a.jpg", 
+   "id": 6165
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "matthew-dear", 
+   "id": 2134, 
+   "name": "Matthew Dear"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:52", 
+  "milliseconds": 352200
+ }, 
+ "id": 45212, 
+ "genres": [
+  {
+   "slug": "minimal-deep-tech", 
+   "id": 14, 
+   "name": "Minimal / Deep Tech"
+  }
+ ], 
+ "title": "Juice (Original Mix)", 
+ "label": {
+  "slug": "spectral-sound", 
+  "id": 460, 
+  "name": "Spectral Sound"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/d164c0b6-4cd7-4a90-81db-0b75d24be07f.LOFI.mp4", 
+   "offset": {
+    "start": 140880, 
+    "end": 260880
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/d164c0b6-4cd7-4a90-81db-0b75d24be07f.LOFI.mp3", 
+   "offset": {
+    "start": 140880, 
+    "end": 260880
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A maj", 
+ "date": {
+  "released": "2005-06-28", 
+  "published": "2005-06-28"
+ }, 
+ "active": true, 
+ "slug": "juice-original-mix", 
+ "preorder": false, 
+ "name": "Juice", 
+ "component_type": null, 
+ "bpm": 122, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "spectral-sound-volume-1", 
+  "id": 7603, 
+  "name": "Spectral Sound Volume 1"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/e436bd44-547c-4679-b801-f3106e0cca05.png", 
+   "width": 1500, 
+   "id": 2466443, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

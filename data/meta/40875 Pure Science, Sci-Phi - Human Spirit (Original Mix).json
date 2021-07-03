@@ -1,0 +1,132 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/bb925e7d-5125-41bf-af68-75a31049f6ac.jpg", 
+   "width": 30, 
+   "id": 2939, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/e1967660-862f-48a1-aa91-5e7748dcbfd4.jpg", 
+   "width": 60, 
+   "id": 723, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/e1967660-862f-48a1-aa91-5e7748dcbfd4.jpg", 
+   "id": 723
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "pure-science", 
+   "id": 678, 
+   "name": "Pure Science"
+  }, 
+  {
+   "slug": "sci-phi", 
+   "id": 7129, 
+   "name": "Sci-Phi"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:16", 
+  "milliseconds": 376279
+ }, 
+ "id": 40875, 
+ "genres": [
+  {
+   "slug": "tech-house", 
+   "id": 11, 
+   "name": "Tech House"
+  }
+ ], 
+ "title": "Human Spirit (Original Mix)", 
+ "label": {
+  "slug": "lunar-tunes", 
+  "id": 905, 
+  "name": "Lunar Tunes"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/54bb8246-9d03-4aff-901d-5aa7e49deb71.LOFI.mp4", 
+   "offset": {
+    "start": 150511, 
+    "end": 270511
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/54bb8246-9d03-4aff-901d-5aa7e49deb71.LOFI.mp3", 
+   "offset": {
+    "start": 150511, 
+    "end": 270511
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.56", 
+  "value": 1.56
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A maj", 
+ "date": {
+  "released": "1999-06-01", 
+  "published": "1999-06-01"
+ }, 
+ "active": true, 
+ "slug": "human-spirit-original-mix", 
+ "preorder": false, 
+ "name": "Human Spirit", 
+ "component_type": null, 
+ "bpm": 132, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "sci-phi", 
+  "id": 14246, 
+  "name": "Sci-Phi"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/87c6b84b-f5ce-45d4-bcda-cef65b8e06aa.png", 
+   "width": 1500, 
+   "id": 2469979, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

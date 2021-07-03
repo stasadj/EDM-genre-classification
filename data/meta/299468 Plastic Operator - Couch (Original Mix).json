@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/80f425f2-2106-4648-962e-88aecd8df51e.jpg", 
+   "width": 30, 
+   "id": 104608, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/19512c6b-e210-48ce-b6dc-29dbe183c2b7.jpg", 
+   "width": 60, 
+   "id": 104609, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/19512c6b-e210-48ce-b6dc-29dbe183c2b7.jpg", 
+   "id": 104609
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "plastic-operator", 
+   "id": 10863, 
+   "name": "Plastic Operator"
+  }
+ ], 
+ "duration": {
+  "minutes": "2:52", 
+  "milliseconds": 172200
+ }, 
+ "id": 299468, 
+ "genres": [
+  {
+   "slug": "electronica-downtempo", 
+   "id": 3, 
+   "name": "Electronica / Downtempo"
+  }
+ ], 
+ "title": "Couch (Original Mix)", 
+ "label": {
+  "slug": "fine-day-records", 
+  "id": 5775, 
+  "name": "Fine Day Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/f92b89eb-9db9-49f4-97ce-b8cc7b6dcefd.LOFI.mp4", 
+   "offset": {
+    "start": 52200, 
+    "end": 172200
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/f92b89eb-9db9-49f4-97ce-b8cc7b6dcefd.LOFI.mp3", 
+   "offset": {
+    "start": 52200, 
+    "end": 172200
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A maj", 
+ "date": {
+  "released": "2007-05-18", 
+  "published": "2007-05-18"
+ }, 
+ "active": true, 
+ "slug": "couch-original-mix", 
+ "preorder": false, 
+ "name": "Couch", 
+ "component_type": null, 
+ "bpm": 105, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "different-places", 
+  "id": 57278, 
+  "name": "Different Places"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/c9938f08-7b9a-4c01-9d99-3de647850ab7.png", 
+   "width": 1500, 
+   "id": 2234700, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

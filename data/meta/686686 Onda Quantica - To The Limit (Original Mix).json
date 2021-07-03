@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/ae9307e2-5eb3-4b05-950a-54bf404680be.jpg", 
+   "width": 30, 
+   "id": 307695, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/0ac615aa-9fc2-49a8-a9b8-83822234ff3c.jpg", 
+   "width": 60, 
+   "id": 307696, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/0ac615aa-9fc2-49a8-a9b8-83822234ff3c.jpg", 
+   "id": 307696
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "onda-quantica", 
+   "id": 85118, 
+   "name": "Onda Quantica"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:28", 
+  "milliseconds": 448000
+ }, 
+ "id": 686686, 
+ "genres": [
+  {
+   "slug": "psy-trance", 
+   "id": 13, 
+   "name": "Psy-Trance"
+  }
+ ], 
+ "title": "To The Limit (Original Mix)", 
+ "label": {
+  "slug": "2real", 
+  "id": 6645, 
+  "name": "2Real"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/24c05269-1d40-4a21-b045-c9de0f5fa45b.LOFI.mp3", 
+   "offset": {
+    "start": 179200, 
+    "end": 299200
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D maj", 
+ "date": {
+  "released": "2008-09-26", 
+  "published": "2008-09-26"
+ }, 
+ "active": true, 
+ "slug": "to-the-limit-original-mix", 
+ "preorder": false, 
+ "name": "To The Limit", 
+ "component_type": null, 
+ "bpm": 144, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "psylove-compilation-by-pascal-kleiman", 
+  "id": 136521, 
+  "name": "Psylove Compilation By Pascal Kleiman"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/a5690a37-a945-4b36-b948-ae76231b9bfb.png", 
+   "width": 1500, 
+   "id": 2711729, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

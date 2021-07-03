@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/eb16f9d8-7169-4999-84d5-fdbadf1c6cec.jpg", 
+   "width": 500, 
+   "id": 11324382, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/2f6f6a3e-6730-4cdd-a63d-61d9bfdfc4f1.jpg", 
+   "width": 30, 
+   "id": 491534, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/bf1fc789-2431-47d2-8d35-3fe6b74a91cc.jpg", 
+   "width": 60, 
+   "id": 11324380, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/eb16f9d8-7169-4999-84d5-fdbadf1c6cec.jpg", 
+   "id": 11324382
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "maas", 
+   "id": 3555, 
+   "name": "Maas"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:18", 
+  "milliseconds": 378133
+ }, 
+ "id": 297131, 
+ "genres": [
+  {
+   "slug": "electronica-downtempo", 
+   "id": 3, 
+   "name": "Electronica / Downtempo"
+  }
+ ], 
+ "title": "Look At Me Now, Falling (Zoyd and Prairie Mix)", 
+ "label": {
+  "slug": "soma-records", 
+  "id": 446, 
+  "name": "Soma Records"
+ }, 
+ "mix": "Zoyd and Prairie Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/b65634f4-f771-4306-b265-15e4ad4af08a.LOFI.mp4", 
+   "offset": {
+    "start": 151253, 
+    "end": 271253
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/b65634f4-f771-4306-b265-15e4ad4af08a.LOFI.mp3", 
+   "offset": {
+    "start": 151253, 
+    "end": 271253
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "B maj", 
+ "date": {
+  "released": "2005-07-17", 
+  "published": "2005-07-17"
+ }, 
+ "active": true, 
+ "slug": "look-at-me-now-falling-zoyd-and-prairie-mix", 
+ "preorder": false, 
+ "name": "Look At Me Now, Falling", 
+ "component_type": null, 
+ "bpm": 151, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "small-change", 
+  "id": 56794, 
+  "name": "Small Change"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/1326e16a-b0d5-4f73-9862-6ea81964de99.png", 
+   "width": 1500, 
+   "id": 2237891, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/1326e16a-b0d5-4f73-9862-6ea81964de99.png", 
+   "id": 2237891
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

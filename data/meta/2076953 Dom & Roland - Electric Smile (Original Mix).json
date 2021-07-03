@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/586adf27-fd32-4d60-950e-045cbc20158c.jpg", 
+   "width": 500, 
+   "id": 3113769, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/39a5dcb8-b83b-4a19-9e2f-eb291554cbb2.jpg", 
+   "width": 30, 
+   "id": 3113767, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/2bdab940-25c7-4895-9cf8-53d359117197.jpg", 
+   "width": 60, 
+   "id": 3113768, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/586adf27-fd32-4d60-950e-045cbc20158c.jpg", 
+   "id": 3113769
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "dom-and-roland", 
+   "id": 121272, 
+   "name": "Dom & Roland"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:57", 
+  "milliseconds": 417960
+ }, 
+ "id": 2076953, 
+ "genres": [
+  {
+   "slug": "drum-and-bass", 
+   "id": 1, 
+   "name": "Drum & Bass"
+  }
+ ], 
+ "title": "Electric Smile (Original Mix)", 
+ "label": {
+  "slug": "dom-and-roland-productions", 
+  "id": 9166, 
+  "name": "Dom & Roland Productions"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/81c70465-98cc-46d8-8f75-b2ba068465df.LOFI.mp4", 
+   "offset": {
+    "start": 167184, 
+    "end": 287184
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/81c70465-98cc-46d8-8f75-b2ba068465df.LOFI.mp3", 
+   "offset": {
+    "start": 167184, 
+    "end": 287184
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "G\u266f maj", 
+ "date": {
+  "released": "2006-06-30", 
+  "published": "2006-06-30"
+ }, 
+ "active": true, 
+ "slug": "electric-smile-original-mix", 
+ "preorder": false, 
+ "name": "Electric Smile", 
+ "component_type": null, 
+ "bpm": 86, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "hear-my-call-electric-smile", 
+  "id": 403266, 
+  "name": "Hear My Call / Electric Smile"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/dcddfb25-b47c-4a9d-b3f2-ae4a4871d05e.png", 
+   "width": 1500, 
+   "id": 9691065, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/dcddfb25-b47c-4a9d-b3f2-ae4a4871d05e.png", 
+   "id": 9691065
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

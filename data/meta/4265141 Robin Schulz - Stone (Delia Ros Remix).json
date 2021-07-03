@@ -1,0 +1,133 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/a4a2d2ea-8fce-4fad-b2ac-d28b650ac217.jpg", 
+   "width": 500, 
+   "id": 7140515, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/08c38acd-32e3-461d-bc1a-ebb5d6cdfa51.jpg", 
+   "width": 30, 
+   "id": 7140513, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/a5086d40-bec3-40f1-96a7-2f31b8beb438.jpg", 
+   "width": 60, 
+   "id": 7140514, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/a4a2d2ea-8fce-4fad-b2ac-d28b650ac217.jpg", 
+   "id": 7140515
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "robin-schulz", 
+   "id": 227658, 
+   "name": "Robin Schulz"
+  }
+ ], 
+ "duration": {
+  "minutes": "8:23", 
+  "milliseconds": 503980
+ }, 
+ "id": 4265141, 
+ "genres": [
+  {
+   "slug": "deep-house", 
+   "id": 12, 
+   "name": "Deep House"
+  }
+ ], 
+ "title": "Stone (Delia Ros Remix)", 
+ "label": {
+  "slug": "trick-track-records", 
+  "id": 26531, 
+  "name": "Trick Track Records"
+ }, 
+ "mix": "Delia Ros Remix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/5e8ac590-e4fe-4ec2-b194-a1341e032ff3.LOFI.mp4", 
+   "offset": {
+    "start": 201592, 
+    "end": 321592
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/5e8ac590-e4fe-4ec2-b194-a1341e032ff3.LOFI.mp3", 
+   "offset": {
+    "start": 201592, 
+    "end": 321592
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "delia-ros", 
+   "id": 242282, 
+   "name": "Delia Ros"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "B maj", 
+ "date": {
+  "released": "2013-04-08", 
+  "published": "2013-04-08"
+ }, 
+ "active": true, 
+ "slug": "stone-delia-ros-remix", 
+ "preorder": false, 
+ "name": "Stone", 
+ "component_type": null, 
+ "bpm": 122, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "stone", 
+  "id": 1063831, 
+  "name": "Stone"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/4baf58fb-6180-468e-a82b-2dd6007a96b5.png", 
+   "width": 1500, 
+   "id": 7140546, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/4baf58fb-6180-468e-a82b-2dd6007a96b5.png", 
+   "id": 7140546
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

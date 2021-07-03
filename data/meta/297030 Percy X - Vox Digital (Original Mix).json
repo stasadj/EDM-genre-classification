@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/eb16f9d8-7169-4999-84d5-fdbadf1c6cec.jpg", 
+   "width": 500, 
+   "id": 11324382, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/2f6f6a3e-6730-4cdd-a63d-61d9bfdfc4f1.jpg", 
+   "width": 30, 
+   "id": 491534, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/bf1fc789-2431-47d2-8d35-3fe6b74a91cc.jpg", 
+   "width": 60, 
+   "id": 11324380, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/eb16f9d8-7169-4999-84d5-fdbadf1c6cec.jpg", 
+   "id": 11324382
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "percy-x", 
+   "id": 3549, 
+   "name": "Percy X"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:19", 
+  "milliseconds": 439933
+ }, 
+ "id": 297030, 
+ "genres": [
+  {
+   "slug": "techno", 
+   "id": 6, 
+   "name": "Techno"
+  }
+ ], 
+ "title": "Vox Digital (Original Mix)", 
+ "label": {
+  "slug": "soma-records", 
+  "id": 446, 
+  "name": "Soma Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/b30411d0-2b1d-4985-a78e-d821d94e4265.LOFI.mp4", 
+   "offset": {
+    "start": 175973, 
+    "end": 295973
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/b30411d0-2b1d-4985-a78e-d821d94e4265.LOFI.mp3", 
+   "offset": {
+    "start": 175973, 
+    "end": 295973
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "E maj", 
+ "date": {
+  "released": "2006-06-25", 
+  "published": "2006-06-25"
+ }, 
+ "active": true, 
+ "slug": "vox-digital-original-mix", 
+ "preorder": false, 
+ "name": "Vox Digital", 
+ "component_type": null, 
+ "bpm": 93, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "wheres-the-music", 
+  "id": 56772, 
+  "name": "Where's The Music"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/f1bab369-7998-406a-9469-f23fef87488e.png", 
+   "width": 1500, 
+   "id": 2238054, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/f1bab369-7998-406a-9469-f23fef87488e.png", 
+   "id": 2238054
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

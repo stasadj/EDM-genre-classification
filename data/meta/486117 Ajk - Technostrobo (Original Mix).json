@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/d24f46c0-8e81-4f58-94aa-700b7b707e84.jpg", 
+   "width": 30, 
+   "id": 199751, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/512f3779-5392-45af-981f-fd5242011477.jpg", 
+   "width": 60, 
+   "id": 199752, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/512f3779-5392-45af-981f-fd5242011477.jpg", 
+   "id": 199752
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "ajk", 
+   "id": 66269, 
+   "name": "Ajk"
+  }
+ ], 
+ "duration": {
+  "minutes": "4:16", 
+  "milliseconds": 256626
+ }, 
+ "id": 486117, 
+ "genres": [
+  {
+   "slug": "hard-dance", 
+   "id": 8, 
+   "name": "Hard Dance"
+  }
+ ], 
+ "title": "Technostrobo (Original Mix)", 
+ "label": {
+  "slug": "tunnel", 
+  "id": 6049, 
+  "name": "Tunnel"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/d9e0e9c5-5d1a-4fee-9d80-91646981c2de.LOFI.mp4", 
+   "offset": {
+    "start": 102650, 
+    "end": 222650
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/d9e0e9c5-5d1a-4fee-9d80-91646981c2de.LOFI.mp3", 
+   "offset": {
+    "start": 102650, 
+    "end": 222650
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "B maj", 
+ "date": {
+  "released": "2008-02-05", 
+  "published": "2008-02-05"
+ }, 
+ "active": true, 
+ "slug": "technostrobo-original-mix", 
+ "preorder": false, 
+ "name": "Technostrobo", 
+ "component_type": null, 
+ "bpm": 140, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "cybernetic-techno-volume-two", 
+  "id": 95481, 
+  "name": "Cybernetic Techno Volume Two"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/a3e6c668-ce4f-4432-afba-46a1067034c1.png", 
+   "width": 1500, 
+   "id": 2669376, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

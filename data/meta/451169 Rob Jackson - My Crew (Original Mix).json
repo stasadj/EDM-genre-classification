@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/1d00c099-a23f-42dd-87c8-45415fe18bbc.jpg", 
+   "width": 30, 
+   "id": 181570, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/756432f3-8225-4f32-b338-9565be7d8b45.jpg", 
+   "width": 60, 
+   "id": 181571, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/756432f3-8225-4f32-b338-9565be7d8b45.jpg", 
+   "id": 181571
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "rob-jackson", 
+   "id": 61728, 
+   "name": "Rob Jackson"
+  }
+ ], 
+ "duration": {
+  "minutes": "4:42", 
+  "milliseconds": 282493
+ }, 
+ "id": 451169, 
+ "genres": [
+  {
+   "slug": "hip-hop-r-and-b", 
+   "id": 38, 
+   "name": "Hip-Hop / R&B"
+  }
+ ], 
+ "title": "My Crew (Original Mix)", 
+ "label": {
+  "slug": "nervous-records-hip-hop", 
+  "id": 7304, 
+  "name": "Nervous Records Hip Hop"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/3e440d6b-29e7-43f8-94cc-fe80ea282f57.LOFI.mp4", 
+   "offset": {
+    "start": 112997, 
+    "end": 232997
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/3e440d6b-29e7-43f8-94cc-fe80ea282f57.LOFI.mp3", 
+   "offset": {
+    "start": 112997, 
+    "end": 232997
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C\u266f maj", 
+ "date": {
+  "released": "2007-12-13", 
+  "published": "2007-12-13"
+ }, 
+ "active": true, 
+ "slug": "my-crew-original-mix", 
+ "preorder": false, 
+ "name": "My Crew", 
+ "component_type": null, 
+ "bpm": 170, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "hit-squad-zero-tolerance", 
+  "id": 88231, 
+  "name": "Hit Squad - Zero Tolerance"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/40b1cf5e-ad1c-41f7-a453-b7672a7bc211.png", 
+   "width": 1500, 
+   "id": 2029541, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

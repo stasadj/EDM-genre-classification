@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/4ee43dad-7ca7-4b6c-b89f-6c23b19a56f8.jpg", 
+   "width": 500, 
+   "id": 9279101, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/2f6f6a3e-6730-4cdd-a63d-61d9bfdfc4f1.jpg", 
+   "width": 30, 
+   "id": 491534, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/b09cafe3-9e0b-4109-874c-f80b88131a29.jpg", 
+   "width": 60, 
+   "id": 15673561, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/4ee43dad-7ca7-4b6c-b89f-6c23b19a56f8.jpg", 
+   "id": 9279101
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "the-prophet", 
+   "id": 19758, 
+   "name": "The Prophet"
+  }
+ ], 
+ "duration": {
+  "minutes": "3:43", 
+  "milliseconds": 223156
+ }, 
+ "id": 5324261, 
+ "genres": [
+  {
+   "slug": "hard-dance", 
+   "id": 8, 
+   "name": "Hard Dance"
+  }
+ ], 
+ "title": "H3Y! (2014 Album Edit)", 
+ "label": {
+  "slug": "scantraxx-recordz", 
+  "id": 15266, 
+  "name": "Scantraxx Recordz"
+ }, 
+ "mix": "2014 Album Edit", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/42951f5f-9a72-4220-a98a-4e38a71e0281.LOFI.mp4", 
+   "offset": {
+    "start": 89262, 
+    "end": 209262
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/42951f5f-9a72-4220-a98a-4e38a71e0281.LOFI.mp3", 
+   "offset": {
+    "start": 89262, 
+    "end": 209262
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D maj", 
+ "date": {
+  "released": "2014-04-04", 
+  "published": "2014-04-04"
+ }, 
+ "active": true, 
+ "slug": "h3y!-2014-album-edit", 
+ "preorder": false, 
+ "name": "H3Y!", 
+ "component_type": null, 
+ "bpm": 150, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "louder", 
+  "id": 1280679, 
+  "name": "LOUDER"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/56eea83f-a15c-4246-aedb-d18449c3008f.png", 
+   "width": 1500, 
+   "id": 9298648, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/56eea83f-a15c-4246-aedb-d18449c3008f.png", 
+   "id": 9298648
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

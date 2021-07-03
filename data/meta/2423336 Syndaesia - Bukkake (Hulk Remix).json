@@ -1,0 +1,130 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/91d8e9ba-82ef-42a2-a410-820e01484afa.jpg", 
+   "width": 500, 
+   "id": 3237814, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/bad7e7b5-ccaf-4a56-a4d5-6664bddb4250.jpg", 
+   "width": 30, 
+   "id": 3237812, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/fb5da577-25a8-4cc4-91ef-05a8c734cedb.jpg", 
+   "width": 60, 
+   "id": 3237813, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/91d8e9ba-82ef-42a2-a410-820e01484afa.jpg", 
+   "id": 3237814
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "syndaesia", 
+   "id": 121151, 
+   "name": "Syndaesia"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:07", 
+  "milliseconds": 307886
+ }, 
+ "id": 2423336, 
+ "genres": [
+  {
+   "slug": "dubstep", 
+   "id": 18, 
+   "name": "Dubstep"
+  }
+ ], 
+ "title": "Bukkake (Hulk Remix)", 
+ "label": {
+  "slug": "code-of-arms", 
+  "id": 15867, 
+  "name": "Code of Arms"
+ }, 
+ "mix": "Hulk Remix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/66bb71b9-68a9-429e-bd2b-fe5587acb33a.LOFI.mp3", 
+   "offset": {
+    "start": 123154, 
+    "end": 243500
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "hulk", 
+   "id": 26540, 
+   "name": "Hulk"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F maj", 
+ "date": {
+  "released": "2011-08-30", 
+  "published": "2011-08-30"
+ }, 
+ "active": true, 
+ "slug": "bukkake-hulk-remix", 
+ "preorder": false, 
+ "name": "Bukkake", 
+ "component_type": null, 
+ "bpm": 140, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "four-years-of-code-of-arms", 
+  "id": 435057, 
+  "name": "Four Years Of Code Of Arms"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/7d0165e5-3011-46dc-ab2f-4bd3d86f1ece.png", 
+   "width": 1500, 
+   "id": 3237834, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/7d0165e5-3011-46dc-ab2f-4bd3d86f1ece.png", 
+   "id": 3237834
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/eb16f9d8-7169-4999-84d5-fdbadf1c6cec.jpg", 
+   "width": 500, 
+   "id": 11324382, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/2f6f6a3e-6730-4cdd-a63d-61d9bfdfc4f1.jpg", 
+   "width": 30, 
+   "id": 491534, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/bf1fc789-2431-47d2-8d35-3fe6b74a91cc.jpg", 
+   "width": 60, 
+   "id": 11324380, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/eb16f9d8-7169-4999-84d5-fdbadf1c6cec.jpg", 
+   "id": 11324382
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "slam", 
+   "id": 3548, 
+   "name": "Slam"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:46", 
+  "milliseconds": 466040
+ }, 
+ "id": 29912, 
+ "genres": [
+  {
+   "slug": "techno", 
+   "id": 6, 
+   "name": "Techno"
+  }
+ ], 
+ "title": "Bright Lights Fading (Slam Mix)", 
+ "label": {
+  "slug": "soma-records", 
+  "id": 446, 
+  "name": "Soma Records"
+ }, 
+ "mix": "Slam Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/31341a68-ca67-41d7-9c41-66bc1eab3fc5.LOFI.mp4", 
+   "offset": {
+    "start": 186416, 
+    "end": 306416
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/31341a68-ca67-41d7-9c41-66bc1eab3fc5.LOFI.mp3", 
+   "offset": {
+    "start": 186416, 
+    "end": 306416
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.56", 
+  "value": 1.56
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D\u266f maj", 
+ "date": {
+  "released": "2005-04-04", 
+  "published": "2005-04-04"
+ }, 
+ "active": true, 
+ "slug": "bright-lights-fading-slam-mix", 
+ "preorder": false, 
+ "name": "Bright Lights Fading", 
+ "component_type": null, 
+ "bpm": 129, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "bright-lights-fading", 
+  "id": 7396, 
+  "name": "Bright Lights Fading"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/4e001490-ac0b-45cc-abc1-5d94d616322e.png", 
+   "width": 1500, 
+   "id": 2478971, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/4e001490-ac0b-45cc-abc1-5d94d616322e.png", 
+   "id": 2478971
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

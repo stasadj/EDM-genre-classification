@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/57be9d66-0441-4019-98a7-bff33a9d6187.jpg", 
+   "width": 30, 
+   "id": 172942, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/bc1bc4e4-558b-45df-95d1-6f8f2452a754.jpg", 
+   "width": 60, 
+   "id": 172943, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/bc1bc4e4-558b-45df-95d1-6f8f2452a754.jpg", 
+   "id": 172943
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "random-play", 
+   "id": 28300, 
+   "name": "Random Play"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:12", 
+  "milliseconds": 432080
+ }, 
+ "id": 431138, 
+ "genres": [
+  {
+   "slug": "electro-house", 
+   "id": 17, 
+   "name": "Electro House"
+  }
+ ], 
+ "title": "Hovvy Roller (Original Mix)", 
+ "label": {
+  "slug": "puzzle-traxx", 
+  "id": 3898, 
+  "name": "Puzzle Traxx"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/b2688320-c37d-49c5-843e-ef57e18d10c0.LOFI.mp4", 
+   "offset": {
+    "start": 172832, 
+    "end": 292832
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/b2688320-c37d-49c5-843e-ef57e18d10c0.LOFI.mp3", 
+   "offset": {
+    "start": 172832, 
+    "end": 292832
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "E maj", 
+ "date": {
+  "released": "2007-11-15", 
+  "published": "2007-11-15"
+ }, 
+ "active": true, 
+ "slug": "hovvy-roller-original-mix", 
+ "preorder": false, 
+ "name": "Hovvy Roller", 
+ "component_type": null, 
+ "bpm": 125, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "creepy-sweepa-ep", 
+  "id": 83911, 
+  "name": "Creepy Sweepa EP"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/46a29625-1580-4569-a4b8-bc25a3dbbd95.png", 
+   "width": 1500, 
+   "id": 2050744, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/b80bfca4-ca8c-41f1-bb57-89433a9a6c1e.jpg", 
+   "width": 30, 
+   "id": 290270, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/35e02144-1e93-4319-9406-4ad61202852c.jpg", 
+   "width": 60, 
+   "id": 290271, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/35e02144-1e93-4319-9406-4ad61202852c.jpg", 
+   "id": 290271
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "2-live-crew", 
+   "id": 82788, 
+   "name": "2 Live Crew"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:02", 
+  "milliseconds": 362840
+ }, 
+ "id": 654335, 
+ "genres": [
+  {
+   "slug": "hip-hop-r-and-b", 
+   "id": 38, 
+   "name": "Hip-Hop / R&B"
+  }
+ ], 
+ "title": "Get It Girl (Extended Mix)", 
+ "label": {
+  "slug": "lil-joe-records", 
+  "id": 11051, 
+  "name": "Lil' Joe Records"
+ }, 
+ "mix": "Extended Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/ca55bb5d-58a3-4db6-820c-f184de6a4b2d.LOFI.mp3", 
+   "offset": {
+    "start": 145136, 
+    "end": 265414
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.56", 
+  "value": 1.56
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A maj", 
+ "date": {
+  "released": "2001-04-17", 
+  "published": "2001-04-17"
+ }, 
+ "active": true, 
+ "slug": "get-it-girl-extended-mix", 
+ "preorder": false, 
+ "name": "Get It Girl", 
+ "component_type": null, 
+ "bpm": 133, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "booty-phat-classics", 
+  "id": 129986, 
+  "name": "Booty Phat Classics"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/721b61d3-2337-4edd-885d-8aa2388790dc.png", 
+   "width": 1500, 
+   "id": 2440222, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

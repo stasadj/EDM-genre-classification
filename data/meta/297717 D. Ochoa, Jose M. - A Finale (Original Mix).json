@@ -1,0 +1,132 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/9ba0a0b4-189a-4853-8045-dc0966fee929.jpg", 
+   "width": 30, 
+   "id": 292030, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/e0fead50-6019-4814-83e7-bccb14d33b8e.jpg", 
+   "width": 60, 
+   "id": 292031, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/e0fead50-6019-4814-83e7-bccb14d33b8e.jpg", 
+   "id": 292031
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "d-ochoa", 
+   "id": 40398, 
+   "name": "D. Ochoa"
+  }, 
+  {
+   "slug": "jose-m", 
+   "id": 40695, 
+   "name": "Jose M."
+  }
+ ], 
+ "duration": {
+  "minutes": "6:30", 
+  "milliseconds": 390249
+ }, 
+ "id": 297717, 
+ "genres": [
+  {
+   "slug": "tech-house", 
+   "id": 11, 
+   "name": "Tech House"
+  }
+ ], 
+ "title": "A Finale (Original Mix)", 
+ "label": {
+  "slug": "trebol-records", 
+  "id": 5772, 
+  "name": "Trebol Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/c6cf9b63-e2ba-4a03-9eba-e4e86edf00b3.LOFI.mp4", 
+   "offset": {
+    "start": 156099, 
+    "end": 276099
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/c6cf9b63-e2ba-4a03-9eba-e4e86edf00b3.LOFI.mp3", 
+   "offset": {
+    "start": 156099, 
+    "end": 276099
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C maj", 
+ "date": {
+  "released": "2007-05-31", 
+  "published": "2007-05-17"
+ }, 
+ "active": true, 
+ "slug": "a-finale-original-mix", 
+ "preorder": false, 
+ "name": "A Finale", 
+ "component_type": null, 
+ "bpm": 123, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "el-miximo", 
+  "id": 56930, 
+  "name": "EL Miximo"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/b754fe2e-4362-4840-a3dc-ad34a3a3712c.png", 
+   "width": 1500, 
+   "id": 2237066, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

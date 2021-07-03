@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/41bbeb67-66a4-4d45-b325-6ffa4be69d30.jpg", 
+   "width": 500, 
+   "id": 7047870, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/6e7e4831-1d31-4b30-bf32-6e2b728a8329.jpg", 
+   "width": 30, 
+   "id": 7047868, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/d11e9b17-45eb-449d-b586-87bf5c6a94c9.jpg", 
+   "width": 60, 
+   "id": 7047869, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/41bbeb67-66a4-4d45-b325-6ffa4be69d30.jpg", 
+   "id": 7047870
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "burke", 
+   "id": 135563, 
+   "name": "Burke"
+  }
+ ], 
+ "duration": {
+  "minutes": "2:49", 
+  "milliseconds": 169459
+ }, 
+ "id": 4222236, 
+ "genres": [
+  {
+   "slug": "electronica-downtempo", 
+   "id": 3, 
+   "name": "Electronica / Downtempo"
+  }
+ ], 
+ "title": "Sunny For A Few Hours... (Original Mix)", 
+ "label": {
+  "slug": "record-union", 
+  "id": 15200, 
+  "name": "Record Union"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/b90e9a5c-5649-4389-8163-f688fc52dd6c.LOFI.mp4", 
+   "offset": {
+    "start": 49459, 
+    "end": 169459
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/b90e9a5c-5649-4389-8163-f688fc52dd6c.LOFI.mp3", 
+   "offset": {
+    "start": 49459, 
+    "end": 169459
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F maj", 
+ "date": {
+  "released": "2013-03-04", 
+  "published": "2013-03-04"
+ }, 
+ "active": true, 
+ "slug": "sunny-for-a-few-hours-original-mix", 
+ "preorder": false, 
+ "name": "Sunny For A Few Hours...", 
+ "component_type": null, 
+ "bpm": 74, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "tabs-pt-1", 
+  "id": 1055263, 
+  "name": "Tabs Pt. 1"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/bf34effc-b897-4947-897a-c785ef112dcc.png", 
+   "width": 1500, 
+   "id": 14696341, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/bf34effc-b897-4947-897a-c785ef112dcc.png", 
+   "id": 14696341
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

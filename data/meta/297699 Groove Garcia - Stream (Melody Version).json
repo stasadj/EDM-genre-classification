@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/bbecdb9d-b26c-4420-bd01-c2c5e1e484dc.jpg", 
+   "width": 30, 
+   "id": 103686, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/1f92a0a8-4fc7-45b3-852e-d6b32ac33c3f.jpg", 
+   "width": 60, 
+   "id": 103687, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/1f92a0a8-4fc7-45b3-852e-d6b32ac33c3f.jpg", 
+   "id": 103687
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "groove-garcia", 
+   "id": 40394, 
+   "name": "Groove Garcia"
+  }
+ ], 
+ "duration": {
+  "minutes": "11:06", 
+  "milliseconds": 666860
+ }, 
+ "id": 297699, 
+ "genres": [
+  {
+   "slug": "progressive-house", 
+   "id": 15, 
+   "name": "Progressive House"
+  }
+ ], 
+ "title": "Stream (Melody Version)", 
+ "label": {
+  "slug": "khazuma-recordings", 
+  "id": 5674, 
+  "name": "Khazuma Recordings"
+ }, 
+ "mix": "Melody Version", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/ea92259b-bd49-445b-bd09-d6f72500ef80.LOFI.mp4", 
+   "offset": {
+    "start": 266744, 
+    "end": 386744
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/ea92259b-bd49-445b-bd09-d6f72500ef80.LOFI.mp3", 
+   "offset": {
+    "start": 266744, 
+    "end": 386744
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F maj", 
+ "date": {
+  "released": "2007-05-21", 
+  "published": "2007-05-21"
+ }, 
+ "active": true, 
+ "slug": "stream-melody-version", 
+ "preorder": false, 
+ "name": "Stream", 
+ "component_type": null, 
+ "bpm": 128, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "stream", 
+  "id": 56923, 
+  "name": "Stream"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/357029aa-f288-40dd-99e8-a63d5f074d20.png", 
+   "width": 1500, 
+   "id": 2237031, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

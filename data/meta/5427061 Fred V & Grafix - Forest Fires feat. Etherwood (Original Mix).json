@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/df58165b-a750-461f-9c62-c3877d8bd2ee.jpg", 
+   "width": 500, 
+   "id": 9459202, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/2f6f6a3e-6730-4cdd-a63d-61d9bfdfc4f1.jpg", 
+   "width": 30, 
+   "id": 491534, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/5273dede-3c6a-4c13-ad5f-ba5565c805b5.jpg", 
+   "width": 60, 
+   "id": 15199387, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/df58165b-a750-461f-9c62-c3877d8bd2ee.jpg", 
+   "id": 9459202
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "fred-v-and-grafix", 
+   "id": 229344, 
+   "name": "Fred V & Grafix"
+  }
+ ], 
+ "duration": {
+  "minutes": "3:26", 
+  "milliseconds": 206891
+ }, 
+ "id": 5427061, 
+ "genres": [
+  {
+   "slug": "drum-and-bass", 
+   "id": 1, 
+   "name": "Drum & Bass"
+  }
+ ], 
+ "title": "Forest Fires feat. Etherwood (Original Mix)", 
+ "label": {
+  "slug": "hospital-records", 
+  "id": 2398, 
+  "name": "Hospital Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/e5f24cae-041f-45da-81d9-1885356bf294.LOFI.mp4", 
+   "offset": {
+    "start": 82756, 
+    "end": 202756
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/e5f24cae-041f-45da-81d9-1885356bf294.LOFI.mp3", 
+   "offset": {
+    "start": 82756, 
+    "end": 202756
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A maj", 
+ "date": {
+  "released": "2014-05-23", 
+  "published": "2014-05-23"
+ }, 
+ "active": true, 
+ "slug": "forest-fires-feat-etherwood-original-mix", 
+ "preorder": false, 
+ "name": "Forest Fires feat. Etherwood", 
+ "component_type": null, 
+ "bpm": 87, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "hospital-mixtape-etherwood", 
+  "id": 1303483, 
+  "name": "Hospital Mixtape: Etherwood"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/56627895-882d-4c9b-9365-4904ddc11eac.png", 
+   "width": 1500, 
+   "id": 9459680, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/56627895-882d-4c9b-9365-4904ddc11eac.png", 
+   "id": 9459680
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

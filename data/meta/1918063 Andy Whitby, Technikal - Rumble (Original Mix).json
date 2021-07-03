@@ -1,0 +1,129 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/6c177ca8-0fee-42b9-8f4e-a87c5b31bbbd.jpg", 
+   "width": 500, 
+   "id": 2849062, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/017e7030-9680-4df8-869d-3aa8719884fc.jpg", 
+   "width": 30, 
+   "id": 2849059, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/4a019a3e-f4a3-433a-b479-4f966b635e9e.jpg", 
+   "width": 60, 
+   "id": 2849061, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/6c177ca8-0fee-42b9-8f4e-a87c5b31bbbd.jpg", 
+   "id": 2849062
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "andy-whitby", 
+   "id": 7078, 
+   "name": "Andy Whitby"
+  }, 
+  {
+   "slug": "technikal", 
+   "id": 8232, 
+   "name": "Technikal"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:36", 
+  "milliseconds": 336000
+ }, 
+ "id": 1918063, 
+ "genres": [
+  {
+   "slug": "hard-dance", 
+   "id": 8, 
+   "name": "Hard Dance"
+  }
+ ], 
+ "title": "Rumble (Original Mix)", 
+ "label": {
+  "slug": "awsum", 
+  "id": 9521, 
+  "name": "AWsum"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/7d5600c5-b39d-49a9-86b1-608e57ceb2de.LOFI.mp3", 
+   "offset": {
+    "start": 134400, 
+    "end": 254400
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "G maj", 
+ "date": {
+  "released": "2011-05-30", 
+  "published": "2011-05-30"
+ }, 
+ "active": true, 
+ "slug": "rumble-original-mix", 
+ "preorder": false, 
+ "name": "Rumble", 
+ "component_type": null, 
+ "bpm": 150, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "awsum-show-anthems-vol-1", 
+  "id": 372230, 
+  "name": "AWsum Show Anthems Vol. 1"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/0a361971-9e75-40b6-a484-4086a8f8e0e6.png", 
+   "width": 1500, 
+   "id": 2849887, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/0a361971-9e75-40b6-a484-4086a8f8e0e6.png", 
+   "id": 2849887
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

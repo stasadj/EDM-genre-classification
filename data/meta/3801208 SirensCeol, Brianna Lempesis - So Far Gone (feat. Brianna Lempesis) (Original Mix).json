@@ -1,0 +1,132 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/c63b0792-d1ce-47c5-bea9-71941844c594.jpg", 
+   "width": 500, 
+   "id": 6010817, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/16582443-4480-4b19-a067-afd8649e960f.jpg", 
+   "width": 30, 
+   "id": 6010815, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/6e283f70-e6f6-49a3-9a18-f1dc8ee23fe7.jpg", 
+   "width": 60, 
+   "id": 6010816, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/c63b0792-d1ce-47c5-bea9-71941844c594.jpg", 
+   "id": 6010817
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "sirensceol", 
+   "id": 279589, 
+   "name": "SirensCeol"
+  }, 
+  {
+   "slug": "brianna-lempesis", 
+   "id": 279590, 
+   "name": "Brianna Lempesis"
+  }
+ ], 
+ "duration": {
+  "minutes": "4:55", 
+  "milliseconds": 295994
+ }, 
+ "id": 3801208, 
+ "genres": [
+  {
+   "slug": "electro-house", 
+   "id": 17, 
+   "name": "Electro House"
+  }
+ ], 
+ "title": "So Far Gone (feat. Brianna Lempesis) (Original Mix)", 
+ "label": {
+  "slug": "back-to-the-dance-floor-recordings", 
+  "id": 26998, 
+  "name": "Back To The Dance Floor Recordings"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/cf347e44-363f-47ae-8281-884142f87fa5.LOFI.mp4", 
+   "offset": {
+    "start": 118397, 
+    "end": 238397
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/cf347e44-363f-47ae-8281-884142f87fa5.LOFI.mp3", 
+   "offset": {
+    "start": 118397, 
+    "end": 238397
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F\u266f maj", 
+ "date": {
+  "released": "2012-10-08", 
+  "published": "2012-10-08"
+ }, 
+ "active": true, 
+ "slug": "so-far-gone-feat-brianna-lempesis-original-mix", 
+ "preorder": false, 
+ "name": "So Far Gone (feat. Brianna Lempesis)", 
+ "component_type": null, 
+ "bpm": 128, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "callie-has-no-name", 
+  "id": 970982, 
+  "name": "Callie Has No Name"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/1b1a6b84-072d-4727-836a-496cf14b468c.png", 
+   "width": 1500, 
+   "id": 6010952, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/1b1a6b84-072d-4727-836a-496cf14b468c.png", 
+   "id": 6010952
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

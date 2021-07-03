@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/da27833f-2287-468b-b36f-6399c9bfb07c.jpg", 
+   "width": 30, 
+   "id": 103582, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/2b973701-eb87-4133-9992-680d9b7ac8f9.jpg", 
+   "width": 60, 
+   "id": 103583, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/2b973701-eb87-4133-9992-680d9b7ac8f9.jpg", 
+   "id": 103583
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "future-funk", 
+   "id": 35607, 
+   "name": "Future Funk"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:10", 
+  "milliseconds": 430600
+ }, 
+ "id": 297494, 
+ "genres": [
+  {
+   "slug": "tech-house", 
+   "id": 11, 
+   "name": "Tech House"
+  }
+ ], 
+ "title": "Switch Lock (Original Mix)", 
+ "label": {
+  "slug": "tronic-soundz", 
+  "id": 4800, 
+  "name": "Tronic Soundz"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/500abb35-e42f-47ef-ac41-f36b26083867.LOFI.mp4", 
+   "offset": {
+    "start": 172240, 
+    "end": 292240
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/500abb35-e42f-47ef-ac41-f36b26083867.LOFI.mp3", 
+   "offset": {
+    "start": 172240, 
+    "end": 292240
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "E maj", 
+ "date": {
+  "released": "2007-05-17", 
+  "published": "2007-05-17"
+ }, 
+ "active": true, 
+ "slug": "switch-lock-original-mix", 
+ "preorder": false, 
+ "name": "Switch Lock", 
+ "component_type": null, 
+ "bpm": 125, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "escape", 
+  "id": 56865, 
+  "name": "Escape"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/796a7078-8b5a-4e35-939d-57ebe381e3e4.png", 
+   "width": 1500, 
+   "id": 2237425, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

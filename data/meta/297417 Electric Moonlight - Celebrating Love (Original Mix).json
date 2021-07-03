@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/5daa561b-57c3-4dba-bbc4-83873995f2e6.jpg", 
+   "width": 500, 
+   "id": 8090954, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/f8e3b9c6-f82a-4173-b1c4-b0ad5929817f.jpg", 
+   "width": 30, 
+   "id": 103550, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/4e22d8a5-8fea-41db-9990-5f5ef3ac5eb5.jpg", 
+   "width": 60, 
+   "id": 103551, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/5daa561b-57c3-4dba-bbc4-83873995f2e6.jpg", 
+   "id": 8090954
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "electric-moonlight", 
+   "id": 40351, 
+   "name": "Electric Moonlight"
+  }
+ ], 
+ "duration": {
+  "minutes": "4:21", 
+  "milliseconds": 261202
+ }, 
+ "id": 297417, 
+ "genres": [
+  {
+   "slug": "electronica-downtempo", 
+   "id": 3, 
+   "name": "Electronica / Downtempo"
+  }
+ ], 
+ "title": "Celebrating Love (Original Mix)", 
+ "label": {
+  "slug": "clubland-records", 
+  "id": 3422, 
+  "name": "Clubland Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/18edc306-d85e-4df7-8355-ff1f9afc6090.LOFI.mp4", 
+   "offset": {
+    "start": 104480, 
+    "end": 224480
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/18edc306-d85e-4df7-8355-ff1f9afc6090.LOFI.mp3", 
+   "offset": {
+    "start": 104480, 
+    "end": 224480
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "G maj", 
+ "date": {
+  "released": "2007-05-15", 
+  "published": "2007-05-15"
+ }, 
+ "active": true, 
+ "slug": "celebrating-love-original-mix", 
+ "preorder": false, 
+ "name": "Celebrating Love", 
+ "component_type": null, 
+ "bpm": 100, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "clubland-lounge", 
+  "id": 56850, 
+  "name": "Clubland Lounge"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/d2433c8e-c078-47c0-9cc3-abce79a55d5c.png", 
+   "width": 1500, 
+   "id": 8090986, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/d2433c8e-c078-47c0-9cc3-abce79a55d5c.png", 
+   "id": 8090986
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

@@ -1,0 +1,139 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ebc24746-44c9-47dc-abc1-2c5886433e54.jpg", 
+   "width": 500, 
+   "id": 6280722, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/281aec87-6851-4a3d-8461-ce81e6c04c18.jpg", 
+   "width": 30, 
+   "id": 6280720, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/ff41f860-bc93-45ec-864f-a90dc5e441a6.jpg", 
+   "width": 60, 
+   "id": 6280721, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/ebc24746-44c9-47dc-abc1-2c5886433e54.jpg", 
+   "id": 6280722
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "akira-as-astronaughty", 
+   "id": 286482, 
+   "name": "Akira As Astronaughty"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:58", 
+  "milliseconds": 358620
+ }, 
+ "id": 3937649, 
+ "genres": [
+  {
+   "slug": "drum-and-bass", 
+   "id": 1, 
+   "name": "Drum & Bass"
+  }
+ ], 
+ "title": "You Dont Know Me (DTX Remix)", 
+ "label": {
+  "slug": "audio-expressions", 
+  "id": 27564, 
+  "name": "Audio Expressions"
+ }, 
+ "mix": "DTX Remix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/ce2f0934-4d12-4572-9940-7d05fe282c3f.LOFI.mp4", 
+   "offset": {
+    "start": 143448, 
+    "end": 263448
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/ce2f0934-4d12-4572-9940-7d05fe282c3f.LOFI.mp3", 
+   "offset": {
+    "start": 143448, 
+    "end": 263448
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "dtx", 
+   "id": 156474, 
+   "name": "DTX"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C\u266f maj", 
+ "date": {
+  "released": "2012-11-28", 
+  "published": "2012-11-28"
+ }, 
+ "active": true, 
+ "slug": "you-dont-know-me-dtx-remix", 
+ "preorder": false, 
+ "name": "You Dont Know Me", 
+ "component_type": null, 
+ "bpm": 87, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "you-dont-know-me", 
+  "id": 998624, 
+  "name": "You Dont Know Me"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/6d2cc3a4-8691-41ec-a271-d03e7e30d64f.png", 
+   "width": 1500, 
+   "id": 6283068, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/6d2cc3a4-8691-41ec-a271-d03e7e30d64f.png", 
+   "id": 6283068
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": [
+  {
+   "slug": "liquid", 
+   "id": 5, 
+   "name": "Liquid"
+  }
+ ]
+}

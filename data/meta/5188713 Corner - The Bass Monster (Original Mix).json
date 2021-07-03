@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/580eea6e-bbe8-46ff-8801-06fa2bcc4f21.jpg", 
+   "width": 500, 
+   "id": 9051199, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/b7345381-d2bd-4c86-b29e-e72d5bfce708.jpg", 
+   "width": 30, 
+   "id": 7361127, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/087be602-bb37-46fe-a139-252bc24191e9.jpg", 
+   "width": 60, 
+   "id": 7361128, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/580eea6e-bbe8-46ff-8801-06fa2bcc4f21.jpg", 
+   "id": 9051199
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "corner", 
+   "id": 233191, 
+   "name": "Corner"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:49", 
+  "milliseconds": 349692
+ }, 
+ "id": 5188713, 
+ "genres": [
+  {
+   "slug": "minimal-deep-tech", 
+   "id": 14, 
+   "name": "Minimal / Deep Tech"
+  }
+ ], 
+ "title": "The Bass Monster (Original Mix)", 
+ "label": {
+  "slug": "apache-records", 
+  "id": 34, 
+  "name": "Apache Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/676b5817-ab8c-4705-98f1-dab78b79b66f.LOFI.mp4", 
+   "offset": {
+    "start": 139876, 
+    "end": 259876
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/676b5817-ab8c-4705-98f1-dab78b79b66f.LOFI.mp3", 
+   "offset": {
+    "start": 139876, 
+    "end": 259876
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A\u266f maj", 
+ "date": {
+  "released": "2014-03-17", 
+  "published": "2014-03-17"
+ }, 
+ "active": true, 
+ "slug": "the-bass-monster-original-mix", 
+ "preorder": false, 
+ "name": "The Bass Monster", 
+ "component_type": null, 
+ "bpm": 128, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "best-of-corner-part-3", 
+  "id": 1251635, 
+  "name": "Best Of Corner Part 3"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/7deab23e-a1ac-4a20-8a39-d372f953d695.png", 
+   "width": 1500, 
+   "id": 9051683, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/7deab23e-a1ac-4a20-8a39-d372f953d695.png", 
+   "id": 9051683
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

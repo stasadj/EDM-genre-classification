@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/68faaa9b-0cd9-4041-98d6-8bc1eeb7dba6.jpg", 
+   "width": 500, 
+   "id": 1872918, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/c9098fc3-a9d7-4838-b446-67e8380914b8.jpg", 
+   "width": 30, 
+   "id": 1872916, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/0e6bcf32-4728-4464-bb56-fcc83ede842b.jpg", 
+   "width": 60, 
+   "id": 1872917, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/68faaa9b-0cd9-4041-98d6-8bc1eeb7dba6.jpg", 
+   "id": 1872918
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "calvertron", 
+   "id": 42308, 
+   "name": "Calvertron"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:07", 
+  "milliseconds": 427146
+ }, 
+ "id": 1795965, 
+ "genres": [
+  {
+   "slug": "electro-house", 
+   "id": 17, 
+   "name": "Electro House"
+  }
+ ], 
+ "title": "Like Dis (Original Mix)", 
+ "label": {
+  "slug": "upland", 
+  "id": 17325, 
+  "name": "Upland"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/2de9e8dc-a4dd-4823-90c2-7278af105bbc.LOFI.mp3", 
+   "offset": {
+    "start": 170858, 
+    "end": 290899
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C maj", 
+ "date": {
+  "released": "2011-03-26", 
+  "published": "2011-03-26"
+ }, 
+ "active": true, 
+ "slug": "like-dis-original-mix", 
+ "preorder": false, 
+ "name": "Like Dis", 
+ "component_type": null, 
+ "bpm": 128, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "house-pon-de-floor-vol-4", 
+  "id": 349383, 
+  "name": "House Pon De Floor - VOL. 4"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/df1a52db-02a8-49d8-9729-fde2c76d8963.png", 
+   "width": 1500, 
+   "id": 1873685, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/df1a52db-02a8-49d8-9729-fde2c76d8963.png", 
+   "id": 1873685
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

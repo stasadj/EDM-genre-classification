@@ -1,0 +1,138 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/40bb61cb-1549-4a49-9c22-5a9a59f8725f.jpg", 
+   "width": 30, 
+   "id": 104396, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/f1f013ce-80e5-4570-bd02-c3b0634ee45b.jpg", 
+   "width": 60, 
+   "id": 104397, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/f1f013ce-80e5-4570-bd02-c3b0634ee45b.jpg", 
+   "id": 104397
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "joe-montana", 
+   "id": 2470, 
+   "name": "Joe Montana"
+  }, 
+  {
+   "slug": "andrea-introvigne", 
+   "id": 20037, 
+   "name": "Andrea Introvigne"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:15", 
+  "milliseconds": 375238
+ }, 
+ "id": 299754, 
+ "genres": [
+  {
+   "slug": "tech-house", 
+   "id": 11, 
+   "name": "Tech House"
+  }
+ ], 
+ "title": "Saziable (Stereologic Love Mix)", 
+ "label": {
+  "slug": "nuhar-records", 
+  "id": 5225, 
+  "name": "Nuhar Records"
+ }, 
+ "mix": "Stereologic Love Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/e9265711-c20f-4036-9f5b-66aa8028bbb3.LOFI.mp4", 
+   "offset": {
+    "start": 150095, 
+    "end": 270095
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/e9265711-c20f-4036-9f5b-66aa8028bbb3.LOFI.mp3", 
+   "offset": {
+    "start": 150095, 
+    "end": 270095
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "stereologic", 
+   "id": 40666, 
+   "name": "Stereologic"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A maj", 
+ "date": {
+  "released": "2007-06-07", 
+  "published": "2007-05-24"
+ }, 
+ "active": true, 
+ "slug": "saziable-stereologic-love-mix", 
+ "preorder": false, 
+ "name": "Saziable", 
+ "component_type": null, 
+ "bpm": 126, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "saziable", 
+  "id": 57186, 
+  "name": "Saziable"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/f396343e-e7ba-43d0-bdea-dda56dae12ad.png", 
+   "width": 1500, 
+   "id": 2537535, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

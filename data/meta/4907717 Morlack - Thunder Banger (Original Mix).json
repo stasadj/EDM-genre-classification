@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/d182c0f1-33b6-4731-a5b0-9309ac79cddd.jpg", 
+   "width": 500, 
+   "id": 8534694, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/dfbe5722-fcfd-454e-892e-2e102cd9eecc.jpg", 
+   "width": 30, 
+   "id": 8534692, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/b9207278-5dd8-48fa-847f-ab1825f29c2b.jpg", 
+   "width": 60, 
+   "id": 8534693, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/d182c0f1-33b6-4731-a5b0-9309ac79cddd.jpg", 
+   "id": 8534694
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "morlack", 
+   "id": 195657, 
+   "name": "Morlack"
+  }
+ ], 
+ "duration": {
+  "minutes": "4:33", 
+  "milliseconds": 273572
+ }, 
+ "id": 4907717, 
+ "genres": [
+  {
+   "slug": "breaks", 
+   "id": 9, 
+   "name": "Breaks"
+  }
+ ], 
+ "title": "Thunder Banger (Original Mix)", 
+ "label": {
+  "slug": "breakbeat-paradise-recordings", 
+  "id": 9758, 
+  "name": "Breakbeat Paradise Recordings"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/7c6fc94e-20f1-48c2-a71c-1bbf11328d01.LOFI.mp4", 
+   "offset": {
+    "start": 109428, 
+    "end": 229428
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/7c6fc94e-20f1-48c2-a71c-1bbf11328d01.LOFI.mp3", 
+   "offset": {
+    "start": 109428, 
+    "end": 229428
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "B maj", 
+ "date": {
+  "released": "2013-11-21", 
+  "published": "2013-11-21"
+ }, 
+ "active": true, 
+ "slug": "thunder-banger-original-mix", 
+ "preorder": false, 
+ "name": "Thunder Banger", 
+ "component_type": null, 
+ "bpm": 120, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "let-go-jammin-ep", 
+  "id": 1195447, 
+  "name": "Let Go Jammin' EP"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/e037ace9-a010-48e6-a249-117f54d00378.png", 
+   "width": 1500, 
+   "id": 8534720, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/e037ace9-a010-48e6-a249-117f54d00378.png", 
+   "id": 8534720
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

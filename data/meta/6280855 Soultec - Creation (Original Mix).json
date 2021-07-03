@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/7b1295dc-36d4-4608-8f02-96b2a793a70f.jpg", 
+   "width": 500, 
+   "id": 10927484, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/10b2dc6d-ad3f-41c8-86c3-5cbaeb9b4d2e.jpg", 
+   "width": 30, 
+   "id": 6991016, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/93fe3335-9dc6-44d7-96af-c000ff00b111.jpg", 
+   "width": 60, 
+   "id": 6991017, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/7b1295dc-36d4-4608-8f02-96b2a793a70f.jpg", 
+   "id": 10927484
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "soultec", 
+   "id": 88200, 
+   "name": "Soultec"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:48", 
+  "milliseconds": 348212
+ }, 
+ "id": 6280855, 
+ "genres": [
+  {
+   "slug": "drum-and-bass", 
+   "id": 1, 
+   "name": "Drum & Bass"
+  }
+ ], 
+ "title": "Creation (Original Mix)", 
+ "label": {
+  "slug": "soul-rebel-recordings", 
+  "id": 30608, 
+  "name": "Soul Rebel Recordings"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/493d65a3-0f49-4cc9-9495-93ddda1dbaa4.LOFI.mp4", 
+   "offset": {
+    "start": 139284, 
+    "end": 259284
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/493d65a3-0f49-4cc9-9495-93ddda1dbaa4.LOFI.mp3", 
+   "offset": {
+    "start": 139284, 
+    "end": 259284
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F maj", 
+ "date": {
+  "released": "2015-02-09", 
+  "published": "2015-02-09"
+ }, 
+ "active": true, 
+ "slug": "creation-original-mix", 
+ "preorder": false, 
+ "name": "Creation", 
+ "component_type": null, 
+ "bpm": 88, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "kingston-dub-ep", 
+  "id": 1462381, 
+  "name": "Kingston Dub EP"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/c244ef44-b7aa-48fa-82bc-0d71b9c6a185.png", 
+   "width": 1500, 
+   "id": 10927651, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/c244ef44-b7aa-48fa-82bc-0d71b9c6a185.png", 
+   "id": 10927651
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/f344615b-4117-4414-b642-6b5d336f0798.jpg", 
+   "width": 30, 
+   "id": 215317, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/9ed23369-25b9-4466-b2a2-8495dbb90005.jpg", 
+   "width": 60, 
+   "id": 215318, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/9ed23369-25b9-4466-b2a2-8495dbb90005.jpg", 
+   "id": 215318
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "benny-blanko", 
+   "id": 7476, 
+   "name": "Benny Blanko"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:35", 
+  "milliseconds": 455493
+ }, 
+ "id": 84098, 
+ "genres": [
+  {
+   "slug": "deep-house", 
+   "id": 12, 
+   "name": "Deep House"
+  }
+ ], 
+ "title": "Put Your Hands feat. Pedro Polanski (Original Mix)", 
+ "label": {
+  "slug": "playhouse", 
+  "id": 927, 
+  "name": "Playhouse"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/7739543b-6842-4345-9853-c42ef049bf98.LOFI.mp4", 
+   "offset": {
+    "start": 182197, 
+    "end": 302197
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/7739543b-6842-4345-9853-c42ef049bf98.LOFI.mp3", 
+   "offset": {
+    "start": 182197, 
+    "end": 302197
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.56", 
+  "value": 1.56
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D\u266f maj", 
+ "date": {
+  "released": "2004-09-29", 
+  "published": "2004-09-29"
+ }, 
+ "active": true, 
+ "slug": "put-your-hands-feat-pedro-polanski-original-mix", 
+ "preorder": false, 
+ "name": "Put Your Hands feat. Pedro Polanski", 
+ "component_type": null, 
+ "bpm": 118, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "8-feat-in-the-air-lp-version", 
+  "id": 14695, 
+  "name": "8 feat. In The Air (LP Version)"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/0f1efca4-78fd-4a3d-87ab-1a0d1682cd67.png", 
+   "width": 1500, 
+   "id": 2435596, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

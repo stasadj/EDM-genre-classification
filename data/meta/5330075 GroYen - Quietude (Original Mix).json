@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/eb5945bb-6914-4fd0-89d0-4b7d1981f8f6.jpg", 
+   "width": 500, 
+   "id": 9288343, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/16b90e19-c78b-4c43-bf5e-f3573f09ea09.jpg", 
+   "width": 30, 
+   "id": 2750059, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/d80a944f-b6eb-4ac3-8ebf-93aaf8b2d693.jpg", 
+   "width": 60, 
+   "id": 2750060, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/eb5945bb-6914-4fd0-89d0-4b7d1981f8f6.jpg", 
+   "id": 9288343
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "groyen", 
+   "id": 389520, 
+   "name": "GroYen"
+  }
+ ], 
+ "duration": {
+  "minutes": "3:27", 
+  "milliseconds": 207508
+ }, 
+ "id": 5330075, 
+ "genres": [
+  {
+   "slug": "dubstep", 
+   "id": 18, 
+   "name": "Dubstep"
+  }
+ ], 
+ "title": "Quietude (Original Mix)", 
+ "label": {
+  "slug": "pressure-point-records", 
+  "id": 20434, 
+  "name": "Pressure Point Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/d4798fa8-0f3d-47bd-8f17-15110c257560.LOFI.mp4", 
+   "offset": {
+    "start": 83003, 
+    "end": 203003
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/d4798fa8-0f3d-47bd-8f17-15110c257560.LOFI.mp3", 
+   "offset": {
+    "start": 83003, 
+    "end": 203003
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C maj", 
+ "date": {
+  "released": "2014-04-30", 
+  "published": "2014-04-30"
+ }, 
+ "active": true, 
+ "slug": "quietude-original-mix", 
+ "preorder": false, 
+ "name": "Quietude", 
+ "component_type": null, 
+ "bpm": 140, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "quietude", 
+  "id": 1281836, 
+  "name": "Quietude"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ca98ccec-8cc5-480b-bcb1-843c103eed44.png", 
+   "width": 1500, 
+   "id": 9288507, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/ca98ccec-8cc5-480b-bcb1-843c103eed44.png", 
+   "id": 9288507
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

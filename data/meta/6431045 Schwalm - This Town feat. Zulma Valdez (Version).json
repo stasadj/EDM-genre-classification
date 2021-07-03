@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/8a600282-f3d5-4a89-b2e9-296f38e97fec.jpg", 
+   "width": 500, 
+   "id": 11180241, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/2f6f6a3e-6730-4cdd-a63d-61d9bfdfc4f1.jpg", 
+   "width": 30, 
+   "id": 491534, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/0bcac30e-f61d-431a-ba1e-b63302708d75.jpg", 
+   "width": 60, 
+   "id": 491533, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/8a600282-f3d5-4a89-b2e9-296f38e97fec.jpg", 
+   "id": 11180241
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "schwalm", 
+   "id": 102089, 
+   "name": "Schwalm"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:30", 
+  "milliseconds": 330319
+ }, 
+ "id": 6431045, 
+ "genres": [
+  {
+   "slug": "electronica-downtempo", 
+   "id": 3, 
+   "name": "Electronica / Downtempo"
+  }
+ ], 
+ "title": "This Town feat. Zulma Valdez (Version)", 
+ "label": {
+  "slug": "poets-club-records", 
+  "id": 1852, 
+  "name": "Poets Club Records"
+ }, 
+ "mix": "Version", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/e3229c6c-fbc6-4775-855b-3f944471e98e.LOFI.mp4", 
+   "offset": {
+    "start": 132127, 
+    "end": 252127
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/e3229c6c-fbc6-4775-855b-3f944471e98e.LOFI.mp3", 
+   "offset": {
+    "start": 132127, 
+    "end": 252127
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A\u266f maj", 
+ "date": {
+  "released": "2015-04-17", 
+  "published": "2015-04-17"
+ }, 
+ "active": true, 
+ "slug": "this-town-feat-zulma-valdez-version", 
+ "preorder": false, 
+ "name": "This Town feat. Zulma Valdez", 
+ "component_type": null, 
+ "bpm": 101, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "musikain-deluxe-edition", 
+  "id": 1488799, 
+  "name": "Musikain (Deluxe Edition)"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/3f0648d5-12d9-45d9-a85d-d4f6fc02d929.png", 
+   "width": 1500, 
+   "id": 11180297, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/3f0648d5-12d9-45d9-a85d-d4f6fc02d929.png", 
+   "id": 11180297
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

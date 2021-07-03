@@ -1,0 +1,133 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/440d297d-513f-4a98-b444-3037add67bf7.jpg", 
+   "width": 500, 
+   "id": 8607511, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/37d9c112-303c-451d-b191-63d664be09fe.jpg", 
+   "width": 30, 
+   "id": 8607509, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/0de6365d-f7fd-4655-9633-b9c4ab82a998.jpg", 
+   "width": 60, 
+   "id": 8607510, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/440d297d-513f-4a98-b444-3037add67bf7.jpg", 
+   "id": 8607511
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "figure", 
+   "id": 108439, 
+   "name": "Figure"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:09", 
+  "milliseconds": 309942
+ }, 
+ "id": 4944953, 
+ "genres": [
+  {
+   "slug": "drum-and-bass", 
+   "id": 1, 
+   "name": "Drum & Bass"
+  }
+ ], 
+ "title": "Are You Afraid of the Dark (feat. Lexi Norton) feat. Lexi Norton (Zardonic Remix)", 
+ "label": {
+  "slug": "doom", 
+  "id": 22727, 
+  "name": "DOOM"
+ }, 
+ "mix": "Zardonic Remix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/0c1a43fd-2418-44e2-82d4-ed713ca6c11a.LOFI.mp4", 
+   "offset": {
+    "start": 123976, 
+    "end": 243976
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/0c1a43fd-2418-44e2-82d4-ed713ca6c11a.LOFI.mp3", 
+   "offset": {
+    "start": 123976, 
+    "end": 243976
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "zardonic", 
+   "id": 23120, 
+   "name": "Zardonic"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "G maj", 
+ "date": {
+  "released": "2013-12-13", 
+  "published": "2013-12-13"
+ }, 
+ "active": true, 
+ "slug": "are-you-afraid-of-the-dark-feat-lexi-norton-feat-lexi-norton-zardonic-remix", 
+ "preorder": false, 
+ "name": "Are You Afraid of the Dark (feat. Lexi Norton) feat. Lexi Norton", 
+ "component_type": null, 
+ "bpm": 175, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "monsters-selected-remixes", 
+  "id": 1202558, 
+  "name": "Monsters Selected Remixes"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/36427946-e325-4943-ba8a-c5c9b770756c.png", 
+   "width": 1500, 
+   "id": 8607534, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/36427946-e325-4943-ba8a-c5c9b770756c.png", 
+   "id": 8607534
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

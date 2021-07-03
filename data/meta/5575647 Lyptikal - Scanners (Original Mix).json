@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/6758280c-8944-44a0-93a4-e6e636c501b8.jpg", 
+   "width": 500, 
+   "id": 9709910, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/32b8311f-054d-49c0-9242-7980b4a9a375.jpg", 
+   "width": 30, 
+   "id": 6568724, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/953c8216-2edd-4e7c-a4ec-27c8242ddfbd.jpg", 
+   "width": 60, 
+   "id": 6568725, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/6758280c-8944-44a0-93a4-e6e636c501b8.jpg", 
+   "id": 9709910
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "lyptikal", 
+   "id": 43447, 
+   "name": "Lyptikal"
+  }
+ ], 
+ "duration": {
+  "minutes": "3:41", 
+  "milliseconds": 221774
+ }, 
+ "id": 5575647, 
+ "genres": [
+  {
+   "slug": "drum-and-bass", 
+   "id": 1, 
+   "name": "Drum & Bass"
+  }
+ ], 
+ "title": "Scanners (Original Mix)", 
+ "label": {
+  "slug": "gun-audio", 
+  "id": 30356, 
+  "name": "Gun Audio"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/cf8c7ac3-d855-4c00-b2fa-6316859eefd2.LOFI.mp4", 
+   "offset": {
+    "start": 88709, 
+    "end": 208709
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/cf8c7ac3-d855-4c00-b2fa-6316859eefd2.LOFI.mp3", 
+   "offset": {
+    "start": 88709, 
+    "end": 208709
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F maj", 
+ "date": {
+  "released": "2014-06-28", 
+  "published": "2014-06-28"
+ }, 
+ "active": true, 
+ "slug": "scanners-original-mix", 
+ "preorder": false, 
+ "name": "Scanners", 
+ "component_type": null, 
+ "bpm": 89, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "rockstone", 
+  "id": 1333418, 
+  "name": "Rockstone"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/37dce23d-ee5b-47f6-b4b8-38075a97f91f.png", 
+   "width": 1500, 
+   "id": 9709920, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/37dce23d-ee5b-47f6-b4b8-38075a97f91f.png", 
+   "id": 9709920
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

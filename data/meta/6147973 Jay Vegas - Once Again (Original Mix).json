@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/15c5c8f7-1870-415d-b854-9330b38bda4e.jpg", 
+   "width": 500, 
+   "id": 10677343, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/2f6f6a3e-6730-4cdd-a63d-61d9bfdfc4f1.jpg", 
+   "width": 30, 
+   "id": 491534, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/1df1ddf3-9f55-4bd3-9239-c39d2ed6d064.jpg", 
+   "width": 60, 
+   "id": 14846991, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/15c5c8f7-1870-415d-b854-9330b38bda4e.jpg", 
+   "id": 10677343
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "jay-vegas", 
+   "id": 76040, 
+   "name": "Jay Vegas"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:13", 
+  "milliseconds": 373126
+ }, 
+ "id": 6147973, 
+ "genres": [
+  {
+   "slug": "house", 
+   "id": 5, 
+   "name": "House"
+  }
+ ], 
+ "title": "Once Again (Original Mix)", 
+ "label": {
+  "slug": "muzik-x-press", 
+  "id": 1437, 
+  "name": "Muzik X Press"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/1fc822b2-a5a1-4b93-aaab-643a485cf74f.LOFI.mp4", 
+   "offset": {
+    "start": 149250, 
+    "end": 269250
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/1fc822b2-a5a1-4b93-aaab-643a485cf74f.LOFI.mp3", 
+   "offset": {
+    "start": 149250, 
+    "end": 269250
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A\u266f maj", 
+ "date": {
+  "released": "2014-12-10", 
+  "published": "2014-12-10"
+ }, 
+ "active": true, 
+ "slug": "once-again-original-mix", 
+ "preorder": false, 
+ "name": "Once Again", 
+ "component_type": null, 
+ "bpm": 128, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "disco-xtmas-volume-1", 
+  "id": 1437109, 
+  "name": "Disco Xtmas Volume 1"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/22e92f72-5e90-413c-b57b-3a14cdd67a3a.png", 
+   "width": 1500, 
+   "id": 10681260, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/22e92f72-5e90-413c-b57b-3a14cdd67a3a.png", 
+   "id": 10681260
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

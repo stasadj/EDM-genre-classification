@@ -1,0 +1,130 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/2d5c201c-e361-4dea-8255-9cdbb9b70c7f.jpg", 
+   "width": 30, 
+   "id": 305180, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/a1a3d835-2f5d-474d-89bc-07817530cd49.jpg", 
+   "width": 60, 
+   "id": 305181, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/a1a3d835-2f5d-474d-89bc-07817530cd49.jpg", 
+   "id": 305181
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "alic", 
+   "id": 54282, 
+   "name": "Alic"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:41", 
+  "milliseconds": 341000
+ }, 
+ "id": 681908, 
+ "genres": [
+  {
+   "slug": "techno", 
+   "id": 6, 
+   "name": "Techno"
+  }
+ ], 
+ "title": "French Tripping (Theme Fe Remix)", 
+ "label": {
+  "slug": "soundmute-recordings", 
+  "id": 10649, 
+  "name": "Soundmute Recordings"
+ }, 
+ "mix": "Theme Fe Remix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/0f60fa8a-bc14-4409-bc75-cf1929b308c2.LOFI.mp3", 
+   "offset": {
+    "start": 136400, 
+    "end": 256400
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "theme-fe", 
+   "id": 90024, 
+   "name": "Theme Fe"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C\u266f maj", 
+ "date": {
+  "released": "2008-09-24", 
+  "published": "2008-09-24"
+ }, 
+ "active": true, 
+ "slug": "french-tripping-theme-fe-remix", 
+ "preorder": false, 
+ "name": "French Tripping", 
+ "component_type": null, 
+ "bpm": 138, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "the-lost-files", 
+  "id": 135542, 
+  "name": "The Lost Files"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/70256e61-9570-4b72-a46f-c8e1c314cc3e.png", 
+   "width": 1500, 
+   "id": 2300916, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

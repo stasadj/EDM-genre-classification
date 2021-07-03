@@ -1,0 +1,132 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/6eea4413-a800-47f5-a14c-1dcc43ed449c.jpg", 
+   "width": 500, 
+   "id": 6792499, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/ffc98854-9308-48ee-9ba2-3b0a87c9429d.jpg", 
+   "width": 30, 
+   "id": 104543, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/9d8e0972-506d-4538-abf0-817a06c06864.jpg", 
+   "width": 60, 
+   "id": 104544, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/6eea4413-a800-47f5-a14c-1dcc43ed449c.jpg", 
+   "id": 6792499
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "leo-janeiro", 
+   "id": 20263, 
+   "name": "Leo Janeiro"
+  }, 
+  {
+   "slug": "cic", 
+   "id": 40597, 
+   "name": "CIC"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:13", 
+  "milliseconds": 433066
+ }, 
+ "id": 299306, 
+ "genres": [
+  {
+   "slug": "house", 
+   "id": 5, 
+   "name": "House"
+  }
+ ], 
+ "title": "So Freak Me (Original Mix)", 
+ "label": {
+  "slug": "uc-music", 
+  "id": 1017, 
+  "name": "UC Music"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/3a21bd17-4477-4997-8921-db08e9d7305f.LOFI.mp4", 
+   "offset": {
+    "start": 173226, 
+    "end": 293226
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/3a21bd17-4477-4997-8921-db08e9d7305f.LOFI.mp3", 
+   "offset": {
+    "start": 173226, 
+    "end": 293226
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C maj", 
+ "date": {
+  "released": "2007-05-21", 
+  "published": "2007-05-21"
+ }, 
+ "active": true, 
+ "slug": "so-freak-me-original-mix", 
+ "preorder": false, 
+ "name": "So Freak Me", 
+ "component_type": null, 
+ "bpm": 127, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "second-time-ep", 
+  "id": 57248, 
+  "name": "Second Time EP"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/fe8b0869-5147-4d31-a380-afb3fbff564e.png", 
+   "width": 1500, 
+   "id": 6863879, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/fe8b0869-5147-4d31-a380-afb3fbff564e.png", 
+   "id": 6863879
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

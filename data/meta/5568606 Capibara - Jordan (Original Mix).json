@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/840b3929-f410-450e-b94e-86ee28d22351.jpg", 
+   "width": 500, 
+   "id": 9697069, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/a05a5ec3-bd9f-4e66-83e3-7c039364fddb.jpg", 
+   "width": 30, 
+   "id": 8450441, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/25b2cac8-937a-45b6-a675-1a71bccc0c97.jpg", 
+   "width": 60, 
+   "id": 8450442, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/840b3929-f410-450e-b94e-86ee28d22351.jpg", 
+   "id": 9697069
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "capibara", 
+   "id": 370800, 
+   "name": "Capibara"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:01", 
+  "milliseconds": 421000
+ }, 
+ "id": 5568606, 
+ "genres": [
+  {
+   "slug": "dubstep", 
+   "id": 18, 
+   "name": "Dubstep"
+  }
+ ], 
+ "title": "Jordan (Original Mix)", 
+ "label": {
+  "slug": "white-forest-records", 
+  "id": 36459, 
+  "name": "White Forest Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/dddca5f3-9e58-4350-aa99-355eee141822.LOFI.mp4", 
+   "offset": {
+    "start": 168400, 
+    "end": 288400
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/dddca5f3-9e58-4350-aa99-355eee141822.LOFI.mp3", 
+   "offset": {
+    "start": 168400, 
+    "end": 288400
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "B maj", 
+ "date": {
+  "released": "2014-07-02", 
+  "published": "2014-07-02"
+ }, 
+ "active": true, 
+ "slug": "jordan-original-mix", 
+ "preorder": false, 
+ "name": "Jordan", 
+ "component_type": null, 
+ "bpm": 145, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "jordan", 
+  "id": 1331939, 
+  "name": "Jordan"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/93ecc49a-b663-4a8e-869a-73c5d2ea5b44.png", 
+   "width": 1500, 
+   "id": 9697304, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/93ecc49a-b663-4a8e-869a-73c5d2ea5b44.png", 
+   "id": 9697304
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

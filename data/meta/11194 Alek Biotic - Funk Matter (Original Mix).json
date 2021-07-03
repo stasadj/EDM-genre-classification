@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/2ca5e9af-11ba-4795-b08f-bfb627d70d34.jpg", 
+   "width": 500, 
+   "id": 12649815, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/2f6f6a3e-6730-4cdd-a63d-61d9bfdfc4f1.jpg", 
+   "width": 30, 
+   "id": 491534, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/94fd9648-6803-481d-9bb0-2ddfe11e7830.jpg", 
+   "width": 60, 
+   "id": 12649813, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/2ca5e9af-11ba-4795-b08f-bfb627d70d34.jpg", 
+   "id": 12649815
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "alek-biotic", 
+   "id": 1913, 
+   "name": "Alek Biotic"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:32", 
+  "milliseconds": 392840
+ }, 
+ "id": 11194, 
+ "genres": [
+  {
+   "slug": "techno", 
+   "id": 6, 
+   "name": "Techno"
+  }
+ ], 
+ "title": "Funk Matter (Original Mix)", 
+ "label": {
+  "slug": "gotham-grooves", 
+  "id": 221, 
+  "name": "Gotham Grooves"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/131e3dc8-356b-4594-a425-98605ed00422.LOFI.mp4", 
+   "offset": {
+    "start": 157136, 
+    "end": 277136
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/131e3dc8-356b-4594-a425-98605ed00422.LOFI.mp3", 
+   "offset": {
+    "start": 157136, 
+    "end": 277136
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F maj", 
+ "date": {
+  "released": "2003-10-05", 
+  "published": "2003-10-05"
+ }, 
+ "active": true, 
+ "slug": "funk-matter-original-mix", 
+ "preorder": false, 
+ "name": "Funk Matter", 
+ "component_type": null, 
+ "bpm": 140, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "funk-matter-ep", 
+  "id": 3453, 
+  "name": "Funk Matter EP"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/4b716415-c0e7-4aef-a9c0-4b650c371e64.png", 
+   "width": 1500, 
+   "id": 2498238, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/4b716415-c0e7-4aef-a9c0-4b650c371e64.png", 
+   "id": 2498238
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

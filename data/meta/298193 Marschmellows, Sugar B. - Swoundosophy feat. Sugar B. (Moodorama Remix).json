@@ -1,0 +1,138 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/666555fc-3102-4dde-b8ba-d7d7a95a8eaf.jpg", 
+   "width": 500, 
+   "id": 9790801, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/7ab2f880-d991-43d0-89d2-629e3865ed47.jpg", 
+   "width": 30, 
+   "id": 104094, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/a848869c-baa6-4c59-b869-8c3e7bcdc260.jpg", 
+   "width": 60, 
+   "id": 104095, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/666555fc-3102-4dde-b8ba-d7d7a95a8eaf.jpg", 
+   "id": 9790801
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "marschmellows", 
+   "id": 35672, 
+   "name": "Marschmellows"
+  }, 
+  {
+   "slug": "sugar-b", 
+   "id": 422248, 
+   "name": "Sugar B."
+  }
+ ], 
+ "duration": {
+  "minutes": "5:23", 
+  "milliseconds": 323346
+ }, 
+ "id": 298193, 
+ "genres": [
+  {
+   "slug": "house", 
+   "id": 5, 
+   "name": "House"
+  }
+ ], 
+ "title": "Swoundosophy feat. Sugar B. (Moodorama Remix)", 
+ "label": {
+  "slug": "infracom!", 
+  "id": 4665, 
+  "name": "INFRACom!"
+ }, 
+ "mix": "Moodorama Remix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/09aa93ce-c3a0-47bb-8e97-3cd1b0454568.LOFI.mp4", 
+   "offset": {
+    "start": 129338, 
+    "end": 249338
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/09aa93ce-c3a0-47bb-8e97-3cd1b0454568.LOFI.mp3", 
+   "offset": {
+    "start": 129338, 
+    "end": 249338
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "moodorama", 
+   "id": 24692, 
+   "name": "Moodorama"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F maj", 
+ "date": {
+  "released": "2000-02-09", 
+  "published": "2000-02-09"
+ }, 
+ "active": true, 
+ "slug": "swoundosophy-feat-sugar-b-moodorama-remix", 
+ "preorder": false, 
+ "name": "Swoundosophy feat. Sugar B.", 
+ "component_type": null, 
+ "bpm": 120, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "swoundosophy", 
+  "id": 57048, 
+  "name": "Swoundosophy"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/32755fbb-f0f3-4afe-a6f8-1bfbc3e8f76d.png", 
+   "width": 1500, 
+   "id": 9790838, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/32755fbb-f0f3-4afe-a6f8-1bfbc3e8f76d.png", 
+   "id": 9790838
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/06b89980-f7b9-4a84-99de-895518356827.jpg", 
+   "width": 30, 
+   "id": 104800, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/a9fcf851-aaf2-42b9-8e06-3866a5b9ec00.jpg", 
+   "width": 60, 
+   "id": 104801, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/a9fcf851-aaf2-42b9-8e06-3866a5b9ec00.jpg", 
+   "id": 104801
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "mr-fiction", 
+   "id": 40249, 
+   "name": "Mr. Fiction"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:34", 
+  "milliseconds": 394960
+ }, 
+ "id": 299932, 
+ "genres": [
+  {
+   "slug": "electro-house", 
+   "id": 17, 
+   "name": "Electro House"
+  }
+ ], 
+ "title": "Open Door (Original Mix)", 
+ "label": {
+  "slug": "unreleased-digital", 
+  "id": 5639, 
+  "name": "Unreleased Digital"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/950d2a11-a26c-4d43-abe7-2d57a381a16f.LOFI.mp4", 
+   "offset": {
+    "start": 157984, 
+    "end": 277984
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/950d2a11-a26c-4d43-abe7-2d57a381a16f.LOFI.mp3", 
+   "offset": {
+    "start": 157984, 
+    "end": 277984
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F maj", 
+ "date": {
+  "released": "2007-04-30", 
+  "published": "2007-04-30"
+ }, 
+ "active": true, 
+ "slug": "open-door-original-mix", 
+ "preorder": false, 
+ "name": "Open Door", 
+ "component_type": null, 
+ "bpm": 127, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "fictionizer-ep-3", 
+  "id": 57369, 
+  "name": "Fictionizer EP 3"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/828a1f08-e99b-4d39-a2c0-9b4843818b50.png", 
+   "width": 1500, 
+   "id": 2233984, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

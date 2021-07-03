@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/c8ddcc37-3fb6-41f0-a604-8db4e90c0416.jpg", 
+   "width": 500, 
+   "id": 8171998, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/b2762943-0c67-4cd1-aebc-5b34b0f7a440.jpg", 
+   "width": 30, 
+   "id": 8171996, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/a06e8de8-96fb-4673-aef3-475cc73a0e75.jpg", 
+   "width": 60, 
+   "id": 8171997, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/c8ddcc37-3fb6-41f0-a604-8db4e90c0416.jpg", 
+   "id": 8171998
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "jonathan-cowan", 
+   "id": 194689, 
+   "name": "Jonathan Cowan"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:01", 
+  "milliseconds": 361170
+ }, 
+ "id": 4733800, 
+ "genres": [
+  {
+   "slug": "tech-house", 
+   "id": 11, 
+   "name": "Tech House"
+  }
+ ], 
+ "title": "Mental Health (Original Mix)", 
+ "label": {
+  "slug": "blackflag-recordings", 
+  "id": 13003, 
+  "name": "Blackflag Recordings"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/79faf9d0-a1e2-49db-8a5a-dbb42a007308.LOFI.mp4", 
+   "offset": {
+    "start": 144468, 
+    "end": 264468
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/79faf9d0-a1e2-49db-8a5a-dbb42a007308.LOFI.mp3", 
+   "offset": {
+    "start": 144468, 
+    "end": 264468
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A\u266f maj", 
+ "date": {
+  "released": "2013-10-07", 
+  "published": "2013-10-07"
+ }, 
+ "active": true, 
+ "slug": "mental-health-original-mix", 
+ "preorder": false, 
+ "name": "Mental Health", 
+ "component_type": null, 
+ "bpm": 125, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "mental-health", 
+  "id": 1162210, 
+  "name": "Mental Health"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/dd853f2e-8076-40be-bffd-2f48fee9a1d8.png", 
+   "width": 1500, 
+   "id": 8172038, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/dd853f2e-8076-40be-bffd-2f48fee9a1d8.png", 
+   "id": 8172038
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

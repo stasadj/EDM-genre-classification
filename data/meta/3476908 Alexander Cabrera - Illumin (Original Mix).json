@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/fc4c4f13-eefd-4e1c-934d-969ae930d6f4.jpg", 
+   "width": 500, 
+   "id": 5373827, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/6c42c431-fac1-46ad-b6e2-589dfa550605.jpg", 
+   "width": 30, 
+   "id": 5373825, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/344d0c3d-2ee9-4d98-93e9-18a41e5c653c.jpg", 
+   "width": 60, 
+   "id": 5373826, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/fc4c4f13-eefd-4e1c-934d-969ae930d6f4.jpg", 
+   "id": 5373827
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "alexander-cabrera", 
+   "id": 170550, 
+   "name": "Alexander Cabrera"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:57", 
+  "milliseconds": 417358
+ }, 
+ "id": 3476908, 
+ "genres": [
+  {
+   "slug": "breaks", 
+   "id": 9, 
+   "name": "Breaks"
+  }
+ ], 
+ "title": "Illumin (Original Mix)", 
+ "label": {
+  "slug": "house-park-records", 
+  "id": 21314, 
+  "name": "House Park Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/b3db4687-7ddf-4b76-9f73-462a828672e4.LOFI.mp3", 
+   "offset": {
+    "start": 166943, 
+    "end": 287046
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D maj", 
+ "date": {
+  "released": "2012-05-13", 
+  "published": "2012-05-13"
+ }, 
+ "active": true, 
+ "slug": "illumin-original-mix", 
+ "preorder": false, 
+ "name": "Illumin", 
+ "component_type": null, 
+ "bpm": 128, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "illumin", 
+  "id": 906868, 
+  "name": "Illumin"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/82bbf1bc-aa45-4cc4-9c2b-e1b6a0c561d3.png", 
+   "width": 1500, 
+   "id": 5376811, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/82bbf1bc-aa45-4cc4-9c2b-e1b6a0c561d3.png", 
+   "id": 5376811
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

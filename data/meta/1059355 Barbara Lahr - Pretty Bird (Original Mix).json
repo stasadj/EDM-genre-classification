@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/d4ac1aee-75f2-4875-99a5-fe514d0f2340.jpg", 
+   "width": 500, 
+   "id": 562779, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/616165b0-e680-4b71-8725-a39dd4d98fb7.jpg", 
+   "width": 30, 
+   "id": 562777, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/7f47118d-9a01-4629-bc13-57f0b26a40c3.jpg", 
+   "width": 60, 
+   "id": 562778, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/d4ac1aee-75f2-4875-99a5-fe514d0f2340.jpg", 
+   "id": 562779
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "barbara-lahr", 
+   "id": 119373, 
+   "name": "Barbara Lahr"
+  }
+ ], 
+ "duration": {
+  "minutes": "4:07", 
+  "milliseconds": 247040
+ }, 
+ "id": 1059355, 
+ "genres": [
+  {
+   "slug": "electronica-downtempo", 
+   "id": 3, 
+   "name": "Electronica / Downtempo"
+  }
+ ], 
+ "title": "Pretty Bird (Original Mix)", 
+ "label": {
+  "slug": "audio-lotion-recordings", 
+  "id": 2992, 
+  "name": "Audio Lotion Recordings"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/ef73e609-9d6c-4d9a-94ce-383b31900029.LOFI.mp3", 
+   "offset": {
+    "start": 98816, 
+    "end": 218835
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C\u266f maj", 
+ "date": {
+  "released": "2010-01-15", 
+  "published": "2010-01-15"
+ }, 
+ "active": true, 
+ "slug": "pretty-bird-original-mix", 
+ "preorder": false, 
+ "name": "Pretty Bird", 
+ "component_type": null, 
+ "bpm": 150, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "beauty-lounge-volume-1", 
+  "id": 213248, 
+  "name": "Beauty Lounge Volume 1"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/dc02f8ca-2503-4daa-acd4-9548b269ec17.png", 
+   "width": 1500, 
+   "id": 1487155, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/dc02f8ca-2503-4daa-acd4-9548b269ec17.png", 
+   "id": 1487155
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

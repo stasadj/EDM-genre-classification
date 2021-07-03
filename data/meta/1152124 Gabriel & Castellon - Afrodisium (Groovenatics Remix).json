@@ -1,0 +1,130 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/fe6d773b-23a5-4de8-8361-aeba77690ca6.jpg", 
+   "width": 500, 
+   "id": 629104, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/b2465662-34b0-484d-88f9-4f1c9c759d7f.jpg", 
+   "width": 30, 
+   "id": 629102, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/e20255fe-75d1-4ecc-9dfa-e4193e9d4086.jpg", 
+   "width": 60, 
+   "id": 629103, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/fe6d773b-23a5-4de8-8361-aeba77690ca6.jpg", 
+   "id": 629104
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "gabriel-and-castellon", 
+   "id": 79757, 
+   "name": "Gabriel & Castellon"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:48", 
+  "milliseconds": 348000
+ }, 
+ "id": 1152124, 
+ "genres": [
+  {
+   "slug": "house", 
+   "id": 5, 
+   "name": "House"
+  }
+ ], 
+ "title": "Afrodisium (Groovenatics Remix)", 
+ "label": {
+  "slug": "groovemasters", 
+  "id": 12005, 
+  "name": "Groovemasters"
+ }, 
+ "mix": "Groovenatics Remix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/643c80d2-e0da-4a00-96d5-4a7732c4df6b.LOFI.mp3", 
+   "offset": {
+    "start": 139200, 
+    "end": 259200
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "groovenatics", 
+   "id": 42167, 
+   "name": "Groovenatics"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A\u266f maj", 
+ "date": {
+  "released": "2010-03-26", 
+  "published": "2010-03-26"
+ }, 
+ "active": true, 
+ "slug": "afrodisium-groovenatics-remix", 
+ "preorder": false, 
+ "name": "Afrodisium", 
+ "component_type": null, 
+ "bpm": 128, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "afrodisium-ep", 
+  "id": 232054, 
+  "name": "Afrodisium EP"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/35de5bcb-0281-4311-a604-8f2dfaaa6955.png", 
+   "width": 1500, 
+   "id": 1329664, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/35de5bcb-0281-4311-a604-8f2dfaaa6955.png", 
+   "id": 1329664
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

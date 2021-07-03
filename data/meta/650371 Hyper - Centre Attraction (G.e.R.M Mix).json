@@ -1,0 +1,133 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/820d5347-019c-4646-9789-dda9fb3b1789.jpg", 
+   "width": 500, 
+   "id": 9579717, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/ef2be7dd-273a-4437-81c2-f11d34e0a78c.jpg", 
+   "width": 30, 
+   "id": 287937, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/5423cdf5-120e-4952-9e70-1c0acee4a32b.jpg", 
+   "width": 60, 
+   "id": 287938, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/820d5347-019c-4646-9789-dda9fb3b1789.jpg", 
+   "id": 9579717
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "hyper", 
+   "id": 2641, 
+   "name": "Hyper"
+  }
+ ], 
+ "duration": {
+  "minutes": "4:16", 
+  "milliseconds": 256360
+ }, 
+ "id": 650371, 
+ "genres": [
+  {
+   "slug": "breaks", 
+   "id": 9, 
+   "name": "Breaks"
+  }
+ ], 
+ "title": "Centre Attraction (G.e.R.M Mix)", 
+ "label": {
+  "slug": "kilowatt-records", 
+  "id": 2166, 
+  "name": "Kilowatt Records"
+ }, 
+ "mix": "G.e.R.M Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/bde10514-199d-4cad-8bd9-c617a22b1023.LOFI.mp4", 
+   "offset": {
+    "start": 102544, 
+    "end": 222544
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/bde10514-199d-4cad-8bd9-c617a22b1023.LOFI.mp3", 
+   "offset": {
+    "start": 102544, 
+    "end": 222544
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "g-e-r-m", 
+   "id": 413080, 
+   "name": "G.e.R.M"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C maj", 
+ "date": {
+  "released": "2008-11-08", 
+  "published": "2008-11-08"
+ }, 
+ "active": true, 
+ "slug": "centre-attraction-g-e-r-m-mix", 
+ "preorder": false, 
+ "name": "Centre Attraction", 
+ "component_type": null, 
+ "bpm": 125, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "centre-attraction", 
+  "id": 129230, 
+  "name": "Centre Attraction"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/fcaf1fe6-0e72-4b66-a87d-4678aa8a6aeb.png", 
+   "width": 1500, 
+   "id": 9580036, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/fcaf1fe6-0e72-4b66-a87d-4678aa8a6aeb.png", 
+   "id": 9580036
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

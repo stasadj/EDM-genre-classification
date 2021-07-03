@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/721d0e2b-e73e-4f61-b04f-858ca7b9e77e.jpg", 
+   "width": 500, 
+   "id": 6593264, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/e22e718f-2adf-4b52-a562-f5338088d488.jpg", 
+   "width": 30, 
+   "id": 6593262, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/b4844f38-3d18-4fac-b43d-034d52a8ee01.jpg", 
+   "width": 60, 
+   "id": 6593263, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/721d0e2b-e73e-4f61-b04f-858ca7b9e77e.jpg", 
+   "id": 6593264
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "b-zer", 
+   "id": 256429, 
+   "name": "B-zer"
+  }
+ ], 
+ "duration": {
+  "minutes": "8:42", 
+  "milliseconds": 522173
+ }, 
+ "id": 4071302, 
+ "genres": [
+  {
+   "slug": "psy-trance", 
+   "id": 13, 
+   "name": "Psy-Trance"
+  }
+ ], 
+ "title": "Dream Safe (Original Mix)", 
+ "label": {
+  "slug": "uxmal-records", 
+  "id": 15074, 
+  "name": "Uxmal Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/9e2161c1-c32a-446a-a338-87a23c460bb8.LOFI.mp4", 
+   "offset": {
+    "start": 208869, 
+    "end": 328869
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/9e2161c1-c32a-446a-a338-87a23c460bb8.LOFI.mp3", 
+   "offset": {
+    "start": 208869, 
+    "end": 328869
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D maj", 
+ "date": {
+  "released": "2013-01-22", 
+  "published": "2013-01-22"
+ }, 
+ "active": true, 
+ "slug": "dream-safe-original-mix", 
+ "preorder": false, 
+ "name": "Dream Safe", 
+ "component_type": null, 
+ "bpm": 138, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "uxmal-records-best-of-2012", 
+  "id": 1024421, 
+  "name": "Uxmal Records Best of 2012"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/66aca5b8-0484-4c10-959b-f3a67a4fdea0.png", 
+   "width": 1500, 
+   "id": 6597854, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/66aca5b8-0484-4c10-959b-f3a67a4fdea0.png", 
+   "id": 6597854
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

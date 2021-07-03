@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/40c69bcc-43b7-4ae3-a796-99a4ed61744c.jpg", 
+   "width": 30, 
+   "id": 51464, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/18455c0e-a6ca-4032-b441-c448a03278ed.jpg", 
+   "width": 60, 
+   "id": 51465, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/18455c0e-a6ca-4032-b441-c448a03278ed.jpg", 
+   "id": 51465
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "zwo!", 
+   "id": 25730, 
+   "name": "Zwo!"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:48", 
+  "milliseconds": 348333
+ }, 
+ "id": 200766, 
+ "genres": [
+  {
+   "slug": "tech-house", 
+   "id": 11, 
+   "name": "Tech House"
+  }
+ ], 
+ "title": "Oxigen (Original Mix)", 
+ "label": {
+  "slug": "dpress-industries", 
+  "id": 2721, 
+  "name": "Dpress Industries"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/1821f92e-0b0f-49d6-8af5-d3b8967bfd28.LOFI.mp4", 
+   "offset": {
+    "start": 139333, 
+    "end": 259333
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/1821f92e-0b0f-49d6-8af5-d3b8967bfd28.LOFI.mp3", 
+   "offset": {
+    "start": 139333, 
+    "end": 259333
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F maj", 
+ "date": {
+  "released": "2006-09-11", 
+  "published": "2006-09-11"
+ }, 
+ "active": true, 
+ "slug": "oxigen-original-mix", 
+ "preorder": false, 
+ "name": "Oxigen", 
+ "component_type": null, 
+ "bpm": 131, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "turismo", 
+  "id": 35101, 
+  "name": "Turismo"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/8dc88743-cb6e-4284-a280-6e8ac8d546e5.png", 
+   "width": 1500, 
+   "id": 2364880, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

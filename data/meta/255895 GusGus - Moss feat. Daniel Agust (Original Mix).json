@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/056f0fbf-04da-479e-8473-1edbcd38fc2c.jpg", 
+   "width": 30, 
+   "id": 81603, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/30927522-8af1-46c1-80fd-a7563619eb41.jpg", 
+   "width": 60, 
+   "id": 81604, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/30927522-8af1-46c1-80fd-a7563619eb41.jpg", 
+   "id": 81604
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "gusgus", 
+   "id": 7857, 
+   "name": "GusGus"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:19", 
+  "milliseconds": 439392
+ }, 
+ "id": 255895, 
+ "genres": [
+  {
+   "slug": "electro-house", 
+   "id": 17, 
+   "name": "Electro House"
+  }
+ ], 
+ "title": "Moss feat. Daniel Agust (Original Mix)", 
+ "label": {
+  "slug": "pineapple-records", 
+  "id": 1556, 
+  "name": "Pineapple Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/ac7d3543-fede-41f4-bf86-371908bc79ac.LOFI.mp4", 
+   "offset": {
+    "start": 175756, 
+    "end": 295756
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/ac7d3543-fede-41f4-bf86-371908bc79ac.LOFI.mp3", 
+   "offset": {
+    "start": 175756, 
+    "end": 295756
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F\u266f maj", 
+ "date": {
+  "released": "2007-03-05", 
+  "published": "2007-03-05"
+ }, 
+ "active": true, 
+ "slug": "moss-feat-daniel-agust-original-mix", 
+ "preorder": false, 
+ "name": "Moss feat. Daniel Agust", 
+ "component_type": null, 
+ "bpm": 130, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "forever", 
+  "id": 47614, 
+  "name": "Forever"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/530eecf7-91fd-4ce2-8c19-98e452dfbda1.png", 
+   "width": 1500, 
+   "id": 2295516, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

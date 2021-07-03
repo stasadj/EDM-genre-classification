@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/783b588e-604e-4626-9d25-86e599f745b7.jpg", 
+   "width": 500, 
+   "id": 8483699, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/b03ad781-f3e4-4fe0-9cbf-1342e6997db2.jpg", 
+   "width": 30, 
+   "id": 8483697, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/731d71f1-0584-4463-80d1-03a26ff0390c.jpg", 
+   "width": 60, 
+   "id": 8483698, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/783b588e-604e-4626-9d25-86e599f745b7.jpg", 
+   "id": 8483699
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "antony-reale", 
+   "id": 19475, 
+   "name": "Antony Reale"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:14", 
+  "milliseconds": 434085
+ }, 
+ "id": 4885376, 
+ "genres": [
+  {
+   "slug": "house", 
+   "id": 5, 
+   "name": "House"
+  }
+ ], 
+ "title": "Thunder (Club Mix)", 
+ "label": {
+  "slug": "loop-n-steel-records", 
+  "id": 28587, 
+  "name": "Loop 'n' Steel Records"
+ }, 
+ "mix": "Club Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/f87f0802-e2b8-4390-9fb9-7cfec85f59de.LOFI.mp4", 
+   "offset": {
+    "start": 173634, 
+    "end": 293634
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/f87f0802-e2b8-4390-9fb9-7cfec85f59de.LOFI.mp3", 
+   "offset": {
+    "start": 173634, 
+    "end": 293634
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C\u266f maj", 
+ "date": {
+  "released": "2013-12-02", 
+  "published": "2013-12-02"
+ }, 
+ "active": true, 
+ "slug": "thunder-club-mix", 
+ "preorder": false, 
+ "name": "Thunder", 
+ "component_type": null, 
+ "bpm": 128, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "loop-n-steel-best-of-2013", 
+  "id": 1190925, 
+  "name": "Loop 'n' Steel Best of 2013"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/3afcd69f-c6d3-4f07-a6c4-80cd01077c3d.png", 
+   "width": 1500, 
+   "id": 8483912, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/3afcd69f-c6d3-4f07-a6c4-80cd01077c3d.png", 
+   "id": 8483912
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

@@ -1,0 +1,138 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/34b537d7-605b-4c7f-b3e9-c2818e1ab9c5.jpg", 
+   "width": 500, 
+   "id": 9838010, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/7d609bd3-c0bd-492c-8fd2-ab4b4c2fb3a4.jpg", 
+   "width": 30, 
+   "id": 8338540, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/c4e1459f-588f-46c4-815d-c8f1a037d636.jpg", 
+   "width": 60, 
+   "id": 8338541, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/34b537d7-605b-4c7f-b3e9-c2818e1ab9c5.jpg", 
+   "id": 9838010
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "einsauszwei", 
+   "id": 156574, 
+   "name": "einsauszwei"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:52", 
+  "milliseconds": 472200
+ }, 
+ "id": 5653983, 
+ "genres": [
+  {
+   "slug": "deep-house", 
+   "id": 12, 
+   "name": "Deep House"
+  }
+ ], 
+ "title": "Air Run (Helmut Dubnitzky & Jackspot Remix)", 
+ "label": {
+  "slug": "brise-records", 
+  "id": 13505, 
+  "name": "Brise Records"
+ }, 
+ "mix": "Helmut Dubnitzky & Jackspot Remix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/6c28d1a3-5304-42aa-8a4b-1f95b1ac090e.LOFI.mp4", 
+   "offset": {
+    "start": 188880, 
+    "end": 308880
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/6c28d1a3-5304-42aa-8a4b-1f95b1ac090e.LOFI.mp3", 
+   "offset": {
+    "start": 188880, 
+    "end": 308880
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "helmut-dubnitzky", 
+   "id": 28515, 
+   "name": "Helmut Dubnitzky"
+  }, 
+  {
+   "slug": "jackspot", 
+   "id": 60165, 
+   "name": "Jackspot"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D maj", 
+ "date": {
+  "released": "2014-09-05", 
+  "published": "2014-09-05"
+ }, 
+ "active": true, 
+ "slug": "air-run-helmut-dubnitzky-and-jackspot-remix", 
+ "preorder": false, 
+ "name": "Air Run", 
+ "component_type": null, 
+ "bpm": 122, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "small-world-e-p", 
+  "id": 1348702, 
+  "name": "Small World E.P."
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/4ee2cd61-a0a9-4d8e-a994-bd7840a76309.png", 
+   "width": 1500, 
+   "id": 9841164, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/4ee2cd61-a0a9-4d8e-a994-bd7840a76309.png", 
+   "id": 9841164
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

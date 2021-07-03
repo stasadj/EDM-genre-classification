@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/c3a10130-bb3b-428f-94b1-77f849ca98ce.jpg", 
+   "width": 500, 
+   "id": 2916710, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/c3c599d3-c6df-4d74-9e6f-c19caed94221.jpg", 
+   "width": 30, 
+   "id": 2916708, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/96f6b60a-0e1e-4283-bb91-641f17734cf6.jpg", 
+   "width": 60, 
+   "id": 2916709, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/c3a10130-bb3b-428f-94b1-77f849ca98ce.jpg", 
+   "id": 2916710
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "sun-nido", 
+   "id": 197269, 
+   "name": "Sun Nido"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:53", 
+  "milliseconds": 353280
+ }, 
+ "id": 1958231, 
+ "genres": [
+  {
+   "slug": "breaks", 
+   "id": 9, 
+   "name": "Breaks"
+  }
+ ], 
+ "title": "Corn Bread (Beans Breaks Mix)", 
+ "label": {
+  "slug": "strange-world", 
+  "id": 4394, 
+  "name": "Strange World"
+ }, 
+ "mix": "Beans Breaks Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/20897b6b-00a2-4b39-a1f9-b8fdae21437c.LOFI.mp3", 
+   "offset": {
+    "start": 141312, 
+    "end": 261407
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A maj", 
+ "date": {
+  "released": "2011-06-03", 
+  "published": "2011-06-03"
+ }, 
+ "active": true, 
+ "slug": "corn-bread-beans-breaks-mix", 
+ "preorder": false, 
+ "name": "Corn Bread", 
+ "component_type": null, 
+ "bpm": 125, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "corn-bread", 
+  "id": 380300, 
+  "name": "Corn Bread"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/88f83202-755f-4120-a9e1-885b70ddde27.png", 
+   "width": 1500, 
+   "id": 2916718, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/88f83202-755f-4120-a9e1-885b70ddde27.png", 
+   "id": 2916718
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/44736e32-9ce4-4574-aaf6-bc0b090e0333.jpg", 
+   "width": 500, 
+   "id": 7113093, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/2c0dbbbb-a9cc-4798-b5dd-c79ca99e9794.jpg", 
+   "width": 30, 
+   "id": 7113090, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/0afeb211-48a8-4d97-adbb-9021662cea37.jpg", 
+   "width": 60, 
+   "id": 7113091, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/44736e32-9ce4-4574-aaf6-bc0b090e0333.jpg", 
+   "id": 7113093
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "hiroki-esashika", 
+   "id": 7670, 
+   "name": "Hiroki Esashika"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:55", 
+  "milliseconds": 475579
+ }, 
+ "id": 4251163, 
+ "genres": [
+  {
+   "slug": "minimal-deep-tech", 
+   "id": 14, 
+   "name": "Minimal / Deep Tech"
+  }
+ ], 
+ "title": "Eve (Original Mix)", 
+ "label": {
+  "slug": "absolut-freak-records", 
+  "id": 5302, 
+  "name": "Absolut Freak Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/25219d4a-112e-444e-a135-4fbb8894b977.LOFI.mp4", 
+   "offset": {
+    "start": 190231, 
+    "end": 310231
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/25219d4a-112e-444e-a135-4fbb8894b977.LOFI.mp3", 
+   "offset": {
+    "start": 190231, 
+    "end": 310231
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D maj", 
+ "date": {
+  "released": "2008-09-08", 
+  "published": "2008-09-08"
+ }, 
+ "active": true, 
+ "slug": "eve-original-mix", 
+ "preorder": false, 
+ "name": "Eve", 
+ "component_type": null, 
+ "bpm": 128, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "eve-ep", 
+  "id": 1061180, 
+  "name": "Eve EP"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/6d13c0cc-2f74-4263-94db-27f3001a0157.png", 
+   "width": 1500, 
+   "id": 7113114, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/6d13c0cc-2f74-4263-94db-27f3001a0157.png", 
+   "id": 7113114
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

@@ -1,0 +1,133 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/d36f6f50-34bb-4a25-acb0-b46d91ea1455.jpg", 
+   "width": 30, 
+   "id": 103536, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/3d96781f-fe80-4361-b6b9-d030b483e246.jpg", 
+   "width": 60, 
+   "id": 103537, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/3d96781f-fe80-4361-b6b9-d030b483e246.jpg", 
+   "id": 103537
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "kino-oko", 
+   "id": 24142, 
+   "name": "Kino Oko"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:04", 
+  "milliseconds": 424119
+ }, 
+ "id": 297378, 
+ "genres": [
+  {
+   "slug": "progressive-house", 
+   "id": 15, 
+   "name": "Progressive House"
+  }
+ ], 
+ "title": "The Day To Die (La Baaz Remix)", 
+ "label": {
+  "slug": "cold-groove-records", 
+  "id": 5581, 
+  "name": "Cold Groove Records"
+ }, 
+ "mix": "La Baaz Remix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/0f094867-f795-4f84-9248-0410d97a352b.LOFI.mp4", 
+   "offset": {
+    "start": 169647, 
+    "end": 289647
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/0f094867-f795-4f84-9248-0410d97a352b.LOFI.mp3", 
+   "offset": {
+    "start": 169647, 
+    "end": 289647
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "la-baaz", 
+   "id": 24483, 
+   "name": "La Baaz"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D maj", 
+ "date": {
+  "released": "2007-04-24", 
+  "published": "2007-04-24"
+ }, 
+ "active": true, 
+ "slug": "the-day-to-die-la-baaz-remix", 
+ "preorder": false, 
+ "name": "The Day To Die", 
+ "component_type": null, 
+ "bpm": 128, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "the-day-to-die", 
+  "id": 56846, 
+  "name": "The Day To Die"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/1c7cac03-3dab-49b7-9ba5-3911beb2a3e8.png", 
+   "width": 1500, 
+   "id": 2237581, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

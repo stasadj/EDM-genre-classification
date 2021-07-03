@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/eb16f9d8-7169-4999-84d5-fdbadf1c6cec.jpg", 
+   "width": 500, 
+   "id": 11324382, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/2f6f6a3e-6730-4cdd-a63d-61d9bfdfc4f1.jpg", 
+   "width": 30, 
+   "id": 491534, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/bf1fc789-2431-47d2-8d35-3fe6b74a91cc.jpg", 
+   "width": 60, 
+   "id": 11324380, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/eb16f9d8-7169-4999-84d5-fdbadf1c6cec.jpg", 
+   "id": 11324382
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "daniel-ibbotson", 
+   "id": 40019, 
+   "name": "Daniel Ibbotson"
+  }
+ ], 
+ "duration": {
+  "minutes": "4:52", 
+  "milliseconds": 292066
+ }, 
+ "id": 297013, 
+ "genres": [
+  {
+   "slug": "electronica-downtempo", 
+   "id": 3, 
+   "name": "Electronica / Downtempo"
+  }
+ ], 
+ "title": "Stumble (John Tejada Mix)", 
+ "label": {
+  "slug": "soma-records", 
+  "id": 446, 
+  "name": "Soma Records"
+ }, 
+ "mix": "John Tejada Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/d1a696db-da8b-4ef0-9d93-1fb54fad58ba.LOFI.mp4", 
+   "offset": {
+    "start": 116826, 
+    "end": 236826
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/d1a696db-da8b-4ef0-9d93-1fb54fad58ba.LOFI.mp3", 
+   "offset": {
+    "start": 116826, 
+    "end": 236826
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F maj", 
+ "date": {
+  "released": "2006-02-19", 
+  "published": "2006-02-19"
+ }, 
+ "active": true, 
+ "slug": "stumble-john-tejada-mix", 
+ "preorder": false, 
+ "name": "Stumble", 
+ "component_type": null, 
+ "bpm": 66, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "fenetik-the-sounds-of-music-volume-2", 
+  "id": 56769, 
+  "name": "Fenetik - The Sounds Of Music (Volume 2)"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ea6d52a0-b707-422a-a1d0-1b9d2baadd8e.png", 
+   "width": 1500, 
+   "id": 2238077, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/ea6d52a0-b707-422a-a1d0-1b9d2baadd8e.png", 
+   "id": 2238077
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

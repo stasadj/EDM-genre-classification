@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/b6ce9ed8-d7e9-405a-a369-f380f936ab73.jpg", 
+   "width": 500, 
+   "id": 17936821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/b0a761a0-fd8b-41ef-9350-f44485946e6c.jpg", 
+   "width": 30, 
+   "id": 339916, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/4e5991a3-4c49-46fd-8fcd-a9d0f4728835.jpg", 
+   "width": 60, 
+   "id": 339917, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/b6ce9ed8-d7e9-405a-a369-f380f936ab73.jpg", 
+   "id": 17936821
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "asonat", 
+   "id": 253184, 
+   "name": "Asonat"
+  }
+ ], 
+ "duration": {
+  "minutes": "4:52", 
+  "milliseconds": 292506
+ }, 
+ "id": 5769455, 
+ "genres": [
+  {
+   "slug": "electronica-downtempo", 
+   "id": 3, 
+   "name": "Electronica / Downtempo"
+  }
+ ], 
+ "title": "Rather Interesting (Original Mix)", 
+ "label": {
+  "slug": "n5md-records", 
+  "id": 2006, 
+  "name": "N5MD Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/d0d7c404-1213-4e00-beb4-c5bda0c08263.LOFI.mp4", 
+   "offset": {
+    "start": 117002, 
+    "end": 237002
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/d0d7c404-1213-4e00-beb4-c5bda0c08263.LOFI.mp3", 
+   "offset": {
+    "start": 117002, 
+    "end": 237002
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.56", 
+  "value": 1.56
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "G\u266f maj", 
+ "date": {
+  "released": "2017-09-29", 
+  "published": "2017-09-29"
+ }, 
+ "active": true, 
+ "slug": "rather-interesting-original-mix", 
+ "preorder": false, 
+ "name": "Rather Interesting", 
+ "component_type": null, 
+ "bpm": 94, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "connection", 
+  "id": 1368797, 
+  "name": "Connection"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/fd42b2e5-b0ee-40b6-88ca-d68ff2752504.png", 
+   "width": 1500, 
+   "id": 17937453, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/fd42b2e5-b0ee-40b6-88ca-d68ff2752504.png", 
+   "id": 17937453
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

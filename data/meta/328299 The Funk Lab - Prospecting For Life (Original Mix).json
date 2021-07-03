@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/df796936-c20c-4889-b9dc-444853e4e5ab.jpg", 
+   "width": 500, 
+   "id": 3112048, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/c94c1e7d-66cc-4030-ac4c-803df31e889b.jpg", 
+   "width": 30, 
+   "id": 119951, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/a209cab6-c937-4da9-82c5-72f84a2d9b52.jpg", 
+   "width": 60, 
+   "id": 119952, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/df796936-c20c-4889-b9dc-444853e4e5ab.jpg", 
+   "id": 3112048
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "the-funk-lab", 
+   "id": 22916, 
+   "name": "The Funk Lab"
+  }
+ ], 
+ "duration": {
+  "minutes": "8:15", 
+  "milliseconds": 495255
+ }, 
+ "id": 328299, 
+ "genres": [
+  {
+   "slug": "breaks", 
+   "id": 9, 
+   "name": "Breaks"
+  }
+ ], 
+ "title": "Prospecting For Life (Original Mix)", 
+ "label": {
+  "slug": "funk-lab-records", 
+  "id": 5902, 
+  "name": "Funk Lab Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/f29ae295-6dc0-4e00-880f-14eee4b96b41.LOFI.mp4", 
+   "offset": {
+    "start": 198102, 
+    "end": 318102
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/f29ae295-6dc0-4e00-880f-14eee4b96b41.LOFI.mp3", 
+   "offset": {
+    "start": 198102, 
+    "end": 318102
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D maj", 
+ "date": {
+  "released": "2007-07-10", 
+  "published": "2007-07-10"
+ }, 
+ "active": true, 
+ "slug": "prospecting-for-life-original-mix", 
+ "preorder": false, 
+ "name": "Prospecting For Life", 
+ "component_type": null, 
+ "bpm": 134, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "funk-lab-records-004", 
+  "id": 63878, 
+  "name": "Funk Lab Records 004"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/7e8abe2b-f0a9-4d4f-99d4-5cfa446010e2.png", 
+   "width": 1500, 
+   "id": 2190357, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/7e8abe2b-f0a9-4d4f-99d4-5cfa446010e2.png", 
+   "id": 2190357
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

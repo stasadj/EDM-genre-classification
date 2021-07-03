@@ -1,0 +1,130 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/5778f3a8-56f0-4c18-98da-e95df9e666f9.jpg", 
+   "width": 500, 
+   "id": 5442988, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/c4fb97d4-10e0-45f5-8a11-622d7ad55b3d.jpg", 
+   "width": 30, 
+   "id": 5442986, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/ce521ce7-0c92-44c5-9209-f5811e9c5a24.jpg", 
+   "width": 60, 
+   "id": 5442987, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/5778f3a8-56f0-4c18-98da-e95df9e666f9.jpg", 
+   "id": 5442988
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "la-boutique", 
+   "id": 74884, 
+   "name": "La Boutique"
+  }
+ ], 
+ "duration": {
+  "minutes": "8:32", 
+  "milliseconds": 512419
+ }, 
+ "id": 3509627, 
+ "genres": [
+  {
+   "slug": "house", 
+   "id": 5, 
+   "name": "House"
+  }
+ ], 
+ "title": "Under The Sun (Instrumental Mix)", 
+ "label": {
+  "slug": "mahjong-music", 
+  "id": 1921, 
+  "name": "Mahjong Music"
+ }, 
+ "mix": "Instrumental Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/0c3b3bbd-86d1-4530-a994-a2de08ce90f8.LOFI.mp3", 
+   "offset": {
+    "start": 204967, 
+    "end": 325065
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "mahjong", 
+   "id": 9192, 
+   "name": "Mahjong"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F\u266f maj", 
+ "date": {
+  "released": "2012-05-21", 
+  "published": "2012-05-21"
+ }, 
+ "active": true, 
+ "slug": "under-the-sun-instrumental-mix", 
+ "preorder": false, 
+ "name": "Under The Sun", 
+ "component_type": null, 
+ "bpm": 124, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "under-the-sun", 
+  "id": 913286, 
+  "name": "Under The Sun"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/5f116a68-deee-4494-b09e-cdc7a8c175bb.png", 
+   "width": 1500, 
+   "id": 5444081, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/5f116a68-deee-4494-b09e-cdc7a8c175bb.png", 
+   "id": 5444081
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

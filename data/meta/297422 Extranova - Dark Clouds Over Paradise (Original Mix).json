@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/5daa561b-57c3-4dba-bbc4-83873995f2e6.jpg", 
+   "width": 500, 
+   "id": 8090954, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/f8e3b9c6-f82a-4173-b1c4-b0ad5929817f.jpg", 
+   "width": 30, 
+   "id": 103550, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/4e22d8a5-8fea-41db-9990-5f5ef3ac5eb5.jpg", 
+   "width": 60, 
+   "id": 103551, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/5daa561b-57c3-4dba-bbc4-83873995f2e6.jpg", 
+   "id": 8090954
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "extranova", 
+   "id": 31613, 
+   "name": "Extranova"
+  }
+ ], 
+ "duration": {
+  "minutes": "4:51", 
+  "milliseconds": 291172
+ }, 
+ "id": 297422, 
+ "genres": [
+  {
+   "slug": "electronica-downtempo", 
+   "id": 3, 
+   "name": "Electronica / Downtempo"
+  }
+ ], 
+ "title": "Dark Clouds Over Paradise (Original Mix)", 
+ "label": {
+  "slug": "clubland-records", 
+  "id": 3422, 
+  "name": "Clubland Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/72a68a7f-6be5-455d-8e32-a5bfe28a80fd.LOFI.mp4", 
+   "offset": {
+    "start": 116468, 
+    "end": 236468
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/72a68a7f-6be5-455d-8e32-a5bfe28a80fd.LOFI.mp3", 
+   "offset": {
+    "start": 116468, 
+    "end": 236468
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F maj", 
+ "date": {
+  "released": "2007-05-15", 
+  "published": "2007-05-15"
+ }, 
+ "active": true, 
+ "slug": "dark-clouds-over-paradise-original-mix", 
+ "preorder": false, 
+ "name": "Dark Clouds Over Paradise", 
+ "component_type": null, 
+ "bpm": 88, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "clubland-lounge", 
+  "id": 56850, 
+  "name": "Clubland Lounge"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/3e8c1681-83cd-4dc9-aa7e-6b8b1e50e205.png", 
+   "width": 1500, 
+   "id": 8090996, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/3e8c1681-83cd-4dc9-aa7e-6b8b1e50e205.png", 
+   "id": 8090996
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

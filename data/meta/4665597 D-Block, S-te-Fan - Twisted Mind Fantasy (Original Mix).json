@@ -1,0 +1,132 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/956a0f9c-6fba-411d-afc0-7a31ba803360.jpg", 
+   "width": 500, 
+   "id": 8025528, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/4a5868cc-6e57-43e9-89b0-f294eb44c05d.jpg", 
+   "width": 30, 
+   "id": 8025526, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/633f229a-cdf2-457a-a484-58dd3f39d16c.jpg", 
+   "width": 60, 
+   "id": 8025527, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/956a0f9c-6fba-411d-afc0-7a31ba803360.jpg", 
+   "id": 8025528
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "d-block", 
+   "id": 60675, 
+   "name": "D-Block"
+  }, 
+  {
+   "slug": "s-te-fan", 
+   "id": 69975, 
+   "name": "S-te-Fan"
+  }
+ ], 
+ "duration": {
+  "minutes": "3:50", 
+  "milliseconds": 230800
+ }, 
+ "id": 4665597, 
+ "genres": [
+  {
+   "slug": "hard-dance", 
+   "id": 8, 
+   "name": "Hard Dance"
+  }
+ ], 
+ "title": "Twisted Mind Fantasy (Original Mix)", 
+ "label": {
+  "slug": "hard-dance-nation", 
+  "id": 23506, 
+  "name": "Hard Dance Nation"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/37f3a0cc-e30b-43d3-bc0b-e24e6262d60e.LOFI.mp4", 
+   "offset": {
+    "start": 92320, 
+    "end": 212320
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/37f3a0cc-e30b-43d3-bc0b-e24e6262d60e.LOFI.mp3", 
+   "offset": {
+    "start": 92320, 
+    "end": 212320
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F maj", 
+ "date": {
+  "released": "2013-09-06", 
+  "published": "2013-09-06"
+ }, 
+ "active": true, 
+ "slug": "twisted-mind-fantasy-original-mix", 
+ "preorder": false, 
+ "name": "Twisted Mind Fantasy", 
+ "component_type": null, 
+ "bpm": 150, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "hard-dance-nation-vol-6", 
+  "id": 1148486, 
+  "name": "Hard Dance Nation, Vol. 6"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/1403b610-1ed1-4a69-953f-ec61605a25f8.png", 
+   "width": 1500, 
+   "id": 14780036, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/1403b610-1ed1-4a69-953f-ec61605a25f8.png", 
+   "id": 14780036
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

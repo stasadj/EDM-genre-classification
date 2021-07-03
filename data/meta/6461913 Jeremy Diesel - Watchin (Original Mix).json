@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/0c74a599-1b60-4b26-8415-ccb2cae2b06f.jpg", 
+   "width": 500, 
+   "id": 11236051, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/9829d51d-9620-4db9-9f0f-a732c6ec4c7b.jpg", 
+   "width": 30, 
+   "id": 5965515, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/0dca0ef3-1c33-4c06-8e4b-b4dfcac50dfe.jpg", 
+   "width": 60, 
+   "id": 5965516, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/0c74a599-1b60-4b26-8415-ccb2cae2b06f.jpg", 
+   "id": 11236051
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "jeremy-diesel", 
+   "id": 155686, 
+   "name": "Jeremy Diesel"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:45", 
+  "milliseconds": 465234
+ }, 
+ "id": 6461913, 
+ "genres": [
+  {
+   "slug": "electro-house", 
+   "id": 17, 
+   "name": "Electro House"
+  }
+ ], 
+ "title": "Watchin (Original Mix)", 
+ "label": {
+  "slug": "relentless-music", 
+  "id": 28494, 
+  "name": "Relentless Music"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/d515548d-317e-4043-8d48-c303a865d487.LOFI.mp4", 
+   "offset": {
+    "start": 186093, 
+    "end": 306093
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/d515548d-317e-4043-8d48-c303a865d487.LOFI.mp3", 
+   "offset": {
+    "start": 186093, 
+    "end": 306093
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C\u266f maj", 
+ "date": {
+  "released": "2015-03-26", 
+  "published": "2015-03-26"
+ }, 
+ "active": true, 
+ "slug": "watchin-original-mix", 
+ "preorder": false, 
+ "name": "Watchin", 
+ "component_type": null, 
+ "bpm": 128, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "music-collection-electro-house-13", 
+  "id": 1494521, 
+  "name": "Music Collection. Electro House 13"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/533561c0-dbbe-4b58-a157-da825c58e49d.png", 
+   "width": 1500, 
+   "id": 11236103, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/533561c0-dbbe-4b58-a157-da825c58e49d.png", 
+   "id": 11236103
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

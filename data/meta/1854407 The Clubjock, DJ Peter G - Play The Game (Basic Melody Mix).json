@@ -1,0 +1,129 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/dd9f0459-5109-4dd3-a808-f88bef5dc2ca.jpg", 
+   "width": 500, 
+   "id": 2745472, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/171b80ae-25f1-4d42-9eba-1acdfecb56c1.jpg", 
+   "width": 30, 
+   "id": 2745470, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/943f1e13-b06c-4380-8fd0-72d95e060eb8.jpg", 
+   "width": 60, 
+   "id": 2745471, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/dd9f0459-5109-4dd3-a808-f88bef5dc2ca.jpg", 
+   "id": 2745472
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "the-clubjock", 
+   "id": 50084, 
+   "name": "The Clubjock"
+  }, 
+  {
+   "slug": "dj-peter-g", 
+   "id": 179228, 
+   "name": "DJ Peter G"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:40", 
+  "milliseconds": 340813
+ }, 
+ "id": 1854407, 
+ "genres": [
+  {
+   "slug": "house", 
+   "id": 5, 
+   "name": "House"
+  }
+ ], 
+ "title": "Play The Game (Basic Melody Mix)", 
+ "label": {
+  "slug": "cloud-9-dance", 
+  "id": 5429, 
+  "name": "Cloud 9 Dance"
+ }, 
+ "mix": "Basic Melody Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/3d17047c-2717-4602-9f1f-a5ec3cb58d58.LOFI.mp3", 
+   "offset": {
+    "start": 136325, 
+    "end": 256611
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F\u266f maj", 
+ "date": {
+  "released": "2011-04-14", 
+  "published": "2011-04-14"
+ }, 
+ "active": true, 
+ "slug": "play-the-game-basic-melody-mix", 
+ "preorder": false, 
+ "name": "Play The Game", 
+ "component_type": null, 
+ "bpm": 135, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "play-the-game", 
+  "id": 360287, 
+  "name": "Play The Game"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/f290e4f8-ea4f-47e5-b95c-5c2c15fd0eb6.png", 
+   "width": 1500, 
+   "id": 2745478, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/f290e4f8-ea4f-47e5-b95c-5c2c15fd0eb6.png", 
+   "id": 2745478
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

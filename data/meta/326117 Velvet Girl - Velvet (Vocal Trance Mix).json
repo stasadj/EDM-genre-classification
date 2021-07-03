@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ae584cb6-ad8f-4641-9cc4-8bb978b1142e.jpg", 
+   "width": 500, 
+   "id": 6240222, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/ea1c6d17-4570-4797-b84c-3c35b7b82820.jpg", 
+   "width": 30, 
+   "id": 118528, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/456567b8-0811-4ad5-9a11-e0c0f2053c40.jpg", 
+   "width": 60, 
+   "id": 118529, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/ae584cb6-ad8f-4641-9cc4-8bb978b1142e.jpg", 
+   "id": 6240222
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "velvet-girl", 
+   "id": 13456, 
+   "name": "Velvet Girl"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:41", 
+  "milliseconds": 401200
+ }, 
+ "id": 326117, 
+ "genres": [
+  {
+   "slug": "trance", 
+   "id": 7, 
+   "name": "Trance"
+  }
+ ], 
+ "title": "Velvet (Vocal Trance Mix)", 
+ "label": {
+  "slug": "green-martian", 
+  "id": 224, 
+  "name": "Green Martian"
+ }, 
+ "mix": "Vocal Trance Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/66d61770-9c19-4d5f-9c57-cf1a5f05c3d5.LOFI.mp4", 
+   "offset": {
+    "start": 160480, 
+    "end": 280480
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/66d61770-9c19-4d5f-9c57-cf1a5f05c3d5.LOFI.mp3", 
+   "offset": {
+    "start": 160480, 
+    "end": 280480
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.56", 
+  "value": 1.56
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A maj", 
+ "date": {
+  "released": "2007-07-10", 
+  "published": "2001-07-10"
+ }, 
+ "active": true, 
+ "slug": "velvet-vocal-trance-mix", 
+ "preorder": false, 
+ "name": "Velvet", 
+ "component_type": null, 
+ "bpm": 136, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "velvet", 
+  "id": 63317, 
+  "name": "Velvet"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/c12fb120-5e51-4c72-8da6-f1c32f908880.png", 
+   "width": 1500, 
+   "id": 2193651, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/c12fb120-5e51-4c72-8da6-f1c32f908880.png", 
+   "id": 2193651
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

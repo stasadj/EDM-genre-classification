@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/232210d3-bdcd-4f75-8c62-a8d71782d931.jpg", 
+   "width": 500, 
+   "id": 11087274, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/6b09e248-3126-40e0-afde-16117ec71adb.jpg", 
+   "width": 30, 
+   "id": 104400, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/48498db8-8253-4e16-a69e-0a15fb1c6876.jpg", 
+   "width": 60, 
+   "id": 104401, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/232210d3-bdcd-4f75-8c62-a8d71782d931.jpg", 
+   "id": 11087274
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "itamar-sagi", 
+   "id": 38099, 
+   "name": "Itamar Sagi"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:14", 
+  "milliseconds": 434480
+ }, 
+ "id": 299041, 
+ "genres": [
+  {
+   "slug": "tech-house", 
+   "id": 11, 
+   "name": "Tech House"
+  }
+ ], 
+ "title": "Cancun (Original Mix)", 
+ "label": {
+  "slug": "be-as-one", 
+  "id": 4146, 
+  "name": "Be As One"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/2dadddbe-db01-4933-b5b9-9befd704d5ea.LOFI.mp4", 
+   "offset": {
+    "start": 173792, 
+    "end": 293792
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/2dadddbe-db01-4933-b5b9-9befd704d5ea.LOFI.mp3", 
+   "offset": {
+    "start": 173792, 
+    "end": 293792
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F maj", 
+ "date": {
+  "released": "2007-06-15", 
+  "published": "2007-05-26"
+ }, 
+ "active": true, 
+ "slug": "cancun-original-mix", 
+ "preorder": false, 
+ "name": "Cancun", 
+ "component_type": null, 
+ "bpm": 125, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "cancun", 
+  "id": 57189, 
+  "name": "Cancun"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/140052c1-af55-4633-a499-943c832fb50c.png", 
+   "width": 1500, 
+   "id": 2537679, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/140052c1-af55-4633-a499-943c832fb50c.png", 
+   "id": 2537679
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

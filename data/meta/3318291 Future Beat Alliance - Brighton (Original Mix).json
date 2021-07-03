@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/9c9af88c-780d-4fa2-b03a-7fed271785a9.jpg", 
+   "width": 500, 
+   "id": 5048239, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/90d6c159-30ec-4ecf-a606-c851c2694566.jpg", 
+   "width": 30, 
+   "id": 5048237, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/b6c1edcd-6806-49f3-9889-3ee316c3fc6a.jpg", 
+   "width": 60, 
+   "id": 5048238, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/9c9af88c-780d-4fa2-b03a-7fed271785a9.jpg", 
+   "id": 5048239
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "future-beat-alliance", 
+   "id": 12306, 
+   "name": "Future Beat Alliance"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:40", 
+  "milliseconds": 460000
+ }, 
+ "id": 3318291, 
+ "genres": [
+  {
+   "slug": "electronica-downtempo", 
+   "id": 3, 
+   "name": "Electronica / Downtempo"
+  }
+ ], 
+ "title": "Brighton (Original Mix)", 
+ "label": {
+  "slug": "fba-recordings", 
+  "id": 25031, 
+  "name": "FBA Recordings"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/05cd6e2f-cf77-4310-a3bb-e235b6eb9253.LOFI.mp3", 
+   "offset": {
+    "start": 184000, 
+    "end": 304000
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "G\u266f maj", 
+ "date": {
+  "released": "2012-03-05", 
+  "published": "2012-03-05"
+ }, 
+ "active": true, 
+ "slug": "brighton-original-mix", 
+ "preorder": false, 
+ "name": "Brighton", 
+ "component_type": null, 
+ "bpm": 95, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "void-archives", 
+  "id": 875893, 
+  "name": "Void Archives"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/b5a4fa79-1f46-471b-a518-02c95352378c.png", 
+   "width": 1500, 
+   "id": 5049454, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/b5a4fa79-1f46-471b-a518-02c95352378c.png", 
+   "id": 5049454
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

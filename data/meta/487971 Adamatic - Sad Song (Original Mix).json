@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/39067efe-0f1c-4211-a29f-147dcb2a7e0a.jpg", 
+   "width": 30, 
+   "id": 200330, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/f0b57b2a-f211-49ef-b9f7-41582f175a3f.jpg", 
+   "width": 60, 
+   "id": 200331, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/f0b57b2a-f211-49ef-b9f7-41582f175a3f.jpg", 
+   "id": 200331
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "adamatic", 
+   "id": 66474, 
+   "name": "Adamatic"
+  }
+ ], 
+ "duration": {
+  "minutes": "2:12", 
+  "milliseconds": 132333
+ }, 
+ "id": 487971, 
+ "genres": [
+  {
+   "slug": "hip-hop-r-and-b", 
+   "id": 38, 
+   "name": "Hip-Hop / R&B"
+  }
+ ], 
+ "title": "Sad Song (Original Mix)", 
+ "label": {
+  "slug": "bomb-hip-hop", 
+  "id": 8790, 
+  "name": "Bomb Hip Hop"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/28839fea-4e03-4d3e-bb9b-adbef23322d8.LOFI.mp4", 
+   "offset": {
+    "start": 12333, 
+    "end": 132333
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/28839fea-4e03-4d3e-bb9b-adbef23322d8.LOFI.mp3", 
+   "offset": {
+    "start": 12333, 
+    "end": 132333
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C maj", 
+ "date": {
+  "released": "2006-08-01", 
+  "published": "2006-08-01"
+ }, 
+ "active": true, 
+ "slug": "sad-song-original-mix", 
+ "preorder": false, 
+ "name": "Sad Song", 
+ "component_type": null, 
+ "bpm": 90, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "these-are-my-beats-volume-2", 
+  "id": 95735, 
+  "name": "These Are My Beats - Volume 2"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/167fe582-34a1-4d46-ba78-c51f8fefc5b3.png", 
+   "width": 1500, 
+   "id": 2667738, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

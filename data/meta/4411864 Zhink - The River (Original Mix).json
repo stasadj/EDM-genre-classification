@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/bb7e6455-31cd-4d67-806d-bcef3424d4ce.jpg", 
+   "width": 500, 
+   "id": 7456106, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/2fb098a2-36bd-448c-8fcc-5fcb9f268adf.jpg", 
+   "width": 30, 
+   "id": 7456104, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/00290470-fea0-497f-9023-cece8efa0c00.jpg", 
+   "width": 60, 
+   "id": 7456105, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/bb7e6455-31cd-4d67-806d-bcef3424d4ce.jpg", 
+   "id": 7456106
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "zhink", 
+   "id": 336072, 
+   "name": "Zhink"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:42", 
+  "milliseconds": 342857
+ }, 
+ "id": 4411864, 
+ "genres": [
+  {
+   "slug": "dubstep", 
+   "id": 18, 
+   "name": "Dubstep"
+  }
+ ], 
+ "title": "The River (Original Mix)", 
+ "label": {
+  "slug": "fluid-house", 
+  "id": 25973, 
+  "name": "Fluid House"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/0b33e3bd-68de-4faf-ad95-572d46188fd5.LOFI.mp4", 
+   "offset": {
+    "start": 137142, 
+    "end": 257142
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/0b33e3bd-68de-4faf-ad95-572d46188fd5.LOFI.mp3", 
+   "offset": {
+    "start": 137142, 
+    "end": 257142
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A\u266f maj", 
+ "date": {
+  "released": "2013-05-14", 
+  "published": "2013-05-14"
+ }, 
+ "active": true, 
+ "slug": "the-river-original-mix", 
+ "preorder": false, 
+ "name": "The River", 
+ "component_type": null, 
+ "bpm": 140, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "phase-one", 
+  "id": 1094203, 
+  "name": "Phase One"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/07db6fbe-9ab2-4f67-a7cf-f3122e32a940.png", 
+   "width": 1500, 
+   "id": 7458014, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/07db6fbe-9ab2-4f67-a7cf-f3122e32a940.png", 
+   "id": 7458014
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

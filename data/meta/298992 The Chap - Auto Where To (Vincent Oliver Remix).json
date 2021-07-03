@@ -1,0 +1,133 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/ac9238ef-b477-4da8-b4e9-7600856137e2.jpg", 
+   "width": 30, 
+   "id": 104380, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/c667ca6c-cad7-4507-89f0-6278248789e3.jpg", 
+   "width": 60, 
+   "id": 104381, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/c667ca6c-cad7-4507-89f0-6278248789e3.jpg", 
+   "id": 104381
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "the-chap", 
+   "id": 37981, 
+   "name": "The Chap"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:23", 
+  "milliseconds": 323906
+ }, 
+ "id": 298992, 
+ "genres": [
+  {
+   "slug": "electronica-downtempo", 
+   "id": 3, 
+   "name": "Electronica / Downtempo"
+  }
+ ], 
+ "title": "Auto Where To (Vincent Oliver Remix)", 
+ "label": {
+  "slug": "loeb", 
+  "id": 2857, 
+  "name": "Loeb"
+ }, 
+ "mix": "Vincent Oliver Remix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/6dd9cd5c-f43a-4c09-a99f-f07dd20db664.LOFI.mp4", 
+   "offset": {
+    "start": 129562, 
+    "end": 249562
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/6dd9cd5c-f43a-4c09-a99f-f07dd20db664.LOFI.mp3", 
+   "offset": {
+    "start": 129562, 
+    "end": 249562
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "vincent-oliver", 
+   "id": 27020, 
+   "name": "Vincent Oliver"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "G maj", 
+ "date": {
+  "released": "2007-06-11", 
+  "published": "2007-06-11"
+ }, 
+ "active": true, 
+ "slug": "auto-where-to-vincent-oliver-remix", 
+ "preorder": false, 
+ "name": "Auto Where To", 
+ "component_type": null, 
+ "bpm": 110, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "the-chop", 
+  "id": 57172, 
+  "name": "The Chop"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/6fb0eb3b-bab4-4134-a39f-ecf086079017.png", 
+   "width": 1500, 
+   "id": 2235379, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

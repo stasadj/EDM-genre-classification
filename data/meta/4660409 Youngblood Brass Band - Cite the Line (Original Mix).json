@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/cdd34833-7fe8-4ab7-bedf-4faf29a48e79.jpg", 
+   "width": 500, 
+   "id": 8015903, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/33b763fc-7c6a-4504-af55-18d4331faa8f.jpg", 
+   "width": 30, 
+   "id": 8015901, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/6113145d-2c95-473b-a4c5-a97b0b9dacd9.jpg", 
+   "width": 60, 
+   "id": 8015902, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/cdd34833-7fe8-4ab7-bedf-4faf29a48e79.jpg", 
+   "id": 8015903
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "youngblood-brass-band", 
+   "id": 341381, 
+   "name": "Youngblood Brass Band"
+  }
+ ], 
+ "duration": {
+  "minutes": "4:11", 
+  "milliseconds": 251426
+ }, 
+ "id": 4660409, 
+ "genres": [
+  {
+   "slug": "hip-hop-r-and-b", 
+   "id": 38, 
+   "name": "Hip-Hop / R&B"
+  }
+ ], 
+ "title": "Cite the Line (Original Mix)", 
+ "label": {
+  "slug": "tru-thoughts", 
+  "id": 7505, 
+  "name": "Tru Thoughts"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/5183496c-d2c7-447b-9c30-d5bcf56f508a.LOFI.mp4", 
+   "offset": {
+    "start": 100570, 
+    "end": 220570
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/5183496c-d2c7-447b-9c30-d5bcf56f508a.LOFI.mp3", 
+   "offset": {
+    "start": 100570, 
+    "end": 220570
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F maj", 
+ "date": {
+  "released": "2013-09-09", 
+  "published": "2013-09-09"
+ }, 
+ "active": true, 
+ "slug": "cite-the-line-original-mix", 
+ "preorder": false, 
+ "name": "Cite the Line", 
+ "component_type": null, 
+ "bpm": 98, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "pax-volumi", 
+  "id": 1147645, 
+  "name": "Pax Volumi"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/a3dc52d3-4513-462e-902f-846bfba38d51.png", 
+   "width": 1500, 
+   "id": 8015942, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/a3dc52d3-4513-462e-902f-846bfba38d51.png", 
+   "id": 8015942
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

@@ -1,0 +1,133 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/7b95f13e-9f1b-4b06-823d-453ff90cb067.jpg", 
+   "width": 30, 
+   "id": 104350, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/87bc08cf-b480-4d32-b216-3f54671f8ef8.jpg", 
+   "width": 60, 
+   "id": 104351, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/87bc08cf-b480-4d32-b216-3f54671f8ef8.jpg", 
+   "id": 104351
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "comiccon", 
+   "id": 40539, 
+   "name": "Comiccon"
+  }
+ ], 
+ "duration": {
+  "minutes": "3:52", 
+  "milliseconds": 232756
+ }, 
+ "id": 298914, 
+ "genres": [
+  {
+   "slug": "trance", 
+   "id": 7, 
+   "name": "Trance"
+  }
+ ], 
+ "title": "Komodo (Kindervater Radio Mix)", 
+ "label": {
+  "slug": "zooland-records", 
+  "id": 2818, 
+  "name": "Zooland Records"
+ }, 
+ "mix": "Kindervater Radio Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/31d81c77-6d59-49d6-83d2-69448441f9ae.LOFI.mp4", 
+   "offset": {
+    "start": 93102, 
+    "end": 213102
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/31d81c77-6d59-49d6-83d2-69448441f9ae.LOFI.mp3", 
+   "offset": {
+    "start": 93102, 
+    "end": 213102
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "kindervater", 
+   "id": 38626, 
+   "name": "Kindervater"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D maj", 
+ "date": {
+  "released": "2007-05-21", 
+  "published": "2007-05-21"
+ }, 
+ "active": true, 
+ "slug": "komodo-kindervater-radio-mix", 
+ "preorder": false, 
+ "name": "Komodo", 
+ "component_type": null, 
+ "bpm": 142, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "komodo", 
+  "id": 57157, 
+  "name": "Komodo"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/0bd0180d-946e-4cdd-98e0-f3661d264515.png", 
+   "width": 1500, 
+   "id": 2235526, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

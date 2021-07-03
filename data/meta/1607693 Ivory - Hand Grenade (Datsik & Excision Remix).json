@@ -1,0 +1,135 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/1dcf6db9-1a53-49ab-9318-88333e29fae2.jpg", 
+   "width": 500, 
+   "id": 912349, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/fde642be-399a-4991-9586-6a4091278a10.jpg", 
+   "width": 30, 
+   "id": 912347, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/0c38e83f-5a0e-45a0-bd0b-f3847edb37df.jpg", 
+   "width": 60, 
+   "id": 912348, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/1dcf6db9-1a53-49ab-9318-88333e29fae2.jpg", 
+   "id": 912349
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "ivory", 
+   "id": 11641, 
+   "name": "Ivory"
+  }
+ ], 
+ "duration": {
+  "minutes": "4:55", 
+  "milliseconds": 295480
+ }, 
+ "id": 1607693, 
+ "genres": [
+  {
+   "slug": "dubstep", 
+   "id": 18, 
+   "name": "Dubstep"
+  }
+ ], 
+ "title": "Hand Grenade (Datsik & Excision Remix)", 
+ "label": {
+  "slug": "new-state-music", 
+  "id": 1886, 
+  "name": "New State Music"
+ }, 
+ "mix": "Datsik & Excision Remix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/38404a4e-fa9f-4513-baa2-a18f76ca0c1b.LOFI.mp3", 
+   "offset": {
+    "start": 118192, 
+    "end": 238387
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "excision", 
+   "id": 63621, 
+   "name": "Excision"
+  }, 
+  {
+   "slug": "datsik", 
+   "id": 104746, 
+   "name": "Datsik"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F maj", 
+ "date": {
+  "released": "2010-12-19", 
+  "published": "2010-12-19"
+ }, 
+ "active": true, 
+ "slug": "hand-grenade-datsik-and-excision-remix", 
+ "preorder": false, 
+ "name": "Hand Grenade", 
+ "component_type": null, 
+ "bpm": 140, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "u-dun-know-dubstep", 
+  "id": 314704, 
+  "name": "U Dun Know Dubstep"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/b1a910f2-4e6a-4c92-bda4-d8467099f247.png", 
+   "width": 1500, 
+   "id": 1201151, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/b1a910f2-4e6a-4c92-bda4-d8467099f247.png", 
+   "id": 1201151
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

@@ -1,0 +1,130 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/72764366-96e1-4927-aa1c-bd6304519fbb.jpg", 
+   "width": 500, 
+   "id": 1069367, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/52abe497-2694-4603-8dba-99f98c0325a0.jpg", 
+   "width": 30, 
+   "id": 1069365, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/b3857a33-f647-4e59-8af4-bb47085a096a.jpg", 
+   "width": 60, 
+   "id": 1069366, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/72764366-96e1-4927-aa1c-bd6304519fbb.jpg", 
+   "id": 1069367
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "diddy", 
+   "id": 13721, 
+   "name": "Diddy"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:57", 
+  "milliseconds": 417216
+ }, 
+ "id": 1716212, 
+ "genres": [
+  {
+   "slug": "hard-dance", 
+   "id": 8, 
+   "name": "Hard Dance"
+  }
+ ], 
+ "title": "Give Me Love (Burger Queen Babushka Mix)", 
+ "label": {
+  "slug": "emi-uk", 
+  "id": 18991, 
+  "name": "EMI UK"
+ }, 
+ "mix": "Burger Queen Babushka Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/2cda01a0-36ca-4626-b2e8-def746d07e7c.LOFI.mp3", 
+   "offset": {
+    "start": 166886, 
+    "end": 286948
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "burger-queens", 
+   "id": 132688, 
+   "name": "Burger Queens"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "B maj", 
+ "date": {
+  "released": "2006-01-02", 
+  "published": "2006-01-02"
+ }, 
+ "active": true, 
+ "slug": "give-me-love-burger-queen-babushka-mix", 
+ "preorder": false, 
+ "name": "Give Me Love", 
+ "component_type": null, 
+ "bpm": 134, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "give-me-love", 
+  "id": 333780, 
+  "name": "Give Me Love"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/4d010cd3-9b57-43c1-badf-35376150a454.png", 
+   "width": 1500, 
+   "id": 1073539, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/4d010cd3-9b57-43c1-badf-35376150a454.png", 
+   "id": 1073539
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

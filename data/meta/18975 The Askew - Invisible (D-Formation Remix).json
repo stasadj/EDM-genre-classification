@@ -1,0 +1,133 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/8bf52f89-4cd2-41b8-a24a-ccaa01de637c.jpg", 
+   "width": 30, 
+   "id": 2279, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/7e371d9f-67e0-4287-a19e-d5e2e3f5014c.jpg", 
+   "width": 60, 
+   "id": 66, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/7e371d9f-67e0-4287-a19e-d5e2e3f5014c.jpg", 
+   "id": 66
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "the-askew", 
+   "id": 3942, 
+   "name": "The Askew"
+  }
+ ], 
+ "duration": {
+  "minutes": "8:25", 
+  "milliseconds": 505946
+ }, 
+ "id": 18975, 
+ "genres": [
+  {
+   "slug": "progressive-house", 
+   "id": 15, 
+   "name": "Progressive House"
+  }
+ ], 
+ "title": "Invisible (D-Formation Remix)", 
+ "label": {
+  "slug": "distraekt-records", 
+  "id": 144, 
+  "name": "Distraekt Records"
+ }, 
+ "mix": "D-Formation Remix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/e677f3e7-3ac5-41ec-bb5c-d20bcef332b2.LOFI.mp4", 
+   "offset": {
+    "start": 202378, 
+    "end": 322378
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/e677f3e7-3ac5-41ec-bb5c-d20bcef332b2.LOFI.mp3", 
+   "offset": {
+    "start": 202378, 
+    "end": 322378
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "d-formation", 
+   "id": 3530, 
+   "name": "D-Formation"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C maj", 
+ "date": {
+  "released": "2004-12-01", 
+  "published": "2004-12-01"
+ }, 
+ "active": true, 
+ "slug": "invisible-d-formation-remix", 
+ "preorder": false, 
+ "name": "Invisible", 
+ "component_type": null, 
+ "bpm": 128, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "invisible", 
+  "id": 2373, 
+  "name": "Invisible"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/6ff231bf-bc2c-4108-a2ca-60103d2e4ae4.png", 
+   "width": 1500, 
+   "id": 2487905, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

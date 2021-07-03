@@ -1,0 +1,132 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/e109dcab-3f11-48c0-8819-7e82e4533705.jpg", 
+   "width": 500, 
+   "id": 8605432, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/2f8cfe92-02ef-4b40-9fbf-686dc0d91bd9.jpg", 
+   "width": 30, 
+   "id": 8605430, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/82812dc8-5cd5-4490-8f95-66d2f5776bfa.jpg", 
+   "width": 60, 
+   "id": 8605431, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/e109dcab-3f11-48c0-8819-7e82e4533705.jpg", 
+   "id": 8605432
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "jason-rivas", 
+   "id": 37055, 
+   "name": "Jason Rivas"
+  }, 
+  {
+   "slug": "muzzika-global", 
+   "id": 307511, 
+   "name": "Muzzika Global"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:13", 
+  "milliseconds": 313097
+ }, 
+ "id": 4943671, 
+ "genres": [
+  {
+   "slug": "electro-house", 
+   "id": 17, 
+   "name": "Electro House"
+  }
+ ], 
+ "title": "Elektro Bollywood (Full Vocal Mix)", 
+ "label": {
+  "slug": "playdagroove", 
+  "id": 5208, 
+  "name": "Playdagroove"
+ }, 
+ "mix": "Full Vocal Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/c2cd4bbe-f982-4f13-a046-63e3c827cd52.LOFI.mp4", 
+   "offset": {
+    "start": 125238, 
+    "end": 245238
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/c2cd4bbe-f982-4f13-a046-63e3c827cd52.LOFI.mp3", 
+   "offset": {
+    "start": 125238, 
+    "end": 245238
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "G\u266f maj", 
+ "date": {
+  "released": "2013-11-29", 
+  "published": "2013-11-29"
+ }, 
+ "active": true, 
+ "slug": "elektro-bollywood-full-vocal-mix", 
+ "preorder": false, 
+ "name": "Elektro Bollywood", 
+ "component_type": null, 
+ "bpm": 128, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "playdagroove!-winter-sampler-2014", 
+  "id": 1202320, 
+  "name": "Playdagroove! Winter Sampler 2014"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/17afab52-84c1-4651-8b8f-3c1b81866597.png", 
+   "width": 1500, 
+   "id": 8605446, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/17afab52-84c1-4651-8b8f-3c1b81866597.png", 
+   "id": 8605446
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

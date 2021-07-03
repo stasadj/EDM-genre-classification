@@ -1,0 +1,136 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/b0c309cd-8276-4e86-923d-85d8ac07190e.jpg", 
+   "width": 500, 
+   "id": 3065050, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/cd5b2f04-6f6e-46a1-b787-d2900aafab9a.jpg", 
+   "width": 30, 
+   "id": 3065048, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/00e5ee86-42c7-4b7d-9bfa-35420adff7a9.jpg", 
+   "width": 60, 
+   "id": 3065049, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/b0c309cd-8276-4e86-923d-85d8ac07190e.jpg", 
+   "id": 3065050
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "the-noble-six", 
+   "id": 183830, 
+   "name": "The Noble Six"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:28", 
+  "milliseconds": 328992
+ }, 
+ "id": 2047805, 
+ "genres": [
+  {
+   "slug": "drum-and-bass", 
+   "id": 1, 
+   "name": "Drum & Bass"
+  }
+ ], 
+ "title": "Forbidden Kingdom (TwoThirds Remix)", 
+ "label": {
+  "slug": "dirt-lies-and-audio-black", 
+  "id": 19022, 
+  "name": "Dirt, Lies & Audio Black"
+ }, 
+ "mix": "TwoThirds Remix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/c9560d3d-dbf3-49fc-a4ac-fe586563771f.LOFI.mp3", 
+   "offset": {
+    "start": 131596, 
+    "end": 251958
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "twothirds", 
+   "id": 180224, 
+   "name": "TwoThirds"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "B maj", 
+ "date": {
+  "released": "2011-07-28", 
+  "published": "2011-07-28"
+ }, 
+ "active": true, 
+ "slug": "forbidden-kingdom-twothirds-remix", 
+ "preorder": false, 
+ "name": "Forbidden Kingdom", 
+ "component_type": null, 
+ "bpm": 119, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "liquid-d-and-b-essentials-2011-vol-1", 
+  "id": 397656, 
+  "name": "Liquid D&B Essentials 2011 Vol. 1"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/78582516-a344-469c-aee8-446e14351014.png", 
+   "width": 1500, 
+   "id": 3065980, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/78582516-a344-469c-aee8-446e14351014.png", 
+   "id": 3065980
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": [
+  {
+   "slug": "liquid", 
+   "id": 5, 
+   "name": "Liquid"
+  }
+ ]
+}

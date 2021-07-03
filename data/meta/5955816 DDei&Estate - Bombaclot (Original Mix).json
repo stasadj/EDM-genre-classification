@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/1bef3f0e-a765-4415-889c-89c4aa4c8b7d.jpg", 
+   "width": 500, 
+   "id": 10340515, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/0e942f1f-7912-4eae-9fb2-a0a15a201d02.jpg", 
+   "width": 30, 
+   "id": 5633916, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/11eeb6eb-cb81-414c-b440-e4c2f28fc878.jpg", 
+   "width": 60, 
+   "id": 5633917, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/1bef3f0e-a765-4415-889c-89c4aa4c8b7d.jpg", 
+   "id": 10340515
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "ddei-and-estate", 
+   "id": 194818, 
+   "name": "DDei&Estate"
+  }
+ ], 
+ "duration": {
+  "minutes": "4:48", 
+  "milliseconds": 288000
+ }, 
+ "id": 5955816, 
+ "genres": [
+  {
+   "slug": "electro-house", 
+   "id": 17, 
+   "name": "Electro House"
+  }
+ ], 
+ "title": "Bombaclot (Original Mix)", 
+ "label": {
+  "slug": "betty-beat-records", 
+  "id": 22583, 
+  "name": "Betty Beat Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/b0d73f8a-5970-4f37-b355-c6272e68a8b1.LOFI.mp4", 
+   "offset": {
+    "start": 115200, 
+    "end": 235200
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/b0d73f8a-5970-4f37-b355-c6272e68a8b1.LOFI.mp3", 
+   "offset": {
+    "start": 115200, 
+    "end": 235200
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F maj", 
+ "date": {
+  "released": "2014-11-12", 
+  "published": "2014-11-12"
+ }, 
+ "active": true, 
+ "slug": "bombaclot-original-mix", 
+ "preorder": false, 
+ "name": "Bombaclot", 
+ "component_type": null, 
+ "bpm": 130, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "betty-beat-records-three-years-the-ultimate-10-tracks", 
+  "id": 1403391, 
+  "name": "Betty Beat Records Three Years - The Ultimate 10 Tracks"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/3bfa3306-d81d-45f8-b6e5-f71e3ae0c8d7.png", 
+   "width": 1500, 
+   "id": 10340600, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/3bfa3306-d81d-45f8-b6e5-f71e3ae0c8d7.png", 
+   "id": 10340600
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

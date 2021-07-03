@@ -1,0 +1,133 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/7b95f13e-9f1b-4b06-823d-453ff90cb067.jpg", 
+   "width": 30, 
+   "id": 104350, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/87bc08cf-b480-4d32-b216-3f54671f8ef8.jpg", 
+   "width": 60, 
+   "id": 104351, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/87bc08cf-b480-4d32-b216-3f54671f8ef8.jpg", 
+   "id": 104351
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "comiccon", 
+   "id": 40539, 
+   "name": "Comiccon"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:16", 
+  "milliseconds": 376256
+ }, 
+ "id": 298915, 
+ "genres": [
+  {
+   "slug": "trance", 
+   "id": 7, 
+   "name": "Trance"
+  }
+ ], 
+ "title": "Komodo (Kindervater Remix)", 
+ "label": {
+  "slug": "zooland-records", 
+  "id": 2818, 
+  "name": "Zooland Records"
+ }, 
+ "mix": "Kindervater Remix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/c1e04915-9119-4696-b43e-f4688f01f9bf.LOFI.mp4", 
+   "offset": {
+    "start": 150502, 
+    "end": 270502
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/c1e04915-9119-4696-b43e-f4688f01f9bf.LOFI.mp3", 
+   "offset": {
+    "start": 150502, 
+    "end": 270502
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "kindervater", 
+   "id": 38626, 
+   "name": "Kindervater"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D maj", 
+ "date": {
+  "released": "2007-05-21", 
+  "published": "2007-05-21"
+ }, 
+ "active": true, 
+ "slug": "komodo-kindervater-remix", 
+ "preorder": false, 
+ "name": "Komodo", 
+ "component_type": null, 
+ "bpm": 142, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "komodo", 
+  "id": 57157, 
+  "name": "Komodo"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/79179ee4-8a26-46f0-990e-f9569697d50c.png", 
+   "width": 1500, 
+   "id": 2235533, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

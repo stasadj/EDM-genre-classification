@@ -1,0 +1,135 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/d993ce37-a506-4d64-bd5e-9737fefb5cf2.jpg", 
+   "width": 500, 
+   "id": 13447938, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/6a9eb223-d287-4aa7-864e-aaa6dbe7dbe9.jpg", 
+   "width": 30, 
+   "id": 345046, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/56921f13-6624-48ab-802f-fb091f341ec9.jpg", 
+   "width": 60, 
+   "id": 345047, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/d993ce37-a506-4d64-bd5e-9737fefb5cf2.jpg", 
+   "id": 13447938
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "740-boyz", 
+   "id": 25639, 
+   "name": "740 Boyz"
+  }, 
+  {
+   "slug": "kevax", 
+   "id": 82457, 
+   "name": "Kevax"
+  }
+ ], 
+ "duration": {
+  "minutes": "3:31", 
+  "milliseconds": 211000
+ }, 
+ "id": 754389, 
+ "genres": [
+  {
+   "slug": "progressive-house", 
+   "id": 15, 
+   "name": "Progressive House"
+  }
+ ], 
+ "title": "Shimmy Shake (Steve'N King Edit)", 
+ "label": {
+  "slug": "aqualoop-records", 
+  "id": 2474, 
+  "name": "Aqualoop Records"
+ }, 
+ "mix": "Steve'N King Edit", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/6c337a76-4ba4-42b4-939e-db432dc720e0.LOFI.mp3", 
+   "offset": {
+    "start": 84400, 
+    "end": 204400
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "steven-king", 
+   "id": 20388, 
+   "name": "Steve'n King"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D maj", 
+ "date": {
+  "released": "2008-12-15", 
+  "published": "2008-12-15"
+ }, 
+ "active": true, 
+ "slug": "shimmy-shake-steven-king-edit", 
+ "preorder": false, 
+ "name": "Shimmy Shake", 
+ "component_type": null, 
+ "bpm": 128, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "shimmy-shake", 
+  "id": 150500, 
+  "name": "Shimmy Shake"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ad7273d6-e60b-498c-9749-e05fa2a429ee.png", 
+   "width": 1500, 
+   "id": 2175480, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/ad7273d6-e60b-498c-9749-e05fa2a429ee.png", 
+   "id": 2175480
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

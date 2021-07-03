@@ -1,0 +1,133 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/45e077ac-9961-4b43-a4b5-b328e8567594.jpg", 
+   "width": 30, 
+   "id": 21035, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/df88b2d8-de88-4d62-ae99-a0f7cf0af764.jpg", 
+   "width": 60, 
+   "id": 5329, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/df88b2d8-de88-4d62-ae99-a0f7cf0af764.jpg", 
+   "id": 5329
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "dub-kult", 
+   "id": 5192, 
+   "name": "Dub Kult"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:30", 
+  "milliseconds": 450946
+ }, 
+ "id": 33583, 
+ "genres": [
+  {
+   "slug": "minimal-deep-tech", 
+   "id": 14, 
+   "name": "Minimal / Deep Tech"
+  }
+ ], 
+ "title": "On and On (Remix)", 
+ "label": {
+  "slug": "raum-musik", 
+  "id": 597, 
+  "name": "Raum...Musik."
+ }, 
+ "mix": "Remix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/067c846e-60f1-4dca-b6fc-be4d0e605705.LOFI.mp4", 
+   "offset": {
+    "start": 180378, 
+    "end": 300378
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/067c846e-60f1-4dca-b6fc-be4d0e605705.LOFI.mp3", 
+   "offset": {
+    "start": 180378, 
+    "end": 300378
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "guido-schneider", 
+   "id": 4438, 
+   "name": "Guido Schneider"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.56", 
+  "value": 1.56
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A maj", 
+ "date": {
+  "released": "2005-04-25", 
+  "published": "2005-04-25"
+ }, 
+ "active": true, 
+ "slug": "on-and-on-remix", 
+ "preorder": false, 
+ "name": "On and On", 
+ "component_type": null, 
+ "bpm": 124, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "bip", 
+  "id": 9776, 
+  "name": "Bip"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/12fb8545-41a1-4593-8178-80bb26d6b233.png", 
+   "width": 1500, 
+   "id": 2475968, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

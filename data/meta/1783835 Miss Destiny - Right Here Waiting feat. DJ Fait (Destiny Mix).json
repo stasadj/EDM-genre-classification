@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/26e75545-375f-4b35-b344-b06f09da72ca.jpg", 
+   "width": 500, 
+   "id": 1238843, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/455f4630-9289-4680-9c5a-1fb4b7cc7dce.jpg", 
+   "width": 30, 
+   "id": 1238841, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/11466365-d25c-4f42-ad69-2c52e830a745.jpg", 
+   "width": 60, 
+   "id": 1238842, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/26e75545-375f-4b35-b344-b06f09da72ca.jpg", 
+   "id": 1238843
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "miss-destiny", 
+   "id": 82525, 
+   "name": "Miss Destiny"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:11", 
+  "milliseconds": 311091
+ }, 
+ "id": 1783835, 
+ "genres": [
+  {
+   "slug": "hard-dance", 
+   "id": 8, 
+   "name": "Hard Dance"
+  }
+ ], 
+ "title": "Right Here Waiting feat. DJ Fait (Destiny Mix)", 
+ "label": {
+  "slug": "active-sense-recordings", 
+  "id": 1086, 
+  "name": "Active Sense Recordings"
+ }, 
+ "mix": "Destiny Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/8d0e4ab4-913d-4a13-b423-6bbc690c5688.LOFI.mp3", 
+   "offset": {
+    "start": 124436, 
+    "end": 244471
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C\u266f maj", 
+ "date": {
+  "released": "2011-03-18", 
+  "published": "2011-03-18"
+ }, 
+ "active": true, 
+ "slug": "right-here-waiting-feat-dj-fait-destiny-mix", 
+ "preorder": false, 
+ "name": "Right Here Waiting feat. DJ Fait", 
+ "component_type": null, 
+ "bpm": 142, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "hardtrance-and-dancecore-top-100", 
+  "id": 347076, 
+  "name": "Hardtrance & Dancecore Top 100"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/f86718c3-428b-4f74-a9b3-601a2db34e81.png", 
+   "width": 1500, 
+   "id": 1239040, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/f86718c3-428b-4f74-a9b3-601a2db34e81.png", 
+   "id": 1239040
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

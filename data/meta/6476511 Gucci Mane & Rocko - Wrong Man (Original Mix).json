@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/c6ba6439-ce15-41cf-a459-a2216358648a.jpg", 
+   "width": 500, 
+   "id": 11259967, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/2f6f6a3e-6730-4cdd-a63d-61d9bfdfc4f1.jpg", 
+   "width": 30, 
+   "id": 491534, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/3b021951-3e5a-4e4f-983e-38a835871d3f.jpg", 
+   "width": 60, 
+   "id": 11227175, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/c6ba6439-ce15-41cf-a459-a2216358648a.jpg", 
+   "id": 11259967
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "gucci-mane-and-rocko", 
+   "id": 472729, 
+   "name": "Gucci Mane & Rocko"
+  }
+ ], 
+ "duration": {
+  "minutes": "2:40", 
+  "milliseconds": 160052
+ }, 
+ "id": 6476511, 
+ "genres": [
+  {
+   "slug": "hip-hop-r-and-b", 
+   "id": 38, 
+   "name": "Hip-Hop / R&B"
+  }
+ ], 
+ "title": "Wrong Man (Original Mix)", 
+ "label": {
+  "slug": "familiar-territory", 
+  "id": 47684, 
+  "name": "Familiar Territory"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/cc4fb6f3-e87c-4f52-8820-e3e109fabc44.LOFI.mp4", 
+   "offset": {
+    "start": 40052, 
+    "end": 160052
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/cc4fb6f3-e87c-4f52-8820-e3e109fabc44.LOFI.mp3", 
+   "offset": {
+    "start": 40052, 
+    "end": 160052
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F maj", 
+ "date": {
+  "released": "2015-03-12", 
+  "published": "2015-03-12"
+ }, 
+ "active": true, 
+ "slug": "wrong-man-original-mix", 
+ "preorder": false, 
+ "name": "Wrong Man", 
+ "component_type": null, 
+ "bpm": 156, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "gucci-da-don", 
+  "id": 1497464, 
+  "name": "Gucci Da Don"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/a606dd69-3b5b-45c8-b673-f663b7bff834.png", 
+   "width": 1500, 
+   "id": 11260069, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/a606dd69-3b5b-45c8-b673-f663b7bff834.png", 
+   "id": 11260069
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/80654b81-a258-4b9b-a4da-de5a224b2f7f.jpg", 
+   "width": 500, 
+   "id": 5209743, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/0ae2677c-9109-4b31-9fb9-7bd5344e9781.jpg", 
+   "width": 30, 
+   "id": 5209741, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/c6336dd4-9c03-4269-94a1-9f1cfa0d1cef.jpg", 
+   "width": 60, 
+   "id": 5209742, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/80654b81-a258-4b9b-a4da-de5a224b2f7f.jpg", 
+   "id": 5209743
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "fabio-vi", 
+   "id": 211389, 
+   "name": "Fabio Vi"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:14", 
+  "milliseconds": 434000
+ }, 
+ "id": 3400910, 
+ "genres": [
+  {
+   "slug": "tech-house", 
+   "id": 11, 
+   "name": "Tech House"
+  }
+ ], 
+ "title": "El sueno de Cuba (Original Mix)", 
+ "label": {
+  "slug": "aenaria-music", 
+  "id": 2738, 
+  "name": "Aenaria Music"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/823b0f01-168a-4742-a855-0be5288f411c.LOFI.mp3", 
+   "offset": {
+    "start": 173600, 
+    "end": 293600
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "G\u266f maj", 
+ "date": {
+  "released": "2012-06-04", 
+  "published": "2012-06-04"
+ }, 
+ "active": true, 
+ "slug": "el-sueno-de-cuba-original-mix", 
+ "preorder": false, 
+ "name": "El sueno de Cuba", 
+ "component_type": null, 
+ "bpm": 125, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "hold", 
+  "id": 892393, 
+  "name": "Hold"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/529a1347-b3cf-4f56-9da7-73a702f24930.png", 
+   "width": 1500, 
+   "id": 5211601, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/529a1347-b3cf-4f56-9da7-73a702f24930.png", 
+   "id": 5211601
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

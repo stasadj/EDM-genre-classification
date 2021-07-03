@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/7bbb425e-3cc7-4c1c-baf2-863a12afe08a.jpg", 
+   "width": 500, 
+   "id": 7952452, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/ec20157b-5b80-4161-8413-37734c3487ed.jpg", 
+   "width": 30, 
+   "id": 7952450, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/19101ca3-939d-4255-abc9-7cf7863cb211.jpg", 
+   "width": 60, 
+   "id": 7952451, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/7bbb425e-3cc7-4c1c-baf2-863a12afe08a.jpg", 
+   "id": 7952452
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "luc-vel-mzura", 
+   "id": 351606, 
+   "name": "Luc Vel Mzura"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:12", 
+  "milliseconds": 312786
+ }, 
+ "id": 4616741, 
+ "genres": [
+  {
+   "slug": "deep-house", 
+   "id": 12, 
+   "name": "Deep House"
+  }
+ ], 
+ "title": "Come Down (Original Mix)", 
+ "label": {
+  "slug": "white-widow-records", 
+  "id": 32355, 
+  "name": "White Widow Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/e7589bda-8262-42d4-95e1-45bdc4d43f9e.LOFI.mp4", 
+   "offset": {
+    "start": 125114, 
+    "end": 245114
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/e7589bda-8262-42d4-95e1-45bdc4d43f9e.LOFI.mp3", 
+   "offset": {
+    "start": 125114, 
+    "end": 245114
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A\u266f maj", 
+ "date": {
+  "released": "2013-08-12", 
+  "published": "2013-08-12"
+ }, 
+ "active": true, 
+ "slug": "come-down-original-mix", 
+ "preorder": false, 
+ "name": "Come Down", 
+ "component_type": null, 
+ "bpm": 122, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "distraction", 
+  "id": 1138445, 
+  "name": "Distraction"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/76e75f69-89db-41fa-8014-42a10e069d55.png", 
+   "width": 1500, 
+   "id": 7915983, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/76e75f69-89db-41fa-8014-42a10e069d55.png", 
+   "id": 7915983
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

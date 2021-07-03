@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/7f3e5b22-6e18-4c76-bff0-af89804177b2.jpg", 
+   "width": 30, 
+   "id": 103736, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/f599112e-0602-4737-b6af-aaea1c3289c9.jpg", 
+   "width": 60, 
+   "id": 103737, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/f599112e-0602-4737-b6af-aaea1c3289c9.jpg", 
+   "id": 103737
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "polyharmonique", 
+   "id": 40410, 
+   "name": "Polyharmonique"
+  }
+ ], 
+ "duration": {
+  "minutes": "3:51", 
+  "milliseconds": 231156
+ }, 
+ "id": 297807, 
+ "genres": [
+  {
+   "slug": "electronica-downtempo", 
+   "id": 3, 
+   "name": "Electronica / Downtempo"
+  }
+ ], 
+ "title": "Luna (Original Mix)", 
+ "label": {
+  "slug": "good-mood-music", 
+  "id": 4906, 
+  "name": "Good Mood Music"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/43aa0f89-d4c0-4ac9-9555-84151dadd546.LOFI.mp4", 
+   "offset": {
+    "start": 92462, 
+    "end": 212462
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/43aa0f89-d4c0-4ac9-9555-84151dadd546.LOFI.mp3", 
+   "offset": {
+    "start": 92462, 
+    "end": 212462
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F maj", 
+ "date": {
+  "released": "2007-05-25", 
+  "published": "2007-05-16"
+ }, 
+ "active": true, 
+ "slug": "luna-original-mix", 
+ "preorder": false, 
+ "name": "Luna", 
+ "component_type": null, 
+ "bpm": 120, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "poly-fm", 
+  "id": 56952, 
+  "name": "Poly FM"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/0ffdbbdb-feea-436e-839b-fcd17c63e045.png", 
+   "width": 1500, 
+   "id": 2236907, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

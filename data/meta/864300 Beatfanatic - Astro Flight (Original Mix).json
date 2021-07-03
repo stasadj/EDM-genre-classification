@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/99b76875-aaa3-413b-9b1e-07bea121c606.jpg", 
+   "width": 500, 
+   "id": 426464, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/7904b155-fe40-4c8a-87c8-c694c6e2bc5d.jpg", 
+   "width": 30, 
+   "id": 426462, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/16abcca0-4d50-4dc1-bfd8-f025b3a3b20a.jpg", 
+   "width": 60, 
+   "id": 426463, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/99b76875-aaa3-413b-9b1e-07bea121c606.jpg", 
+   "id": 426464
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "beatfanatic", 
+   "id": 26412, 
+   "name": "Beatfanatic"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:29", 
+  "milliseconds": 389190
+ }, 
+ "id": 864300, 
+ "genres": [
+  {
+   "slug": "deep-house", 
+   "id": 12, 
+   "name": "Deep House"
+  }
+ ], 
+ "title": "Astro Flight (Original Mix)", 
+ "label": {
+  "slug": "soundscape", 
+  "id": 5557, 
+  "name": "Soundscape"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/0ccd8202-358e-4e5d-9bfc-548115ccd631.LOFI.mp3", 
+   "offset": {
+    "start": 155676, 
+    "end": 275734
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D maj", 
+ "date": {
+  "released": "2009-05-29", 
+  "published": "2009-05-29"
+ }, 
+ "active": true, 
+ "slug": "astro-flight-original-mix", 
+ "preorder": false, 
+ "name": "Astro Flight", 
+ "component_type": null, 
+ "bpm": 87, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "automatic-ep", 
+  "id": 174564, 
+  "name": "Automatic EP"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/51386d1a-5f78-4e0a-815a-094111790ca5.png", 
+   "width": 1500, 
+   "id": 1872621, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/51386d1a-5f78-4e0a-815a-094111790ca5.png", 
+   "id": 1872621
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/1d9a5316-95f8-483c-9f65-e1f0b0b3fc64.jpg", 
+   "width": 500, 
+   "id": 6217636, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/fccd6d74-0239-4bd6-98f5-064921e8e721.jpg", 
+   "width": 30, 
+   "id": 6217634, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/78e0a3de-5b15-4068-9ba8-3641a7717dc3.jpg", 
+   "width": 60, 
+   "id": 6217635, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/1d9a5316-95f8-483c-9f65-e1f0b0b3fc64.jpg", 
+   "id": 6217636
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "valerio-latina", 
+   "id": 270386, 
+   "name": "Valerio Latina"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:46", 
+  "milliseconds": 346000
+ }, 
+ "id": 3905287, 
+ "genres": [
+  {
+   "slug": "deep-house", 
+   "id": 12, 
+   "name": "Deep House"
+  }
+ ], 
+ "title": "Dancing Slowly (Original Mix)", 
+ "label": {
+  "slug": "traxacid", 
+  "id": 24204, 
+  "name": "Traxacid"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/d74f5a60-1015-48ba-a509-3f38fbcc0353.LOFI.mp4", 
+   "offset": {
+    "start": 138400, 
+    "end": 258400
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/d74f5a60-1015-48ba-a509-3f38fbcc0353.LOFI.mp3", 
+   "offset": {
+    "start": 138400, 
+    "end": 258400
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A\u266f maj", 
+ "date": {
+  "released": "2012-12-10", 
+  "published": "2012-12-10"
+ }, 
+ "active": true, 
+ "slug": "dancing-slowly-original-mix", 
+ "preorder": false, 
+ "name": "Dancing Slowly", 
+ "component_type": null, 
+ "bpm": 125, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "black-sound-ep", 
+  "id": 992210, 
+  "name": "Black Sound EP"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/db69422c-c14e-42f3-b502-17a188bc22b3.png", 
+   "width": 1500, 
+   "id": 6218085, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/db69422c-c14e-42f3-b502-17a188bc22b3.png", 
+   "id": 6218085
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

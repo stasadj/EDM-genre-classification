@@ -1,0 +1,130 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/994a7978-2ba3-4ebd-bd43-5fae7248a467.jpg", 
+   "width": 500, 
+   "id": 450366, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/81f1f1cd-ad69-4e31-b18b-92fa651a0972.jpg", 
+   "width": 30, 
+   "id": 450364, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/fb4d56ee-4a9f-4060-9e3d-ff0f0b25c13d.jpg", 
+   "width": 60, 
+   "id": 450365, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/994a7978-2ba3-4ebd-bd43-5fae7248a467.jpg", 
+   "id": 450366
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "fernando-ferreyra", 
+   "id": 32959, 
+   "name": "Fernando Ferreyra"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:25", 
+  "milliseconds": 445989
+ }, 
+ "id": 897094, 
+ "genres": [
+  {
+   "slug": "progressive-house", 
+   "id": 15, 
+   "name": "Progressive House"
+  }
+ ], 
+ "title": "Nebular (John Hellson Circular Remix)", 
+ "label": {
+  "slug": "deepsessions-recordings", 
+  "id": 11398, 
+  "name": "Deepsessions Recordings"
+ }, 
+ "mix": "John Hellson Circular Remix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/5113fa60-fc89-447d-8551-341e53ede193.LOFI.mp3", 
+   "offset": {
+    "start": 178395, 
+    "end": 298661
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "john-hellson", 
+   "id": 87626, 
+   "name": "John Hellson"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D\u266f maj", 
+ "date": {
+  "released": "2009-07-15", 
+  "published": "2009-07-15"
+ }, 
+ "active": true, 
+ "slug": "nebular-john-hellson-circular-remix", 
+ "preorder": false, 
+ "name": "Nebular", 
+ "component_type": null, 
+ "bpm": 127, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "nebular", 
+  "id": 181222, 
+  "name": "Nebular"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/1fc9b55e-caf9-4e18-9735-694988c4422c.png", 
+   "width": 1500, 
+   "id": 1808147, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/1fc9b55e-caf9-4e18-9735-694988c4422c.png", 
+   "id": 1808147
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

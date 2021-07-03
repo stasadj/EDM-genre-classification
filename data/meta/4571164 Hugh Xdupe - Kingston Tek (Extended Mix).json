@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/038a42ae-5128-4f02-99da-53d9dda37417.jpg", 
+   "width": 500, 
+   "id": 7813542, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/3a7671e4-b5ec-43a5-abd1-723281b6408f.jpg", 
+   "width": 30, 
+   "id": 7813540, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/bdc29ceb-4135-4d41-944b-b154cab44313.jpg", 
+   "width": 60, 
+   "id": 7813541, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/038a42ae-5128-4f02-99da-53d9dda37417.jpg", 
+   "id": 7813542
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "hugh-xdupe", 
+   "id": 171822, 
+   "name": "Hugh Xdupe"
+  }
+ ], 
+ "duration": {
+  "minutes": "8:27", 
+  "milliseconds": 507317
+ }, 
+ "id": 4571164, 
+ "genres": [
+  {
+   "slug": "tech-house", 
+   "id": 11, 
+   "name": "Tech House"
+  }
+ ], 
+ "title": "Kingston Tek (Extended Mix)", 
+ "label": {
+  "slug": "dupe-records", 
+  "id": 26433, 
+  "name": "Dupe Records"
+ }, 
+ "mix": "Extended Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/d57233f7-a241-4849-a001-08fae2aab1ca.LOFI.mp4", 
+   "offset": {
+    "start": 202926, 
+    "end": 322926
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/d57233f7-a241-4849-a001-08fae2aab1ca.LOFI.mp3", 
+   "offset": {
+    "start": 202926, 
+    "end": 322926
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A\u266f maj", 
+ "date": {
+  "released": "2013-07-27", 
+  "published": "2013-07-27"
+ }, 
+ "active": true, 
+ "slug": "kingston-tek-extended-mix", 
+ "preorder": false, 
+ "name": "Kingston Tek", 
+ "component_type": null, 
+ "bpm": 123, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "reflex-ep", 
+  "id": 1128826, 
+  "name": "Reflex Ep"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/59f7005c-a247-40a0-8003-4f18797cffe7.png", 
+   "width": 1500, 
+   "id": 7813611, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/59f7005c-a247-40a0-8003-4f18797cffe7.png", 
+   "id": 7813611
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/5240d7b1-a2c7-4d39-93aa-52b0d7f8c3b5.jpg", 
+   "width": 500, 
+   "id": 7806526, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/55ada3df-7495-4337-8e35-3c5409d672f6.jpg", 
+   "width": 30, 
+   "id": 7806524, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/01335239-649c-4cf3-9504-018caa7dc925.jpg", 
+   "width": 60, 
+   "id": 7806525, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/5240d7b1-a2c7-4d39-93aa-52b0d7f8c3b5.jpg", 
+   "id": 7806526
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "steve-cavalo", 
+   "id": 335649, 
+   "name": "Steve Cavalo"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:13", 
+  "milliseconds": 373668
+ }, 
+ "id": 4568358, 
+ "genres": [
+  {
+   "slug": "electro-house", 
+   "id": 17, 
+   "name": "Electro House"
+  }
+ ], 
+ "title": "Show for All (Original Mix)", 
+ "label": {
+  "slug": "litovs-records", 
+  "id": 24595, 
+  "name": "Litovs Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/8679a801-43eb-44af-a7e9-ed290adcd798.LOFI.mp4", 
+   "offset": {
+    "start": 149467, 
+    "end": 269467
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/8679a801-43eb-44af-a7e9-ed290adcd798.LOFI.mp3", 
+   "offset": {
+    "start": 149467, 
+    "end": 269467
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A\u266f maj", 
+ "date": {
+  "released": "2013-08-03", 
+  "published": "2013-08-03"
+ }, 
+ "active": true, 
+ "slug": "show-for-all-original-mix", 
+ "preorder": false, 
+ "name": "Show for All", 
+ "component_type": null, 
+ "bpm": 128, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "top-10-electro-house", 
+  "id": 1128217, 
+  "name": "TOP 10 Electro House"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/77e3611c-fd6b-4157-b53c-29d84971502a.png", 
+   "width": 1500, 
+   "id": 7806542, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/77e3611c-fd6b-4157-b53c-29d84971502a.png", 
+   "id": 7806542
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

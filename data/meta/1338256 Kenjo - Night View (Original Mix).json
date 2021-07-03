@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/32eb2353-f0f8-4a85-b642-c7c760eb2565.jpg", 
+   "width": 500, 
+   "id": 754232, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/0b7deafb-daf9-461f-b0b4-354cd2ac87d8.jpg", 
+   "width": 30, 
+   "id": 754230, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/62cb4c07-767c-4e0e-9e43-fb6d966cd785.jpg", 
+   "width": 60, 
+   "id": 754231, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/32eb2353-f0f8-4a85-b642-c7c760eb2565.jpg", 
+   "id": 754232
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "kenjo", 
+   "id": 148235, 
+   "name": "Kenjo"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:04", 
+  "milliseconds": 304413
+ }, 
+ "id": 1338256, 
+ "genres": [
+  {
+   "slug": "hip-hop-r-and-b", 
+   "id": 38, 
+   "name": "Hip-Hop / R&B"
+  }
+ ], 
+ "title": "Night View (Original Mix)", 
+ "label": {
+  "slug": "router", 
+  "id": 15371, 
+  "name": "RouteR"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/4a02e98e-b9b5-41d1-a514-f89055e7b125.LOFI.mp3", 
+   "offset": {
+    "start": 121765, 
+    "end": 241928
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D maj", 
+ "date": {
+  "released": "2010-08-04", 
+  "published": "2010-08-04"
+ }, 
+ "active": true, 
+ "slug": "night-view-original-mix", 
+ "preorder": false, 
+ "name": "Night View", 
+ "component_type": null, 
+ "bpm": 95, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "memories", 
+  "id": 268115, 
+  "name": "Memories"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/90bc85a3-0b86-405b-b739-7ef07fff21fa.png", 
+   "width": 1500, 
+   "id": 1765958, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/90bc85a3-0b86-405b-b739-7ef07fff21fa.png", 
+   "id": 1765958
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

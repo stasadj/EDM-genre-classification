@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/6b818e96-7bb2-4297-aaf3-03c892b6ecf9.jpg", 
+   "width": 500, 
+   "id": 9872377, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/2f6f6a3e-6730-4cdd-a63d-61d9bfdfc4f1.jpg", 
+   "width": 30, 
+   "id": 491534, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/d1995c1b-5aa2-4df2-8a4f-e5020bfcf3ce.jpg", 
+   "width": 60, 
+   "id": 10586522, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/6b818e96-7bb2-4297-aaf3-03c892b6ecf9.jpg", 
+   "id": 9872377
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "erorped", 
+   "id": 425310, 
+   "name": "Erorped"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:52", 
+  "milliseconds": 412063
+ }, 
+ "id": 5672671, 
+ "genres": [
+  {
+   "slug": "psy-trance", 
+   "id": 13, 
+   "name": "Psy-Trance"
+  }
+ ], 
+ "title": "Lysergic State (Original Mix)", 
+ "label": {
+  "slug": "toxic-recordings", 
+  "id": 41674, 
+  "name": "Toxic Recordings"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/30df17d3-cdf4-44cd-ab85-7281e0f0acd1.LOFI.mp4", 
+   "offset": {
+    "start": 164825, 
+    "end": 284825
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/30df17d3-cdf4-44cd-ab85-7281e0f0acd1.LOFI.mp3", 
+   "offset": {
+    "start": 164825, 
+    "end": 284825
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "B maj", 
+ "date": {
+  "released": "2014-08-17", 
+  "published": "2014-08-17"
+ }, 
+ "active": true, 
+ "slug": "lysergic-state-original-mix", 
+ "preorder": false, 
+ "name": "Lysergic State", 
+ "component_type": null, 
+ "bpm": 136, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "illumined-species", 
+  "id": 1352509, 
+  "name": "Illumined Species"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/0d9b7344-e165-4d6f-af71-ef964d491925.png", 
+   "width": 1500, 
+   "id": 9873360, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/0d9b7344-e165-4d6f-af71-ef964d491925.png", 
+   "id": 9873360
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

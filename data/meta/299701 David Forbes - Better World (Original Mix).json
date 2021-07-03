@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/937b5878-adc4-4d2c-8276-6d5f09c3df93.jpg", 
+   "width": 500, 
+   "id": 7537804, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/402702da-3368-4703-96ac-a9dc84deb63f.jpg", 
+   "width": 30, 
+   "id": 104694, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/2580c590-10a6-417d-8376-354182a89afc.jpg", 
+   "width": 60, 
+   "id": 104695, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/937b5878-adc4-4d2c-8276-6d5f09c3df93.jpg", 
+   "id": 7537804
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "david-forbes", 
+   "id": 12335, 
+   "name": "David Forbes"
+  }
+ ], 
+ "duration": {
+  "minutes": "8:30", 
+  "milliseconds": 510909
+ }, 
+ "id": 299701, 
+ "genres": [
+  {
+   "slug": "progressive-house", 
+   "id": 15, 
+   "name": "Progressive House"
+  }
+ ], 
+ "title": "Better World (Original Mix)", 
+ "label": {
+  "slug": "armada-music-bundles", 
+  "id": 38, 
+  "name": "Armada Music Bundles"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/bd6edb2e-774b-4131-addb-74152d174cb2.LOFI.mp4", 
+   "offset": {
+    "start": 204363, 
+    "end": 324363
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/bd6edb2e-774b-4131-addb-74152d174cb2.LOFI.mp3", 
+   "offset": {
+    "start": 204363, 
+    "end": 324363
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D\u266f maj", 
+ "date": {
+  "released": "2007-05-21", 
+  "published": "2007-05-21"
+ }, 
+ "active": true, 
+ "slug": "better-world-original-mix", 
+ "preorder": false, 
+ "name": "Better World", 
+ "component_type": null, 
+ "bpm": 132, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "progressive-house-tunes-volume-1", 
+  "id": 57317, 
+  "name": "Progressive House Tunes Volume 1"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/78d8447e-f2a1-406c-81f9-2abea747c5e9.png", 
+   "width": 1500, 
+   "id": 2234290, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/78d8447e-f2a1-406c-81f9-2abea747c5e9.png", 
+   "id": 2234290
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

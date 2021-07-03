@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/afc23ea8-c94d-44ed-aeb6-67446d82ec2b.jpg", 
+   "width": 500, 
+   "id": 836245, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/533af8c8-7376-45c8-a0f9-3984213af9a4.jpg", 
+   "width": 30, 
+   "id": 836243, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/ccfeb641-28d2-4799-906a-d1c7a3d704b7.jpg", 
+   "width": 60, 
+   "id": 836244, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/afc23ea8-c94d-44ed-aeb6-67446d82ec2b.jpg", 
+   "id": 836245
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "telepatic", 
+   "id": 105163, 
+   "name": "Telepatic"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:19", 
+  "milliseconds": 439371
+ }, 
+ "id": 1474885, 
+ "genres": [
+  {
+   "slug": "psy-trance", 
+   "id": 13, 
+   "name": "Psy-Trance"
+  }
+ ], 
+ "title": "Alcion (Original Mix)", 
+ "label": {
+  "slug": "solar-tech-records", 
+  "id": 13695, 
+  "name": "Solar Tech Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/3d31ea0f-1e4d-44c8-9548-09c914f0fb08.LOFI.mp3", 
+   "offset": {
+    "start": 175748, 
+    "end": 295849
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D maj", 
+ "date": {
+  "released": "2010-10-22", 
+  "published": "2010-10-22"
+ }, 
+ "active": true, 
+ "slug": "alcion-original-mix", 
+ "preorder": false, 
+ "name": "Alcion", 
+ "component_type": null, 
+ "bpm": 142, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "solar-tribes", 
+  "id": 292079, 
+  "name": "Solar Tribes"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/d60aeb8c-32b1-4f14-9885-926fce0a81fb.png", 
+   "width": 1500, 
+   "id": 1522540, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/d60aeb8c-32b1-4f14-9885-926fce0a81fb.png", 
+   "id": 1522540
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

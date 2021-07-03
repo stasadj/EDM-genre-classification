@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/10fce63e-eca6-4c5c-aa23-9ae735d7de2b.jpg", 
+   "width": 500, 
+   "id": 12513587, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/2f6f6a3e-6730-4cdd-a63d-61d9bfdfc4f1.jpg", 
+   "width": 30, 
+   "id": 491534, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/82188511-c3b0-4b64-9f4a-e0279a5a43d5.jpg", 
+   "width": 60, 
+   "id": 12513585, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/10fce63e-eca6-4c5c-aa23-9ae735d7de2b.jpg", 
+   "id": 12513587
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "funk-revenge", 
+   "id": 40382, 
+   "name": "Funk Revenge"
+  }
+ ], 
+ "duration": {
+  "minutes": "9:48", 
+  "milliseconds": 588791
+ }, 
+ "id": 297600, 
+ "genres": [
+  {
+   "slug": "house", 
+   "id": 5, 
+   "name": "House"
+  }
+ ], 
+ "title": "Astral Ohm (Original Mix)", 
+ "label": {
+  "slug": "eklero-records", 
+  "id": 5701, 
+  "name": "Eklero Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/948fa4ff-c856-4ce2-aa47-e4dc9b38807f.LOFI.mp4", 
+   "offset": {
+    "start": 235516, 
+    "end": 355516
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/948fa4ff-c856-4ce2-aa47-e4dc9b38807f.LOFI.mp3", 
+   "offset": {
+    "start": 235516, 
+    "end": 355516
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "G maj", 
+ "date": {
+  "released": "2007-05-16", 
+  "published": "2007-05-16"
+ }, 
+ "active": true, 
+ "slug": "astral-ohm-original-mix", 
+ "preorder": false, 
+ "name": "Astral Ohm", 
+ "component_type": null, 
+ "bpm": 130, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "endless", 
+  "id": 56893, 
+  "name": "Endless"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/0d88fe63-adb3-40a9-9e0c-05de13101b06.png", 
+   "width": 1500, 
+   "id": 2237244, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/0d88fe63-adb3-40a9-9e0c-05de13101b06.png", 
+   "id": 2237244
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

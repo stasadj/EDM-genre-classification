@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/8d3c68d0-0563-4d50-a67b-b8c17ed7cd57.jpg", 
+   "width": 500, 
+   "id": 5162287, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/c94ec6b6-22ae-43e9-a187-ec2cd001fe8d.jpg", 
+   "width": 30, 
+   "id": 5162285, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/7166f3ec-e62b-40ef-b9cc-677021c37cb0.jpg", 
+   "width": 60, 
+   "id": 5162286, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/8d3c68d0-0563-4d50-a67b-b8c17ed7cd57.jpg", 
+   "id": 5162287
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "jpls", 
+   "id": 18547, 
+   "name": "JPLS"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:47", 
+  "milliseconds": 347853
+ }, 
+ "id": 299995, 
+ "genres": [
+  {
+   "slug": "minimal-deep-tech", 
+   "id": 14, 
+   "name": "Minimal / Deep Tech"
+  }
+ ], 
+ "title": "Twilite 6.1 (Original Mix)", 
+ "label": {
+  "slug": "minus", 
+  "id": 557, 
+  "name": "Minus"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/0876703f-cac8-47fb-bd4f-6dc68dfff4fb.LOFI.mp4", 
+   "offset": {
+    "start": 139141, 
+    "end": 259141
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/0876703f-cac8-47fb-bd4f-6dc68dfff4fb.LOFI.mp3", 
+   "offset": {
+    "start": 139141, 
+    "end": 259141
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D maj", 
+ "date": {
+  "released": "2007-05-25", 
+  "published": "2007-05-25"
+ }, 
+ "active": true, 
+ "slug": "twilite-6-1-original-mix", 
+ "preorder": false, 
+ "name": "Twilite 6.1", 
+ "component_type": null, 
+ "bpm": 126, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "twilite", 
+  "id": 57383, 
+  "name": "Twilite"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/e7fda8c0-254d-4c68-b8ff-f5db43ae3409.png", 
+   "width": 1500, 
+   "id": 2233864, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/e7fda8c0-254d-4c68-b8ff-f5db43ae3409.png", 
+   "id": 2233864
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

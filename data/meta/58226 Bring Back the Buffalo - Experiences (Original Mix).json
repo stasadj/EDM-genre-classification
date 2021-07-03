@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/7c5b461f-b039-43e5-b03f-c2ffe91c8656.jpg", 
+   "width": 30, 
+   "id": 23020, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/695858d6-efc8-45a1-af23-fd0d48ac75f3.jpg", 
+   "width": 60, 
+   "id": 7304, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/695858d6-efc8-45a1-af23-fd0d48ac75f3.jpg", 
+   "id": 7304
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "bring-back-the-buffalo", 
+   "id": 9083, 
+   "name": "Bring Back the Buffalo"
+  }
+ ], 
+ "duration": {
+  "minutes": "4:43", 
+  "milliseconds": 283986
+ }, 
+ "id": 58226, 
+ "genres": [
+  {
+   "slug": "electronica-downtempo", 
+   "id": 3, 
+   "name": "Electronica / Downtempo"
+  }
+ ], 
+ "title": "Experiences (Original Mix)", 
+ "label": {
+  "slug": "persona", 
+  "id": 743, 
+  "name": "Persona"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/2ba8415e-b7e2-47ea-b7ac-4c43fb4d132e.LOFI.mp4", 
+   "offset": {
+    "start": 113594, 
+    "end": 233594
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/2ba8415e-b7e2-47ea-b7ac-4c43fb4d132e.LOFI.mp3", 
+   "offset": {
+    "start": 113594, 
+    "end": 233594
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C\u266f maj", 
+ "date": {
+  "released": "2005-09-20", 
+  "published": "2005-09-20"
+ }, 
+ "active": true, 
+ "slug": "experiences-original-mix", 
+ "preorder": false, 
+ "name": "Experiences", 
+ "component_type": null, 
+ "bpm": 90, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "bring-back-the-buffalo", 
+  "id": 11705, 
+  "name": "Bring Back The Buffalo"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ca92172c-8514-450d-989d-2e9c298f8340.png", 
+   "width": 1500, 
+   "id": 2456845, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

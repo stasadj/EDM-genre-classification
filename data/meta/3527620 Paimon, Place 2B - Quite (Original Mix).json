@@ -1,0 +1,129 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/2ce4ae12-6169-42b8-9500-de3244fe4218.jpg", 
+   "width": 500, 
+   "id": 5477752, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/0fd0de76-7743-45e9-9c14-293bc0156d25.jpg", 
+   "width": 30, 
+   "id": 5477750, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/b095da7d-6350-4f78-886f-62dbff4027b7.jpg", 
+   "width": 60, 
+   "id": 5477751, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/2ce4ae12-6169-42b8-9500-de3244fe4218.jpg", 
+   "id": 5477752
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "paimon", 
+   "id": 141139, 
+   "name": "Paimon"
+  }, 
+  {
+   "slug": "place-2b", 
+   "id": 142639, 
+   "name": "Place 2B"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:44", 
+  "milliseconds": 404651
+ }, 
+ "id": 3527620, 
+ "genres": [
+  {
+   "slug": "drum-and-bass", 
+   "id": 1, 
+   "name": "Drum & Bass"
+  }
+ ], 
+ "title": "Quite (Original Mix)", 
+ "label": {
+  "slug": "fokuz-limited", 
+  "id": 3030, 
+  "name": "Fokuz Limited"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/84c0d53a-d455-4bfc-b3da-758940efd138.LOFI.mp3", 
+   "offset": {
+    "start": 161860, 
+    "end": 282053
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "G min", 
+ "date": {
+  "released": "2012-06-04", 
+  "published": "2012-06-04"
+ }, 
+ "active": true, 
+ "slug": "quite-original-mix", 
+ "preorder": false, 
+ "name": "Quite", 
+ "component_type": null, 
+ "bpm": 86, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "quite-magnetic-feat-faib", 
+  "id": 916892, 
+  "name": "Quite / Magnetic feat. Faib"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/77de9dbb-103f-4651-804f-59f3325cbb7a.png", 
+   "width": 1500, 
+   "id": 5481250, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/77de9dbb-103f-4651-804f-59f3325cbb7a.png", 
+   "id": 5481250
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

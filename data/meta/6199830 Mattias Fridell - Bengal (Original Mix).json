@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/a8f31702-8983-4563-80ad-3aab0f220e87.jpg", 
+   "width": 500, 
+   "id": 10779702, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/2f6f6a3e-6730-4cdd-a63d-61d9bfdfc4f1.jpg", 
+   "width": 30, 
+   "id": 491534, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/1f493df5-65bd-443f-8741-aadcc2b7f850.jpg", 
+   "width": 60, 
+   "id": 15189640, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/a8f31702-8983-4563-80ad-3aab0f220e87.jpg", 
+   "id": 10779702
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "mattias-fridell", 
+   "id": 37495, 
+   "name": "Mattias Fridell"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:32", 
+  "milliseconds": 392185
+ }, 
+ "id": 6199830, 
+ "genres": [
+  {
+   "slug": "techno", 
+   "id": 6, 
+   "name": "Techno"
+  }
+ ], 
+ "title": "Bengal (Original Mix)", 
+ "label": {
+  "slug": "translucent", 
+  "id": 22504, 
+  "name": "Translucent"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/eb45a189-98f4-442b-9181-b135139861b2.LOFI.mp4", 
+   "offset": {
+    "start": 156874, 
+    "end": 276874
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/eb45a189-98f4-442b-9181-b135139861b2.LOFI.mp3", 
+   "offset": {
+    "start": 156874, 
+    "end": 276874
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A\u266f maj", 
+ "date": {
+  "released": "2015-01-19", 
+  "published": "2015-01-19"
+ }, 
+ "active": true, 
+ "slug": "bengal-original-mix", 
+ "preorder": false, 
+ "name": "Bengal", 
+ "component_type": null, 
+ "bpm": 128, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "opaque-series-vol-1", 
+  "id": 1445916, 
+  "name": "Opaque Series, Vol. 1"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/cb0be6ad-22b0-429c-aac3-298087a8591d.png", 
+   "width": 1500, 
+   "id": 10783290, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/cb0be6ad-22b0-429c-aac3-298087a8591d.png", 
+   "id": 10783290
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

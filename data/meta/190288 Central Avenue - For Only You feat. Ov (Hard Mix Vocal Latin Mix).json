@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/d62ebf7e-6c8d-45d4-a70d-a1b8c60ac738.jpg", 
+   "width": 500, 
+   "id": 364477, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/9ee1e3ee-2dfd-4077-9306-849bb3f9deea.jpg", 
+   "width": 30, 
+   "id": 364475, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/b9118093-6e93-4b06-974d-16fc8dacd44d.jpg", 
+   "width": 60, 
+   "id": 364476, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/d62ebf7e-6c8d-45d4-a70d-a1b8c60ac738.jpg", 
+   "id": 364477
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "central-avenue", 
+   "id": 18363, 
+   "name": "Central Avenue"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:45", 
+  "milliseconds": 405000
+ }, 
+ "id": 190288, 
+ "genres": [
+  {
+   "slug": "house", 
+   "id": 5, 
+   "name": "House"
+  }
+ ], 
+ "title": "For Only You feat. Ov (Hard Mix Vocal Latin Mix)", 
+ "label": {
+  "slug": "delecto-recordings", 
+  "id": 2533, 
+  "name": "Delecto Recordings"
+ }, 
+ "mix": "Hard Mix Vocal Latin Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/8e56314a-6867-4abc-91d9-bef165928d76.LOFI.mp4", 
+   "offset": {
+    "start": 162000, 
+    "end": 282000
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/8e56314a-6867-4abc-91d9-bef165928d76.LOFI.mp3", 
+   "offset": {
+    "start": 162000, 
+    "end": 282000
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C\u266f maj", 
+ "date": {
+  "released": "2006-09-20", 
+  "published": "2006-09-20"
+ }, 
+ "active": true, 
+ "slug": "for-only-you-feat-ov-hard-mix-vocal-latin-mix", 
+ "preorder": false, 
+ "name": "For Only You feat. Ov", 
+ "component_type": null, 
+ "bpm": 125, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "for-only-you", 
+  "id": 32420, 
+  "name": "For Only You"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/fcdb63d6-f17e-470b-ac19-c892063893e2.png", 
+   "width": 1500, 
+   "id": 2372814, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/fcdb63d6-f17e-470b-ac19-c892063893e2.png", 
+   "id": 2372814
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

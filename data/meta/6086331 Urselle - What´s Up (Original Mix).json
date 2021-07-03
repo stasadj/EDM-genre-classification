@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/79564376-9484-402f-ae8a-ad61e5559bee.jpg", 
+   "width": 500, 
+   "id": 10569568, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/2f6f6a3e-6730-4cdd-a63d-61d9bfdfc4f1.jpg", 
+   "width": 30, 
+   "id": 491534, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/0bcac30e-f61d-431a-ba1e-b63302708d75.jpg", 
+   "width": 60, 
+   "id": 491533, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/79564376-9484-402f-ae8a-ad61e5559bee.jpg", 
+   "id": 10569568
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "urselle", 
+   "id": 194438, 
+   "name": "Urselle"
+  }
+ ], 
+ "duration": {
+  "minutes": "4:40", 
+  "milliseconds": 280500
+ }, 
+ "id": 6086331, 
+ "genres": [
+  {
+   "slug": "electronica-downtempo", 
+   "id": 3, 
+   "name": "Electronica / Downtempo"
+  }
+ ], 
+ "title": "What\u00b4s Up (Original Mix)", 
+ "label": {
+  "slug": "pmb-music", 
+  "id": 24215, 
+  "name": "PMB Music"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/c0054999-1e7f-45dc-91b9-6864f748e7f8.LOFI.mp4", 
+   "offset": {
+    "start": 112200, 
+    "end": 232200
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/c0054999-1e7f-45dc-91b9-6864f748e7f8.LOFI.mp3", 
+   "offset": {
+    "start": 112200, 
+    "end": 232200
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "G\u266f maj", 
+ "date": {
+  "released": "2014-12-02", 
+  "published": "2014-12-02"
+ }, 
+ "active": true, 
+ "slug": "what-s-up-original-mix", 
+ "preorder": false, 
+ "name": "What\u00b4s Up", 
+ "component_type": null, 
+ "bpm": 120, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "acoustic-lounge-essentials", 
+  "id": 1426993, 
+  "name": "Acoustic Lounge Essentials"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/a715f6cc-0747-40d9-b2ac-7d8e1fbf87b7.png", 
+   "width": 1500, 
+   "id": 10573592, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/a715f6cc-0747-40d9-b2ac-7d8e1fbf87b7.png", 
+   "id": 10573592
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

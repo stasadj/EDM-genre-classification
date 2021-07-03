@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/d45da725-6435-4523-a42c-9c5f70872bdb.jpg", 
+   "width": 500, 
+   "id": 7038477, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/dad055c0-a546-4d9d-82c4-cf2db41b8412.jpg", 
+   "width": 30, 
+   "id": 7038475, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/cb08b1b6-55d3-495d-8e55-62b824291e50.jpg", 
+   "width": 60, 
+   "id": 7038476, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/d45da725-6435-4523-a42c-9c5f70872bdb.jpg", 
+   "id": 7038477
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "ridium", 
+   "id": 320923, 
+   "name": "Ridium"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:32", 
+  "milliseconds": 452153
+ }, 
+ "id": 4217672, 
+ "genres": [
+  {
+   "slug": "breaks", 
+   "id": 9, 
+   "name": "Breaks"
+  }
+ ], 
+ "title": "Eye Of A Needle (Original Mix)", 
+ "label": {
+  "slug": "scarcity-records", 
+  "id": 13828, 
+  "name": "Scarcity Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/48e70197-9656-47ae-9488-e8e825a3a963.LOFI.mp4", 
+   "offset": {
+    "start": 180861, 
+    "end": 300861
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/48e70197-9656-47ae-9488-e8e825a3a963.LOFI.mp3", 
+   "offset": {
+    "start": 180861, 
+    "end": 300861
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F\u266f maj", 
+ "date": {
+  "released": "2013-03-13", 
+  "published": "2013-03-13"
+ }, 
+ "active": true, 
+ "slug": "eye-of-a-needle-original-mix", 
+ "preorder": false, 
+ "name": "Eye Of A Needle", 
+ "component_type": null, 
+ "bpm": 127, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "eye-of-a-needle", 
+  "id": 1054310, 
+  "name": "Eye Of A Needle"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/cc22ac8a-7014-4705-b2eb-2984e264f01a.png", 
+   "width": 1500, 
+   "id": 7038493, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/cc22ac8a-7014-4705-b2eb-2984e264f01a.png", 
+   "id": 7038493
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

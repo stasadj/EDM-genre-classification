@@ -1,0 +1,137 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/1aebe9bb-aaa0-46ac-83e1-504fac467976.jpg", 
+   "width": 500, 
+   "id": 9790916, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/b9ea72e6-c7db-43cc-a723-e207bd51d875.jpg", 
+   "width": 30, 
+   "id": 104222, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/3e59ef7e-0f49-4dca-bc79-3e3f0ffc7744.jpg", 
+   "width": 60, 
+   "id": 104223, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/1aebe9bb-aaa0-46ac-83e1-504fac467976.jpg", 
+   "id": 9790916
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "karl-frierson", 
+   "id": 26227, 
+   "name": "Karl Frierson"
+  }, 
+  {
+   "slug": "marschmellows", 
+   "id": 35672, 
+   "name": "Marschmellows"
+  }, 
+  {
+   "slug": "verona-davis", 
+   "id": 422247, 
+   "name": "Verona Davis"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:16", 
+  "milliseconds": 376373
+ }, 
+ "id": 298530, 
+ "genres": [
+  {
+   "slug": "breaks", 
+   "id": 9, 
+   "name": "Breaks"
+  }
+ ], 
+ "title": "Emma feat. Karl Frierson, Verona Davis (Original Mix)", 
+ "label": {
+  "slug": "infracom!", 
+  "id": 4665, 
+  "name": "INFRACom!"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/f83e8d4c-104e-43e0-a3f9-efecdf0deaf1.LOFI.mp4", 
+   "offset": {
+    "start": 150549, 
+    "end": 270549
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/f83e8d4c-104e-43e0-a3f9-efecdf0deaf1.LOFI.mp3", 
+   "offset": {
+    "start": 150549, 
+    "end": 270549
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "G maj", 
+ "date": {
+  "released": "1998-01-10", 
+  "published": "1998-01-10"
+ }, 
+ "active": true, 
+ "slug": "emma-feat-karl-frierson-verona-davis-original-mix", 
+ "preorder": false, 
+ "name": "Emma feat. Karl Frierson, Verona Davis", 
+ "component_type": null, 
+ "bpm": 122, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "rebound", 
+  "id": 57091, 
+  "name": "Rebound"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/79a63534-f4f9-4ff3-8def-54c5d94c67c8.png", 
+   "width": 1500, 
+   "id": 9791697, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/79a63534-f4f9-4ff3-8def-54c5d94c67c8.png", 
+   "id": 9791697
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

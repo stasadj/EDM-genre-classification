@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/db6d9c67-1a84-4b4b-b237-3faf109efb4c.jpg", 
+   "width": 500, 
+   "id": 14991655, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/c8c559ad-78ec-4bfe-b1ef-1d600f90a97c.jpg", 
+   "width": 30, 
+   "id": 288009, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/6e79081f-1a15-424a-867b-b350b323d3c3.jpg", 
+   "width": 60, 
+   "id": 288010, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/db6d9c67-1a84-4b4b-b237-3faf109efb4c.jpg", 
+   "id": 14991655
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "g-light", 
+   "id": 86641, 
+   "name": "G-Light"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:02", 
+  "milliseconds": 422258
+ }, 
+ "id": 650505, 
+ "genres": [
+  {
+   "slug": "psy-trance", 
+   "id": 13, 
+   "name": "Psy-Trance"
+  }
+ ], 
+ "title": "Aint Talking About (Original Mix)", 
+ "label": {
+  "slug": "icarus-creations", 
+  "id": 11374, 
+  "name": "Icarus Creations"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/8e12a36b-f39e-4927-94e6-661a2149bc93.LOFI.mp3", 
+   "offset": {
+    "start": 168903, 
+    "end": 288976
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A min", 
+ "date": {
+  "released": "2008-08-12", 
+  "published": "2008-08-12"
+ }, 
+ "active": true, 
+ "slug": "aint-talking-about-original-mix", 
+ "preorder": false, 
+ "name": "Aint Talking About", 
+ "component_type": null, 
+ "bpm": 146, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "zenith", 
+  "id": 129262, 
+  "name": "Zenith"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/a2171870-0493-4e98-8171-d9eebb7d168d.png", 
+   "width": 1500, 
+   "id": 2448559, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/a2171870-0493-4e98-8171-d9eebb7d168d.png", 
+   "id": 2448559
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

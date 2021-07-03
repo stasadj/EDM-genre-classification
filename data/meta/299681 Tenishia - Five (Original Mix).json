@@ -1,0 +1,133 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/937b5878-adc4-4d2c-8276-6d5f09c3df93.jpg", 
+   "width": 500, 
+   "id": 7537804, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/74480893-ff2a-427a-bbe0-e055740fdb79.jpg", 
+   "width": 30, 
+   "id": 104678, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/129d9fc9-818a-448e-9a08-b67aaa29af2a.jpg", 
+   "width": 60, 
+   "id": 104679, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/937b5878-adc4-4d2c-8276-6d5f09c3df93.jpg", 
+   "id": 7537804
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "tenishia", 
+   "id": 14336, 
+   "name": "Tenishia"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:49", 
+  "milliseconds": 469293
+ }, 
+ "id": 299681, 
+ "genres": [
+  {
+   "slug": "trance", 
+   "id": 7, 
+   "name": "Trance"
+  }
+ ], 
+ "title": "Five (Original Mix)", 
+ "label": {
+  "slug": "armada-music-bundles", 
+  "id": 38, 
+  "name": "Armada Music Bundles"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/c495d04f-ae1f-4aed-9560-41dafbed0b2e.LOFI.mp4", 
+   "offset": {
+    "start": 187717, 
+    "end": 307717
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/c495d04f-ae1f-4aed-9560-41dafbed0b2e.LOFI.mp3", 
+   "offset": {
+    "start": 187717, 
+    "end": 307717
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C maj", 
+ "date": {
+  "released": "2007-05-18", 
+  "published": "2007-05-18"
+ }, 
+ "active": true, 
+ "slug": "five-original-mix", 
+ "preorder": false, 
+ "name": "Five", 
+ "component_type": null, 
+ "bpm": 134, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "markus-schulz-presents-coldharbour-recordings-volume-3", 
+  "id": 57312, 
+  "name": "Markus Schulz Presents Coldharbour Recordings Volume 3"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/c4bbf3cd-219d-4b7a-a0f7-e89d972e9009.png", 
+   "width": 1500, 
+   "id": 2234335, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/c4bbf3cd-219d-4b7a-a0f7-e89d972e9009.png", 
+   "id": 2234335
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": [
+  {
+   "slug": "progressive", 
+   "id": 27, 
+   "name": "Progressive"
+  }
+ ]
+}

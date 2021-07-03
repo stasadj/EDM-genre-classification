@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/f6ebfce8-6acb-439b-9f10-8bddf57d0a51.jpg", 
+   "width": 500, 
+   "id": 6069022, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/b278ec72-afc8-48a7-bddb-27beb90fb289.jpg", 
+   "width": 30, 
+   "id": 6069020, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/5819d696-c52c-481c-a261-af048ff8e539.jpg", 
+   "width": 60, 
+   "id": 6069021, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/f6ebfce8-6acb-439b-9f10-8bddf57d0a51.jpg", 
+   "id": 6069022
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "shawn-dell", 
+   "id": 291252, 
+   "name": "Shawn Dell"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:00", 
+  "milliseconds": 360000
+ }, 
+ "id": 3830951, 
+ "genres": [
+  {
+   "slug": "electro-house", 
+   "id": 17, 
+   "name": "Electro House"
+  }
+ ], 
+ "title": "Alter Ego (Original Mix)", 
+ "label": {
+  "slug": "action-figures-music", 
+  "id": 23575, 
+  "name": "Action Figures Music"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/1c57e24f-1f72-4f81-9bec-cb82065fbf43.LOFI.mp3", 
+   "offset": {
+    "start": 144000, 
+    "end": 263999
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "G maj", 
+ "date": {
+  "released": "2012-10-02", 
+  "published": "2012-10-02"
+ }, 
+ "active": true, 
+ "slug": "alter-ego-original-mix", 
+ "preorder": false, 
+ "name": "Alter Ego", 
+ "component_type": null, 
+ "bpm": 128, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "stick-shift", 
+  "id": 977143, 
+  "name": "Stick Shift"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/4bed0246-27e1-43b2-a69c-3fa64e78ff87.png", 
+   "width": 1500, 
+   "id": 6070550, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/4bed0246-27e1-43b2-a69c-3fa64e78ff87.png", 
+   "id": 6070550
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

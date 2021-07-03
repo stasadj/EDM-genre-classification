@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/eec89d6a-1aea-4abb-8752-869c62cc33ef.jpg", 
+   "width": 500, 
+   "id": 10919221, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/7aaa1ccb-6e03-4b2b-a4a1-aba16bca62d7.jpg", 
+   "width": 30, 
+   "id": 7822601, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/2441ffe2-5fa0-4cbc-b3c5-73b31bf88a4e.jpg", 
+   "width": 60, 
+   "id": 7822602, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/eec89d6a-1aea-4abb-8752-869c62cc33ef.jpg", 
+   "id": 10919221
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "cactus-arising", 
+   "id": 348568, 
+   "name": "Cactus Arising"
+  }
+ ], 
+ "duration": {
+  "minutes": "8:49", 
+  "milliseconds": 529200
+ }, 
+ "id": 6276803, 
+ "genres": [
+  {
+   "slug": "psy-trance", 
+   "id": 13, 
+   "name": "Psy-Trance"
+  }
+ ], 
+ "title": "Identify Stars (Remix)", 
+ "label": {
+  "slug": "goalogique-records", 
+  "id": 34015, 
+  "name": "Goalogique Records"
+ }, 
+ "mix": "Remix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/f9f77709-fa7a-470e-bcdb-eec7aacf8bb4.LOFI.mp4", 
+   "offset": {
+    "start": 211680, 
+    "end": 331680
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/f9f77709-fa7a-470e-bcdb-eec7aacf8bb4.LOFI.mp3", 
+   "offset": {
+    "start": 211680, 
+    "end": 331680
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F maj", 
+ "date": {
+  "released": "2014-06-09", 
+  "published": "2014-06-09"
+ }, 
+ "active": true, 
+ "slug": "identify-stars-remix", 
+ "preorder": false, 
+ "name": "Identify Stars", 
+ "component_type": null, 
+ "bpm": 142, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "limitless-universal-waves", 
+  "id": 1461622, 
+  "name": "Limitless Universal Waves"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/2ecd66f1-eacd-4beb-b6bb-8480ad683499.png", 
+   "width": 1500, 
+   "id": 10920418, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/2ecd66f1-eacd-4beb-b6bb-8480ad683499.png", 
+   "id": 10920418
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

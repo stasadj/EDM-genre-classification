@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/8beff3de-9582-416f-be8d-e6979b0ddb5f.jpg", 
+   "width": 500, 
+   "id": 12292200, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/aa1fca9c-3491-4a22-8fdb-c241b21d3267.jpg", 
+   "width": 30, 
+   "id": 181200, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/c45321cc-fe8d-4266-9ad6-ee0d281e4859.jpg", 
+   "width": 60, 
+   "id": 181201, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/8beff3de-9582-416f-be8d-e6979b0ddb5f.jpg", 
+   "id": 12292200
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "dousk", 
+   "id": 3691, 
+   "name": "Dousk"
+  }
+ ], 
+ "duration": {
+  "minutes": "8:49", 
+  "milliseconds": 529554
+ }, 
+ "id": 450431, 
+ "genres": [
+  {
+   "slug": "progressive-house", 
+   "id": 15, 
+   "name": "Progressive House"
+  }
+ ], 
+ "title": "Hammer (Original Mix)", 
+ "label": {
+  "slug": "vapour-recordings", 
+  "id": 2482, 
+  "name": "Vapour Recordings"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/51a56fa2-be94-43a1-aded-b16c274f69af.LOFI.mp4", 
+   "offset": {
+    "start": 211821, 
+    "end": 331821
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/51a56fa2-be94-43a1-aded-b16c274f69af.LOFI.mp3", 
+   "offset": {
+    "start": 211821, 
+    "end": 331821
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "E maj", 
+ "date": {
+  "released": "2007-12-11", 
+  "published": "2007-12-11"
+ }, 
+ "active": true, 
+ "slug": "hammer-original-mix", 
+ "preorder": false, 
+ "name": "Hammer", 
+ "component_type": null, 
+ "bpm": 126, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "black-dot-ep", 
+  "id": 88048, 
+  "name": "Black Dot EP"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/cd33bcd1-5600-4691-ac06-47a74e9750ef.png", 
+   "width": 1500, 
+   "id": 2030498, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/cd33bcd1-5600-4691-ac06-47a74e9750ef.png", 
+   "id": 2030498
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

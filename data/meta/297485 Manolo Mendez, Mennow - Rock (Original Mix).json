@@ -1,0 +1,132 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/5cb8e4a4-d63c-4ddc-bf14-2891e80102bd.jpg", 
+   "width": 30, 
+   "id": 103580, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/2ad72f86-6153-4eb9-9e6c-21e338b50feb.jpg", 
+   "width": 60, 
+   "id": 103581, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/2ad72f86-6153-4eb9-9e6c-21e338b50feb.jpg", 
+   "id": 103581
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "manolo-mendez", 
+   "id": 40366, 
+   "name": "Manolo Mendez"
+  }, 
+  {
+   "slug": "mennow", 
+   "id": 40367, 
+   "name": "Mennow"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:59", 
+  "milliseconds": 419986
+ }, 
+ "id": 297485, 
+ "genres": [
+  {
+   "slug": "electro-house", 
+   "id": 17, 
+   "name": "Electro House"
+  }
+ ], 
+ "title": "Rock (Original Mix)", 
+ "label": {
+  "slug": "big-boss-records", 
+  "id": 5306, 
+  "name": "Big Boss Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/10c1425b-6a12-48ed-9485-05835ea856b5.LOFI.mp4", 
+   "offset": {
+    "start": 167994, 
+    "end": 287994
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/10c1425b-6a12-48ed-9485-05835ea856b5.LOFI.mp3", 
+   "offset": {
+    "start": 167994, 
+    "end": 287994
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C maj", 
+ "date": {
+  "released": "2007-06-08", 
+  "published": "2007-05-16"
+ }, 
+ "active": true, 
+ "slug": "rock-original-mix", 
+ "preorder": false, 
+ "name": "Rock", 
+ "component_type": null, 
+ "bpm": 128, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "rock", 
+  "id": 56864, 
+  "name": "Rock"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/c5c7fc34-fc6b-4cec-9260-3f0cd3572e16.png", 
+   "width": 1500, 
+   "id": 2237380, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

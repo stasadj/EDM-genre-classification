@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/5a7722c8-bfe4-46f9-bbed-7df5a465ac5c.jpg", 
+   "width": 500, 
+   "id": 783012, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/2d4565d2-63e4-4d46-ad3c-573bc12ca5b7.jpg", 
+   "width": 30, 
+   "id": 783010, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/dae9822a-f085-4180-a61e-cae7e48540c3.jpg", 
+   "width": 60, 
+   "id": 783011, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/5a7722c8-bfe4-46f9-bbed-7df5a465ac5c.jpg", 
+   "id": 783012
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "cell-auto-mata", 
+   "id": 151966, 
+   "name": "Cell Auto Mata"
+  }
+ ], 
+ "duration": {
+  "minutes": "4:58", 
+  "milliseconds": 298600
+ }, 
+ "id": 1389267, 
+ "genres": [
+  {
+   "slug": "electronica-downtempo", 
+   "id": 3, 
+   "name": "Electronica / Downtempo"
+  }
+ ], 
+ "title": "Ign558 (Original Mix)", 
+ "label": {
+  "slug": "ant-zen", 
+  "id": 4708, 
+  "name": "Ant-Zen"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/c24cda02-8c03-4234-967f-db6d41f9451a.LOFI.mp3", 
+   "offset": {
+    "start": 119440, 
+    "end": 239681
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "E maj", 
+ "date": {
+  "released": "2003-09-13", 
+  "published": "2003-09-13"
+ }, 
+ "active": true, 
+ "slug": "ign558-original-mix", 
+ "preorder": false, 
+ "name": "Ign558", 
+ "component_type": null, 
+ "bpm": 140, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "the-devil-is-in-the-detail", 
+  "id": 276646, 
+  "name": "The Devil Is in the Detail"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/d7ad9e9a-cc56-4527-9cf6-992c8f3a51b2.png", 
+   "width": 1500, 
+   "id": 6806759, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/d7ad9e9a-cc56-4527-9cf6-992c8f3a51b2.png", 
+   "id": 6806759
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

@@ -1,0 +1,133 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/16a45c1c-0fb9-4878-bbe4-b67ee5cccc12.jpg", 
+   "width": 500, 
+   "id": 11106234, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/322780b6-ec18-45df-9cdc-7a2a57fda266.jpg", 
+   "width": 30, 
+   "id": 104776, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/6005eb6d-dbfd-4ddb-8dc4-344158b14ef7.jpg", 
+   "width": 60, 
+   "id": 104777, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/16a45c1c-0fb9-4878-bbe4-b67ee5cccc12.jpg", 
+   "id": 11106234
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "dj-memo", 
+   "id": 38073, 
+   "name": "DJ Memo"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:41", 
+  "milliseconds": 341533
+ }, 
+ "id": 299887, 
+ "genres": [
+  {
+   "slug": "breaks", 
+   "id": 9, 
+   "name": "Breaks"
+  }
+ ], 
+ "title": "12345678910 (Fran Egea Remix)", 
+ "label": {
+  "slug": "porno-school", 
+  "id": 5171, 
+  "name": "Porno School"
+ }, 
+ "mix": "Fran Egea Remix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/a4746a9a-f0c2-4e47-af6a-991f61a84c8d.LOFI.mp4", 
+   "offset": {
+    "start": 136613, 
+    "end": 256613
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/a4746a9a-f0c2-4e47-af6a-991f61a84c8d.LOFI.mp3", 
+   "offset": {
+    "start": 136613, 
+    "end": 256613
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "fran-egea", 
+   "id": 40684, 
+   "name": "Fran Egea"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F maj", 
+ "date": {
+  "released": "2007-05-21", 
+  "published": "2007-05-21"
+ }, 
+ "active": true, 
+ "slug": "12345678910-fran-egea-remix", 
+ "preorder": false, 
+ "name": "12345678910", 
+ "component_type": null, 
+ "bpm": 130, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "12345678910", 
+  "id": 57359, 
+  "name": "12345678910"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/c9382fd4-a141-4f0c-88c6-317a6fef0ec7.png", 
+   "width": 1500, 
+   "id": 2234137, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/c9382fd4-a141-4f0c-88c6-317a6fef0ec7.png", 
+   "id": 2234137
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

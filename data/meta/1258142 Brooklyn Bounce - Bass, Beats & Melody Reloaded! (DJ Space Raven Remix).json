@@ -1,0 +1,133 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/837e7237-8989-40fe-87e4-a63afa903207.jpg", 
+   "width": 500, 
+   "id": 702208, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/02d50746-b142-4ab9-8d22-02459a412aa0.jpg", 
+   "width": 30, 
+   "id": 702206, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/3359c300-d6cc-4fd2-b63c-37560e36d343.jpg", 
+   "width": 60, 
+   "id": 702207, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/837e7237-8989-40fe-87e4-a63afa903207.jpg", 
+   "id": 702208
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "brooklyn-bounce", 
+   "id": 39850, 
+   "name": "Brooklyn Bounce"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:47", 
+  "milliseconds": 467409
+ }, 
+ "id": 1258142, 
+ "genres": [
+  {
+   "slug": "trance", 
+   "id": 7, 
+   "name": "Trance"
+  }
+ ], 
+ "title": "Bass, Beats & Melody Reloaded! (DJ Space Raven Remix)", 
+ "label": {
+  "slug": "mental-madness-records", 
+  "id": 2690, 
+  "name": "Mental Madness Records"
+ }, 
+ "mix": "DJ Space Raven Remix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/c392c544-35ad-4689-898d-92caf9016d02.LOFI.mp4", 
+   "offset": {
+    "start": 186963, 
+    "end": 306963
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/c392c544-35ad-4689-898d-92caf9016d02.LOFI.mp3", 
+   "offset": {
+    "start": 186963, 
+    "end": 306963
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "nicolas-perrottey", 
+   "id": 142002, 
+   "name": "Nicolas Perrottey"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C\u266f maj", 
+ "date": {
+  "released": "2010-06-11", 
+  "published": "2010-06-11"
+ }, 
+ "active": true, 
+ "slug": "bass-beats-and-melody-reloaded!-dj-space-raven-remix", 
+ "preorder": false, 
+ "name": "Bass, Beats & Melody Reloaded!", 
+ "component_type": null, 
+ "bpm": 140, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "bass-beats-and-melody-reloaded!-black-and-white-edition", 
+  "id": 253069, 
+  "name": "Bass, Beats & Melody Reloaded! (Black & White Edition)"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/a548a71a-582f-45e1-846c-5abf88c7d160.png", 
+   "width": 1500, 
+   "id": 14800544, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/a548a71a-582f-45e1-846c-5abf88c7d160.png", 
+   "id": 14800544
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/fbf24704-cb93-4510-ae71-c2abe9e77e28.jpg", 
+   "width": 500, 
+   "id": 952251, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/4ad49eb3-7ce0-460d-a5be-8eafc9d6c0ce.jpg", 
+   "width": 30, 
+   "id": 952249, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/9358229e-664c-459b-b3d2-7627117454f2.jpg", 
+   "width": 60, 
+   "id": 952250, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/fbf24704-cb93-4510-ae71-c2abe9e77e28.jpg", 
+   "id": 952251
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "fernando-farinha", 
+   "id": 173389, 
+   "name": "Fernando Farinha"
+  }
+ ], 
+ "duration": {
+  "minutes": "3:29", 
+  "milliseconds": 209880
+ }, 
+ "id": 1669212, 
+ "genres": [
+  {
+   "slug": "electronica-downtempo", 
+   "id": 3, 
+   "name": "Electronica / Downtempo"
+  }
+ ], 
+ "title": "Descrenca (Original Mix)", 
+ "label": {
+  "slug": "honest-jons-records", 
+  "id": 13223, 
+  "name": "Honest Jons Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/a493b636-fcc9-4e91-b9ec-773bcc32fa52.LOFI.mp3", 
+   "offset": {
+    "start": 83952, 
+    "end": 204457
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A\u266f maj", 
+ "date": {
+  "released": "2009-03-13", 
+  "published": "2009-03-13"
+ }, 
+ "active": true, 
+ "slug": "descrenca-original-mix", 
+ "preorder": false, 
+ "name": "Descrenca", 
+ "component_type": null, 
+ "bpm": 0, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "sprigs-of-time", 
+  "id": 326242, 
+  "name": "Sprigs Of Time"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/36062041-c6e4-4826-bf52-9e8bd2bffe62.png", 
+   "width": 1500, 
+   "id": 952292, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/36062041-c6e4-4826-bf52-9e8bd2bffe62.png", 
+   "id": 952292
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

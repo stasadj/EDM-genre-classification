@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/23fe8805-3859-427d-8290-024f70bf9b24.jpg", 
+   "width": 500, 
+   "id": 2849340, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/f5807255-fb05-48cf-b4fa-3a1b5d182e5d.jpg", 
+   "width": 30, 
+   "id": 2849338, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/5efc4d18-bdba-4dbc-afcc-ab07c0176719.jpg", 
+   "width": 60, 
+   "id": 2849339, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/23fe8805-3859-427d-8290-024f70bf9b24.jpg", 
+   "id": 2849340
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "elektro-punk", 
+   "id": 193565, 
+   "name": "Elektro-Punk"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:35", 
+  "milliseconds": 395912
+ }, 
+ "id": 1918338, 
+ "genres": [
+  {
+   "slug": "psy-trance", 
+   "id": 13, 
+   "name": "Psy-Trance"
+  }
+ ], 
+ "title": "Restless Leg Syndrome (Original Mix)", 
+ "label": {
+  "slug": "clock-form-records", 
+  "id": 17607, 
+  "name": "Clock Form Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/40fd1145-25f6-4dea-a921-6e5cb90ad6b6.LOFI.mp3", 
+   "offset": {
+    "start": 158364, 
+    "end": 278641
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "E maj", 
+ "date": {
+  "released": "2011-05-28", 
+  "published": "2011-05-28"
+ }, 
+ "active": true, 
+ "slug": "restless-leg-syndrome-original-mix", 
+ "preorder": false, 
+ "name": "Restless Leg Syndrome", 
+ "component_type": null, 
+ "bpm": 137, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "the-swag-ep", 
+  "id": 372289, 
+  "name": "The Swag EP"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/49408a77-df8e-449e-9f52-2d21ef4fbbaf.png", 
+   "width": 1500, 
+   "id": 2850231, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/49408a77-df8e-449e-9f52-2d21ef4fbbaf.png", 
+   "id": 2850231
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/f969ff1b-1c34-4f8c-b883-a913bf0030cd.jpg", 
+   "width": 500, 
+   "id": 9448905, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/6e47faf2-308e-4fc3-8809-2c3974024c03.jpg", 
+   "width": 30, 
+   "id": 3093668, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/6df16d3b-85e7-40da-808e-5ff869ec6a14.jpg", 
+   "width": 60, 
+   "id": 3093669, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/f969ff1b-1c34-4f8c-b883-a913bf0030cd.jpg", 
+   "id": 9448905
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "collective-sound-members", 
+   "id": 36265, 
+   "name": "Collective Sound Members"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:09", 
+  "milliseconds": 309701
+ }, 
+ "id": 5420676, 
+ "genres": [
+  {
+   "slug": "electronica-downtempo", 
+   "id": 3, 
+   "name": "Electronica / Downtempo"
+  }
+ ], 
+ "title": "Forever Waiting (Original Mix)", 
+ "label": {
+  "slug": "latenight-records", 
+  "id": 21805, 
+  "name": "Latenight Records "
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/7dc21807-14f1-49e3-a619-2241466507ce.LOFI.mp4", 
+   "offset": {
+    "start": 123880, 
+    "end": 243880
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/7dc21807-14f1-49e3-a619-2241466507ce.LOFI.mp3", 
+   "offset": {
+    "start": 123880, 
+    "end": 243880
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A\u266f maj", 
+ "date": {
+  "released": "2014-06-02", 
+  "published": "2014-06-02"
+ }, 
+ "active": true, 
+ "slug": "forever-waiting-original-mix", 
+ "preorder": false, 
+ "name": "Forever Waiting", 
+ "component_type": null, 
+ "bpm": 90, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "forever-waiting-single", 
+  "id": 1302185, 
+  "name": "Forever Waiting - Single"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/c33ee45e-b260-491c-bc46-cf72d1757cf9.png", 
+   "width": 1500, 
+   "id": 9449236, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/c33ee45e-b260-491c-bc46-cf72d1757cf9.png", 
+   "id": 9449236
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

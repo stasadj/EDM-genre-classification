@@ -1,0 +1,130 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/c9921e30-56fb-4108-a647-fcba6f1f0d34.jpg", 
+   "width": 500, 
+   "id": 5022072, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/cd58eb95-3f17-4d2a-b525-caade0d08313.jpg", 
+   "width": 30, 
+   "id": 5022070, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/dba54bca-66c7-4680-85c4-c4877cd82ae1.jpg", 
+   "width": 60, 
+   "id": 5022071, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/c9921e30-56fb-4108-a647-fcba6f1f0d34.jpg", 
+   "id": 5022072
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "nian-project", 
+   "id": 90481, 
+   "name": "Nian Project"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:05", 
+  "milliseconds": 425404
+ }, 
+ "id": 3303218, 
+ "genres": [
+  {
+   "slug": "tech-house", 
+   "id": 11, 
+   "name": "Tech House"
+  }
+ ], 
+ "title": "Joy Thing (Bit Sunday Mix)", 
+ "label": {
+  "slug": "urbanlife-records", 
+  "id": 14232, 
+  "name": "Urbanlife Records"
+ }, 
+ "mix": "Bit Sunday Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/0a29a767-f6e6-468f-95db-d53a8fd752f4.LOFI.mp3", 
+   "offset": {
+    "start": 170161, 
+    "end": 290275
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "bit-sunday", 
+   "id": 247712, 
+   "name": "Bit Sunday"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F\u266f maj", 
+ "date": {
+  "released": "2012-03-01", 
+  "published": "2012-03-01"
+ }, 
+ "active": true, 
+ "slug": "joy-thing-bit-sunday-mix", 
+ "preorder": false, 
+ "name": "Joy Thing", 
+ "component_type": null, 
+ "bpm": 123, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "joy-thing-feat-sherrita-duran", 
+  "id": 872891, 
+  "name": "Joy Thing (feat. Sherrita Duran)"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/a4e9b67e-e0a9-4a26-9029-8aa0e9ee30d6.png", 
+   "width": 1500, 
+   "id": 5023348, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/a4e9b67e-e0a9-4a26-9029-8aa0e9ee30d6.png", 
+   "id": 5023348
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

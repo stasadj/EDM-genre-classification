@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/4c70cfd9-f884-49c8-a3a9-eec45ec2ff35.jpg", 
+   "width": 500, 
+   "id": 8138941, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/202150e1-16ab-4691-bc5c-a524de7cdde6.jpg", 
+   "width": 30, 
+   "id": 8138939, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/8ee9b37c-c439-4933-a2fb-3c1ddafa4e35.jpg", 
+   "width": 60, 
+   "id": 8138940, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/4c70cfd9-f884-49c8-a3a9-eec45ec2ff35.jpg", 
+   "id": 8138941
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "amon-tobin", 
+   "id": 12708, 
+   "name": "Amon Tobin"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:54", 
+  "milliseconds": 354253
+ }, 
+ "id": 138819, 
+ "genres": [
+  {
+   "slug": "drum-and-bass", 
+   "id": 1, 
+   "name": "Drum & Bass"
+  }
+ ], 
+ "title": "Escape (Original Mix)", 
+ "label": {
+  "slug": "ninja-tune", 
+  "id": 1726, 
+  "name": "Ninja Tune"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/ce9e053d-bde0-4365-bb4f-8d7c8046214b.LOFI.mp4", 
+   "offset": {
+    "start": 141701, 
+    "end": 261701
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/ce9e053d-bde0-4365-bb4f-8d7c8046214b.LOFI.mp3", 
+   "offset": {
+    "start": 141701, 
+    "end": 261701
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "B maj", 
+ "date": {
+  "released": "1998-06-02", 
+  "published": "1998-06-02"
+ }, 
+ "active": true, 
+ "slug": "escape-original-mix", 
+ "preorder": false, 
+ "name": "Escape", 
+ "component_type": null, 
+ "bpm": 165, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "permutation", 
+  "id": 22375, 
+  "name": "Permutation"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/4276422a-d046-4cf3-96d7-2ddafa56c46f.png", 
+   "width": 1500, 
+   "id": 2402449, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/4276422a-d046-4cf3-96d7-2ddafa56c46f.png", 
+   "id": 2402449
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

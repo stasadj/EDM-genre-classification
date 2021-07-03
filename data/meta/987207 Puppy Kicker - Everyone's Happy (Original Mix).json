@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/63565dbb-2e27-472f-adbd-95aee8153053.jpg", 
+   "width": 500, 
+   "id": 514206, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/1f426554-2dd2-421c-a21b-b30b7b81d46e.jpg", 
+   "width": 30, 
+   "id": 514204, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/b20480c4-cd22-4fc6-9de0-1f36ac30091c.jpg", 
+   "width": 60, 
+   "id": 514205, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/63565dbb-2e27-472f-adbd-95aee8153053.jpg", 
+   "id": 514206
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "puppy-kicker", 
+   "id": 118734, 
+   "name": "Puppy Kicker"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:04", 
+  "milliseconds": 304058
+ }, 
+ "id": 987207, 
+ "genres": [
+  {
+   "slug": "dubstep", 
+   "id": 18, 
+   "name": "Dubstep"
+  }
+ ], 
+ "title": "Everyone's Happy (Original Mix)", 
+ "label": {
+  "slug": "rogue-dubs", 
+  "id": 12733, 
+  "name": "Rogue Dubs"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/fd016119-d514-4f83-8126-f57c60c9eaad.LOFI.mp3", 
+   "offset": {
+    "start": 121623, 
+    "end": 241645
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C\u266f maj", 
+ "date": {
+  "released": "2009-10-24", 
+  "published": "2009-10-24"
+ }, 
+ "active": true, 
+ "slug": "everyones-happy-original-mix", 
+ "preorder": false, 
+ "name": "Everyone's Happy", 
+ "component_type": null, 
+ "bpm": 68, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "roguedubs013", 
+  "id": 199276, 
+  "name": "RogueDubs013"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/2bc3aded-9014-417b-8a97-5d3d61744d43.png", 
+   "width": 1500, 
+   "id": 1628802, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/2bc3aded-9014-417b-8a97-5d3d61744d43.png", 
+   "id": 1628802
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

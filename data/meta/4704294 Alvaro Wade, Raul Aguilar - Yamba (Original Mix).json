@@ -1,0 +1,132 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/efbbcf41-9d06-4e68-b39f-3367deb94def.jpg", 
+   "width": 500, 
+   "id": 8109369, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/59945604-6be5-47a5-888f-e05f09b6d140.jpg", 
+   "width": 30, 
+   "id": 8109367, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/d1fc4630-e757-41ee-b977-f42151a201ab.jpg", 
+   "width": 60, 
+   "id": 8109368, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/efbbcf41-9d06-4e68-b39f-3367deb94def.jpg", 
+   "id": 8109369
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "alvaro-wade", 
+   "id": 246496, 
+   "name": "Alvaro Wade"
+  }, 
+  {
+   "slug": "raul-aguilar", 
+   "id": 311541, 
+   "name": "Raul Aguilar"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:24", 
+  "milliseconds": 384313
+ }, 
+ "id": 4704294, 
+ "genres": [
+  {
+   "slug": "tech-house", 
+   "id": 11, 
+   "name": "Tech House"
+  }
+ ], 
+ "title": "Yamba (Original Mix)", 
+ "label": {
+  "slug": "huambo-records", 
+  "id": 29130, 
+  "name": "Huambo Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/065bbeba-a2b3-4851-af3a-e35ba6c25e07.LOFI.mp4", 
+   "offset": {
+    "start": 153725, 
+    "end": 273725
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/065bbeba-a2b3-4851-af3a-e35ba6c25e07.LOFI.mp3", 
+   "offset": {
+    "start": 153725, 
+    "end": 273725
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A\u266f maj", 
+ "date": {
+  "released": "2013-09-18", 
+  "published": "2013-09-18"
+ }, 
+ "active": true, 
+ "slug": "yamba-original-mix", 
+ "preorder": false, 
+ "name": "Yamba", 
+ "component_type": null, 
+ "bpm": 126, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "huambo-essentials-vol-2", 
+  "id": 1156390, 
+  "name": "Huambo Essentials Vol.2"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/f01a20db-bb84-473a-89a0-27c237db1596.png", 
+   "width": 1500, 
+   "id": 8109401, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/f01a20db-bb84-473a-89a0-27c237db1596.png", 
+   "id": 8109401
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

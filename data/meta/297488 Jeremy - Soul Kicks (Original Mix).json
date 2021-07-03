@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/da27833f-2287-468b-b36f-6399c9bfb07c.jpg", 
+   "width": 30, 
+   "id": 103582, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/2b973701-eb87-4133-9992-680d9b7ac8f9.jpg", 
+   "width": 60, 
+   "id": 103583, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/2b973701-eb87-4133-9992-680d9b7ac8f9.jpg", 
+   "id": 103583
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "jeremy", 
+   "id": 29284, 
+   "name": "Jeremy"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:08", 
+  "milliseconds": 368946
+ }, 
+ "id": 297488, 
+ "genres": [
+  {
+   "slug": "deep-house", 
+   "id": 12, 
+   "name": "Deep House"
+  }
+ ], 
+ "title": "Soul Kicks (Original Mix)", 
+ "label": {
+  "slug": "tronic-soundz", 
+  "id": 4800, 
+  "name": "Tronic Soundz"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/baa96327-21ca-4a6c-ac97-8e26c6114428.LOFI.mp4", 
+   "offset": {
+    "start": 147578, 
+    "end": 267578
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/baa96327-21ca-4a6c-ac97-8e26c6114428.LOFI.mp3", 
+   "offset": {
+    "start": 147578, 
+    "end": 267578
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F maj", 
+ "date": {
+  "released": "2007-05-17", 
+  "published": "2007-05-17"
+ }, 
+ "active": true, 
+ "slug": "soul-kicks-original-mix", 
+ "preorder": false, 
+ "name": "Soul Kicks", 
+ "component_type": null, 
+ "bpm": 126, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "escape", 
+  "id": 56865, 
+  "name": "Escape"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/f55ec974-a13c-42fa-9694-f0d1ad4ab753.png", 
+   "width": 1500, 
+   "id": 2237446, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

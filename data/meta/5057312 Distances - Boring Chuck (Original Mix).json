@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/19f3b2a2-36e8-4239-b40a-fd757db767fa.jpg", 
+   "width": 500, 
+   "id": 8831473, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/38e297d6-651a-4480-9820-4aae7debe03c.jpg", 
+   "width": 30, 
+   "id": 4230396, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/2a038947-42ff-4457-b0c9-63792b8e1151.jpg", 
+   "width": 60, 
+   "id": 4230397, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/19f3b2a2-36e8-4239-b40a-fd757db767fa.jpg", 
+   "id": 8831473
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "distances", 
+   "id": 380123, 
+   "name": "Distances"
+  }
+ ], 
+ "duration": {
+  "minutes": "2:50", 
+  "milliseconds": 170625
+ }, 
+ "id": 5057312, 
+ "genres": [
+  {
+   "slug": "electro-house", 
+   "id": 17, 
+   "name": "Electro House"
+  }
+ ], 
+ "title": "Boring Chuck (Original Mix)", 
+ "label": {
+  "slug": "dubtronic", 
+  "id": 22853, 
+  "name": "Dubtronic"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/47b997ff-871b-47ab-b878-c31bd93e34fa.LOFI.mp4", 
+   "offset": {
+    "start": 50625, 
+    "end": 170625
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/47b997ff-871b-47ab-b878-c31bd93e34fa.LOFI.mp3", 
+   "offset": {
+    "start": 50625, 
+    "end": 170625
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "G\u266f maj", 
+ "date": {
+  "released": "2014-02-07", 
+  "published": "2014-02-07"
+ }, 
+ "active": true, 
+ "slug": "boring-chuck-original-mix", 
+ "preorder": false, 
+ "name": "Boring Chuck", 
+ "component_type": null, 
+ "bpm": 128, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "edm-electro-house-club-tracks", 
+  "id": 1224694, 
+  "name": "Edm Electro House Club Tracks"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/4c18f334-d734-4a85-ab0f-f237bad35e27.png", 
+   "width": 1500, 
+   "id": 8831508, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/4c18f334-d734-4a85-ab0f-f237bad35e27.png", 
+   "id": 8831508
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/d5dc1d2c-0598-4314-bebf-27f00dad05e8.jpg", 
+   "width": 500, 
+   "id": 2750992, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/6ef43629-14a2-4092-ae49-210f4c51909d.jpg", 
+   "width": 30, 
+   "id": 2750990, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/41a70b75-aab4-4fe9-a3bd-8c65bd637d39.jpg", 
+   "width": 60, 
+   "id": 2750991, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/d5dc1d2c-0598-4314-bebf-27f00dad05e8.jpg", 
+   "id": 2750992
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "luap", 
+   "id": 136251, 
+   "name": "Luap"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:58", 
+  "milliseconds": 418443
+ }, 
+ "id": 1857841, 
+ "genres": [
+  {
+   "slug": "psy-trance", 
+   "id": 13, 
+   "name": "Psy-Trance"
+  }
+ ], 
+ "title": "Taiko Tympani (Original Mix)", 
+ "label": {
+  "slug": "digitalfrequenz-records", 
+  "id": 19925, 
+  "name": "DigitalFrequenz Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/674d41dd-7dd7-485c-a9c8-130a4bd5e1c5.LOFI.mp3", 
+   "offset": {
+    "start": 167377, 
+    "end": 287504
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F\u266f maj", 
+ "date": {
+  "released": "2011-04-21", 
+  "published": "2011-04-21"
+ }, 
+ "active": true, 
+ "slug": "taiko-tympani-original-mix", 
+ "preorder": false, 
+ "name": "Taiko Tympani", 
+ "component_type": null, 
+ "bpm": 145, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "wool-button", 
+  "id": 360923, 
+  "name": "Wool Button"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/0233ebfd-64e0-4967-83d2-9940cc986dfc.png", 
+   "width": 1500, 
+   "id": 2750998, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/0233ebfd-64e0-4967-83d2-9940cc986dfc.png", 
+   "id": 2750998
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

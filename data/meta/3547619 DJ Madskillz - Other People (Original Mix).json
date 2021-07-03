@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/07c81210-eb2e-4a92-94d5-a34abfe7971e.jpg", 
+   "width": 500, 
+   "id": 5513482, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/89b43938-1572-4ee4-abee-9eedbf1c3bcc.jpg", 
+   "width": 30, 
+   "id": 5513480, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/6aad2c83-5b00-41ce-b35d-21ec8f6bb563.jpg", 
+   "width": 60, 
+   "id": 5513481, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/07c81210-eb2e-4a92-94d5-a34abfe7971e.jpg", 
+   "id": 5513482
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "dj-madskillz", 
+   "id": 10930, 
+   "name": "DJ Madskillz"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:21", 
+  "milliseconds": 381022
+ }, 
+ "id": 3547619, 
+ "genres": [
+  {
+   "slug": "tech-house", 
+   "id": 11, 
+   "name": "Tech House"
+  }
+ ], 
+ "title": "Other People (Original Mix)", 
+ "label": {
+  "slug": "wasabi-recordings", 
+  "id": 3272, 
+  "name": "Wasabi Recordings"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/cbe18065-f1d8-421e-951c-1007bd986d3f.LOFI.mp3", 
+   "offset": {
+    "start": 152408, 
+    "end": 272414
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A\u266f maj", 
+ "date": {
+  "released": "2012-06-22", 
+  "published": "2012-06-22"
+ }, 
+ "active": true, 
+ "slug": "other-people-original-mix", 
+ "preorder": false, 
+ "name": "Other People", 
+ "component_type": null, 
+ "bpm": 126, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "deep-house-stories-volume-seven", 
+  "id": 920756, 
+  "name": "Deep House Stories - Volume Seven"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/9294c624-a839-4f2a-89ff-dd8beeb7e6d5.png", 
+   "width": 1500, 
+   "id": 5516896, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/9294c624-a839-4f2a-89ff-dd8beeb7e6d5.png", 
+   "id": 5516896
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

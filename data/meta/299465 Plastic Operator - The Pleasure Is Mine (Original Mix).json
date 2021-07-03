@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/80f425f2-2106-4648-962e-88aecd8df51e.jpg", 
+   "width": 30, 
+   "id": 104608, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/19512c6b-e210-48ce-b6dc-29dbe183c2b7.jpg", 
+   "width": 60, 
+   "id": 104609, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/19512c6b-e210-48ce-b6dc-29dbe183c2b7.jpg", 
+   "id": 104609
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "plastic-operator", 
+   "id": 10863, 
+   "name": "Plastic Operator"
+  }
+ ], 
+ "duration": {
+  "minutes": "2:48", 
+  "milliseconds": 168440
+ }, 
+ "id": 299465, 
+ "genres": [
+  {
+   "slug": "electronica-downtempo", 
+   "id": 3, 
+   "name": "Electronica / Downtempo"
+  }
+ ], 
+ "title": "The Pleasure Is Mine (Original Mix)", 
+ "label": {
+  "slug": "fine-day-records", 
+  "id": 5775, 
+  "name": "Fine Day Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/b635c5b7-49e9-48bd-bb76-a7ce80348a5b.LOFI.mp4", 
+   "offset": {
+    "start": 48440, 
+    "end": 168440
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/b635c5b7-49e9-48bd-bb76-a7ce80348a5b.LOFI.mp3", 
+   "offset": {
+    "start": 48440, 
+    "end": 168440
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "E maj", 
+ "date": {
+  "released": "2007-05-18", 
+  "published": "2007-05-18"
+ }, 
+ "active": true, 
+ "slug": "the-pleasure-is-mine-original-mix", 
+ "preorder": false, 
+ "name": "The Pleasure Is Mine", 
+ "component_type": null, 
+ "bpm": 127, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "different-places", 
+  "id": 57278, 
+  "name": "Different Places"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/7b06dd67-e5f1-4e06-b499-3aa39e3dc32f.png", 
+   "width": 1500, 
+   "id": 2537609, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

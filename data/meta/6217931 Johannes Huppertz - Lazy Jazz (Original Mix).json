@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/38d3a87c-2dac-4b50-9af3-90e1aa5f5b4f.jpg", 
+   "width": 500, 
+   "id": 10812507, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/2f6f6a3e-6730-4cdd-a63d-61d9bfdfc4f1.jpg", 
+   "width": 30, 
+   "id": 491534, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/91943b2a-2ecd-49b3-847d-00a3608be53a.jpg", 
+   "width": 60, 
+   "id": 10330931, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/38d3a87c-2dac-4b50-9af3-90e1aa5f5b4f.jpg", 
+   "id": 10812507
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "johannes-huppertz", 
+   "id": 95622, 
+   "name": "Johannes Huppertz"
+  }
+ ], 
+ "duration": {
+  "minutes": "4:36", 
+  "milliseconds": 276684
+ }, 
+ "id": 6217931, 
+ "genres": [
+  {
+   "slug": "electronica-downtempo", 
+   "id": 3, 
+   "name": "Electronica / Downtempo"
+  }
+ ], 
+ "title": "Lazy Jazz (Original Mix)", 
+ "label": {
+  "slug": "karma-sunset", 
+  "id": 44614, 
+  "name": "Karma Sunset"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/08d8f3ce-527c-4a9c-893a-dbc26e57a113.LOFI.mp4", 
+   "offset": {
+    "start": 110673, 
+    "end": 230673
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/08d8f3ce-527c-4a9c-893a-dbc26e57a113.LOFI.mp3", 
+   "offset": {
+    "start": 110673, 
+    "end": 230673
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A\u266f maj", 
+ "date": {
+  "released": "2015-01-09", 
+  "published": "2015-01-09"
+ }, 
+ "active": true, 
+ "slug": "lazy-jazz-original-mix", 
+ "preorder": false, 
+ "name": "Lazy Jazz", 
+ "component_type": null, 
+ "bpm": 74, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "night-club-lounge-vol-1-selection-of-finest-soulful-smooth-jazz-lounge-and-chill-out-tunes", 
+  "id": 1449815, 
+  "name": "Night Club Lounge, Vol. 1 (Selection of Finest Soulful Smooth Jazz, Lounge & Chill out Tunes)"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/db0db11b-1619-4d4a-80df-9c19028751fc.png", 
+   "width": 1500, 
+   "id": 10813039, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/db0db11b-1619-4d4a-80df-9c19028751fc.png", 
+   "id": 10813039
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

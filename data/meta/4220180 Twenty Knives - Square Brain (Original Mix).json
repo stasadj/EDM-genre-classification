@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/f0c1d585-eecf-46c2-986b-af20db5915d8.jpg", 
+   "width": 500, 
+   "id": 7042530, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/cd263fe1-4fac-4e49-ab22-7026f0eb3321.jpg", 
+   "width": 30, 
+   "id": 7042528, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/414d255b-c209-4505-b8e8-938f3b52a924.jpg", 
+   "width": 60, 
+   "id": 7042529, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/f0c1d585-eecf-46c2-986b-af20db5915d8.jpg", 
+   "id": 7042530
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "twenty-knives", 
+   "id": 88162, 
+   "name": "Twenty Knives"
+  }
+ ], 
+ "duration": {
+  "minutes": "4:09", 
+  "milliseconds": 249600
+ }, 
+ "id": 4220180, 
+ "genres": [
+  {
+   "slug": "electronica-downtempo", 
+   "id": 3, 
+   "name": "Electronica / Downtempo"
+  }
+ ], 
+ "title": "Square Brain (Original Mix)", 
+ "label": {
+  "slug": "hymen-records", 
+  "id": 4549, 
+  "name": "Hymen Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/827e8441-c136-41fc-b0d7-ad4f22de574a.LOFI.mp4", 
+   "offset": {
+    "start": 99840, 
+    "end": 219840
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/827e8441-c136-41fc-b0d7-ad4f22de574a.LOFI.mp3", 
+   "offset": {
+    "start": 99840, 
+    "end": 219840
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C\u266f maj", 
+ "date": {
+  "released": "2011-04-18", 
+  "published": "2011-04-18"
+ }, 
+ "active": true, 
+ "slug": "square-brain-original-mix", 
+ "preorder": false, 
+ "name": "Square Brain", 
+ "component_type": null, 
+ "bpm": 125, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "the-royal-we", 
+  "id": 1054797, 
+  "name": "The Royal We"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/6c9812d1-6180-451b-8395-62b42ecfa80c.png", 
+   "width": 1500, 
+   "id": 7042546, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/6c9812d1-6180-451b-8395-62b42ecfa80c.png", 
+   "id": 7042546
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

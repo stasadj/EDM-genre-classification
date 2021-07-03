@@ -1,0 +1,138 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/cac99df8-b464-467c-ae3e-265aa1270186.jpg", 
+   "width": 30, 
+   "id": 172746, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/1d828757-3e38-4507-896c-38479846d946.jpg", 
+   "width": 60, 
+   "id": 172747, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/1d828757-3e38-4507-896c-38479846d946.jpg", 
+   "id": 172747
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "klems", 
+   "id": 32353, 
+   "name": "Klems"
+  }, 
+  {
+   "slug": "liloo", 
+   "id": 59731, 
+   "name": "Liloo"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:14", 
+  "milliseconds": 434104
+ }, 
+ "id": 435271, 
+ "genres": [
+  {
+   "slug": "trance", 
+   "id": 7, 
+   "name": "Trance"
+  }
+ ], 
+ "title": "Green Day (Original Mix)", 
+ "label": {
+  "slug": "greenspot-music", 
+  "id": 8152, 
+  "name": "Greenspot Music"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/1ecaa6c6-85fb-49dd-aaa0-630b37f6250a.LOFI.mp4", 
+   "offset": {
+    "start": 173641, 
+    "end": 293641
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/1ecaa6c6-85fb-49dd-aaa0-630b37f6250a.LOFI.mp3", 
+   "offset": {
+    "start": 173641, 
+    "end": 293641
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "B maj", 
+ "date": {
+  "released": "2007-04-16", 
+  "published": "2007-04-16"
+ }, 
+ "active": true, 
+ "slug": "green-day-original-mix", 
+ "preorder": false, 
+ "name": "Green Day", 
+ "component_type": null, 
+ "bpm": 135, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "green-day", 
+  "id": 84773, 
+  "name": "Green Day"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/24743e73-3e6e-4cdd-90d4-e0e360368c74.png", 
+   "width": 1500, 
+   "id": 2510583, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": [
+  {
+   "slug": "progressive", 
+   "id": 27, 
+   "name": "Progressive"
+  }
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/89ee1d44-4ea4-46ff-a729-a4eab152a659.jpg", 
+   "width": 30, 
+   "id": 280823, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/0cbd35ae-8023-4ebd-8902-6731ed234596.jpg", 
+   "width": 60, 
+   "id": 280824, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/0cbd35ae-8023-4ebd-8902-6731ed234596.jpg", 
+   "id": 280824
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "billy-paul-williams", 
+   "id": 1844, 
+   "name": "Billy Paul Williams"
+  }
+ ], 
+ "duration": {
+  "minutes": "8:05", 
+  "milliseconds": 485786
+ }, 
+ "id": 11077, 
+ "genres": [
+  {
+   "slug": "electronica-downtempo", 
+   "id": 3, 
+   "name": "Electronica / Downtempo"
+  }
+ ], 
+ "title": "Winter Heat (Original Mix)", 
+ "label": {
+  "slug": "kriztal-entertainment", 
+  "id": 271, 
+  "name": "Kriztal Entertainment"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/879e25d6-f95a-4b04-93b1-a3de41da477a.LOFI.mp4", 
+   "offset": {
+    "start": 194314, 
+    "end": 314314
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/879e25d6-f95a-4b04-93b1-a3de41da477a.LOFI.mp3", 
+   "offset": {
+    "start": 194314, 
+    "end": 314314
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C maj", 
+ "date": {
+  "released": "2003-06-04", 
+  "published": "2003-06-04"
+ }, 
+ "active": true, 
+ "slug": "winter-heat-original-mix", 
+ "preorder": false, 
+ "name": "Winter Heat", 
+ "component_type": null, 
+ "bpm": 100, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "miles-to-go", 
+  "id": 4502, 
+  "name": "Miles To Go"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/3b455664-d388-4f5f-a1ed-c53e7c606c40.png", 
+   "width": 1500, 
+   "id": 2498361, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

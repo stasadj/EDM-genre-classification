@@ -1,0 +1,132 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/339665f8-a0e9-4dd0-aad2-d77e8264df02.jpg", 
+   "width": 500, 
+   "id": 8470549, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/9d794fe4-3f65-41e4-ae47-5c05f75200ca.jpg", 
+   "width": 30, 
+   "id": 8470547, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/d9944cb8-25a8-4d98-ae9d-0c3dc17b438f.jpg", 
+   "width": 60, 
+   "id": 8470548, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/339665f8-a0e9-4dd0-aad2-d77e8264df02.jpg", 
+   "id": 8470549
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "jaren", 
+   "id": 34993, 
+   "name": "Jaren"
+  }, 
+  {
+   "slug": "andy-duguid", 
+   "id": 45904, 
+   "name": "Andy Duguid"
+  }
+ ], 
+ "duration": {
+  "minutes": "4:12", 
+  "milliseconds": 252236
+ }, 
+ "id": 4878879, 
+ "genres": [
+  {
+   "slug": "trance", 
+   "id": 7, 
+   "name": "Trance"
+  }
+ ], 
+ "title": "7even feat. Jaren (Radio Edit)", 
+ "label": {
+  "slug": "vandit", 
+  "id": 9311, 
+  "name": "VANDIT"
+ }, 
+ "mix": "Radio Edit", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/a413f79c-3582-4a07-bc7b-49f90f82f58f.LOFI.mp4", 
+   "offset": {
+    "start": 100894, 
+    "end": 220894
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/a413f79c-3582-4a07-bc7b-49f90f82f58f.LOFI.mp3", 
+   "offset": {
+    "start": 100894, 
+    "end": 220894
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "albumOnly", 
+ "purchase": 2, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "E maj", 
+ "date": {
+  "released": "2013-11-15", 
+  "published": "2013-11-15"
+ }, 
+ "active": true, 
+ "slug": "7even-feat-jaren-radio-edit", 
+ "preorder": false, 
+ "name": "7even feat. Jaren", 
+ "component_type": null, 
+ "bpm": 128, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "vonyc-sessions-selection-2013-11", 
+  "id": 1189708, 
+  "name": "VONYC Sessions Selection 2013-11"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/08e5a68c-7681-44a5-904b-dd4fa312d9ab.png", 
+   "width": 1500, 
+   "id": 8470868, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/08e5a68c-7681-44a5-904b-dd4fa312d9ab.png", 
+   "id": 8470868
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

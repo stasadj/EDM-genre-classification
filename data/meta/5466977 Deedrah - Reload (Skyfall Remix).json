@@ -1,0 +1,133 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/0a63c022-2900-46cd-90d8-8e8f5f8fd216.jpg", 
+   "width": 500, 
+   "id": 9525243, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/575ffa60-2a11-4977-964b-325022bc8983.jpg", 
+   "width": 30, 
+   "id": 9457543, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/806613f1-3f8e-463f-85d0-0feafb4d9413.jpg", 
+   "width": 60, 
+   "id": 9457544, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/0a63c022-2900-46cd-90d8-8e8f5f8fd216.jpg", 
+   "id": 9525243
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "deedrah", 
+   "id": 2921, 
+   "name": "Deedrah"
+  }
+ ], 
+ "duration": {
+  "minutes": "8:42", 
+  "milliseconds": 522043
+ }, 
+ "id": 5466977, 
+ "genres": [
+  {
+   "slug": "psy-trance", 
+   "id": 13, 
+   "name": "Psy-Trance"
+  }
+ ], 
+ "title": "Reload (Skyfall Remix)", 
+ "label": {
+  "slug": "nano-records", 
+  "id": 2527, 
+  "name": "Nano Records"
+ }, 
+ "mix": "Skyfall Remix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/5721aae9-b633-4a17-8340-c50d83c6bec8.LOFI.mp4", 
+   "offset": {
+    "start": 208817, 
+    "end": 328817
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/5721aae9-b633-4a17-8340-c50d83c6bec8.LOFI.mp3", 
+   "offset": {
+    "start": 208817, 
+    "end": 328817
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "skyfall", 
+   "id": 348196, 
+   "name": "Skyfall"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "E maj", 
+ "date": {
+  "released": "2014-05-27", 
+  "published": "2014-05-27"
+ }, 
+ "active": true, 
+ "slug": "reload-skyfall-remix", 
+ "preorder": false, 
+ "name": "Reload", 
+ "component_type": null, 
+ "bpm": 137, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "regenerate", 
+  "id": 1311510, 
+  "name": "Regenerate"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/d723ddeb-1d2f-4a0f-afb8-ef3eb66fd7c3.png", 
+   "width": 1500, 
+   "id": 9526451, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/d723ddeb-1d2f-4a0f-afb8-ef3eb66fd7c3.png", 
+   "id": 9526451
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

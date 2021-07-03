@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/fabbe01c-51c5-42c7-a7fa-2de74302effd.jpg", 
+   "width": 30, 
+   "id": 32830, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/b47c3ab1-ecaf-4b70-889a-3358248435c4.jpg", 
+   "width": 60, 
+   "id": 17102, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/b47c3ab1-ecaf-4b70-889a-3358248435c4.jpg", 
+   "id": 17102
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "kluster", 
+   "id": 1304, 
+   "name": "Kluster"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:43", 
+  "milliseconds": 463973
+ }, 
+ "id": 150864, 
+ "genres": [
+  {
+   "slug": "psy-trance", 
+   "id": 13, 
+   "name": "Psy-Trance"
+  }
+ ], 
+ "title": "Lava (Original Mix)", 
+ "label": {
+  "slug": "digital-psionics", 
+  "id": 2666, 
+  "name": "Digital Psionics"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/8264e263-f699-47c8-85c4-dba5e0701197.LOFI.mp4", 
+   "offset": {
+    "start": 185589, 
+    "end": 305589
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/8264e263-f699-47c8-85c4-dba5e0701197.LOFI.mp3", 
+   "offset": {
+    "start": 185589, 
+    "end": 305589
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F maj", 
+ "date": {
+  "released": "2002-05-04", 
+  "published": "2002-05-04"
+ }, 
+ "active": true, 
+ "slug": "lava-original-mix", 
+ "preorder": false, 
+ "name": "Lava", 
+ "component_type": null, 
+ "bpm": 135, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "bug-fix", 
+  "id": 28421, 
+  "name": "Bug Fix"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/d170a7d3-3c8c-45fc-acc6-14ecc30d99a8.png", 
+   "width": 1500, 
+   "id": 2396449, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/6c854514-bd4f-4c55-a200-662d99dba643.jpg", 
+   "width": 500, 
+   "id": 3017828, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/ce0621dd-dd8f-4c0b-9ead-9b0e98efaa65.jpg", 
+   "width": 30, 
+   "id": 3017826, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/b274b01d-165d-4f70-ab21-a6f5b5547485.jpg", 
+   "width": 60, 
+   "id": 3017827, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/6c854514-bd4f-4c55-a200-662d99dba643.jpg", 
+   "id": 3017828
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "rysh-paprota", 
+   "id": 90567, 
+   "name": "Rysh Paprota"
+  }
+ ], 
+ "duration": {
+  "minutes": "8:10", 
+  "milliseconds": 490704
+ }, 
+ "id": 2019112, 
+ "genres": [
+  {
+   "slug": "progressive-house", 
+   "id": 15, 
+   "name": "Progressive House"
+  }
+ ], 
+ "title": "I'll Float For Now (Original Mix)", 
+ "label": {
+  "slug": "vise-versa-music", 
+  "id": 7375, 
+  "name": "Vise Versa Music"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/a762df29-d270-4789-8bd0-315d2aec7dad.LOFI.mp3", 
+   "offset": {
+    "start": 196281, 
+    "end": 316453
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "G\u266f maj", 
+ "date": {
+  "released": "2011-07-07", 
+  "published": "2011-07-07"
+ }, 
+ "active": true, 
+ "slug": "ill-float-for-now-original-mix", 
+ "preorder": false, 
+ "name": "I'll Float For Now", 
+ "component_type": null, 
+ "bpm": 126, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "i-could-float-back-to-you-ep", 
+  "id": 392190, 
+  "name": "I Could Float Back To You EP"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/526f36f9-2250-4089-9303-20301cc5c643.png", 
+   "width": 1500, 
+   "id": 3017834, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/526f36f9-2250-4089-9303-20301cc5c643.png", 
+   "id": 3017834
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

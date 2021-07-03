@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/38acdbff-ff5f-47b2-a326-f1e46b66913d.jpg", 
+   "width": 500, 
+   "id": 4744058, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/24e275af-c8ac-452b-b74b-0c104a65dfba.jpg", 
+   "width": 30, 
+   "id": 4744056, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/e9896cb1-4612-4d3a-b075-530efb7773b2.jpg", 
+   "width": 60, 
+   "id": 4744057, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/38acdbff-ff5f-47b2-a326-f1e46b66913d.jpg", 
+   "id": 4744058
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "dj-disa", 
+   "id": 206431, 
+   "name": "DJ Disa"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:52", 
+  "milliseconds": 412857
+ }, 
+ "id": 3141667, 
+ "genres": [
+  {
+   "slug": "hard-dance", 
+   "id": 8, 
+   "name": "Hard Dance"
+  }
+ ], 
+ "title": "Odyssey (Original Mix)", 
+ "label": {
+  "slug": "transfixion-digital", 
+  "id": 20769, 
+  "name": "Transfixion Digital"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/8ff38ff6-0c08-4a0e-b48d-d6130ca510bc.LOFI.mp3", 
+   "offset": {
+    "start": 165142, 
+    "end": 285391
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C\u266f maj", 
+ "date": {
+  "released": "2011-12-20", 
+  "published": "2011-12-20"
+ }, 
+ "active": true, 
+ "slug": "odyssey-original-mix", 
+ "preorder": false, 
+ "name": "Odyssey", 
+ "component_type": null, 
+ "bpm": 140, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "odyssey", 
+  "id": 842723, 
+  "name": "Odyssey"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/422d11f7-94ba-4919-ae29-1e77fff8f5ae.png", 
+   "width": 1500, 
+   "id": 6876523, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/422d11f7-94ba-4919-ae29-1e77fff8f5ae.png", 
+   "id": 6876523
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

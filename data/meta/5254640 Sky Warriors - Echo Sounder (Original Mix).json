@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/8b372b96-ea79-42b9-8bdf-cfa785b7070a.jpg", 
+   "width": 500, 
+   "id": 9162396, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/2f6f6a3e-6730-4cdd-a63d-61d9bfdfc4f1.jpg", 
+   "width": 30, 
+   "id": 491534, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/4b7557ec-581f-49fd-a5e8-41e9f59f9865.jpg", 
+   "width": 60, 
+   "id": 10464023, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/8b372b96-ea79-42b9-8bdf-cfa785b7070a.jpg", 
+   "id": 9162396
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "sky-warriors", 
+   "id": 394787, 
+   "name": "Sky Warriors"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:16", 
+  "milliseconds": 376338
+ }, 
+ "id": 5254640, 
+ "genres": [
+  {
+   "slug": "minimal-deep-tech", 
+   "id": 14, 
+   "name": "Minimal / Deep Tech"
+  }
+ ], 
+ "title": "Echo Sounder (Original Mix)", 
+ "label": {
+  "slug": "schizophrenic-digital-label", 
+  "id": 33001, 
+  "name": "Schizophrenic Digital Label"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/a97a608f-8bb9-4d87-bba3-78ae78458d36.LOFI.mp4", 
+   "offset": {
+    "start": 150535, 
+    "end": 270535
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/a97a608f-8bb9-4d87-bba3-78ae78458d36.LOFI.mp3", 
+   "offset": {
+    "start": 150535, 
+    "end": 270535
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "G maj", 
+ "date": {
+  "released": "2014-04-14", 
+  "published": "2014-04-14"
+ }, 
+ "active": true, 
+ "slug": "echo-sounder-original-mix", 
+ "preorder": false, 
+ "name": "Echo Sounder", 
+ "component_type": null, 
+ "bpm": 125, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "anniversary-compilation-vol-1", 
+  "id": 1265425, 
+  "name": "Anniversary Compilation Vol.1"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/f5d0277c-7137-4246-a61e-d492de386f70.png", 
+   "width": 1500, 
+   "id": 9163038, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/f5d0277c-7137-4246-a61e-d492de386f70.png", 
+   "id": 9163038
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

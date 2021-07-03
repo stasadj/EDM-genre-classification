@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/3a3763dd-295c-411f-8c52-ec5df5ea6f06.jpg", 
+   "width": 500, 
+   "id": 6964345, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/a3ccc9de-2696-4c3f-a105-889383a3295a.jpg", 
+   "width": 30, 
+   "id": 6964343, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/7a722da5-80f6-4492-98fd-4e06f1bdb4d9.jpg", 
+   "width": 60, 
+   "id": 6964344, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/3a3763dd-295c-411f-8c52-ec5df5ea6f06.jpg", 
+   "id": 6964345
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "inspire", 
+   "id": 318389, 
+   "name": "Inspire"
+  }
+ ], 
+ "duration": {
+  "minutes": "4:19", 
+  "milliseconds": 259386
+ }, 
+ "id": 4184078, 
+ "genres": [
+  {
+   "slug": "hard-dance", 
+   "id": 8, 
+   "name": "Hard Dance"
+  }
+ ], 
+ "title": "Everybody Jumping (Hard Mix)", 
+ "label": {
+  "slug": "bit-music", 
+  "id": 6754, 
+  "name": "Bit Music"
+ }, 
+ "mix": "Hard Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/ba3a28ff-623e-4e62-a348-e95b990813a3.LOFI.mp3", 
+   "offset": {
+    "start": 103754, 
+    "end": 223932
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D maj", 
+ "date": {
+  "released": "2010-11-30", 
+  "published": "2010-11-30"
+ }, 
+ "active": true, 
+ "slug": "everybody-jumping-hard-mix", 
+ "preorder": false, 
+ "name": "Everybody Jumping", 
+ "component_type": null, 
+ "bpm": 158, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "makina-anthology-first-version", 
+  "id": 1047550, 
+  "name": "Makina Anthology (First Version)"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/c6382bad-5507-4116-a1c0-3ba92eed794f.png", 
+   "width": 1500, 
+   "id": 6964350, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/c6382bad-5507-4116-a1c0-3ba92eed794f.png", 
+   "id": 6964350
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

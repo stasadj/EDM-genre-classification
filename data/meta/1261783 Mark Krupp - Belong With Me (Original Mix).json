@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/6e39ced4-5deb-438d-ad20-3e576b1816d5.jpg", 
+   "width": 500, 
+   "id": 704440, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/b07c4f61-23f0-4a85-b71d-0a916e30554a.jpg", 
+   "width": 30, 
+   "id": 704438, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/961a66e7-9d4b-4e2c-91ab-bca8d7d8660c.jpg", 
+   "width": 60, 
+   "id": 704439, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/6e39ced4-5deb-438d-ad20-3e576b1816d5.jpg", 
+   "id": 704440
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "mark-krupp", 
+   "id": 105958, 
+   "name": "Mark Krupp"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:09", 
+  "milliseconds": 309333
+ }, 
+ "id": 1261783, 
+ "genres": [
+  {
+   "slug": "hard-dance", 
+   "id": 8, 
+   "name": "Hard Dance"
+  }
+ ], 
+ "title": "Belong With Me (Original Mix)", 
+ "label": {
+  "slug": "bass-machine", 
+  "id": 16206, 
+  "name": "Bass Machine"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/f526f683-169a-49cd-af49-9c5792d335b1.LOFI.mp3", 
+   "offset": {
+    "start": 123733, 
+    "end": 243862
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C\u266f maj", 
+ "date": {
+  "released": "2010-06-18", 
+  "published": "2010-06-18"
+ }, 
+ "active": true, 
+ "slug": "belong-with-me-original-mix", 
+ "preorder": false, 
+ "name": "Belong With Me", 
+ "component_type": null, 
+ "bpm": 135, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "belong-with-me-ep", 
+  "id": 253754, 
+  "name": "Belong With Me EP"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/06ad8b29-b579-4b26-a97c-2f3bc096ec86.png", 
+   "width": 1500, 
+   "id": 1905500, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/06ad8b29-b579-4b26-a97c-2f3bc096ec86.png", 
+   "id": 1905500
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

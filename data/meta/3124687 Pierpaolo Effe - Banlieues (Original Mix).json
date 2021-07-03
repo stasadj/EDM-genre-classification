@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/54eda426-7c19-4cfb-911f-59b3f810e315.jpg", 
+   "width": 500, 
+   "id": 4714541, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/37c4fd6a-83dd-4de5-8838-94335ea834e4.jpg", 
+   "width": 30, 
+   "id": 4714539, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/5337ff3e-bcc8-42e2-b8f7-fbf7ec9335c1.jpg", 
+   "width": 60, 
+   "id": 4714540, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/54eda426-7c19-4cfb-911f-59b3f810e315.jpg", 
+   "id": 4714541
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "pierpaolo-effe", 
+   "id": 230892, 
+   "name": "Pierpaolo Effe"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:08", 
+  "milliseconds": 308732
+ }, 
+ "id": 3124687, 
+ "genres": [
+  {
+   "slug": "electronica-downtempo", 
+   "id": 3, 
+   "name": "Electronica / Downtempo"
+  }
+ ], 
+ "title": "Banlieues (Original Mix)", 
+ "label": {
+  "slug": "jean-records", 
+  "id": 8986, 
+  "name": "Jean Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/b2c45ed5-1d8d-4653-9b77-cc06ab9200cf.LOFI.mp3", 
+   "offset": {
+    "start": 123492, 
+    "end": 243777
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C\u266f maj", 
+ "date": {
+  "released": "2011-12-16", 
+  "published": "2011-12-16"
+ }, 
+ "active": true, 
+ "slug": "banlieues-original-mix", 
+ "preorder": false, 
+ "name": "Banlieues", 
+ "component_type": null, 
+ "bpm": 126, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "2duets", 
+  "id": 839460, 
+  "name": "2duets"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/fe26b8d3-5fae-4cb1-aaea-b6a0a53d6f68.png", 
+   "width": 1500, 
+   "id": 6860728, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/fe26b8d3-5fae-4cb1-aaea-b6a0a53d6f68.png", 
+   "id": 6860728
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

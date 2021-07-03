@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/e6e94daa-bc77-45a7-8e3c-eb73adcd0a9e.jpg", 
+   "width": 500, 
+   "id": 8956544, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/c7f2b208-5b73-40d6-90cf-c0c571d56def.jpg", 
+   "width": 30, 
+   "id": 6253675, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/29117375-83d1-48ef-b335-6bbb11bcea32.jpg", 
+   "width": 60, 
+   "id": 6253676, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/e6e94daa-bc77-45a7-8e3c-eb73adcd0a9e.jpg", 
+   "id": 8956544
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "midnight-conspiracy", 
+   "id": 141959, 
+   "name": "Midnight Conspiracy"
+  }
+ ], 
+ "duration": {
+  "minutes": "3:30", 
+  "milliseconds": 210036
+ }, 
+ "id": 5133242, 
+ "genres": [
+  {
+   "slug": "electro-house", 
+   "id": 17, 
+   "name": "Electro House"
+  }
+ ], 
+ "title": "The Shift (Original Mix)", 
+ "label": {
+  "slug": "ultra", 
+  "id": 907, 
+  "name": "Ultra"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/ecc48117-f039-4ead-a9b0-b2d94e6650ed.LOFI.mp4", 
+   "offset": {
+    "start": 84014, 
+    "end": 204014
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/ecc48117-f039-4ead-a9b0-b2d94e6650ed.LOFI.mp3", 
+   "offset": {
+    "start": 84014, 
+    "end": 204014
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "G maj", 
+ "date": {
+  "released": "2014-02-18", 
+  "published": "2014-02-18"
+ }, 
+ "active": true, 
+ "slug": "the-shift-original-mix", 
+ "preorder": false, 
+ "name": "The Shift", 
+ "component_type": null, 
+ "bpm": 128, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "zero-hour", 
+  "id": 1240346, 
+  "name": "Zero Hour"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/d6069810-d5c3-4ade-8aab-8c911665f762.png", 
+   "width": 1500, 
+   "id": 8956831, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/d6069810-d5c3-4ade-8aab-8c911665f762.png", 
+   "id": 8956831
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

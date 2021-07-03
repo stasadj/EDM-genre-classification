@@ -1,0 +1,133 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/97da1e90-4e11-496b-8f48-ad71cfb6b7e7.jpg", 
+   "width": 500, 
+   "id": 8241099, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/d328902c-9602-4d54-9966-fd567b751468.jpg", 
+   "width": 30, 
+   "id": 8241097, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/14d14665-0551-4f64-8b74-c6d506065e18.jpg", 
+   "width": 60, 
+   "id": 8241098, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/97da1e90-4e11-496b-8f48-ad71cfb6b7e7.jpg", 
+   "id": 8241099
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "j-mancera", 
+   "id": 338822, 
+   "name": "J.Mancera"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:14", 
+  "milliseconds": 434285
+ }, 
+ "id": 4767556, 
+ "genres": [
+  {
+   "slug": "tech-house", 
+   "id": 11, 
+   "name": "Tech House"
+  }
+ ], 
+ "title": "My House (Iker Kabe Remix)", 
+ "label": {
+  "slug": "hands-up-records", 
+  "id": 28815, 
+  "name": "Hands Up Records"
+ }, 
+ "mix": "Iker Kabe Remix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/15ab5a80-45f4-4b8c-8970-1b6489f737c6.LOFI.mp4", 
+   "offset": {
+    "start": 173714, 
+    "end": 293714
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/15ab5a80-45f4-4b8c-8970-1b6489f737c6.LOFI.mp3", 
+   "offset": {
+    "start": 173714, 
+    "end": 293714
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "iker-kabe", 
+   "id": 312169, 
+   "name": "Iker Kabe"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A\u266f maj", 
+ "date": {
+  "released": "2013-09-27", 
+  "published": "2013-09-27"
+ }, 
+ "active": true, 
+ "slug": "my-house-iker-kabe-remix", 
+ "preorder": false, 
+ "name": "My House", 
+ "component_type": null, 
+ "bpm": 126, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "my-house-ep", 
+  "id": 1168726, 
+  "name": "My House EP"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/0bfe72b3-a1c4-40ec-8204-2624541d700a.png", 
+   "width": 1500, 
+   "id": 8241116, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/0bfe72b3-a1c4-40ec-8204-2624541d700a.png", 
+   "id": 8241116
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

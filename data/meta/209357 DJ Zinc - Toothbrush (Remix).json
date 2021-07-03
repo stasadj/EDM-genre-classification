@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/22034dbb-b381-4122-b30f-7ee7591565d0.jpg", 
+   "width": 500, 
+   "id": 10312892, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/2f6f6a3e-6730-4cdd-a63d-61d9bfdfc4f1.jpg", 
+   "width": 30, 
+   "id": 491534, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/dd9b1460-16b4-4192-8209-6a7134e45b52.jpg", 
+   "width": 60, 
+   "id": 11368353, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/22034dbb-b381-4122-b30f-7ee7591565d0.jpg", 
+   "id": 10312892
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "dj-zinc", 
+   "id": 17880, 
+   "name": "DJ Zinc"
+  }
+ ], 
+ "duration": {
+  "minutes": "8:06", 
+  "milliseconds": 486119
+ }, 
+ "id": 209357, 
+ "genres": [
+  {
+   "slug": "drum-and-bass", 
+   "id": 1, 
+   "name": "Drum & Bass"
+  }
+ ], 
+ "title": "Toothbrush (Remix)", 
+ "label": {
+  "slug": "true-playaz", 
+  "id": 3640, 
+  "name": "True Playaz"
+ }, 
+ "mix": "Remix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/4c87c4f9-1953-443a-9784-af065b161cf2.LOFI.mp4", 
+   "offset": {
+    "start": 194447, 
+    "end": 314447
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/4c87c4f9-1953-443a-9784-af065b161cf2.LOFI.mp3", 
+   "offset": {
+    "start": 194447, 
+    "end": 314447
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D maj", 
+ "date": {
+  "released": "2000-02-07", 
+  "published": "2000-02-07"
+ }, 
+ "active": true, 
+ "slug": "toothbrush-remix", 
+ "preorder": false, 
+ "name": "Toothbrush", 
+ "component_type": null, 
+ "bpm": 87, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "beats-by-design", 
+  "id": 37330, 
+  "name": "Beats by Design"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ba63df9e-70be-472a-8ee7-909ecb83f756.png", 
+   "width": 1500, 
+   "id": 10313373, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/ba63df9e-70be-472a-8ee7-909ecb83f756.png", 
+   "id": 10313373
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/360c8df9-c302-4f75-814e-f7be81f80e5a.jpg", 
+   "width": 500, 
+   "id": 10991594, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/9fb50992-ca56-4001-adf2-23c70c8616de.jpg", 
+   "width": 30, 
+   "id": 7872569, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/59234852-94f8-4378-9d6a-f3a4496bb47c.jpg", 
+   "width": 60, 
+   "id": 7872570, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/360c8df9-c302-4f75-814e-f7be81f80e5a.jpg", 
+   "id": 10991594
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "shotu", 
+   "id": 74460, 
+   "name": "Shotu"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:40", 
+  "milliseconds": 460173
+ }, 
+ "id": 6320574, 
+ "genres": [
+  {
+   "slug": "psy-trance", 
+   "id": 13, 
+   "name": "Psy-Trance"
+  }
+ ], 
+ "title": "Looney Loop (Original Mix)", 
+ "label": {
+  "slug": "beatspace", 
+  "id": 34189, 
+  "name": "Beatspace"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/69f7b958-75b4-4d42-a9e2-ea3128bab16a.LOFI.mp4", 
+   "offset": {
+    "start": 184069, 
+    "end": 304069
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/69f7b958-75b4-4d42-a9e2-ea3128bab16a.LOFI.mp3", 
+   "offset": {
+    "start": 184069, 
+    "end": 304069
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F maj", 
+ "date": {
+  "released": "2015-02-26", 
+  "published": "2015-02-26"
+ }, 
+ "active": true, 
+ "slug": "looney-loop-original-mix", 
+ "preorder": false, 
+ "name": "Looney Loop", 
+ "component_type": null, 
+ "bpm": 145, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "10-wonder-drops", 
+  "id": 1469222, 
+  "name": "10 Wonder Drops"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/396a52b0-d8e8-450b-b976-0820adde55db.png", 
+   "width": 1500, 
+   "id": 10992278, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/396a52b0-d8e8-450b-b976-0820adde55db.png", 
+   "id": 10992278
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

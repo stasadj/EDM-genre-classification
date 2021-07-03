@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/fe6cdd4e-bcc1-464e-984d-a579e1bcd5cc.jpg", 
+   "width": 30, 
+   "id": 104768, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/23ecdbf3-5242-4c83-b1e2-31a8d0229225.jpg", 
+   "width": 60, 
+   "id": 104769, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/23ecdbf3-5242-4c83-b1e2-31a8d0229225.jpg", 
+   "id": 104769
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "harlem-hustler", 
+   "id": 14328, 
+   "name": "Harlem Hustler"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:49", 
+  "milliseconds": 409280
+ }, 
+ "id": 299870, 
+ "genres": [
+  {
+   "slug": "house", 
+   "id": 5, 
+   "name": "House"
+  }
+ ], 
+ "title": "U Can Do It (Harlem Hustler Club Mix)", 
+ "label": {
+  "slug": "d-vision-records", 
+  "id": 2257, 
+  "name": "d:vision records"
+ }, 
+ "mix": "Harlem Hustler Club Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/785612bc-f2a2-45d1-b9c0-436d562f0e47.LOFI.mp4", 
+   "offset": {
+    "start": 163712, 
+    "end": 283712
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/785612bc-f2a2-45d1-b9c0-436d562f0e47.LOFI.mp3", 
+   "offset": {
+    "start": 163712, 
+    "end": 283712
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D maj", 
+ "date": {
+  "released": "2007-05-29", 
+  "published": "2007-05-21"
+ }, 
+ "active": true, 
+ "slug": "u-can-do-it-harlem-hustler-club-mix", 
+ "preorder": false, 
+ "name": "U Can Do It", 
+ "component_type": null, 
+ "bpm": 128, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "feeling", 
+  "id": 57354, 
+  "name": "Feeling"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/6011a406-c67e-4e52-9cc4-38bc351ad129.png", 
+   "width": 1500, 
+   "id": 2234053, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

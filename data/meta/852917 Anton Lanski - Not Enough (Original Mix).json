@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/5438d353-49c4-43e8-a0a0-e0457aaca8b4.jpg", 
+   "width": 500, 
+   "id": 417720, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/b13114f0-4edf-436d-b1d7-9c15119a1c27.jpg", 
+   "width": 30, 
+   "id": 417718, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/c6be55ed-2e30-4d0f-8f99-b1fca29f1ee5.jpg", 
+   "width": 60, 
+   "id": 417719, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/5438d353-49c4-43e8-a0a0-e0457aaca8b4.jpg", 
+   "id": 417720
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "anton-lanski", 
+   "id": 33096, 
+   "name": "Anton Lanski"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:30", 
+  "milliseconds": 390292
+ }, 
+ "id": 852917, 
+ "genres": [
+  {
+   "slug": "deep-house", 
+   "id": 12, 
+   "name": "Deep House"
+  }
+ ], 
+ "title": "Not Enough (Original Mix)", 
+ "label": {
+  "slug": "loco-records", 
+  "id": 7222, 
+  "name": "Loco Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/7684dac4-3886-4df9-9bd9-894671d0f7d3.LOFI.mp3", 
+   "offset": {
+    "start": 156116, 
+    "end": 276205
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D\u266f maj", 
+ "date": {
+  "released": "2009-05-19", 
+  "published": "2009-05-19"
+ }, 
+ "active": true, 
+ "slug": "not-enough-original-mix", 
+ "preorder": false, 
+ "name": "Not Enough", 
+ "component_type": null, 
+ "bpm": 120, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "not-enough-ep", 
+  "id": 172034, 
+  "name": "Not Enough EP"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/1639d6f3-f283-4d23-a76c-13cdd02cb9d1.png", 
+   "width": 1500, 
+   "id": 2009750, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/1639d6f3-f283-4d23-a76c-13cdd02cb9d1.png", 
+   "id": 2009750
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/b959861f-9c87-4463-a76a-2ca8598b393c.jpg", 
+   "width": 500, 
+   "id": 7134078, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/367f91a7-3737-450e-94f6-7295c4522d02.jpg", 
+   "width": 30, 
+   "id": 7134076, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/5df7ff5a-54c6-4732-8fd5-1bd0275081d7.jpg", 
+   "width": 60, 
+   "id": 7134077, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/b959861f-9c87-4463-a76a-2ca8598b393c.jpg", 
+   "id": 7134078
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "jon-game", 
+   "id": 324422, 
+   "name": "Jon Game"
+  }
+ ], 
+ "duration": {
+  "minutes": "3:58", 
+  "milliseconds": 238195
+ }, 
+ "id": 4262086, 
+ "genres": [
+  {
+   "slug": "dubstep", 
+   "id": 18, 
+   "name": "Dubstep"
+  }
+ ], 
+ "title": "Knobbin' Up (ft. U.M.B.R.O) (Original Mix)", 
+ "label": {
+  "slug": "another-chance-records", 
+  "id": 13337, 
+  "name": "Another Chance Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/a3f8ea6a-bc06-4681-9e28-29ce4e4581af.LOFI.mp4", 
+   "offset": {
+    "start": 95278, 
+    "end": 215278
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/a3f8ea6a-bc06-4681-9e28-29ce4e4581af.LOFI.mp3", 
+   "offset": {
+    "start": 95278, 
+    "end": 215278
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "E maj", 
+ "date": {
+  "released": "2013-04-22", 
+  "published": "2013-04-22"
+ }, 
+ "active": true, 
+ "slug": "knobbin-up-ft-u-m-b-r-o-original-mix", 
+ "preorder": false, 
+ "name": "Knobbin' Up (ft. U.M.B.R.O)", 
+ "component_type": null, 
+ "bpm": 133, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "knobbin-up", 
+  "id": 1063289, 
+  "name": "Knobbin' Up"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/2260966e-8da9-462c-b691-17dcfb5be8a2.png", 
+   "width": 1500, 
+   "id": 7134093, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/2260966e-8da9-462c-b691-17dcfb5be8a2.png", 
+   "id": 7134093
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

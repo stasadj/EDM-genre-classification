@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/f53f0130-998b-4d5e-8b6d-c28a7f130a10.jpg", 
+   "width": 500, 
+   "id": 6971492, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/a82b4a78-eae2-4f19-bd68-cba2ce3b6178.jpg", 
+   "width": 30, 
+   "id": 6971490, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/06c3cda7-89f4-4390-b1cb-b02ce17ff869.jpg", 
+   "width": 60, 
+   "id": 6971491, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/f53f0130-998b-4d5e-8b6d-c28a7f130a10.jpg", 
+   "id": 6971492
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "e-s-g", 
+   "id": 304794, 
+   "name": "E.S.G."
+  }
+ ], 
+ "duration": {
+  "minutes": "4:02", 
+  "milliseconds": 242826
+ }, 
+ "id": 4188354, 
+ "genres": [
+  {
+   "slug": "hip-hop-r-and-b", 
+   "id": 38, 
+   "name": "Hip-Hop / R&B"
+  }
+ ], 
+ "title": "Two Glocks Two Hoes (Original Mix)", 
+ "label": {
+  "slug": "sosouth", 
+  "id": 16727, 
+  "name": "SoSouth"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/af3a0fa7-e8dd-4873-8311-01b74909b149.LOFI.mp3", 
+   "offset": {
+    "start": 97130, 
+    "end": 217539
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A\u266f maj", 
+ "date": {
+  "released": "1994-02-01", 
+  "published": "1994-02-01"
+ }, 
+ "active": true, 
+ "slug": "two-glocks-two-hoes-original-mix", 
+ "preorder": false, 
+ "name": "Two Glocks Two Hoes", 
+ "component_type": null, 
+ "bpm": 170, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "ocean-of-funk", 
+  "id": 1048320, 
+  "name": "Ocean of Funk"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/8bf3b430-3579-48bf-aa86-bc2615b31903.png", 
+   "width": 1500, 
+   "id": 6971594, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/8bf3b430-3579-48bf-aa86-bc2615b31903.png", 
+   "id": 6971594
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

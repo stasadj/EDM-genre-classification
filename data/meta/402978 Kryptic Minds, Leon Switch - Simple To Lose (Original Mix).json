@@ -1,0 +1,132 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/05298871-08de-4a65-81a0-07a3c75823a7.jpg", 
+   "width": 30, 
+   "id": 154890, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/65741dae-4f35-4eb2-9647-04f8c3cb75b6.jpg", 
+   "width": 60, 
+   "id": 154891, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/65741dae-4f35-4eb2-9647-04f8c3cb75b6.jpg", 
+   "id": 154891
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "kryptic-minds", 
+   "id": 12969, 
+   "name": "Kryptic Minds"
+  }, 
+  {
+   "slug": "leon-switch", 
+   "id": 55489, 
+   "name": "Leon Switch"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:46", 
+  "milliseconds": 346836
+ }, 
+ "id": 402978, 
+ "genres": [
+  {
+   "slug": "drum-and-bass", 
+   "id": 1, 
+   "name": "Drum & Bass"
+  }
+ ], 
+ "title": "Simple To Lose (Original Mix)", 
+ "label": {
+  "slug": "hostile-recordings", 
+  "id": 5348, 
+  "name": "Hostile Recordings"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/fd45a659-9312-40fe-9436-ef507779befd.LOFI.mp4", 
+   "offset": {
+    "start": 138734, 
+    "end": 258734
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/fd45a659-9312-40fe-9436-ef507779befd.LOFI.mp3", 
+   "offset": {
+    "start": 138734, 
+    "end": 258734
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D maj", 
+ "date": {
+  "released": "2006-06-01", 
+  "published": "2006-06-01"
+ }, 
+ "active": true, 
+ "slug": "simple-to-lose-original-mix", 
+ "preorder": false, 
+ "name": "Simple To Lose", 
+ "component_type": null, 
+ "bpm": 87, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "hostile-part-1", 
+  "id": 78190, 
+  "name": "Hostile (Part 1)"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/abb6ab45-2d02-4984-8191-a215f5d03c88.png", 
+   "width": 1500, 
+   "id": 2082660, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/10fce63e-eca6-4c5c-aa23-9ae735d7de2b.jpg", 
+   "width": 500, 
+   "id": 12513587, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/2f6f6a3e-6730-4cdd-a63d-61d9bfdfc4f1.jpg", 
+   "width": 30, 
+   "id": 491534, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/82188511-c3b0-4b64-9f4a-e0279a5a43d5.jpg", 
+   "width": 60, 
+   "id": 12513585, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/10fce63e-eca6-4c5c-aa23-9ae735d7de2b.jpg", 
+   "id": 12513587
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "2-figli-deep", 
+   "id": 40675, 
+   "name": "2 Figli Deep"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:53", 
+  "milliseconds": 413500
+ }, 
+ "id": 299817, 
+ "genres": [
+  {
+   "slug": "minimal-deep-tech", 
+   "id": 14, 
+   "name": "Minimal / Deep Tech"
+  }
+ ], 
+ "title": "One For The Angels (Original Mix)", 
+ "label": {
+  "slug": "eklero-records", 
+  "id": 5701, 
+  "name": "Eklero Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/20a33161-cfea-4d2d-a1f9-428599e0a1cb.LOFI.mp4", 
+   "offset": {
+    "start": 165400, 
+    "end": 285400
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/20a33161-cfea-4d2d-a1f9-428599e0a1cb.LOFI.mp3", 
+   "offset": {
+    "start": 165400, 
+    "end": 285400
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F maj", 
+ "date": {
+  "released": "2007-05-21", 
+  "published": "2007-05-21"
+ }, 
+ "active": true, 
+ "slug": "one-for-the-angels-original-mix", 
+ "preorder": false, 
+ "name": "One For The Angels", 
+ "component_type": null, 
+ "bpm": 128, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "rod-serling-ttribute", 
+  "id": 57339, 
+  "name": "Rod Serling Ttribute"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/4bb27e61-9e33-4732-98a4-c8811c26bbaf.png", 
+   "width": 1500, 
+   "id": 2234144, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/4bb27e61-9e33-4732-98a4-c8811c26bbaf.png", 
+   "id": 2234144
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

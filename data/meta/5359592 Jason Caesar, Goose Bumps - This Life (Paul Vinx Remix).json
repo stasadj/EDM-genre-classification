@@ -1,0 +1,138 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/3291104c-2e58-4b48-8de7-509d230c5c4d.jpg", 
+   "width": 500, 
+   "id": 9338485, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/b2d523f2-98d0-445a-ac45-a152f1b548ee.jpg", 
+   "width": 30, 
+   "id": 7165311, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/ad73ba81-4129-4256-91f6-204a62f5feeb.jpg", 
+   "width": 60, 
+   "id": 7165312, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/3291104c-2e58-4b48-8de7-509d230c5c4d.jpg", 
+   "id": 9338485
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "jason-caesar", 
+   "id": 156319, 
+   "name": "Jason Caesar"
+  }, 
+  {
+   "slug": "goose-bumps", 
+   "id": 239520, 
+   "name": "Goose Bumps"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:05", 
+  "milliseconds": 305625
+ }, 
+ "id": 5359592, 
+ "genres": [
+  {
+   "slug": "progressive-house", 
+   "id": 15, 
+   "name": "Progressive House"
+  }
+ ], 
+ "title": "This Life (Paul Vinx Remix)", 
+ "label": {
+  "slug": "club-session", 
+  "id": 22667, 
+  "name": "Club Session"
+ }, 
+ "mix": "Paul Vinx Remix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/9d2b08be-ab61-44f4-bdf8-da7164663db7.LOFI.mp4", 
+   "offset": {
+    "start": 122250, 
+    "end": 242250
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/9d2b08be-ab61-44f4-bdf8-da7164663db7.LOFI.mp3", 
+   "offset": {
+    "start": 122250, 
+    "end": 242250
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "paul-vinx", 
+   "id": 321274, 
+   "name": "Paul Vinx"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A\u266f maj", 
+ "date": {
+  "released": "2014-04-20", 
+  "published": "2014-04-20"
+ }, 
+ "active": true, 
+ "slug": "this-life-paul-vinx-remix", 
+ "preorder": false, 
+ "name": "This Life", 
+ "component_type": null, 
+ "bpm": 128, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "progressive-city-grooves-destination-new-york", 
+  "id": 1288269, 
+  "name": "Progressive City Grooves - Destination New York"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/1417b510-7998-4d05-8f25-f126930528d3.png", 
+   "width": 1500, 
+   "id": 9338650, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/1417b510-7998-4d05-8f25-f126930528d3.png", 
+   "id": 9338650
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

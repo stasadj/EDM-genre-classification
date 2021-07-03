@@ -1,0 +1,133 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/297f984f-8f75-437e-9c00-0569cc955b12.jpg", 
+   "width": 500, 
+   "id": 7036914, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/5da9074b-9f99-491e-aa46-3c5b7332f154.jpg", 
+   "width": 30, 
+   "id": 103690, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/4e6dfad8-70dd-41e4-9a73-1c68e7c8dd01.jpg", 
+   "width": 60, 
+   "id": 103691, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/297f984f-8f75-437e-9c00-0569cc955b12.jpg", 
+   "id": 7036914
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "loaded", 
+   "id": 18764, 
+   "name": "Loaded"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:24", 
+  "milliseconds": 444746
+ }, 
+ "id": 297705, 
+ "genres": [
+  {
+   "slug": "progressive-house", 
+   "id": 15, 
+   "name": "Progressive House"
+  }
+ ], 
+ "title": "Denied (David Lead Remix)", 
+ "label": {
+  "slug": "fahrenheit", 
+  "id": 3568, 
+  "name": "Fahrenheit"
+ }, 
+ "mix": "David Lead Remix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/55f10576-2809-4ec0-be9b-5dfc0766f2b9.LOFI.mp4", 
+   "offset": {
+    "start": 177898, 
+    "end": 297898
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/55f10576-2809-4ec0-be9b-5dfc0766f2b9.LOFI.mp3", 
+   "offset": {
+    "start": 177898, 
+    "end": 297898
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "david-lead", 
+   "id": 40396, 
+   "name": "David Lead"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A\u266f maj", 
+ "date": {
+  "released": "2007-05-28", 
+  "published": "2007-05-16"
+ }, 
+ "active": true, 
+ "slug": "denied-david-lead-remix", 
+ "preorder": false, 
+ "name": "Denied", 
+ "component_type": null, 
+ "bpm": 130, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "denied", 
+  "id": 56925, 
+  "name": "Denied"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/fd08ba90-ada2-4685-8a8b-1e61a485e79e.png", 
+   "width": 1500, 
+   "id": 2237074, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/fd08ba90-ada2-4685-8a8b-1e61a485e79e.png", 
+   "id": 2237074
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

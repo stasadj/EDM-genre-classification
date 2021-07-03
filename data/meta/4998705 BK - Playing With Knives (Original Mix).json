@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/d1a505e7-4d5f-48dc-8bc4-f84a82a94797.jpg", 
+   "width": 500, 
+   "id": 8714271, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/0e6fa7fc-8880-469a-bc3e-ad84fab36733.jpg", 
+   "width": 30, 
+   "id": 8714269, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/2d5c411e-b505-4a2f-a803-e3595749e6eb.jpg", 
+   "width": 60, 
+   "id": 8714270, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/d1a505e7-4d5f-48dc-8bc4-f84a82a94797.jpg", 
+   "id": 8714271
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "bk", 
+   "id": 4336, 
+   "name": "BK"
+  }
+ ], 
+ "duration": {
+  "minutes": "8:41", 
+  "milliseconds": 521351
+ }, 
+ "id": 4998705, 
+ "genres": [
+  {
+   "slug": "hard-dance", 
+   "id": 8, 
+   "name": "Hard Dance"
+  }
+ ], 
+ "title": "Playing With Knives (Original Mix)", 
+ "label": {
+  "slug": "total-hard-dance", 
+  "id": 21612, 
+  "name": "Total Hard Dance"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/7ec0d10d-0e0c-45b8-ac86-4429cf5bcfe4.LOFI.mp4", 
+   "offset": {
+    "start": 208540, 
+    "end": 328540
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/7ec0d10d-0e0c-45b8-ac86-4429cf5bcfe4.LOFI.mp3", 
+   "offset": {
+    "start": 208540, 
+    "end": 328540
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D maj", 
+ "date": {
+  "released": "2013-12-23", 
+  "published": "2013-12-23"
+ }, 
+ "active": true, 
+ "slug": "playing-with-knives-original-mix", 
+ "preorder": false, 
+ "name": "Playing With Knives", 
+ "component_type": null, 
+ "bpm": 142, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "ultimate-dj-selections-nye", 
+  "id": 1213015, 
+  "name": "Ultimate DJ Selections: NYE"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/27a6c1c6-da81-4777-b230-4c582cb066bb.png", 
+   "width": 1500, 
+   "id": 8714444, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/27a6c1c6-da81-4777-b230-4c582cb066bb.png", 
+   "id": 8714444
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

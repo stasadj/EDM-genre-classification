@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/86d283e7-9878-45d8-91d8-bcb9592fa399.jpg", 
+   "width": 30, 
+   "id": 328464, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/ef0874b9-ae1c-462c-8854-99114bc65b3b.jpg", 
+   "width": 60, 
+   "id": 328465, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/ef0874b9-ae1c-462c-8854-99114bc65b3b.jpg", 
+   "id": 328465
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "chipper", 
+   "id": 64637, 
+   "name": "Chipper"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:27", 
+  "milliseconds": 387000
+ }, 
+ "id": 723438, 
+ "genres": [
+  {
+   "slug": "breaks", 
+   "id": 9, 
+   "name": "Breaks"
+  }
+ ], 
+ "title": "840 (Chipper 420 Remix)", 
+ "label": {
+  "slug": "padded-cell-productions", 
+  "id": 12234, 
+  "name": "Padded Cell Productions"
+ }, 
+ "mix": "Chipper 420 Remix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/5a16a7dd-68a0-4939-a142-2cad6d2e0cd5.LOFI.mp3", 
+   "offset": {
+    "start": 154800, 
+    "end": 274800
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D\u266f maj", 
+ "date": {
+  "released": "2008-09-07", 
+  "published": "2008-09-07"
+ }, 
+ "active": true, 
+ "slug": "840-chipper-420-remix", 
+ "preorder": false, 
+ "name": "840", 
+ "component_type": null, 
+ "bpm": 131, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "dope-tito-420", 
+  "id": 144005, 
+  "name": "Dope Tito 420"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/7e2e426f-cfaf-4eb1-b38b-ef2bcfaf2b8a.png", 
+   "width": 1500, 
+   "id": 2226379, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/28ca2835-cf8a-4ef5-8632-4adff31282af.jpg", 
+   "width": 500, 
+   "id": 7313220, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/7b8730ee-edbc-4679-bafb-216885693bf1.jpg", 
+   "width": 30, 
+   "id": 7313218, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/247a5056-7f82-43de-b9d7-7fe694c7116e.jpg", 
+   "width": 60, 
+   "id": 7313219, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/28ca2835-cf8a-4ef5-8632-4adff31282af.jpg", 
+   "id": 7313220
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "bombilla", 
+   "id": 84119, 
+   "name": "Bombilla"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:12", 
+  "milliseconds": 432638
+ }, 
+ "id": 4341902, 
+ "genres": [
+  {
+   "slug": "minimal-deep-tech", 
+   "id": 14, 
+   "name": "Minimal / Deep Tech"
+  }
+ ], 
+ "title": "Formaldehyd (Original Mix)", 
+ "label": {
+  "slug": "onoff-recording", 
+  "id": 23344, 
+  "name": "ONOFF Recording"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/19439505-1ac3-4e4a-9e60-d75fe4a4074f.LOFI.mp4", 
+   "offset": {
+    "start": 173055, 
+    "end": 293055
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/19439505-1ac3-4e4a-9e60-d75fe4a4074f.LOFI.mp3", 
+   "offset": {
+    "start": 173055, 
+    "end": 293055
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F maj", 
+ "date": {
+  "released": "2013-05-06", 
+  "published": "2013-05-06"
+ }, 
+ "active": true, 
+ "slug": "formaldehyd-original-mix", 
+ "preorder": false, 
+ "name": "Formaldehyd", 
+ "component_type": null, 
+ "bpm": 126, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "1-year-onoff-recording-the-album", 
+  "id": 1080309, 
+  "name": "1 Year ONOFF RECORDING (The Album)"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ea8f9b5b-06d4-47b0-af1a-e9ce32976c0d.png", 
+   "width": 1500, 
+   "id": 7313281, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/ea8f9b5b-06d4-47b0-af1a-e9ce32976c0d.png", 
+   "id": 7313281
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

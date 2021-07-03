@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/79778619-0c2e-452f-aae9-24b1faa2d13e.jpg", 
+   "width": 500, 
+   "id": 8410667, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/b984f2a6-d2b9-4e94-b766-cb28c643f5f7.jpg", 
+   "width": 30, 
+   "id": 8410665, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/c0a5cc8d-d315-4345-9079-f5ffa1334eb2.jpg", 
+   "width": 60, 
+   "id": 8410666, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/79778619-0c2e-452f-aae9-24b1faa2d13e.jpg", 
+   "id": 8410667
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "los-amigos-invisibles", 
+   "id": 58759, 
+   "name": "Los Amigos Invisibles"
+  }
+ ], 
+ "duration": {
+  "minutes": "8:55", 
+  "milliseconds": 535786
+ }, 
+ "id": 4848629, 
+ "genres": [
+  {
+   "slug": "electronica-downtempo", 
+   "id": 3, 
+   "name": "Electronica / Downtempo"
+  }
+ ], 
+ "title": "Bruja (Original Mix)", 
+ "label": {
+  "slug": "luaka-bop", 
+  "id": 36333, 
+  "name": "Luaka Bop"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/deb4fe80-956b-4004-b240-0853938aa7cb.LOFI.mp4", 
+   "offset": {
+    "start": 214314, 
+    "end": 334314
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/deb4fe80-956b-4004-b240-0853938aa7cb.LOFI.mp3", 
+   "offset": {
+    "start": 214314, 
+    "end": 334314
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D maj", 
+ "date": {
+  "released": "2004-05-03", 
+  "published": "2004-05-03"
+ }, 
+ "active": true, 
+ "slug": "bruja-original-mix", 
+ "preorder": false, 
+ "name": "Bruja", 
+ "component_type": null, 
+ "bpm": 126, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "the-venezuelan-zinga-son-vol-1", 
+  "id": 1184092, 
+  "name": "The Venezuelan Zinga Son Vol. 1"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/3d469d09-714b-4d01-89e2-32834605a0da.png", 
+   "width": 1500, 
+   "id": 8411170, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/3d469d09-714b-4d01-89e2-32834605a0da.png", 
+   "id": 8411170
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

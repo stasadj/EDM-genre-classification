@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/65c4a4eb-fe3c-4c74-88ff-b09bd572c8a9.jpg", 
+   "width": 30, 
+   "id": 41038, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/d95d0129-552b-4109-8cb1-ce840c82177c.jpg", 
+   "width": 60, 
+   "id": 41039, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/d95d0129-552b-4109-8cb1-ce840c82177c.jpg", 
+   "id": 41039
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "laurent-garnier", 
+   "id": 8501, 
+   "name": "Laurent Garnier"
+  }
+ ], 
+ "duration": {
+  "minutes": "4:57", 
+  "milliseconds": 297440
+ }, 
+ "id": 181659, 
+ "genres": [
+  {
+   "slug": "techno", 
+   "id": 6, 
+   "name": "Techno"
+  }
+ ], 
+ "title": "Flashback (Video Mix)", 
+ "label": {
+  "slug": "f-communications", 
+  "id": 1492, 
+  "name": "F Communications"
+ }, 
+ "mix": "Video Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/e976d2e3-06d2-43f7-8b3b-592f5b773893.LOFI.mp4", 
+   "offset": {
+    "start": 118976, 
+    "end": 238976
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/e976d2e3-06d2-43f7-8b3b-592f5b773893.LOFI.mp3", 
+   "offset": {
+    "start": 118976, 
+    "end": 238976
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C\u266f maj", 
+ "date": {
+  "released": "2006-08-28", 
+  "published": "2006-08-28"
+ }, 
+ "active": true, 
+ "slug": "flashback-video-mix", 
+ "preorder": false, 
+ "name": "Flashback", 
+ "component_type": null, 
+ "bpm": 133, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "retrospective-94-06", 
+  "id": 30520, 
+  "name": "Retrospective 94-06"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/c4483a2e-e51b-4dcd-8f45-eb80347de05b.png", 
+   "width": 1500, 
+   "id": 2379952, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

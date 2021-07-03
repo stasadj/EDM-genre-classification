@@ -1,0 +1,129 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/94810660-3651-403a-85c9-85de98d97550.jpg", 
+   "width": 500, 
+   "id": 971553, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/4c37804c-4945-4e8c-980d-e75b40cbab03.jpg", 
+   "width": 30, 
+   "id": 971551, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/b3bd2bfe-ae1f-40c9-a410-f2df02c76222.jpg", 
+   "width": 60, 
+   "id": 971552, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/94810660-3651-403a-85c9-85de98d97550.jpg", 
+   "id": 971553
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "alex-moran", 
+   "id": 2938, 
+   "name": "Alex Moran"
+  }, 
+  {
+   "slug": "lhk", 
+   "id": 23229, 
+   "name": "LHK"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:13", 
+  "milliseconds": 373693
+ }, 
+ "id": 1681314, 
+ "genres": [
+  {
+   "slug": "deep-house", 
+   "id": 12, 
+   "name": "Deep House"
+  }
+ ], 
+ "title": "By Way Of B (Original Mix)", 
+ "label": {
+  "slug": "3am-recordings", 
+  "id": 7, 
+  "name": "3am Recordings"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/79a9b692-284d-45dd-b636-12703c53d889.LOFI.mp3", 
+   "offset": {
+    "start": 149477, 
+    "end": 269699
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A\u266f maj", 
+ "date": {
+  "released": "2003-07-14", 
+  "published": "2003-07-14"
+ }, 
+ "active": true, 
+ "slug": "by-way-of-b-original-mix", 
+ "preorder": false, 
+ "name": "By Way Of B", 
+ "component_type": null, 
+ "bpm": 124, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "in-it-for-the-money-ep", 
+  "id": 328397, 
+  "name": "In It For The Money EP"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/c4c2e0e1-59fe-46cf-b766-9fa88c9d003f.png", 
+   "width": 1500, 
+   "id": 971754, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/c4c2e0e1-59fe-46cf-b766-9fa88c9d003f.png", 
+   "id": 971754
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/88baa4e4-39f9-4e0b-bdf9-8a987d418477.jpg", 
+   "width": 30, 
+   "id": 104300, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/d730ddbb-e779-4f5b-a557-3d1746d483f2.jpg", 
+   "width": 60, 
+   "id": 104301, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/d730ddbb-e779-4f5b-a557-3d1746d483f2.jpg", 
+   "id": 104301
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "shaun-king", 
+   "id": 31379, 
+   "name": "Shaun King"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:29", 
+  "milliseconds": 449333
+ }, 
+ "id": 298824, 
+ "genres": [
+  {
+   "slug": "tech-house", 
+   "id": 11, 
+   "name": "Tech House"
+  }
+ ], 
+ "title": "Where Are We (Original Mix)", 
+ "label": {
+  "slug": "welt-recordings", 
+  "id": 3415, 
+  "name": "Welt Recordings"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/40caaf9a-b6f5-4d0f-a178-28a305e82915.LOFI.mp4", 
+   "offset": {
+    "start": 179733, 
+    "end": 299733
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/40caaf9a-b6f5-4d0f-a178-28a305e82915.LOFI.mp3", 
+   "offset": {
+    "start": 179733, 
+    "end": 299733
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F maj", 
+ "date": {
+  "released": "2007-06-11", 
+  "published": "2007-05-21"
+ }, 
+ "active": true, 
+ "slug": "where-are-we-original-mix", 
+ "preorder": false, 
+ "name": "Where Are We", 
+ "component_type": null, 
+ "bpm": 125, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "alpha-black-ep", 
+  "id": 57130, 
+  "name": "Alpha Black EP"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/22fbdb5e-e0b6-4180-8e80-f06baecf433b.png", 
+   "width": 1500, 
+   "id": 2235625, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

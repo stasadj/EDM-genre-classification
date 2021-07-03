@@ -1,0 +1,129 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/d05f74be-5cd7-4c82-96ab-5ea1067d793b.jpg", 
+   "width": 500, 
+   "id": 5302749, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/78e8357f-adcb-43cf-bccf-5d3b4de7b4e2.jpg", 
+   "width": 30, 
+   "id": 5302747, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/ecad75f0-5f63-49c3-be15-8d8e8c587b92.jpg", 
+   "width": 60, 
+   "id": 5302748, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/d05f74be-5cd7-4c82-96ab-5ea1067d793b.jpg", 
+   "id": 5302749
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "maya", 
+   "id": 31527, 
+   "name": "Maya"
+  }, 
+  {
+   "slug": "the-tamperer", 
+   "id": 37472, 
+   "name": "The Tamperer"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:10", 
+  "milliseconds": 310973
+ }, 
+ "id": 3440288, 
+ "genres": [
+  {
+   "slug": "house", 
+   "id": 5, 
+   "name": "House"
+  }
+ ], 
+ "title": "Feel It (Original Version)", 
+ "label": {
+  "slug": "time-records", 
+  "id": 3487, 
+  "name": "TIME Records"
+ }, 
+ "mix": "Original Version", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/475a9c2a-ed33-44fb-a903-d5a101f85d76.LOFI.mp3", 
+   "offset": {
+    "start": 124389, 
+    "end": 244765
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F\u266f maj", 
+ "date": {
+  "released": "2012-04-30", 
+  "published": "2012-04-30"
+ }, 
+ "active": true, 
+ "slug": "feel-it-original-version", 
+ "preorder": false, 
+ "name": "Feel It", 
+ "component_type": null, 
+ "bpm": 125, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "house-essentials-vol-2", 
+  "id": 900355, 
+  "name": "House Essentials Vol. 2"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/7c5cfb45-b4cc-417d-85b8-a5fc1df4b83c.png", 
+   "width": 1500, 
+   "id": 5304792, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/7c5cfb45-b4cc-417d-85b8-a5fc1df4b83c.png", 
+   "id": 5304792
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

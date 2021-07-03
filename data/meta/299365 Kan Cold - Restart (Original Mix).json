@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/2ddb7c80-2546-4434-a4a5-858cdd7ca07b.jpg", 
+   "width": 30, 
+   "id": 104563, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/531cd668-3d42-4dcc-8f2f-b65cba345fcf.jpg", 
+   "width": 60, 
+   "id": 104564, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/531cd668-3d42-4dcc-8f2f-b65cba345fcf.jpg", 
+   "id": 104564
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "kan-cold", 
+   "id": 10083, 
+   "name": "Kan Cold"
+  }
+ ], 
+ "duration": {
+  "minutes": "8:42", 
+  "milliseconds": 522200
+ }, 
+ "id": 299365, 
+ "genres": [
+  {
+   "slug": "trance", 
+   "id": 7, 
+   "name": "Trance"
+  }
+ ], 
+ "title": "Restart (Original Mix)", 
+ "label": {
+  "slug": "druck-records", 
+  "id": 1333, 
+  "name": "Druck Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/819c3fb8-de24-4e2b-b34b-7173674f6232.LOFI.mp4", 
+   "offset": {
+    "start": 208880, 
+    "end": 328880
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/819c3fb8-de24-4e2b-b34b-7173674f6232.LOFI.mp3", 
+   "offset": {
+    "start": 208880, 
+    "end": 328880
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F maj", 
+ "date": {
+  "released": "2006-09-21", 
+  "published": "2006-09-21"
+ }, 
+ "active": true, 
+ "slug": "restart-original-mix", 
+ "preorder": false, 
+ "name": "Restart", 
+ "component_type": null, 
+ "bpm": 143, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "restart-straight-ahead", 
+  "id": 57257, 
+  "name": "Restart / Straight Ahead"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/5b834582-dcc9-48da-a2f5-9582ef1c78c4.png", 
+   "width": 1500, 
+   "id": 2234844, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

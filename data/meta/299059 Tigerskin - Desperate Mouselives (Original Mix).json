@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/c88b697c-56db-4921-9365-fb07d5fbef51.jpg", 
+   "width": 500, 
+   "id": 12566538, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/450ccd71-7227-4543-8b2a-69e430764fd4.jpg", 
+   "width": 30, 
+   "id": 104408, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/a538daef-c001-4150-ba7e-d8c5add0ee28.jpg", 
+   "width": 60, 
+   "id": 104409, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/c88b697c-56db-4921-9365-fb07d5fbef51.jpg", 
+   "id": 12566538
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "tigerskin", 
+   "id": 4670, 
+   "name": "Tigerskin"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:44", 
+  "milliseconds": 404052
+ }, 
+ "id": 299059, 
+ "genres": [
+  {
+   "slug": "tech-house", 
+   "id": 11, 
+   "name": "Tech House"
+  }
+ ], 
+ "title": "Desperate Mouselives (Original Mix)", 
+ "label": {
+  "slug": "laka-tosh", 
+  "id": 4219, 
+  "name": "Laka-Tosh"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/01b5582b-4b26-4730-9d00-645eaa2c5c61.LOFI.mp4", 
+   "offset": {
+    "start": 161620, 
+    "end": 281620
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/01b5582b-4b26-4730-9d00-645eaa2c5c61.LOFI.mp3", 
+   "offset": {
+    "start": 161620, 
+    "end": 281620
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "G maj", 
+ "date": {
+  "released": "2007-05-25", 
+  "published": "2007-05-18"
+ }, 
+ "active": true, 
+ "slug": "desperate-mouselives-original-mix", 
+ "preorder": false, 
+ "name": "Desperate Mouselives", 
+ "component_type": null, 
+ "bpm": 125, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "deepest-shades-of-house-volume-3", 
+  "id": 57195, 
+  "name": "Deepest Shades Of House Volume 3"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/d25b827d-a2c1-4e74-b9cc-58f48c820889.png", 
+   "width": 1500, 
+   "id": 2235273, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/d25b827d-a2c1-4e74-b9cc-58f48c820889.png", 
+   "id": 2235273
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

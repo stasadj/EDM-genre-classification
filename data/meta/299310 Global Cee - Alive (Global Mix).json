@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/d5d3545e-e80c-4abb-95bd-1f2697d974c0.jpg", 
+   "width": 30, 
+   "id": 104549, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/8a115fcf-b7e3-4fee-80c0-eb10aec15583.jpg", 
+   "width": 60, 
+   "id": 104550, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/8a115fcf-b7e3-4fee-80c0-eb10aec15583.jpg", 
+   "id": 104550
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "global-cee", 
+   "id": 10081, 
+   "name": "Global Cee"
+  }
+ ], 
+ "duration": {
+  "minutes": "8:10", 
+  "milliseconds": 490177
+ }, 
+ "id": 299310, 
+ "genres": [
+  {
+   "slug": "trance", 
+   "id": 7, 
+   "name": "Trance"
+  }
+ ], 
+ "title": "Alive (Global Mix)", 
+ "label": {
+  "slug": "druck-records", 
+  "id": 1333, 
+  "name": "Druck Records"
+ }, 
+ "mix": "Global Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/b0251b0a-2c9b-48b9-9127-81c7c1d6543b.LOFI.mp4", 
+   "offset": {
+    "start": 196070, 
+    "end": 316070
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/b0251b0a-2c9b-48b9-9127-81c7c1d6543b.LOFI.mp3", 
+   "offset": {
+    "start": 196070, 
+    "end": 316070
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C maj", 
+ "date": {
+  "released": "2005-05-02", 
+  "published": "2005-05-02"
+ }, 
+ "active": true, 
+ "slug": "alive-global-mix", 
+ "preorder": false, 
+ "name": "Alive", 
+ "component_type": null, 
+ "bpm": 142, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "alive", 
+  "id": 57249, 
+  "name": "Alive"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/0694a5d9-86ed-4568-bb22-383cfaca6b26.png", 
+   "width": 1500, 
+   "id": 2234923, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

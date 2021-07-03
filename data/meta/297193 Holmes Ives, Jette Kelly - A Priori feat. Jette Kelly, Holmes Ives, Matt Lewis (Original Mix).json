@@ -1,0 +1,132 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/a77dba90-cd0b-49d1-9f3b-f69cae0979a7.jpg", 
+   "width": 30, 
+   "id": 104250, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/e536c31c-a8b0-4373-bdbe-20dd187303b2.jpg", 
+   "width": 60, 
+   "id": 104251, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/e536c31c-a8b0-4373-bdbe-20dd187303b2.jpg", 
+   "id": 104251
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "holmes-ives", 
+   "id": 11545, 
+   "name": "Holmes Ives"
+  }, 
+  {
+   "slug": "jette-kelly", 
+   "id": 40790, 
+   "name": "Jette Kelly"
+  }
+ ], 
+ "duration": {
+  "minutes": "4:37", 
+  "milliseconds": 277626
+ }, 
+ "id": 297193, 
+ "genres": [
+  {
+   "slug": "electronica-downtempo", 
+   "id": 3, 
+   "name": "Electronica / Downtempo"
+  }
+ ], 
+ "title": "A Priori feat. Jette Kelly, Holmes Ives, Matt Lewis (Original Mix)", 
+ "label": {
+  "slug": "ova", 
+  "id": 2989, 
+  "name": "OVA"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/7846d590-7cb4-4047-a62d-acde603bbfba.LOFI.mp4", 
+   "offset": {
+    "start": 111050, 
+    "end": 231050
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/7846d590-7cb4-4047-a62d-acde603bbfba.LOFI.mp3", 
+   "offset": {
+    "start": 111050, 
+    "end": 231050
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A maj", 
+ "date": {
+  "released": "2007-02-06", 
+  "published": "2007-02-06"
+ }, 
+ "active": true, 
+ "slug": "a-priori-feat-jette-kelly-holmes-ives-matt-lewis-original-mix", 
+ "preorder": false, 
+ "name": "A Priori feat. Jette Kelly, Holmes Ives, Matt Lewis", 
+ "component_type": null, 
+ "bpm": 128, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "in-the-deep", 
+  "id": 56811, 
+  "name": "In The Deep"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/e90f3df1-639b-4e76-a4e2-a50e9a8894cf.png", 
+   "width": 1500, 
+   "id": 2237840, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

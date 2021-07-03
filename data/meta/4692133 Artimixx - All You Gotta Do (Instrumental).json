@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/3e98e5f6-fe3d-476f-9101-dfb52a05b173.jpg", 
+   "width": 500, 
+   "id": 8085110, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/a39b390b-e2b2-400c-b793-df0efb61dd7d.jpg", 
+   "width": 30, 
+   "id": 8085108, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/edfcefe9-7cda-436b-8ecc-be73b4374fc0.jpg", 
+   "width": 60, 
+   "id": 8085109, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/3e98e5f6-fe3d-476f-9101-dfb52a05b173.jpg", 
+   "id": 8085110
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "artimixx", 
+   "id": 196966, 
+   "name": "Artimixx"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:13", 
+  "milliseconds": 373338
+ }, 
+ "id": 4692133, 
+ "genres": [
+  {
+   "slug": "house", 
+   "id": 5, 
+   "name": "House"
+  }
+ ], 
+ "title": "All You Gotta Do (Instrumental)", 
+ "label": {
+  "slug": "muted-trax", 
+  "id": 6307, 
+  "name": "Muted Trax"
+ }, 
+ "mix": "Instrumental", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/4295d2cd-1778-4ad3-ab80-507505582294.LOFI.mp4", 
+   "offset": {
+    "start": 149335, 
+    "end": 269335
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/4295d2cd-1778-4ad3-ab80-507505582294.LOFI.mp3", 
+   "offset": {
+    "start": 149335, 
+    "end": 269335
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A\u266f maj", 
+ "date": {
+  "released": "2013-09-25", 
+  "published": "2013-09-25"
+ }, 
+ "active": true, 
+ "slug": "all-you-gotta-do-instrumental", 
+ "preorder": false, 
+ "name": "All You Gotta Do", 
+ "component_type": null, 
+ "bpm": 126, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "all-you-gotta-do", 
+  "id": 1154063, 
+  "name": "All You Gotta Do"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/390ed994-6977-493c-907e-0c62c14db3f4.png", 
+   "width": 1500, 
+   "id": 8085116, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/390ed994-6977-493c-907e-0c62c14db3f4.png", 
+   "id": 8085116
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

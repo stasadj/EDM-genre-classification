@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/a6b4a9f8-8e0c-4ba4-a211-14863a54490e.jpg", 
+   "width": 500, 
+   "id": 6828366, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/49229c63-d36c-4d85-946e-4151fd5af3f6.jpg", 
+   "width": 30, 
+   "id": 6828364, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/1ef0d15b-da3d-4f57-91a9-b9b56ba34454.jpg", 
+   "width": 60, 
+   "id": 6828365, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/a6b4a9f8-8e0c-4ba4-a211-14863a54490e.jpg", 
+   "id": 6828366
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "camden-amen", 
+   "id": 262912, 
+   "name": "Camden Amen"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:46", 
+  "milliseconds": 346527
+ }, 
+ "id": 4149415, 
+ "genres": [
+  {
+   "slug": "drum-and-bass", 
+   "id": 1, 
+   "name": "Drum & Bass"
+  }
+ ], 
+ "title": "Get Down (Original Mix)", 
+ "label": {
+  "slug": "sub-generation-records", 
+  "id": 23863, 
+  "name": "Sub Generation Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/4a2ff164-d562-43f5-8da6-ed01216928b7.LOFI.mp4", 
+   "offset": {
+    "start": 138610, 
+    "end": 258610
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/4a2ff164-d562-43f5-8da6-ed01216928b7.LOFI.mp3", 
+   "offset": {
+    "start": 138610, 
+    "end": 258610
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "B maj", 
+ "date": {
+  "released": "2013-03-14", 
+  "published": "2013-03-14"
+ }, 
+ "active": true, 
+ "slug": "get-down-original-mix", 
+ "preorder": false, 
+ "name": "Get Down", 
+ "component_type": null, 
+ "bpm": 0, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "revival-ep", 
+  "id": 1040558, 
+  "name": "Revival EP"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/78bdcbf9-aa89-4d15-90be-3fb1d9cc6a9b.png", 
+   "width": 1500, 
+   "id": 6885774, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/78bdcbf9-aa89-4d15-90be-3fb1d9cc6a9b.png", 
+   "id": 6885774
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

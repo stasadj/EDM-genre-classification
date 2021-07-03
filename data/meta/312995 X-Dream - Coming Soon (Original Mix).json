@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/3a41abcb-5afa-4d9b-8cf1-da17c195aa0a.jpg", 
+   "width": 30, 
+   "id": 111743, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/da8162a3-9839-464d-a720-928d5bcff476.jpg", 
+   "width": 60, 
+   "id": 111744, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/da8162a3-9839-464d-a720-928d5bcff476.jpg", 
+   "id": 111744
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "x-dream", 
+   "id": 8084, 
+   "name": "X-Dream"
+  }
+ ], 
+ "duration": {
+  "minutes": "8:30", 
+  "milliseconds": 510920
+ }, 
+ "id": 312995, 
+ "genres": [
+  {
+   "slug": "psy-trance", 
+   "id": 13, 
+   "name": "Psy-Trance"
+  }
+ ], 
+ "title": "Coming Soon (Original Mix)", 
+ "label": {
+  "slug": "etnicanet-records", 
+  "id": 5875, 
+  "name": "Etnicanet Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/7a40f298-8978-41f3-b84a-4b7a916d5cb4.LOFI.mp4", 
+   "offset": {
+    "start": 204368, 
+    "end": 324368
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/7a40f298-8978-41f3-b84a-4b7a916d5cb4.LOFI.mp3", 
+   "offset": {
+    "start": 204368, 
+    "end": 324368
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D\u266f maj", 
+ "date": {
+  "released": "2000-01-01", 
+  "published": "2000-01-01"
+ }, 
+ "active": true, 
+ "slug": "coming-soon-original-mix", 
+ "preorder": false, 
+ "name": "Coming Soon", 
+ "component_type": null, 
+ "bpm": 142, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "southafrika-2000", 
+  "id": 60356, 
+  "name": "Southafrika 2000"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/45a166a6-c180-499c-baaf-07e564d68844.png", 
+   "width": 1500, 
+   "id": 2216650, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/1684e6fa-49ba-437b-9b30-e1cab10503a5.jpg", 
+   "width": 500, 
+   "id": 1120311, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/3dc88471-6d03-4817-8213-4149a56f451c.jpg", 
+   "width": 30, 
+   "id": 1120309, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/b91e2960-3eb6-4712-9a8c-cdc2a2f23dec.jpg", 
+   "width": 60, 
+   "id": 1120310, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/1684e6fa-49ba-437b-9b30-e1cab10503a5.jpg", 
+   "id": 1120311
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "nowak", 
+   "id": 48219, 
+   "name": "Nowak"
+  }
+ ], 
+ "duration": {
+  "minutes": "3:22", 
+  "milliseconds": 202609
+ }, 
+ "id": 1746583, 
+ "genres": [
+  {
+   "slug": "hard-dance", 
+   "id": 8, 
+   "name": "Hard Dance"
+  }
+ ], 
+ "title": "See The Future Inside (Radio Edit)", 
+ "label": {
+  "slug": "planeta-mix-records", 
+  "id": 14993, 
+  "name": "Planeta Mix Records"
+ }, 
+ "mix": "Radio Edit", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/fb1c8e16-2bd8-4ae9-94b2-fb9ef48197a7.LOFI.mp3", 
+   "offset": {
+    "start": 81043, 
+    "end": 201404
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "E maj", 
+ "date": {
+  "released": "2011-02-28", 
+  "published": "2011-02-28"
+ }, 
+ "active": true, 
+ "slug": "see-the-future-inside-radio-edit", 
+ "preorder": false, 
+ "name": "See The Future Inside", 
+ "component_type": null, 
+ "bpm": 140, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "italian-style-fm-compilation", 
+  "id": 339127, 
+  "name": "Italian Style Fm Compilation"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/90584935-0a2b-4111-b60f-f0e8ff6a8ee6.png", 
+   "width": 1500, 
+   "id": 1120388, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/90584935-0a2b-4111-b60f-f0e8ff6a8ee6.png", 
+   "id": 1120388
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

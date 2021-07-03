@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/024cd18d-b771-461f-995b-ebc329ded664.jpg", 
+   "width": 500, 
+   "id": 5698557, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/c515da3b-3514-4681-b7d5-42f98cb8751a.jpg", 
+   "width": 30, 
+   "id": 5698555, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/c817475c-de30-4b6c-9f79-324d5f013982.jpg", 
+   "width": 60, 
+   "id": 5698556, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/024cd18d-b771-461f-995b-ebc329ded664.jpg", 
+   "id": 5698557
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "michael-s", 
+   "id": 99250, 
+   "name": "Michael S."
+  }
+ ], 
+ "duration": {
+  "minutes": "3:40", 
+  "milliseconds": 220530
+ }, 
+ "id": 3639596, 
+ "genres": [
+  {
+   "slug": "trance", 
+   "id": 7, 
+   "name": "Trance"
+  }
+ ], 
+ "title": "Mark Me Down (Radio Edit)", 
+ "label": {
+  "slug": "arva", 
+  "id": 27511, 
+  "name": "ARVA"
+ }, 
+ "mix": "Radio Edit", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/c10a0d66-c002-4ed7-9c23-e78c8dd18c37.LOFI.mp3", 
+   "offset": {
+    "start": 88212, 
+    "end": 208501
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C\u266f maj", 
+ "date": {
+  "released": "2012-07-20", 
+  "published": "2012-07-20"
+ }, 
+ "active": true, 
+ "slug": "mark-me-down-radio-edit", 
+ "preorder": false, 
+ "name": "Mark Me Down", 
+ "component_type": null, 
+ "bpm": 125, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "summer-trance-top-50-2012", 
+  "id": 939301, 
+  "name": "Summer Trance Top 50 - 2012"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/62f18858-e3d4-4fc7-a01f-ba71f600b8a6.png", 
+   "width": 1500, 
+   "id": 5698721, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/62f18858-e3d4-4fc7-a01f-ba71f600b8a6.png", 
+   "id": 5698721
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

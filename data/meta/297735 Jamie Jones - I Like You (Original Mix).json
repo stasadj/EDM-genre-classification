@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/30ab1b7c-6a4f-4099-aaeb-968d7c9a03b8.jpg", 
+   "width": 30, 
+   "id": 103702, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/dc189fac-1bc7-455c-8c07-561195920e18.jpg", 
+   "width": 60, 
+   "id": 103703, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/dc189fac-1bc7-455c-8c07-561195920e18.jpg", 
+   "id": 103703
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "jamie-jones", 
+   "id": 27044, 
+   "name": "Jamie Jones"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:53", 
+  "milliseconds": 413853
+ }, 
+ "id": 297735, 
+ "genres": [
+  {
+   "slug": "tech-house", 
+   "id": 11, 
+   "name": "Tech House"
+  }
+ ], 
+ "title": "I Like You (Original Mix)", 
+ "label": {
+  "slug": "freak-n-chic", 
+  "id": 3585, 
+  "name": "Freak N Chic"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/28a33ed5-ceb5-459f-a74e-be195e51dd62.LOFI.mp4", 
+   "offset": {
+    "start": 165541, 
+    "end": 285541
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/28a33ed5-ceb5-459f-a74e-be195e51dd62.LOFI.mp3", 
+   "offset": {
+    "start": 165541, 
+    "end": 285541
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A maj", 
+ "date": {
+  "released": "2007-05-18", 
+  "published": "2007-05-18"
+ }, 
+ "active": true, 
+ "slug": "i-like-you-original-mix", 
+ "preorder": false, 
+ "name": "I Like You", 
+ "component_type": null, 
+ "bpm": 126, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "rendez-vous-01-ep-1-4", 
+  "id": 56933, 
+  "name": "Rendez-Vous 01 EP 1/4"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/0414fe24-bc8a-4297-8fa7-ba82a258ebe5.png", 
+   "width": 1500, 
+   "id": 2237033, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

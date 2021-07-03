@@ -1,0 +1,132 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/8577f6bf-ed1d-4516-8f75-c141f967880d.jpg", 
+   "width": 500, 
+   "id": 9461374, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/b9e59977-8c8f-49b5-b6c0-b8eadc5946f1.jpg", 
+   "width": 30, 
+   "id": 8628607, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/47f6df77-cc70-4a6b-a859-8bf1ebb8d482.jpg", 
+   "width": 60, 
+   "id": 8628608, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/8577f6bf-ed1d-4516-8f75-c141f967880d.jpg", 
+   "id": 9461374
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "michael-gidley", 
+   "id": 380460, 
+   "name": "Michael Gidley"
+  }, 
+  {
+   "slug": "damn-dan", 
+   "id": 386824, 
+   "name": "Damn Dan"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:04", 
+  "milliseconds": 304287
+ }, 
+ "id": 5429242, 
+ "genres": [
+  {
+   "slug": "electro-house", 
+   "id": 17, 
+   "name": "Electro House"
+  }
+ ], 
+ "title": "Suspension (Original Mix)", 
+ "label": {
+  "slug": "pop-rox-muzik", 
+  "id": 17774, 
+  "name": "Pop Rox Muzik"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/ed96dead-9e44-4e4f-ae4f-814eb68c9dd6.LOFI.mp4", 
+   "offset": {
+    "start": 121714, 
+    "end": 241714
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/ed96dead-9e44-4e4f-ae4f-814eb68c9dd6.LOFI.mp3", 
+   "offset": {
+    "start": 121714, 
+    "end": 241714
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C\u266f maj", 
+ "date": {
+  "released": "2014-05-26", 
+  "published": "2014-05-26"
+ }, 
+ "active": true, 
+ "slug": "suspension-original-mix", 
+ "preorder": false, 
+ "name": "Suspension", 
+ "component_type": null, 
+ "bpm": 128, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "suspension", 
+  "id": 1303825, 
+  "name": "Suspension"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/dfd3a31e-d03e-4211-b8aa-6d3bce92e67c.png", 
+   "width": 1500, 
+   "id": 9462443, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/dfd3a31e-d03e-4211-b8aa-6d3bce92e67c.png", 
+   "id": 9462443
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

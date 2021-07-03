@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/7af41094-a5a2-4cc7-aacf-54015f8872b0.jpg", 
+   "width": 500, 
+   "id": 947978, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/f8fad979-0e21-4101-8000-88517cde4d18.jpg", 
+   "width": 30, 
+   "id": 947976, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/e7b77909-5cd3-45ac-b5e4-cc655cebc881.jpg", 
+   "width": 60, 
+   "id": 947977, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/7af41094-a5a2-4cc7-aacf-54015f8872b0.jpg", 
+   "id": 947978
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "audiofun", 
+   "id": 117529, 
+   "name": "AudioFun"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:34", 
+  "milliseconds": 334279
+ }, 
+ "id": 1662838, 
+ "genres": [
+  {
+   "slug": "electro-house", 
+   "id": 17, 
+   "name": "Electro House"
+  }
+ ], 
+ "title": "Sensor (Original Mix)", 
+ "label": {
+  "slug": "downright", 
+  "id": 15357, 
+  "name": "Downright"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/ed73d78e-4294-4864-a503-f9f6aac481a7.LOFI.mp3", 
+   "offset": {
+    "start": 133711, 
+    "end": 253811
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D maj", 
+ "date": {
+  "released": "2011-01-27", 
+  "published": "2011-01-27"
+ }, 
+ "active": true, 
+ "slug": "sensor-original-mix", 
+ "preorder": false, 
+ "name": "Sensor", 
+ "component_type": null, 
+ "bpm": 128, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "sensor-ep", 
+  "id": 324999, 
+  "name": "Sensor EP"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/b607d93b-73e6-4549-87d4-e8fe01048ee4.png", 
+   "width": 1500, 
+   "id": 6857975, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/b607d93b-73e6-4549-87d4-e8fe01048ee4.png", 
+   "id": 6857975
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/baa80a56-f2f0-4f02-8870-7989d8123be2.jpg", 
+   "width": 500, 
+   "id": 10846259, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/97dc8a83-f8ee-40f8-808c-728bb37df524.jpg", 
+   "width": 30, 
+   "id": 9085003, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/3720d640-ead2-4d55-9461-ee70321db08b.jpg", 
+   "width": 60, 
+   "id": 9085004, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/baa80a56-f2f0-4f02-8870-7989d8123be2.jpg", 
+   "id": 10846259
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "the-cow", 
+   "id": 344455, 
+   "name": "The Cow"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:05", 
+  "milliseconds": 425142
+ }, 
+ "id": 6235742, 
+ "genres": [
+  {
+   "slug": "breaks", 
+   "id": 9, 
+   "name": "Breaks"
+  }
+ ], 
+ "title": "Goatherd (Original Mix)", 
+ "label": {
+  "slug": "lapaka-sounds", 
+  "id": 39298, 
+  "name": "Lapaka Sounds"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/ec6c7802-490b-4a6b-8744-9af4b1ebfbe4.LOFI.mp4", 
+   "offset": {
+    "start": 170056, 
+    "end": 290056
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/ec6c7802-490b-4a6b-8744-9af4b1ebfbe4.LOFI.mp3", 
+   "offset": {
+    "start": 170056, 
+    "end": 290056
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C\u266f maj", 
+ "date": {
+  "released": "2015-02-09", 
+  "published": "2015-02-09"
+ }, 
+ "active": true, 
+ "slug": "goatherd-original-mix", 
+ "preorder": false, 
+ "name": "Goatherd", 
+ "component_type": null, 
+ "bpm": 140, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "goatherd", 
+  "id": 1453551, 
+  "name": "Goatherd"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/b367b47f-0ea3-4487-b42b-bd26445e196a.png", 
+   "width": 1500, 
+   "id": 10846761, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/b367b47f-0ea3-4487-b42b-bd26445e196a.png", 
+   "id": 10846761
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

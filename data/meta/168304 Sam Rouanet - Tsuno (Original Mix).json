@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/a2c20eb3-ec99-4227-b62f-d37f9d4e0703.jpg", 
+   "width": 30, 
+   "id": 34901, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/aef24d9a-b5e4-4f7d-a17d-5eaead7817ec.jpg", 
+   "width": 60, 
+   "id": 19170, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/aef24d9a-b5e4-4f7d-a17d-5eaead7817ec.jpg", 
+   "id": 19170
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "sam-rouanet", 
+   "id": 21161, 
+   "name": "Sam Rouanet"
+  }
+ ], 
+ "duration": {
+  "minutes": "8:53", 
+  "milliseconds": 533707
+ }, 
+ "id": 168304, 
+ "genres": [
+  {
+   "slug": "tech-house", 
+   "id": 11, 
+   "name": "Tech House"
+  }
+ ], 
+ "title": "Tsuno (Original Mix)", 
+ "label": {
+  "slug": "short-records", 
+  "id": 2758, 
+  "name": "S'hort Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/b16b2704-f9b5-4bdf-a1b1-62f3fe3044df.LOFI.mp4", 
+   "offset": {
+    "start": 213482, 
+    "end": 333482
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/b16b2704-f9b5-4bdf-a1b1-62f3fe3044df.LOFI.mp3", 
+   "offset": {
+    "start": 213482, 
+    "end": 333482
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F maj", 
+ "date": {
+  "released": "2006-01-02", 
+  "published": "2006-01-02"
+ }, 
+ "active": true, 
+ "slug": "tsuno-original-mix", 
+ "preorder": false, 
+ "name": "Tsuno", 
+ "component_type": null, 
+ "bpm": 128, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "planet-vinea", 
+  "id": 28660, 
+  "name": "Planet Vinea"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/df92c098-ea57-468b-a5d5-e6f9bdea426b.png", 
+   "width": 1500, 
+   "id": 2388148, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

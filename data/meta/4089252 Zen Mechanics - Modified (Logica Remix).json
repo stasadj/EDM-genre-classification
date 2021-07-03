@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/5e2b6929-d3b0-4076-ab31-bcdb66477022.jpg", 
+   "width": 500, 
+   "id": 6641468, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/9649ce8f-ef61-4252-94e8-0f415e14deb1.jpg", 
+   "width": 30, 
+   "id": 6641466, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/d0337654-55d8-42fa-ae30-a320ac24a179.jpg", 
+   "width": 60, 
+   "id": 6641467, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/5e2b6929-d3b0-4076-ab31-bcdb66477022.jpg", 
+   "id": 6641468
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "zen-mechanics", 
+   "id": 7170, 
+   "name": "Zen Mechanics"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:49", 
+  "milliseconds": 469400
+ }, 
+ "id": 4089252, 
+ "genres": [
+  {
+   "slug": "psy-trance", 
+   "id": 13, 
+   "name": "Psy-Trance"
+  }
+ ], 
+ "title": "Modified (Logica Remix)", 
+ "label": {
+  "slug": "phantasm-records", 
+  "id": 812, 
+  "name": "Phantasm Records"
+ }, 
+ "mix": "Logica Remix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/3aff02fb-432b-4b1f-894f-629feecae4df.LOFI.mp4", 
+   "offset": {
+    "start": 187760, 
+    "end": 307760
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/3aff02fb-432b-4b1f-894f-629feecae4df.LOFI.mp3", 
+   "offset": {
+    "start": 187760, 
+    "end": 307760
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C\u266f maj", 
+ "date": {
+  "released": "2013-01-28", 
+  "published": "2013-01-28"
+ }, 
+ "active": true, 
+ "slug": "modified-logica-remix", 
+ "preorder": false, 
+ "name": "Modified", 
+ "component_type": null, 
+ "bpm": 140, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "20-years-of-psychedelic-volume-1-compiled-by-zorflux", 
+  "id": 1028250, 
+  "name": "20 Years Of Psychedelic - Volume 1 - Compiled by Zorflux"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/c29428c1-bc7a-4aad-a184-b501f3739ba0.png", 
+   "width": 1500, 
+   "id": 6641484, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/c29428c1-bc7a-4aad-a184-b501f3739ba0.png", 
+   "id": 6641484
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

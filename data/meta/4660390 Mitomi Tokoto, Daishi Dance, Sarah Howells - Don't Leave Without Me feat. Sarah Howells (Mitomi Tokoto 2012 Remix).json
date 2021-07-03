@@ -1,0 +1,137 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/95155a45-2279-42d2-a901-d72175d28f49.jpg", 
+   "width": 500, 
+   "id": 8015896, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/7a321dd7-8687-4eb0-af49-dc962c1a359c.jpg", 
+   "width": 30, 
+   "id": 8015894, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/5f75a1f1-ba06-4873-ad60-cfa9735488a8.jpg", 
+   "width": 60, 
+   "id": 8015895, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/95155a45-2279-42d2-a901-d72175d28f49.jpg", 
+   "id": 8015896
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "mitomi-tokoto", 
+   "id": 44415, 
+   "name": "Mitomi Tokoto"
+  }, 
+  {
+   "slug": "daishi-dance", 
+   "id": 47630, 
+   "name": "Daishi Dance"
+  }, 
+  {
+   "slug": "sarah-howells", 
+   "id": 135102, 
+   "name": "Sarah Howells"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:46", 
+  "milliseconds": 406874
+ }, 
+ "id": 4660390, 
+ "genres": [
+  {
+   "slug": "progressive-house", 
+   "id": 15, 
+   "name": "Progressive House"
+  }
+ ], 
+ "title": "Don't Leave Without Me feat. Sarah Howells (Mitomi Tokoto 2012 Remix)", 
+ "label": {
+  "slug": "icompilations", 
+  "id": 21942, 
+  "name": "iCompilations"
+ }, 
+ "mix": "Mitomi Tokoto 2012 Remix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/2c820384-ab3b-434d-9055-5dd24f90711c.LOFI.mp4", 
+   "offset": {
+    "start": 162749, 
+    "end": 282749
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/2c820384-ab3b-434d-9055-5dd24f90711c.LOFI.mp3", 
+   "offset": {
+    "start": 162749, 
+    "end": 282749
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F\u266f maj", 
+ "date": {
+  "released": "2013-09-01", 
+  "published": "2013-09-01"
+ }, 
+ "active": true, 
+ "slug": "dont-leave-without-me-feat-sarah-howells-mitomi-tokoto-2012-remix", 
+ "preorder": false, 
+ "name": "Don't Leave Without Me feat. Sarah Howells", 
+ "component_type": null, 
+ "bpm": 128, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "this-is-progressive-house-volume-2", 
+  "id": 1147643, 
+  "name": "This Is Progressive House - Volume 2"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/e6b99c56-0561-468e-a792-5e62e371f073.png", 
+   "width": 1500, 
+   "id": 8015917, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/e6b99c56-0561-468e-a792-5e62e371f073.png", 
+   "id": 8015917
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

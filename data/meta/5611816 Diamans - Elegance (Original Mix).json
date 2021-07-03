@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/c74a682e-fb0d-4a0e-bfe8-1b3216e770b2.jpg", 
+   "width": 500, 
+   "id": 9769386, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/2f6f6a3e-6730-4cdd-a63d-61d9bfdfc4f1.jpg", 
+   "width": 30, 
+   "id": 491534, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/6cb114d1-5682-4f1d-a542-e5eb1cf97c8a.jpg", 
+   "width": 60, 
+   "id": 10844728, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/c74a682e-fb0d-4a0e-bfe8-1b3216e770b2.jpg", 
+   "id": 9769386
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "diamans", 
+   "id": 305409, 
+   "name": "Diamans"
+  }
+ ], 
+ "duration": {
+  "minutes": "3:47", 
+  "milliseconds": 227142
+ }, 
+ "id": 5611816, 
+ "genres": [
+  {
+   "slug": "electronica-downtempo", 
+   "id": 3, 
+   "name": "Electronica / Downtempo"
+  }
+ ], 
+ "title": "Elegance (Original Mix)", 
+ "label": {
+  "slug": "chillout-cafe", 
+  "id": 38673, 
+  "name": "Chillout Cafe"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/4f23e74e-077c-4825-8a8e-dc6db937a98a.LOFI.mp4", 
+   "offset": {
+    "start": 90856, 
+    "end": 210856
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/4f23e74e-077c-4825-8a8e-dc6db937a98a.LOFI.mp3", 
+   "offset": {
+    "start": 90856, 
+    "end": 210856
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A\u266f maj", 
+ "date": {
+  "released": "2014-07-21", 
+  "published": "2014-07-21"
+ }, 
+ "active": true, 
+ "slug": "elegance-original-mix", 
+ "preorder": false, 
+ "name": "Elegance", 
+ "component_type": null, 
+ "bpm": 140, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "miracle", 
+  "id": 1340626, 
+  "name": "Miracle"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/893cc6e3-1ac6-4f24-ad9c-3daa4f187aec.png", 
+   "width": 1500, 
+   "id": 9770791, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/893cc6e3-1ac6-4f24-ad9c-3daa4f187aec.png", 
+   "id": 9770791
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

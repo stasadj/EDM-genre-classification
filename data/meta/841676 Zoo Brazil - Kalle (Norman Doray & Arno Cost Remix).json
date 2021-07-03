@@ -1,0 +1,135 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/c0ab8c2f-689a-4b1b-957c-d3f31d4c966d.jpg", 
+   "width": 500, 
+   "id": 409725, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/d9f9af13-29e3-453f-ba03-e219a0a62dc3.jpg", 
+   "width": 30, 
+   "id": 409723, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/301d7edf-0d4c-46d6-8b7f-bde928d78514.jpg", 
+   "width": 60, 
+   "id": 409724, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/c0ab8c2f-689a-4b1b-957c-d3f31d4c966d.jpg", 
+   "id": 409725
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "zoo-brazil", 
+   "id": 4314, 
+   "name": "Zoo Brazil"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:01", 
+  "milliseconds": 421623
+ }, 
+ "id": 841676, 
+ "genres": [
+  {
+   "slug": "progressive-house", 
+   "id": 15, 
+   "name": "Progressive House"
+  }
+ ], 
+ "title": "Kalle (Norman Doray & Arno Cost Remix)", 
+ "label": {
+  "slug": "wormland-black", 
+  "id": 12673, 
+  "name": "Wormland Black"
+ }, 
+ "mix": "Norman Doray & Arno Cost Remix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/69971e68-dcce-47e7-bd43-6f4027c2d5b2.LOFI.mp3", 
+   "offset": {
+    "start": 168649, 
+    "end": 288826
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "arno-cost", 
+   "id": 20370, 
+   "name": "Arno Cost"
+  }, 
+  {
+   "slug": "norman-doray", 
+   "id": 39696, 
+   "name": "Norman Doray"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A\u266f maj", 
+ "date": {
+  "released": "2009-05-07", 
+  "published": "2009-05-07"
+ }, 
+ "active": true, 
+ "slug": "kalle-norman-doray-and-arno-cost-remix", 
+ "preorder": false, 
+ "name": "Kalle", 
+ "component_type": null, 
+ "bpm": 128, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "stage-door-a-house-entry", 
+  "id": 169641, 
+  "name": "Stage Door - A House Entry"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/a4378542-155e-40b5-af6b-800cce9c501e.png", 
+   "width": 1500, 
+   "id": 1183734, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/a4378542-155e-40b5-af6b-800cce9c501e.png", 
+   "id": 1183734
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

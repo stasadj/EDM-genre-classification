@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/0dc037b4-9320-4223-a350-2e511a0b8797.jpg", 
+   "width": 30, 
+   "id": 104612, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/a31c0b9f-1aa8-4a48-9c97-ad379ee4792e.jpg", 
+   "width": 60, 
+   "id": 104613, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/a31c0b9f-1aa8-4a48-9c97-ad379ee4792e.jpg", 
+   "id": 104613
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "komeit", 
+   "id": 28416, 
+   "name": "Komeit"
+  }
+ ], 
+ "duration": {
+  "minutes": "3:48", 
+  "milliseconds": 228560
+ }, 
+ "id": 299489, 
+ "genres": [
+  {
+   "slug": "electronica-downtempo", 
+   "id": 3, 
+   "name": "Electronica / Downtempo"
+  }
+ ], 
+ "title": "Don't Call (Original Mix)", 
+ "label": {
+  "slug": "monika-enterprise", 
+  "id": 2293, 
+  "name": "Monika Enterprise"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/ed845f6c-bd47-474d-ac6b-c15fdba622e4.LOFI.mp4", 
+   "offset": {
+    "start": 91424, 
+    "end": 211424
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/ed845f6c-bd47-474d-ac6b-c15fdba622e4.LOFI.mp3", 
+   "offset": {
+    "start": 91424, 
+    "end": 211424
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D maj", 
+ "date": {
+  "released": "2001-08-10", 
+  "published": "2001-08-10"
+ }, 
+ "active": true, 
+ "slug": "dont-call-original-mix", 
+ "preorder": false, 
+ "name": "Don't Call", 
+ "component_type": null, 
+ "bpm": 113, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "raumschiff-monika", 
+  "id": 57280, 
+  "name": "Raumschiff Monika"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/67374cf9-4245-4538-a442-23102782df79.png", 
+   "width": 1500, 
+   "id": 2537602, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

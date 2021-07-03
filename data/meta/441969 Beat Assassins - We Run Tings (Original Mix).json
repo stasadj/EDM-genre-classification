@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/1a9650d7-18e6-45a8-92b1-27cb62b12034.jpg", 
+   "width": 30, 
+   "id": 176276, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/2e2c841f-5cf6-4dde-ba7e-17a060d2b6d6.jpg", 
+   "width": 60, 
+   "id": 176277, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/2e2c841f-5cf6-4dde-ba7e-17a060d2b6d6.jpg", 
+   "id": 176277
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "beat-assassins", 
+   "id": 45315, 
+   "name": "Beat Assassins"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:54", 
+  "milliseconds": 414659
+ }, 
+ "id": 441969, 
+ "genres": [
+  {
+   "slug": "breaks", 
+   "id": 9, 
+   "name": "Breaks"
+  }
+ ], 
+ "title": "We Run Tings (Original Mix)", 
+ "label": {
+  "slug": "mofo-recordings", 
+  "id": 6155, 
+  "name": "Mofo Recordings"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/e05d2b6b-aae3-4704-a1d2-1cad08a7975b.LOFI.mp4", 
+   "offset": {
+    "start": 165863, 
+    "end": 285863
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/e05d2b6b-aae3-4704-a1d2-1cad08a7975b.LOFI.mp3", 
+   "offset": {
+    "start": 165863, 
+    "end": 285863
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "E maj", 
+ "date": {
+  "released": "2007-11-27", 
+  "published": "2007-11-27"
+ }, 
+ "active": true, 
+ "slug": "we-run-tings-original-mix", 
+ "preorder": false, 
+ "name": "We Run Tings", 
+ "component_type": null, 
+ "bpm": 132, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "we-run-tings", 
+  "id": 86217, 
+  "name": "We Run Tings"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/0cc11d2f-84c1-4ad4-8bf3-442aaeba2434.png", 
+   "width": 1500, 
+   "id": 2039768, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

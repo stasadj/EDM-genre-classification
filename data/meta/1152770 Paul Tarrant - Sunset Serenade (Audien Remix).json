@@ -1,0 +1,136 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/46001bef-2d17-4dd8-86e6-a0f450124f28.jpg", 
+   "width": 500, 
+   "id": 629575, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/0faf3a12-42d0-496c-a568-b4e4e2574628.jpg", 
+   "width": 30, 
+   "id": 629573, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/25fb4c79-ac1c-44a9-965a-e04b637d4c1d.jpg", 
+   "width": 60, 
+   "id": 629574, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/46001bef-2d17-4dd8-86e6-a0f450124f28.jpg", 
+   "id": 629575
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "paul-tarrant", 
+   "id": 131485, 
+   "name": "Paul Tarrant"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:47", 
+  "milliseconds": 407185
+ }, 
+ "id": 1152770, 
+ "genres": [
+  {
+   "slug": "trance", 
+   "id": 7, 
+   "name": "Trance"
+  }
+ ], 
+ "title": "Sunset Serenade (Audien Remix)", 
+ "label": {
+  "slug": "enhanced-recordings", 
+  "id": 1301, 
+  "name": "Enhanced Recordings"
+ }, 
+ "mix": "Audien Remix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/ccbef19c-6947-4427-8be0-72e65b7bf5da.LOFI.mp3", 
+   "offset": {
+    "start": 162874, 
+    "end": 282928
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "audien", 
+   "id": 121217, 
+   "name": "Audien"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D maj", 
+ "date": {
+  "released": "2010-03-29", 
+  "published": "2010-03-29"
+ }, 
+ "active": true, 
+ "slug": "sunset-serenade-audien-remix", 
+ "preorder": false, 
+ "name": "Sunset Serenade", 
+ "component_type": null, 
+ "bpm": 130, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "miami-trance-2010", 
+  "id": 232208, 
+  "name": "Miami Trance 2010"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/24ecb87e-0b51-4865-9ec8-1c0088668fa0.png", 
+   "width": 1500, 
+   "id": 1328937, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/24ecb87e-0b51-4865-9ec8-1c0088668fa0.png", 
+   "id": 1328937
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": [
+  {
+   "slug": "progressive", 
+   "id": 27, 
+   "name": "Progressive"
+  }
+ ]
+}

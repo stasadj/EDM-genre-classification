@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/02f637d3-86ed-46e4-a0eb-d8080dd84b5b.jpg", 
+   "width": 30, 
+   "id": 159688, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/e9c0d2ed-4f6a-4c92-b3ce-715a7e42d5fe.jpg", 
+   "width": 60, 
+   "id": 159689, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/e9c0d2ed-4f6a-4c92-b3ce-715a7e42d5fe.jpg", 
+   "id": 159689
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "vandall", 
+   "id": 26467, 
+   "name": "Vandall"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:16", 
+  "milliseconds": 316313
+ }, 
+ "id": 410637, 
+ "genres": [
+  {
+   "slug": "hard-dance", 
+   "id": 8, 
+   "name": "Hard Dance"
+  }
+ ], 
+ "title": "If You Want (My Love) (Original Mix)", 
+ "label": {
+  "slug": "trancewarez", 
+  "id": 7574, 
+  "name": "Trancewarez"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/1e8d9a8d-fa85-4656-ad6b-f9469b15846a.LOFI.mp4", 
+   "offset": {
+    "start": 126525, 
+    "end": 246525
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/1e8d9a8d-fa85-4656-ad6b-f9469b15846a.LOFI.mp3", 
+   "offset": {
+    "start": 126525, 
+    "end": 246525
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "F maj", 
+ "date": {
+  "released": "2007-10-17", 
+  "published": "2007-10-17"
+ }, 
+ "active": true, 
+ "slug": "if-you-want-my-love-original-mix", 
+ "preorder": false, 
+ "name": "If You Want (My Love)", 
+ "component_type": null, 
+ "bpm": 144, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "future-sounds-ep", 
+  "id": 79640, 
+  "name": "Future Sounds EP"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/4a567dcc-0019-4d3c-bf02-3f51194a6dff.png", 
+   "width": 1500, 
+   "id": 2073142, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

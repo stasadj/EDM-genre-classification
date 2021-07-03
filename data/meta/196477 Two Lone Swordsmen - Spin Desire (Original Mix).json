@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/8453fd11-0e74-4b6d-be2a-91b017f53fb3.jpg", 
+   "width": 500, 
+   "id": 5867003, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/70248de3-d0e0-4b7a-bc21-67ebddbc1aec.jpg", 
+   "width": 30, 
+   "id": 5867001, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/345f44b0-7e2d-45c1-aa50-0e7fbaca4931.jpg", 
+   "width": 60, 
+   "id": 5867002, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/8453fd11-0e74-4b6d-be2a-91b017f53fb3.jpg", 
+   "id": 5867003
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "two-lone-swordsmen", 
+   "id": 12683, 
+   "name": "Two Lone Swordsmen"
+  }
+ ], 
+ "duration": {
+  "minutes": "9:29", 
+  "milliseconds": 569733
+ }, 
+ "id": 196477, 
+ "genres": [
+  {
+   "slug": "techno", 
+   "id": 6, 
+   "name": "Techno"
+  }
+ ], 
+ "title": "Spin Desire (Original Mix)", 
+ "label": {
+  "slug": "rotters-golf-club", 
+  "id": 416, 
+  "name": "Rotters Golf Club"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/d2991619-e303-49b2-9aa1-40e54be8faf6.LOFI.mp4", 
+   "offset": {
+    "start": 227893, 
+    "end": 347893
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/d2991619-e303-49b2-9aa1-40e54be8faf6.LOFI.mp3", 
+   "offset": {
+    "start": 227893, 
+    "end": 347893
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C\u266f maj", 
+ "date": {
+  "released": "2006-10-09", 
+  "published": "2006-10-09"
+ }, 
+ "active": true, 
+ "slug": "spin-desire-original-mix", 
+ "preorder": false, 
+ "name": "Spin Desire", 
+ "component_type": null, 
+ "bpm": 124, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "two-lone-swordsman-emissions-from-the-archive-vol-1", 
+  "id": 33965, 
+  "name": "Two Lone Swordsman: Emissions From The Archive Vol 1"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/c997aa1d-d443-4804-afd7-c53a2550f281.png", 
+   "width": 1500, 
+   "id": 2367950, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/c997aa1d-d443-4804-afd7-c53a2550f281.png", 
+   "id": 2367950
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/2f0b322c-d8fd-4031-bea5-d11d13109cb0.jpg", 
+   "width": 500, 
+   "id": 4965917, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/191cc77c-1b8b-43ef-a513-f4f66a062b50.jpg", 
+   "width": 30, 
+   "id": 4965915, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/0a24cda1-7792-4940-93d9-48701e6f2c65.jpg", 
+   "width": 60, 
+   "id": 4965916, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/2f0b322c-d8fd-4031-bea5-d11d13109cb0.jpg", 
+   "id": 4965917
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "myth-of-unity", 
+   "id": 242906, 
+   "name": "Myth Of Unity"
+  }
+ ], 
+ "duration": {
+  "minutes": "3:58", 
+  "milliseconds": 238759
+ }, 
+ "id": 3272193, 
+ "genres": [
+  {
+   "slug": "dubstep", 
+   "id": 18, 
+   "name": "Dubstep"
+  }
+ ], 
+ "title": "Break Your Neck (Original Mix)", 
+ "label": {
+  "slug": "low-pass-records", 
+  "id": 23844, 
+  "name": "Low Pass Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/9eeb04bd-6c71-49ec-aaa0-302bae8d759f.LOFI.mp3", 
+   "offset": {
+    "start": 95503, 
+    "end": 215885
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "G maj", 
+ "date": {
+  "released": "2012-01-26", 
+  "published": "2012-01-26"
+ }, 
+ "active": true, 
+ "slug": "break-your-neck-original-mix", 
+ "preorder": false, 
+ "name": "Break Your Neck", 
+ "component_type": null, 
+ "bpm": 140, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "now-that-we-have-your-attention-lp", 
+  "id": 866721, 
+  "name": "Now That We Have Your Attention LP"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/0555f53b-e6a4-4dab-ad33-de626420a434.png", 
+   "width": 1500, 
+   "id": 4967587, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/0555f53b-e6a4-4dab-ad33-de626420a434.png", 
+   "id": 4967587
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

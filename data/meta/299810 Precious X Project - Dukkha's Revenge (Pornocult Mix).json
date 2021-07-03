@@ -1,0 +1,133 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/ab2d1d04-233d-4b08-8234-9782b34dcab8.jpg", 
+   "width": 500, 
+   "id": 5245821, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/102acbe5-3f4f-4842-81aa-332c6365fc5c.jpg", 
+   "width": 30, 
+   "id": 104734, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/bacce558-d433-4794-abba-b036fb3f3bce.jpg", 
+   "width": 60, 
+   "id": 104735, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/bacce558-d433-4794-abba-b036fb3f3bce.jpg", 
+   "id": 104735
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "precious-x-project", 
+   "id": 26601, 
+   "name": "Precious X Project"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:23", 
+  "milliseconds": 443053
+ }, 
+ "id": 299810, 
+ "genres": [
+  {
+   "slug": "tech-house", 
+   "id": 11, 
+   "name": "Tech House"
+  }
+ ], 
+ "title": "Dukkha's Revenge (Pornocult Mix)", 
+ "label": {
+  "slug": "d-vision-records", 
+  "id": 2257, 
+  "name": "d:vision records"
+ }, 
+ "mix": "Pornocult Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/c8ad950c-c379-4ffd-a181-35281a31ce24.LOFI.mp4", 
+   "offset": {
+    "start": 177221, 
+    "end": 297221
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/c8ad950c-c379-4ffd-a181-35281a31ce24.LOFI.mp3", 
+   "offset": {
+    "start": 177221, 
+    "end": 297221
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "pornocult", 
+   "id": 21101, 
+   "name": "Pornocult"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D\u266f maj", 
+ "date": {
+  "released": "2007-05-29", 
+  "published": "2007-05-21"
+ }, 
+ "active": true, 
+ "slug": "dukkhas-revenge-pornocult-mix", 
+ "preorder": false, 
+ "name": "Dukkha's Revenge", 
+ "component_type": null, 
+ "bpm": 129, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "dukkhas-revenge", 
+  "id": 57337, 
+  "name": "Dukkha's Revenge"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/8af6b7da-ab41-4b83-bb4a-0bc010a33466.png", 
+   "width": 1500, 
+   "id": 2234152, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": null, 
+   "id": null
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

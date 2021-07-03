@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/188ed59e-7dd2-49aa-9bc9-23f29ecd1f68.jpg", 
+   "width": 500, 
+   "id": 431427, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/e4d8264d-5368-4c1f-9862-3395a0b3962d.jpg", 
+   "width": 30, 
+   "id": 431425, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/72f82f5d-3b73-4abb-9360-99ca4e7f631d.jpg", 
+   "width": 60, 
+   "id": 431426, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/188ed59e-7dd2-49aa-9bc9-23f29ecd1f68.jpg", 
+   "id": 431427
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "jonny-lexxs", 
+   "id": 22168, 
+   "name": "Jonny Lexxs"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:28", 
+  "milliseconds": 388244
+ }, 
+ "id": 871246, 
+ "genres": [
+  {
+   "slug": "electro-house", 
+   "id": 17, 
+   "name": "Electro House"
+  }
+ ], 
+ "title": "Bite Me (Original Mix)", 
+ "label": {
+  "slug": "dynamic-musik", 
+  "id": 5232, 
+  "name": "Dynamic Musik"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/23048eb6-9509-4d39-8803-017c46117f20.LOFI.mp4", 
+   "offset": {
+    "start": 155297, 
+    "end": 275297
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/23048eb6-9509-4d39-8803-017c46117f20.LOFI.mp3", 
+   "offset": {
+    "start": 155297, 
+    "end": 275297
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C\u266f maj", 
+ "date": {
+  "released": "2009-06-16", 
+  "published": "2009-06-16"
+ }, 
+ "active": true, 
+ "slug": "bite-me-original-mix", 
+ "preorder": false, 
+ "name": "Bite Me", 
+ "component_type": null, 
+ "bpm": 128, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "best-of-dynamic-musik-vol-2", 
+  "id": 175996, 
+  "name": "Best Of Dynamic Musik Vol. 2"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/dec8cac6-a88a-4e9f-8143-c4bc8f9d49e7.png", 
+   "width": 1500, 
+   "id": 10044693, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/dec8cac6-a88a-4e9f-8143-c4bc8f9d49e7.png", 
+   "id": 10044693
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

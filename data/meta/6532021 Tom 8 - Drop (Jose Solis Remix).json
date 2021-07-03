@@ -1,0 +1,133 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/73ac6749-7286-4817-a000-44f38fbe6a63.jpg", 
+   "width": 500, 
+   "id": 11353382, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/dc8379bd-afd0-4f15-876b-b97c8ed13cf0.jpg", 
+   "width": 30, 
+   "id": 3531, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/30eea504-f54e-4e41-8277-d5f270e1be8a.jpg", 
+   "width": 60, 
+   "id": 1315, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/73ac6749-7286-4817-a000-44f38fbe6a63.jpg", 
+   "id": 11353382
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "tom-8", 
+   "id": 453205, 
+   "name": "Tom 8"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:25", 
+  "milliseconds": 445000
+ }, 
+ "id": 6532021, 
+ "genres": [
+  {
+   "slug": "trance", 
+   "id": 7, 
+   "name": "Trance"
+  }
+ ], 
+ "title": "Drop (Jose Solis Remix)", 
+ "label": {
+  "slug": "flux-delux", 
+  "id": 1545, 
+  "name": "Flux Delux"
+ }, 
+ "mix": "Jose Solis Remix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/57da17f0-207d-4a01-b222-8706ee2cf4ba.LOFI.mp4", 
+   "offset": {
+    "start": 178000, 
+    "end": 298000
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/57da17f0-207d-4a01-b222-8706ee2cf4ba.LOFI.mp3", 
+   "offset": {
+    "start": 178000, 
+    "end": 298000
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "jose-solis", 
+   "id": 326111, 
+   "name": "Jose Solis"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "E maj", 
+ "date": {
+  "released": "2015-04-13", 
+  "published": "2015-04-13"
+ }, 
+ "active": true, 
+ "slug": "drop-jose-solis-remix", 
+ "preorder": false, 
+ "name": "Drop", 
+ "component_type": null, 
+ "bpm": 130, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "recoverworld-trance-sessions-15-03", 
+  "id": 1507058, 
+  "name": "Recoverworld Trance Sessions 15.03"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/e8bed099-9d5a-4f4a-aeec-ecc49c9306e7.png", 
+   "width": 1500, 
+   "id": 11353467, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/e8bed099-9d5a-4f4a-aeec-ecc49c9306e7.png", 
+   "id": 11353467
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

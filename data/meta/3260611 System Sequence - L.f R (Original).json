@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/c4666b92-bf3b-4d00-9500-039f3709ef9f.jpg", 
+   "width": 500, 
+   "id": 4944316, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/7789ae91-7afc-49cc-aaa2-939c55d19420.jpg", 
+   "width": 30, 
+   "id": 4944314, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/8890c70f-a70b-404a-a93b-2ad1d34297a3.jpg", 
+   "width": 60, 
+   "id": 4944315, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/c4666b92-bf3b-4d00-9500-039f3709ef9f.jpg", 
+   "id": 4944316
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "system-sequence", 
+   "id": 231415, 
+   "name": "System Sequence"
+  }
+ ], 
+ "duration": {
+  "minutes": "7:56", 
+  "milliseconds": 476765
+ }, 
+ "id": 3260611, 
+ "genres": [
+  {
+   "slug": "trance", 
+   "id": 7, 
+   "name": "Trance"
+  }
+ ], 
+ "title": "L.f R (Original)", 
+ "label": {
+  "slug": "woorpz-records", 
+  "id": 22652, 
+  "name": "Woorpz Records"
+ }, 
+ "mix": "Original", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/ba9925ca-d789-4229-a4a3-d0564c2a752e.LOFI.mp3", 
+   "offset": {
+    "start": 190706, 
+    "end": 310898
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D maj", 
+ "date": {
+  "released": "2012-02-08", 
+  "published": "2012-02-08"
+ }, 
+ "active": true, 
+ "slug": "l-f-r-original", 
+ "preorder": false, 
+ "name": "L.f R", 
+ "component_type": null, 
+ "bpm": 148, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "psychosomatic-disorders", 
+  "id": 864359, 
+  "name": "Psychosomatic Disorders"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/bdd1bca3-ae43-4a97-ba0e-ca55b21aa59b.png", 
+   "width": 1500, 
+   "id": 4946432, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/bdd1bca3-ae43-4a97-ba0e-ca55b21aa59b.png", 
+   "id": 4946432
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

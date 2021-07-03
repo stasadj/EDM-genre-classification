@@ -1,0 +1,124 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/7d320ad6-772a-477a-9ae9-662d9ca91de5.jpg", 
+   "width": 500, 
+   "id": 762639, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/95b20f43-6667-4e2f-a0b4-8c1bc372616a.jpg", 
+   "width": 30, 
+   "id": 762637, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/1bf6b529-92af-439e-b333-e98b1ea80021.jpg", 
+   "width": 60, 
+   "id": 762638, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/7d320ad6-772a-477a-9ae9-662d9ca91de5.jpg", 
+   "id": 762639
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "luvraw-and-btb", 
+   "id": 149296, 
+   "name": "Luvraw & BTB"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:08", 
+  "milliseconds": 308026
+ }, 
+ "id": 1350891, 
+ "genres": [
+  {
+   "slug": "hip-hop-r-and-b", 
+   "id": 38, 
+   "name": "Hip-Hop / R&B"
+  }
+ ], 
+ "title": "Nobody (Original Mix)", 
+ "label": {
+  "slug": "ultra-vybe", 
+  "id": 10845, 
+  "name": "Ultra-Vybe"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/28b641c4-0d3f-4e98-a132-ffbddb82f066.LOFI.mp3", 
+   "offset": {
+    "start": 123210, 
+    "end": 243220
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "C\u266f maj", 
+ "date": {
+  "released": "2010-08-04", 
+  "published": "2010-08-04"
+ }, 
+ "active": true, 
+ "slug": "nobody-original-mix", 
+ "preorder": false, 
+ "name": "Nobody", 
+ "component_type": null, 
+ "bpm": 134, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "yokohama-city-breeze", 
+  "id": 270520, 
+  "name": "Yokohama City Breeze"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/974b2d6b-aafd-4796-b0c9-2163498b3a6f.png", 
+   "width": 1500, 
+   "id": 1742518, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/974b2d6b-aafd-4796-b0c9-2163498b3a6f.png", 
+   "id": 1742518
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

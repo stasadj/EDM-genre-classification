@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/f8757578-eedf-4052-b907-42adc893a0b0.jpg", 
+   "width": 500, 
+   "id": 7310924, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/77062cd5-251b-4984-8a06-22dd086c2f72.jpg", 
+   "width": 30, 
+   "id": 7310922, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/d348fd64-1cf9-4da2-a775-368a61f08193.jpg", 
+   "width": 60, 
+   "id": 7310923, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/f8757578-eedf-4052-b907-42adc893a0b0.jpg", 
+   "id": 7310924
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "en2ak", 
+   "id": 303112, 
+   "name": "En2ak"
+  }
+ ], 
+ "duration": {
+  "minutes": "2:10", 
+  "milliseconds": 130106
+ }, 
+ "id": 4340615, 
+ "genres": [
+  {
+   "slug": "breaks", 
+   "id": 9, 
+   "name": "Breaks"
+  }
+ ], 
+ "title": "Gilgamesh And The Invention Of Frisbee (Original Mix)", 
+ "label": {
+  "slug": "u-know-me-records", 
+  "id": 29762, 
+  "name": "U Know Me Records"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/23fa6648-b5a5-41f5-8812-71ea1103c7a3.LOFI.mp4", 
+   "offset": {
+    "start": 10106, 
+    "end": 130106
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/23fa6648-b5a5-41f5-8812-71ea1103c7a3.LOFI.mp3", 
+   "offset": {
+    "start": 10106, 
+    "end": 130106
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D maj", 
+ "date": {
+  "released": "2013-04-29", 
+  "published": "2013-04-29"
+ }, 
+ "active": true, 
+ "slug": "gilgamesh-and-the-invention-of-frisbee-original-mix", 
+ "preorder": false, 
+ "name": "Gilgamesh And The Invention Of Frisbee", 
+ "component_type": null, 
+ "bpm": 144, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "3", 
+  "id": 1079998, 
+  "name": "3"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/e31100a8-9948-494d-bd62-06966b36065b.png", 
+   "width": 1500, 
+   "id": 7310936, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/e31100a8-9948-494d-bd62-06966b36065b.png", 
+   "id": 7310936
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/e571e65a-5a2e-4293-8c93-8cff50fc0114.jpg", 
+   "width": 500, 
+   "id": 9863302, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/c7b1b995-8e3d-49ce-aba6-f510193ea1c3.jpg", 
+   "width": 30, 
+   "id": 9073094, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/cfe3ff3d-b718-4482-8c57-2d5d6d7cce24.jpg", 
+   "width": 60, 
+   "id": 9073095, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/e571e65a-5a2e-4293-8c93-8cff50fc0114.jpg", 
+   "id": 9863302
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "wavolizer", 
+   "id": 111683, 
+   "name": "Wavolizer"
+  }
+ ], 
+ "duration": {
+  "minutes": "5:50", 
+  "milliseconds": 350000
+ }, 
+ "id": 5667823, 
+ "genres": [
+  {
+   "slug": "hard-dance", 
+   "id": 8, 
+   "name": "Hard Dance"
+  }
+ ], 
+ "title": "The Difference (Original Mix)", 
+ "label": {
+  "slug": "workout-music-service", 
+  "id": 39232, 
+  "name": "Workout Music Service"
+ }, 
+ "mix": "Original Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/61518094-4ded-4f47-b837-632358859873.LOFI.mp4", 
+   "offset": {
+    "start": 140000, 
+    "end": 260000
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/61518094-4ded-4f47-b837-632358859873.LOFI.mp3", 
+   "offset": {
+    "start": 140000, 
+    "end": 260000
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A maj", 
+ "date": {
+  "released": "2014-08-15", 
+  "published": "2014-08-15"
+ }, 
+ "active": true, 
+ "slug": "the-difference-original-mix", 
+ "preorder": false, 
+ "name": "The Difference", 
+ "component_type": null, 
+ "bpm": 150, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "100-hardstyle-workout-music", 
+  "id": 1351344, 
+  "name": "100 Hardstyle Workout Music"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/01522d89-e246-48e4-b3d9-6f2e3c7540c3.png", 
+   "width": 1500, 
+   "id": 9864184, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/01522d89-e246-48e4-b3d9-6f2e3c7540c3.png", 
+   "id": 9864184
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

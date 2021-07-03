@@ -1,0 +1,133 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/a87280b6-a4ac-4f43-8ff8-8f45ef6034e9.jpg", 
+   "width": 500, 
+   "id": 6593204, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/506a377a-e06a-493e-99ee-1247359f42a3.jpg", 
+   "width": 30, 
+   "id": 104478, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/b1b75011-d90a-41ac-9a5e-58fd2239e544.jpg", 
+   "width": 60, 
+   "id": 104479, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/a87280b6-a4ac-4f43-8ff8-8f45ef6034e9.jpg", 
+   "id": 6593204
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "porno", 
+   "id": 16005, 
+   "name": "Porno"
+  }
+ ], 
+ "duration": {
+  "minutes": "6:23", 
+  "milliseconds": 383825
+ }, 
+ "id": 299159, 
+ "genres": [
+  {
+   "slug": "progressive-house", 
+   "id": 15, 
+   "name": "Progressive House"
+  }
+ ], 
+ "title": "Gonna Shake It (Kortezman Club Mix)", 
+ "label": {
+  "slug": "deeperfect-records", 
+  "id": 2051, 
+  "name": "Deeperfect Records"
+ }, 
+ "mix": "Kortezman Club Mix", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/44be08f3-bcce-4374-b461-e2615db790ce.LOFI.mp4", 
+   "offset": {
+    "start": 153530, 
+    "end": 273530
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/44be08f3-bcce-4374-b461-e2615db790ce.LOFI.mp3", 
+   "offset": {
+    "start": 153530, 
+    "end": 273530
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "kortezman", 
+   "id": 15526, 
+   "name": "Kortezman"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "A maj", 
+ "date": {
+  "released": "2007-05-18", 
+  "published": "2007-05-18"
+ }, 
+ "active": true, 
+ "slug": "gonna-shake-it-kortezman-club-mix", 
+ "preorder": false, 
+ "name": "Gonna Shake It", 
+ "component_type": null, 
+ "bpm": 127, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "gonna-shake-it-part-1", 
+  "id": 57223, 
+  "name": "Gonna Shake It (Part 1)"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/c2dfcbbe-4b7c-48c7-87ee-671eccb6b037.png", 
+   "width": 1500, 
+   "id": 2235154, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/c2dfcbbe-4b7c-48c7-87ee-671eccb6b037.png", 
+   "id": 2235154
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

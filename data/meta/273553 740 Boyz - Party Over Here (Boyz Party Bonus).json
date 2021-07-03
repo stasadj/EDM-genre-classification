@@ -1,0 +1,127 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/dfaac220-4622-4a59-8e04-924d7df365b4.jpg", 
+   "width": 500, 
+   "id": 5588936, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/0771975b-ca3b-4022-a5b1-f6c8710a306a.jpg", 
+   "width": 30, 
+   "id": 5588934, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/4e5638a1-0392-4df0-997c-c75803139311.jpg", 
+   "width": 60, 
+   "id": 5588935, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/dfaac220-4622-4a59-8e04-924d7df365b4.jpg", 
+   "id": 5588936
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "740-boyz", 
+   "id": 25639, 
+   "name": "740 Boyz"
+  }
+ ], 
+ "duration": {
+  "minutes": "3:33", 
+  "milliseconds": 213880
+ }, 
+ "id": 273553, 
+ "genres": [
+  {
+   "slug": "house", 
+   "id": 5, 
+   "name": "House"
+  }
+ ], 
+ "title": "Party Over Here (Boyz Party Bonus)", 
+ "label": {
+  "slug": "cutting-records", 
+  "id": 3565, 
+  "name": "Cutting Records"
+ }, 
+ "mix": "Boyz Party Bonus", 
+ "preview": {
+  "mp4": {
+   "url": "https://geo-samples.beatport.com/track/d2afc50a-457f-47cf-80fa-dee0f62b7b57.LOFI.mp4", 
+   "offset": {
+    "start": 85552, 
+    "end": 205552
+   }
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/d2afc50a-457f-47cf-80fa-dee0f62b7b57.LOFI.mp3", 
+   "offset": {
+    "start": 85552, 
+    "end": 205552
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "G\u266f maj", 
+ "date": {
+  "released": "1996-07-17", 
+  "published": "1996-07-17"
+ }, 
+ "active": true, 
+ "slug": "party-over-here-boyz-party-bonus", 
+ "preorder": false, 
+ "name": "Party Over Here", 
+ "component_type": null, 
+ "bpm": 131, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "party-over-here", 
+  "id": 51704, 
+  "name": "Party Over Here"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/c9794309-9843-495d-a5f1-a9f886f42ae5.png", 
+   "width": 1500, 
+   "id": 2270279, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/c9794309-9843-495d-a5f1-a9f886f42ae5.png", 
+   "id": 2270279
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}

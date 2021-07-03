@@ -1,0 +1,135 @@
+{
+ "exclusive": false, 
+ "images": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/9181a83a-53d8-4c65-a731-f92308d66abb.jpg", 
+   "width": 500, 
+   "id": 659485, 
+   "height": 500
+  }, 
+  "small": {
+   "url": "https://geo-media.beatport.com/image/846a9a88-684d-48fa-bc08-61a0398cc2ea.jpg", 
+   "width": 30, 
+   "id": 659483, 
+   "height": 30
+  }, 
+  "medium": {
+   "url": "https://geo-media.beatport.com/image/fdaf6b3f-2020-4a72-a45f-e12b6aeddce5.jpg", 
+   "width": 60, 
+   "id": 659484, 
+   "height": 60
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/9181a83a-53d8-4c65-a731-f92308d66abb.jpg", 
+   "id": 659485
+  }
+ }, 
+ "artists": [
+  {
+   "slug": "jp-and-jukesy", 
+   "id": 43370, 
+   "name": "JP & Jukesy"
+  }
+ ], 
+ "duration": {
+  "minutes": "8:46", 
+  "milliseconds": 526711
+ }, 
+ "id": 1196189, 
+ "genres": [
+  {
+   "slug": "hard-dance", 
+   "id": 8, 
+   "name": "Hard Dance"
+  }
+ ], 
+ "title": "Nowhere To Hide (Ilogik & Paul Janes Remix)", 
+ "label": {
+  "slug": "deprivation", 
+  "id": 15273, 
+  "name": "Deprivation"
+ }, 
+ "mix": "Ilogik & Paul Janes Remix", 
+ "preview": {
+  "mp4": {
+   "url": null, 
+   "offset": null
+  }, 
+  "mp3": {
+   "url": "https://geo-samples.beatport.com/track/e540d457-0ec5-46cb-9c1a-c577134dc588.LOFI.mp3", 
+   "offset": {
+    "start": 210684, 
+    "end": 330846
+   }
+  }
+ }, 
+ "type": "track", 
+ "remixers": [
+  {
+   "slug": "ilogik", 
+   "id": 1165, 
+   "name": "Ilogik"
+  }, 
+  {
+   "slug": "paul-janes", 
+   "id": 10640, 
+   "name": "Paul Janes"
+  }
+ ], 
+ "purchase_type": null, 
+ "audio_format": "mp3", 
+ "sale_type": "purchase", 
+ "purchase": 1, 
+ "price": {
+  "symbol": "\u20ac", 
+  "code": "EUR", 
+  "display": "\u20ac1.30", 
+  "value": 1.3
+ }, 
+ "component": "Track Detail", 
+ "sponsored": false, 
+ "key": "D maj", 
+ "date": {
+  "released": "2005-01-01", 
+  "published": "2005-01-01"
+ }, 
+ "active": true, 
+ "slug": "nowhere-to-hide-ilogik-and-paul-janes-remix", 
+ "preorder": false, 
+ "name": "Nowhere To Hide", 
+ "component_type": null, 
+ "bpm": 149, 
+ "formats": {
+  "wav": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }, 
+  "aiff": {
+   "symbol": "\u20ac", 
+   "code": "EUR", 
+   "display": "\u20ac0.75", 
+   "value": 0.75
+  }
+ }, 
+ "release": {
+  "slug": "nowhere-to-hide", 
+  "id": 240792, 
+  "name": "Nowhere To Hide"
+ }, 
+ "waveform": {
+  "large": {
+   "url": "https://geo-media.beatport.com/image/c557f8f9-4d53-42c3-b59b-b78aace7d23c.png", 
+   "width": 1500, 
+   "id": 1920865, 
+   "height": 250
+  }, 
+  "dynamic": {
+   "url": "https://geo-media.beatport.com/image_size/{w}x{h}/c557f8f9-4d53-42c3-b59b-b78aace7d23c.png", 
+   "id": 1920865
+  }
+ }, 
+ "guest_pick": false, 
+ "sub_genres": []
+}
