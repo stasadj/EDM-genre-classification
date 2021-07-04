@@ -19,7 +19,7 @@ def load_data():
     for i in range(len(genres)):
         genre = genres[i]
         for file_name in glob('data\\spectrogram-mono\\{}\\*.png'.format(genre)):
-         
+
             image = np.array(Image.open(file_name))
             image = np.resize(image, (128, 128, 1))
 
@@ -58,7 +58,7 @@ def create_model(input_shape):
     model.add(keras.layers.Dropout(0.3))
 
     # output layer
-    model.add(keras.layers.Dense(5, activation='softmax'))
+    model.add(keras.layers.Dense(4, activation='softmax'))
 
     return model
 
