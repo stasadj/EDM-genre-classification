@@ -3,12 +3,13 @@ import tensorflow.keras as keras
 import matplotlib.pyplot as plt
 
 from glob import glob
+from keras.models import load_model
 from sklearn.model_selection import train_test_split
-from matplotlib.image import imread
-from skimage.transform import resize
+from sklearn.utils import shuffle
+from PIL import Image
 
 
-genres = ['drum-and-bass', 'electronica-downtempo', 'house', 'techno', 'trance']
+genres = ['bigroom', 'dnb', 'house', 'trance']
 
 
 def load_data():
@@ -17,10 +18,14 @@ def load_data():
 
     for i in range(len(genres)):
         genre = genres[i]
-        for file_name in glob('data\\spectrogram\\{}\\*.png'.format(genre)):
-            img = imread(file_name)
-            resized = resize(img, (128, 96))
-            X.append(resized)
+        for file_name in glob('data\\spectrogram-mono\\{}\\*.png'.format(genre)):
+         
+            image = np.array(Image.open(file_name))
+            image = np.resize(image, (128, 128, 1))
+
+            print(file_name)
+            print(image.shape)
+            X.append(image)
             y.append(i)
 
     X = np.array(X)
@@ -84,6 +89,7 @@ def prepare_datasets(test_size, validation_size):
 
     # load data
     X, y = load_data()
+    X, y = shuffle(X, y, random_state=42)
 
     # create train, validation and test split
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=test_size)
@@ -99,7 +105,7 @@ if __name__ == '__main__':
     X_train, X_validation, X_test, y_train, y_validation, y_test = prepare_datasets(0.1, 0.2)
 
     # create network
-    input_shape = (X_train.shape[1], X_train.shape[2], 4)
+    input_shape = (128, 128, 1)
     model = create_model(input_shape)
 
     # compile model
@@ -111,7 +117,7 @@ if __name__ == '__main__':
     model.summary()
 
     # train model
-    history = model.fit(X_train, y_train, validation_data=(X_validation, y_validation), batch_size=32, epochs=30)
+    history = model.fit(X_train, y_train, validation_data=(X_validation, y_validation), batch_size=32, epochs=10)
 
     # plot accuracy/error for training and validation
     plot_history(history)
@@ -119,6 +125,7 @@ if __name__ == '__main__':
     # evaluate model on test set
     test_loss, test_acc = model.evaluate(X_test, y_test, verbose=2)
     print('\nTest accuracy:', test_acc)
+    model.save('model_3.h5')
 
 
 
