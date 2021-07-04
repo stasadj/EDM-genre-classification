@@ -49,12 +49,15 @@ def num_of_songs_for_genre():
 def generate_spectrograms():
     data = pd.read_csv('data/Beatport-EDM-Key-Dataset.csv')
     data_frame = pd.DataFrame(data)
+    num = 0
 
     for index, row in data_frame.iterrows():
         genre = row['genres']
         id = row['id']
 
         audio_file_name = glob('data\\audio\\{}*.mp3'.format(id))
+        num += 1
+        print('{}. {}'.format(num, id))
 
         if genre == 'Electronica / Downtempo':
             save_png(audio_file_name[0], 'electronica-downtempo', id)
