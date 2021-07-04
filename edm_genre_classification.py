@@ -18,8 +18,12 @@ def load_data():
 
     for i in range(len(genres)):
         genre = genres[i]
+        j = 0
         for file_name in glob('data\\spectrogram-mono\\{}\\*.png'.format(genre)):
 
+            if j == 2000:
+                break
+            j += 1
             image = np.array(Image.open(file_name))
             image = np.resize(image, (128, 128, 1))
 
@@ -98,9 +102,7 @@ def prepare_datasets(test_size, validation_size):
     return X_train, X_validation, X_test, y_train, y_validation, y_test
 
 
-if __name__ == '__main__':
-    print('EDM Genre Classification')
-
+def training():
     # get train, validation, test splits
     X_train, X_validation, X_test, y_train, y_validation, y_test = prepare_datasets(0.1, 0.2)
 
@@ -109,7 +111,7 @@ if __name__ == '__main__':
     model = create_model(input_shape)
 
     # compile model
-    optimiser = keras.optimizers.Adam(learning_rate=0.0001)
+    optimiser = keras.optimizers.Adam(learning_rate=0.0005)
     model.compile(optimizer=optimiser,
                   loss='sparse_categorical_crossentropy',
                   metrics=['acc'])
@@ -117,7 +119,7 @@ if __name__ == '__main__':
     model.summary()
 
     # train model
-    history = model.fit(X_train, y_train, validation_data=(X_validation, y_validation), batch_size=32, epochs=10)
+    history = model.fit(X_train, y_train, validation_data=(X_validation, y_validation), batch_size=32, epochs=4)
 
     # plot accuracy/error for training and validation
     plot_history(history)
@@ -125,7 +127,13 @@ if __name__ == '__main__':
     # evaluate model on test set
     test_loss, test_acc = model.evaluate(X_test, y_test, verbose=2)
     print('\nTest accuracy:', test_acc)
-    model.save('model_3.h5')
+    model.save('model_5.h5')
+
+
+if __name__ == '__main__':
+    print('EDM Genre Classification')
+
+    training()
 
 
 
